@@ -1,0 +1,534 @@
+Brand,Model,Insurance Validity,Fuel Type,Seats,Kms Driven (in kms),RTO,Ownership,Engine Displacement (in cc),Transmission,Year of Manufacture,Mileage (in kmpl),Max Power (in bhp),Torque (in nm),Wheel Size,Registration Month,Registration Year,Depreciation Rate (in %),Price (in lacs),City
+Toyota,Fortuner 4x2 Manual,Third Party insurance,Diesel,7,"2,29,000",MH14,Second Owner,2982,Manual,2015,13,168.5,343,17,Jun,2015,75,14.25,Mumbai
+Maruti,Wagon R CNG LXI Opt,Third Party,CNG,5,"65,000",MH14,First Owner,998,Manual,2020,32.52,58.33,78,,Mar,2020,30,5.95,Mumbai
+Toyota,Urban cruiser Premium,Third Party,Petrol,5,"5,853",MH12,First Owner,1462,Manual,2022,17.03,103.26,138,16,Jun,2022,15,10.25,Mumbai
+Honda,Jazz 1.2 V AT i VTEC,Third Party,Petrol,5,"55,745",MH47,Second Owner,1199,Automatic,2016,19,88.7,110,15,Jun,2016,70,5.78,Mumbai
+Honda,Jazz 1.2 SV i VTEC,Comprehensive,Petrol,5,"56,929",MH12,First Owner,1199,Manual,2017,18.7,88.7,110,,Jun,2017,60,5.92,Mumbai
+Maruti,Swift Dzire VXI,Third Party,Petrol,5,"52,723",MH12,First Owner,1197,Manual,2014,19.1,85.8,114,14,Jun,2014,75,4.93,Mumbai
+Hyundai,Grand i10 1.2 Kappa Sportz Option AT,Third Party,Petrol,5,"60,998",MH14,Second Owner,1197,Automatic,2017,18.9,81.86,113.75,14,Jun,2017,60,5.66,Mumbai
+Maruti,Alto K10 LXI,Third Party,Petrol,5,"90,156",MH14,First Owner,998,Manual,2012,20.92,67.1,90,13,Jun,2012,75,2.01,Mumbai
+Hyundai,Santro Sportz BSIV,Comprehensive,Petrol,5,"30,180",MH12,First Owner,1086,Manual,2019,20.3,68,99,,Jun,2019,40,5.16,Mumbai
+Volkswagen,Polo 1.2 MPI Highline,Third Party,Petrol,5,"43,960",MH06,First Owner,1199,Manual,2017,16.2,74,110,15,Jun,2017,60,6.25,Mumbai
+Ford,Ecosport 1.5 Petrol Trend,Third Party,Petrol,5,"17,272",MH14,First Owner,1496,Manual,2021,15.9,120.69,149,,Jun,2021,20,8.38,Mumbai
+Renault,KWID 1.0 RXT Optional AT 2016-2019,Comprehensive,Petrol,5,"59,051",MH14,First Owner,999,Automatic,2017,23.01,67,91,,Jun,2017,60,3.96,Mumbai
+Maruti,Celerio VXI CNG,Third Party,CNG,5,"20,416",MH12,First Owner,998,Manual,2022,35.6 ,55.92,82.1,,Jun,2022,15,7.16,Mumbai
+Maruti,Swift VXI,Comprehensive,Petrol,5,"83,322",MH06,Second Owner,1197,Manual,2011,18.6,85.8,114,14,Jun,2011,75,3.14,Mumbai
+Maruti,Baleno 1.3 Sigma,Third Party,Diesel,5,"52,229",MH12,First Owner,1248,Manual,2018,27.39,74,190,,Jun,2018,50,6.81,Mumbai
+Maruti,Alto 800 LXI Opt S-CNG,Comprehensive,CNG,4,"36,818",MH12,First Owner,796,Manual,2021,31.59 ,40.36,60,,Jun,2021,20,4.6,Mumbai
+Maruti,Swift VXI,Third Party,Petrol,5,"12,697",MH12,First Owner,1197,Manual,2021,22.38,88.50,113,,Jun,2021,20,7.03,Mumbai
+Maruti,Celerio VXI CNG Optional BSIV,Third Party,CNG,5,"28,749",MH02,First Owner,998,Manual,2019,31.79,58.33,78,,Jun,2019,40,5.44,Mumbai
+Maruti,Alto 800 CNG LXI,Comprehensive,CNG,5,"64,935",MH02,First Owner,796,Manual,2014,30.46,47.3,69,,Jun,2014,75,3.21,Mumbai
+Maruti,Baleno Zeta CVT,Comprehensive,Petrol,5,"7,867",MH12,First Owner,1197,Automatic,2021,19.56,81.80,113,R16,Jun,2021,20,8.65,Mumbai
+Maruti,S-Presso VXI Plus 2019-2022,Comprehensive,Petrol,5,"7,621",MH12,First Owner,998,Manual,2020,21.7,65.71,89,,Jun,2020,30,4.63,Mumbai
+Maruti,Celerio VXI CNG,Third Party,CNG,5,"6,872",MH14,First Owner,998,Manual,2022,35.6 ,55.92,82.1,,Jun,2022,15,7.19,Mumbai
+Volkswagen,Polo 1.2 MPI Highline,Third Party,Petrol,5,"35,203",MH13,First Owner,1199,Manual,2017,16.2,74,110,15,Jun,2017,60,6.03,Mumbai
+Maruti,Wagon R CNG LXI,Comprehensive,CNG,5,"36,175",MH12,First Owner,998,Manual,2021,32.52,58.33,78,,Jun,2021,20,6.35,Mumbai
+Hyundai,Aura S CNG,Comprehensive,CNG,5,"42,624",MH14,First Owner,1197,Manual,2020,28 ,68.05,95.2,,Jun,2020,30,7.67,Mumbai
+Hyundai,i10 Sportz,Comprehensive,Petrol,5,"56,660",MH12,Second Owner,1197,Manual,2014,20.36,78.9,111.8,13,Jun,2014,75,3.16,Mumbai
+Tata,Harrier XM BSIV,Third Party,Diesel,5,"59,951",MH12,Second Owner,1956,Manual,2019,17,138.1,350,,Jun,2019,40,12.91,Mumbai
+Hyundai,Grand i10 Nios Asta,Third Party,Petrol,5,"8,404",MH12,First Owner,1197,Manual,2020,20.7,81.86,113.8,15,Jun,2020,30,7.85,Mumbai
+Maruti,Alto 800 LXI Opt S-CNG,Third Party,CNG,4,"21,556",MH14,First Owner,796,Manual,2021,31.59 ,40.36,60,,Jun,2021,20,4.8,Mumbai
+Maruti,Celerio VXI CNG Optional BSIV,Comprehensive,CNG,5,"49,629",MH14,First Owner,998,Manual,2018,31.79,58.33,78,,Jun,2018,50,5.13,Mumbai
+Hyundai,i20 Asta 1.2,Comprehensive,Petrol,5,"48,400",MH34,First Owner,1197,Manual,2015,18.6,81.83,114.7,16,Jun,2015,75,5.91,Mumbai
+Honda,Jazz ZX,Third Party,Petrol,5,"6,980",MH14,First Owner,1199,Manual,2021,17.1,88.50,110,15,Jun,2021,20,9.38,Mumbai
+Hyundai,Santro Sportz CNG,Comprehensive,CNG,5,"47,463",MH05,First Owner,1086,Manual,2020,30.48 ,59.17,85.3,,Jun,2020,30,5.9,Mumbai
+Hyundai,Grand i10 Nios Sportz CNG,Third Party,CNG,5,"12,166",MH43,First Owner,1197,Manual,2021,,68.05,95.2,13,Jun,2021,20,7.44,Mumbai
+Maruti,Baleno 1.2 Delta,Third Party,Petrol,5,"50,272",MH14,First Owner,1197,Manual,2017,21.4,83.1,115,,Jun,2017,60,5.9,Mumbai
+Maruti,Wagon R VXI Optional,Third Party,Petrol,5,"49,749",MH12,First Owner,998,Manual,2015,20.51,67.04,90,,Jun,2015,75,3.71,Mumbai
+Maruti,Alto 800 LXI Opt S-CNG,Comprehensive,CNG,4,"37,134",MH05,First Owner,796,Manual,2021,31.59 ,40.36,60,,Jun,2021,20,4.77,Mumbai
+Maruti,Wagon R LXI CNG,Comprehensive,CNG,5,"52,214",MH46,First Owner,998,Manual,2017,26.6,58.16,77,,Jun,2017,60,4.56,Mumbai
+Hyundai,Venue SX Turbo,Third Party,Petrol,5,"11,668",MH14,First Owner,998,Manual,2022,18.27,118.35,172,,Jun,2022,15,10.99,Mumbai
+Maruti,Swift VXI,Third Party insurance,Petrol,5,"30,000",,First Owner,1197,Manual,2021,22.38,88.50,113,,Mar,2021,20,6.9,Mumbai
+Ford,Figo Diesel ZXI,Third Party insurance,Diesel,5,"90,000",,Second Owner,1399,Manual,2013,20,68.05,160,,Mar,2013,75,1.75,Mumbai
+Hyundai,Venue S,Third Party,Petrol,5,"19,199",MH12,First Owner,1197,Manual,2021,17.52,81.86,113.76,,Jun,2021,20,8.24,Mumbai
+Mahindra,XUV300 W8 AMT Option Diesel Dual Tone,Comprehensive,Diesel,5,"24,064",MH12,First Owner,1497,Automatic,2021,19.7,115.05,300,16,Jun,2021,20,13.84,Mumbai
+Tata,Zest Revotron 1.2T XM,Comprehensive,Petrol,5,"47,587",MH12,Second Owner,1193,Manual,2014,17.57,88.7,140,,Jun,2014,75,4.17,Mumbai
+Maruti,Alto 800 LXI,Third Party,Petrol,5,"8,271",MH12,Second Owner,796,Manual,2018,24.7,47.3,69,,Jun,2018,50,3.21,Mumbai
+Maruti,Alto 800 LXI,Third Party,Petrol,5,"59,972",MH14,First Owner,796,Manual,2016,22.74,47.3,69,,Jun,2016,70,2.84,Mumbai
+Hyundai,EON Magna Plus,Third Party,Petrol,5,"25,428",MH46,First Owner,814,Manual,2017,21.1,55.2,74.5,,Jun,2017,60,3.41,Mumbai
+Hyundai,Venue SX Plus Turbo DCT BSIV,Comprehensive,Petrol,5,"16,240",MH12,Second Owner,998,Automatic,2019,18.15,118.35,171.6,16,Jun,2019,40,10.18,Mumbai
+Hyundai,i20 Sportz 1.2,Comprehensive,Petrol,5,"48,860",MH14,First Owner,1197,Manual,2016,18.6,81.83,114.7,,Jun,2016,70,5.8,Mumbai
+Ford,Ecosport 1.5 Diesel Titanium,Comprehensive,Diesel,5,"13,730",MH14,First Owner,1498,Manual,2020,21.7,98.96,215,R16,Jun,2020,30,10.56,Mumbai
+Maruti,Swift VXI,Third Party,Petrol,5,"29,971",MH12,First Owner,1197,Manual,2018,21.21,81.80,113,,Jun,2018,50,6.53,Mumbai
+Maruti,Wagon R CNG LXI Opt,Comprehensive,CNG,5,"31,699",MH20,First Owner,998,Manual,2021,32.52,58.33,78,,Jun,2021,20,6.12,Mumbai
+Maruti,Wagon R VXI BS IV,Third Party,Petrol,5,"27,479",MH12,First Owner,998,Manual,2018,20.51,67.04,90,,Jun,2018,50,4.61,Mumbai
+Hyundai,Grand i10 Asta,Comprehensive,Petrol,5,"45,710",MH12,First Owner,1197,Manual,2015,18.9,82,114,14,Jun,2015,75,4.85,Mumbai
+Maruti,Wagon R LXI CNG,Third Party,CNG,5,"39,492",MH14,First Owner,998,Manual,2018,26.6,58.16,77,,Jun,2018,50,4.33,Mumbai
+Maruti,Celerio ZXI Plus AMT,Zero Dep,Petrol,5,"8,183",MH31,First Owner,998,Automatic,2021,26,65.71,89,15,Jun,2021,20,7.02,Mumbai
+Toyota,Glanza G,Comprehensive,Petrol,5,"11,683",MH14,First Owner,1197,Manual,2019,21.01,81.80,113,R16,Jun,2019,40,7.18,Mumbai
+Volkswagen,Vento 1.5 TDI Highline AT,Third Party,Diesel,5,"73,360",MH14,First Owner,1498,Automatic,2016,22.15,108.6,250,15,Jun,2016,70,7.54,Mumbai
+Maruti,Alto 800 CNG LXI,Third Party,CNG,5,"42,809",MH14,First Owner,796,Manual,2014,30.46,47.3,69,,Jun,2014,75,3.33,Mumbai
+Honda,Jazz 1.5 V i DTEC,Third Party,Diesel,5,"97,959",MH47,First Owner,1498,Manual,2015,27.3,98.6,200,15,Jun,2015,75,4.98,Mumbai
+Maruti,Wagon R LXI CNG,Comprehensive,CNG,5,"62,263",MH14,First Owner,998,Manual,2018,26.6,58.16,77,,Jun,2018,50,4.5,Mumbai
+Maruti,Celerio VXI CNG Optional BSIV,Third Party,CNG,5,"50,796",MH05,First Owner,998,Manual,2018,31.79,58.33,78,,Jun,2018,50,5.01,Mumbai
+Volkswagen,Vento 1.0 TSI Highline Plus AT,Third Party,Petrol,5,"14,081",MH14,First Owner,999,Automatic,2021,16.35,108.62,175,16,Jun,2021,20,14.37,Mumbai
+Honda,City i-VTEC SV,Third Party,Petrol,5,"35,121",MH16,Second Owner,1497,Manual,2018,17.4,117.6,145,15,Jun,2018,50,8.42,Mumbai
+Maruti,Wagon R LXI CNG,Comprehensive,CNG,5,"36,160",MH04,First Owner,998,Manual,2014,26.6,58.16,77,,Jun,2014,75,3.67,Mumbai
+Maruti,Baleno Delta,Third Party,Petrol,5,"34,403",MH01,Second Owner,1197,Manual,2019,21.01,81.80,113,,Jun,2019,40,6.22,Mumbai
+Kia,Seltos HTK Plus D,Comprehensive,Diesel,5,"40,330",MH14,First Owner,1493,Manual,2019,20.8,113.43,250,16,Jun,2019,40,12.56,Mumbai
+Tata,Nexon 1.5 Revotorq XZA Plus,Third Party,Diesel,5,"24,916",MH50,First Owner,1497,Automatic,2020,21.5,108.5,260,16,Jun,2020,30,12.82,Mumbai
+Volkswagen,Polo 1.0 TSI Highline Plus AT,Third Party,Petrol,5,"37,306",MH11,First Owner,999,Automatic,2020,16.47,108.62,175,R16,Jun,2020,30,9.32,Mumbai
+Maruti,Alto 800 LXI,Third Party,Petrol,5,"21,796",MH14,Second Owner,796,Manual,2018,24.7,47.3,69,,Jun,2018,50,3.17,Mumbai
+Maruti,Ignis 1.2 AMT Alpha BSIV,Comprehensive,Petrol,5,"51,292",MH12,First Owner,1197,Automatic,2017,20.89,81.80,113,15,Jun,2017,60,6.52,Mumbai
+Honda,Amaze S i-Vtech,Third Party,Petrol,5,"49,433",MH12,First Owner,1198,Manual,2015,18,86.7,109,,Jun,2015,75,4.85,Mumbai
+Maruti,Baleno 1.2 CVT Alpha,Third Party,Petrol,5,"41,083",MH14,First Owner,1197,Automatic,2018,21.4,83.1,115,16,Jun,2018,50,7.44,Mumbai
+Maruti,Alto K10 VXI,Third Party,Petrol,5,"45,638",MH12,First Owner,998,Manual,2015,23.95,67.05,90,,Jun,2015,75,3.08,Mumbai
+Maruti,Celerio VXI,Comprehensive,Petrol,5,"72,035",MH14,First Owner,998,Manual,2014,23.1,67.04,90,,Jun,2014,75,4.21,Mumbai
+Hyundai,i20 Sportz 1.2,Third Party,Petrol,5,"9,765",MH12,Second Owner,1197,Manual,2016,18.6,81.83,114.7,,Jun,2016,70,6.96,Mumbai
+Maruti,Baleno 1.3 Delta,Comprehensive,Diesel,5,"68,987",MH12,First Owner,1248,Manual,2016,27.39,74,190,,Jun,2016,70,6.23,Mumbai
+Maruti,Celerio ZXI AMT BSIV,Third Party,Petrol,5,"54,387",MH12,First Owner,998,Automatic,2019,23.1,67.04,90,,Jun,2019,40,5.24,Mumbai
+Maruti,Swift VXI,Third Party,Petrol,5,"36,458",MH12,Second Owner,1197,Manual,2018,21.21,81.80,113,,Jun,2018,50,5.93,Mumbai
+Hyundai,i20 Magna 1.2,Third Party,Petrol,5,"55,820",MH02,Second Owner,1197,Manual,2014,18.6,81.83,114.7,,Jun,2014,75,4.21,Mumbai
+Hyundai,i10 Magna 1.2 iTech SE,Third Party,Petrol,5,"58,643",MH14,First Owner,1197,Manual,2011,20.36,78.9,111.7,13,Jun,2011,75,2.83,Mumbai
+Maruti,Ignis 1.2 AMT Zeta BSIV,Third Party,Petrol,5,"28,176",MH14,First Owner,1197,Automatic,2018,20.89,81.80,113,15,Jun,2018,50,6.15,Mumbai
+Hyundai,Grand i10 Asta Option,Third Party,Petrol,5,"38,863",MH14,First Owner,1197,Manual,2014,18.9,82,114,14,Jun,2014,75,4.55,Mumbai
+Maruti,Alto 800 LXI,Third Party,Petrol,5,"35,182",MH12,First Owner,796,Manual,2018,24.7,47.3,69,,Jun,2018,50,3.32,Mumbai
+Maruti,Celerio ZXI AT,Third Party,Petrol,5,"51,652",MH12,First Owner,998,Automatic,2016,23.1,67.04,90,,Jun,2016,70,4.45,Mumbai
+Maruti,Swift Dzire AMT ZXI Plus,Third Party,Petrol,5,"17,601",MH12,First Owner,1197,Automatic,2020,21.21,81.80,113,15,Jun,2020,30,8.97,Mumbai
+Maruti,Swift Dzire ZXI,Third Party,Petrol,5,"37,108",MH01,First Owner,1197,Manual,2015,20.85,83.14,115,15,Jun,2015,75,5.23,Mumbai
+Maruti,Swift VXI,Third Party,Petrol,5,"20,494",MH08,First Owner,1197,Manual,2018,21.21,81.80,113,,Jun,2018,50,6.6,Mumbai
+Volkswagen,Polo Petrol Highline 1.2L,Third Party,Petrol,5,"46,779",MH01,Second Owner,1198,Manual,2010,16.47,73.9,110,15,Jun,2010,75,3.24,Mumbai
+Jeep,Compass 1.4 Limited,Third Party,Petrol,5,"46,379",MH02,First Owner,1368,Automatic,2018,16,160,250,17,Jun,2018,50,13.08,Mumbai
+Hyundai,i10 Sportz,Third Party,Petrol,5,"57,670",MH08,Second Owner,1197,Manual,2013,20.36,78.9,111.8,13,Jun,2013,75,3.13,Mumbai
+Honda,Jazz 1.2 V AT i VTEC,Third Party,Petrol,5,"97,248",MH46,Second Owner,1199,Automatic,2017,19,88.7,110,15,Jun,2017,60,6.54,Mumbai
+Hyundai,Grand i10 Nios Sportz Dual Tone,Comprehensive,Petrol,5,"10,732",MH12,First Owner,1197,Manual,2020,20.7,81.86,113.8,15,Jun,2020,30,7.98,Mumbai
+Maruti,Celerio VXI,Comprehensive,Petrol,5,"57,874",MH14,First Owner,998,Manual,2015,23.1,67.04,90,,May,2015,75,3.8,Mumbai
+Hyundai,Grand i10 1.2 Kappa Magna AT,Comprehensive,Petrol,5,"77,609",MH12,Second Owner,1197,Automatic,2019,18.9,81.86,113.75,,Jun,2019,40,4.8,Mumbai
+Hyundai,Santro Sportz,Comprehensive,Petrol,5,"25,774",MH12,First Owner,1086,Manual,2020,20.3,68.05,99,,Jun,2020,30,5.5,Mumbai
+Honda,Amaze VX Petrol,Comprehensive,Petrol,5,"20,214",MH12,First Owner,1199,Manual,2021,18.6,88.76,110,R15,Sept,2021,20,8.0,Mumbai
+Maruti,Alto K10 VXI,Third Party,Petrol,5,"26,879",MH12,First Owner,998,Manual,2019,23.95,67.05,90,,Jun,2019,40,4.08,Mumbai
+Maruti,Celerio VXI,Comprehensive,Petrol,5,"25,417",MH02,First Owner,998,Manual,2014,23.1,67.04,90,,Jun,2014,75,3.83,Mumbai
+Maruti,Ciaz 1.4 Sigma,Third Party,Petrol,5,"70,128",MH12,First Owner,1373,Manual,2018,20.73,91.1,130,,Jun,2018,50,6.84,Mumbai
+Toyota,Glanza V CVT,Comprehensive,Petrol,5,"30,671",MH12,First Owner,1197,Automatic,2019,19.56,81.80,113,R16,Jun,2019,40,7.94,Mumbai
+Maruti,Baleno 1.2 Zeta,Comprehensive,Petrol,5,"37,445",MH01,First Owner,1197,Manual,2016,21.4,83.1,115,16,Jun,2016,70,5.75,Mumbai
+Hyundai,i20 Sportz 1.2,Comprehensive,Petrol,5,"41,595",MH12,Second Owner,1197,Manual,2013,18.5,82.85,113.7,14,Jun,2013,75,4.2,Mumbai
+Renault,KWID 1.0 RXT AMT Opt BSIV,Third Party,Petrol,5,"27,509",MH43,First Owner,999,Automatic,2019,24.04,67,91,,Jun,2019,40,4.72,Mumbai
+Tata,Harrier XZA Plus AT,Comprehensive,Diesel,5,"43,827",MH04,First Owner,1956,Automatic,2020,14.6,167.67,350,17,Jun,2020,30,20.08,Mumbai
+Jeep,Compass 1.4 Limited,Third Party,Petrol,5,"23,302",MH14,Second Owner,1368,Automatic,2019,16,160,250,17,Jun,2019,40,16.09,Mumbai
+Maruti,Ignis 1.2 AMT Zeta BSIV,Third Party,Petrol,5,"52,100",MH14,First Owner,1197,Automatic,2018,20.89,81.80,113,15,Jun,2018,50,5.77,Mumbai
+Maruti,Wagon R CNG LXI,Third Party,CNG,5,"31,044",MH12,First Owner,998,Manual,2021,32.52,58.33,78,,Jun,2021,20,5.92,Mumbai
+Maruti,Wagon R VXI BS IV,Third Party,Petrol,5,"35,780",MH46,First Owner,998,Manual,2017,20.51,67.04,90,,Jun,2017,60,4.28,Mumbai
+Hyundai,Grand i10 1.2 Kappa Magna BSIV,Third Party,Petrol,5,"16,594",MH12,Second Owner,1197,Manual,2018,18.9,81.86,113.75,,Jun,2018,50,5.26,Mumbai
+Maruti,Wagon R VXI BS IV,Third Party,Petrol,5,"36,593",MH31,First Owner,998,Manual,2012,18.9,67.1,90,14,Jun,2012,75,3.05,Mumbai
+Hyundai,i20 Asta 1.2,Comprehensive,Petrol,5,"90,830",MH14,First Owner,1197,Manual,2014,18.6,81.83,114.7,16,Jun,2014,75,5.33,Mumbai
+Hyundai,Grand i10 Asta,Comprehensive,Petrol,5,"16,459",MH14,First Owner,1197,Manual,2014,18.9,82,114,14,Jun,2014,75,4.64,Mumbai
+Maruti,Alto K10 VXI,Third Party,Petrol,5,"47,859",MH10,Second Owner,998,Manual,2016,23.95,67.05,90,,Jun,2016,70,3.2,Mumbai
+Hyundai,i10 Sportz 1.1L,Third Party,Petrol,5,"24,787",MH12,First Owner,1086,Manual,2014,19.81,68.05,99.04,,Jun,2014,75,3.62,Mumbai
+Maruti,Wagon R VXI BS IV,Comprehensive,Petrol,5,"68,436",MH46,First Owner,998,Manual,2013,18.9,67.1,90,14,Jun,2013,75,3.02,Mumbai
+Hyundai,Grand i10 Sportz,Third Party,Petrol,5,"26,200",MH14,First Owner,1197,Manual,2015,18.9,82,114,,Jun,2015,75,4.13,Mumbai
+Maruti,Celerio VXI CNG BSIV,Third Party,CNG,5,"50,811",MH46,First Owner,998,Manual,2018,31.79,58.33,78,,Jun,2018,50,5.34,Mumbai
+Hyundai,i20 Sportz 1.2,Third Party,Petrol,5,"42,933",MH01,Second Owner,1197,Manual,2016,18.6,81.83,114.7,,Jun,2016,70,5.78,Mumbai
+Maruti,Baleno 1.2 Alpha,Comprehensive,Petrol,5,"32,065",MH14,First Owner,1197,Manual,2019,21.4,83.1,115,16,Jun,2019,40,7.49,Mumbai
+Renault,Triber RXT BSIV,Third Party,Petrol,7,"31,815",MH14,First Owner,999,Manual,2019,20,72,96,,Jun,2019,40,6.64,Mumbai
+Maruti,Baleno 1.2 CVT Zeta,Comprehensive,Petrol,5,"50,389",MH12,Second Owner,1197,Automatic,2017,21.4,83.1,115,16,Jun,2017,60,6.93,Mumbai
+Maruti,Wagon R LXI CNG,Comprehensive,CNG,5,"86,542",MH14,First Owner,998,Manual,2013,26.2,58.2,77,13,Jun,2013,75,3.35,Mumbai
+Hyundai,Grand i10 Nios Sportz CNG,Third Party,CNG,5,"44,237",MH14,First Owner,1197,Manual,2020,,68.05,95.2,13,Jun,2020,30,7.31,Mumbai
+Maruti,Swift VVT VXI,Comprehensive,Petrol,5,"79,856",MH14,First Owner,1197,Manual,2014,22,81.80,113,,Jun,2014,75,4.53,Mumbai
+Tata,Tiago 1.2 Revotron XT,Comprehensive,Petrol,5,"64,512",MH12,First Owner,1199,Manual,2018,23.84,84,114,,Jun,2018,50,4.91,Mumbai
+Maruti,Swift Dzire AMT ZXI Plus BS IV,Third Party,Petrol,5,"25,287",MH12,First Owner,1197,Automatic,2018,22,81.80,113,15,Jun,2018,50,8.19,Mumbai
+Volkswagen,Polo 1.2 MPI Comfortline,Third Party,Petrol,5,"29,706",MH09,Second Owner,1198,Manual,2015,16.47,74,110,,Jun,2015,75,4.85,Mumbai
+Tata,Tigor XZA Plus AMT,Third Party,Petrol,5,"31,183",MH12,First Owner,1199,Automatic,2021,19.6,84.82,113,15,Jun,2021,20,7.88,Mumbai
+Maruti,Swift Dzire ZXI,Comprehensive,Petrol,5,"24,567",MH12,Second Owner,1197,Manual,2014,19.1,85.8,114,15,Jun,2014,75,5.21,Mumbai
+Hyundai,Xcent 1.2 Kappa S,Third Party,Petrol,5,"37,733",MH03,First Owner,1197,Manual,2015,19.1,82,114,,Jun,2015,75,4.91,Mumbai
+Hyundai,Grand i10 Sportz,Third Party,Petrol,5,"47,259",MH12,First Owner,1197,Manual,2014,18.9,82,114,,Jun,2014,75,4.63,Mumbai
+Volkswagen,Vento 1.2 TSI Comfortline AT,Comprehensive,Petrol,5,"27,823",MH12,First Owner,1197,Automatic,2018,18.19,103.5,175,,Jun,2018,50,9.07,Mumbai
+Maruti,Swift Dzire ZXI,Third Party,Petrol,5,"43,549",MH12,First Owner,1197,Manual,2015,20.85,83.14,115,15,Jun,2015,75,5.11,Mumbai
+Maruti,Celerio VXI CNG BSIV,Third Party,CNG,5,"44,001",MH12,Second Owner,998,Manual,2018,31.79,58.33,78,,Jun,2018,50,5.32,Mumbai
+Maruti,Wagon R LXI CNG,Comprehensive,CNG,5,"31,711",MH12,First Owner,998,Manual,2017,26.6,58.16,77,,Jun,2017,60,4.63,Mumbai
+Maruti,Alto K10 VXI,Third Party,Petrol,5,"38,272",MH14,Second Owner,998,Manual,2015,23.95,67.05,90,,Jun,2015,75,2.5,Mumbai
+Hyundai,Grand i10 Sportz,Comprehensive,Petrol,5,"50,532",MH12,First Owner,1197,Manual,2016,18.9,82,114,,Jun,2016,70,4.39,Mumbai
+Renault,KWID Climber 1.0 AMT,Third Party,Petrol,5,"60,004",MH14,Second Owner,999,Automatic,2017,24.04,67,91,,Jun,2017,60,4.04,Mumbai
+Hyundai,Grand i10 Sportz,Third Party,Petrol,5,"69,198",MH14,First Owner,1197,Manual,2014,18.9,82,114,,Jun,2014,75,4.06,Mumbai
+Ford,Ecosport 1.5 Petrol Titanium Plus AT BSIV,Third Party,Petrol,5,"13,703",MH12,First Owner,1497,Automatic,2019,14.8,121.36,150,16,Jun,2019,40,10.1,Mumbai
+Hyundai,i10 Magna 1.1L,Third Party,Petrol,5,"57,328",MH02,First Owner,1086,Manual,2012,19.81,68.05,99.04,,Jun,2012,75,2.97,Mumbai
+Toyota,Yaris VX CVT BSIV,Third Party,Petrol,5,"52,880",MH12,First Owner,1496,Automatic,2018,17.8,105.5,140,15,Jun,2018,50,8.75,Mumbai
+Hyundai,Creta 1.6 VTVT AT SX Plus,Comprehensive,Petrol,5,"40,285",MH02,First Owner,1591,Automatic,2016,13,121.3,151,17,Jun,2016,70,9.92,Mumbai
+Maruti,Wagon R VXI BS IV,Third Party,Petrol,5,"52,608",MH20,First Owner,998,Manual,2015,20.51,67.04,90,,Jun,2015,75,3.8,Mumbai
+Maruti,Celerio ZXI AMT,Third Party insurance,Petrol,5,"10,000",,First Owner,998,Automatic,2021,26,65.71,89,,,,20,5.4,Mumbai
+Maruti,Wagon R CNG LXI Opt,Third Party insurance,CNG,5,"47,000",MH12,First Owner,998,Manual,2019,32.52,58.33,78,,Nov,2019,40,5.72,Mumbai
+Hyundai,Grand i10 Sportz,Third Party,Petrol,5,"67,048",MH10,First Owner,1197,Manual,2014,18.9,82,114,,Jun,2014,75,4.16,Mumbai
+Renault,KWID 1.0 RXT Opt,Third Party,Petrol,5,"5,419",MH14,Second Owner,999,Manual,2021,21.74,67,91,,Jun,2021,20,4.84,Mumbai
+Hyundai,EON Magna Plus,Third Party,Petrol,5,"57,019",MH12,First Owner,814,Manual,2017,21.1,55.2,74.5,,Jun,2017,60,3.59,Mumbai
+Maruti,Wagon R VXI BS IV,Third Party,Petrol,5,"57,350",MH46,First Owner,998,Manual,2016,20.51,67.04,90,,Jun,2016,70,3.56,Mumbai
+Volkswagen,Vento 1.0 TSI Highline,Comprehensive,Petrol,5,"14,780",MH12,Second Owner,999,Manual,2020,17.69,108.62,175,15,Jun,2020,30,9.61,Mumbai
+Toyota,Glanza V CVT,Third Party,Petrol,5,"40,276",MH14,First Owner,1197,Automatic,2021,19.56,81.80,113,R16,Jun,2021,20,8.88,Mumbai
+Maruti,Wagon R LXI CNG,Comprehensive,CNG,5,"32,914",MH12,First Owner,998,Manual,2017,26.6,58.16,77,,Jun,2017,60,4.72,Mumbai
+Maruti,Ignis Zeta,Third Party,Petrol,5,"1,227",MH14,First Owner,1197,Manual,2022,20.89,81.80,113,15,Jun,2022,15,7.17,Mumbai
+Maruti,Wagon R LXI CNG,Third Party,CNG,5,"71,274",MH43,First Owner,998,Manual,2013,26.2,58.2,77,13,Jun,2013,75,3.21,Mumbai
+Hyundai,i20 Magna 1.2,Third Party,Petrol,5,"46,682",MH12,First Owner,1197,Manual,2015,18.6,81.83,114.7,,Jun,2015,75,5.09,Mumbai
+Maruti,Swift VXI 2018,Comprehensive,Petrol,5,"58,580",MH14,First Owner,1197,Manual,2018,22,81.80,113,,Jun,2018,50,6.05,Mumbai
+Honda,Brio V AT,Third Party,Petrol,5,"63,972",MH03,First Owner,1198,Automatic,2012,18.4,86.8,109,14,Jun,2012,75,3.34,Mumbai
+Hyundai,Venue SX Opt Turbo BSIV,Comprehensive,Petrol,5,"34,065",MH43,First Owner,998,Manual,2019,18.27,118.35,171.6,16,Jun,2019,40,10.98,Mumbai
+Maruti,Wagon R LXI CNG,Third Party,CNG,5,"67,477",MH12,Second Owner,998,Manual,2014,26.6,58.16,77,,Jun,2014,75,3.73,Mumbai
+Maruti,Vitara Brezza ZXI,Comprehensive,Petrol,5,"31,921",MH10,First Owner,1462,Manual,2020,17.03,103.26,138,R16,Jun,2020,30,9.05,Mumbai
+Maruti,Ciaz ZXi,Comprehensive,Petrol,5,"37,712",MH14,First Owner,1373,Manual,2016,20.73,91.1,130,15,Jun,2016,70,6.67,Mumbai
+Hyundai,Verna SX Opt Turbo,Third Party,Petrol,5,"36,585",MH03,First Owner,998,Automatic,2021,19.2,118.41,172,16,Jun,2021,20,15.71,Mumbai
+Honda,WR-V i-DTEC VX,Comprehensive,Diesel,5,"49,647",MH12,First Owner,1498,Manual,2018,25.5,98.6,200,16,Jun,2018,50,9.31,Mumbai
+Hyundai,Grand i10 1.2 Kappa Magna BSIV,Third Party,Petrol,5,"15,504",MH12,First Owner,1197,Manual,2018,18.9,81.86,113.75,,Jun,2018,50,4.97,Mumbai
+Honda,City i VTEC V,Third Party,Petrol,5,"56,461",MH12,First Owner,1497,Manual,2014,17.4,117.3,145,15,Jun,2014,75,5.96,Mumbai
+Maruti,Alto 800 VXI,Comprehensive,Petrol,5,"95,812",MH12,First Owner,796,Manual,2016,22.74,47.3,69,,Jun,2016,70,2.71,Mumbai
+Maruti,Alto 800 VXI,Third Party,Petrol,5,"41,362",MH16,First Owner,796,Manual,2019,22.05,47.33,69,,Jun,2019,40,3.63,Mumbai
+Hyundai,Verna VTVT 1.6 AT EX,Third Party,Petrol,5,"40,478",MH12,First Owner,1591,Automatic,2018,17,121.3,151,15,Jun,2018,50,9.05,Mumbai
+Maruti,Baleno 1.2 Delta,Third Party,Petrol,5,"39,951",MH12,Second Owner,1197,Manual,2016,21.4,83.1,115,,Jun,2016,70,5.76,Mumbai
+Hyundai,Verna 1.6 CRDI SX Option,Third Party,Diesel,5,"33,952",MH14,Second Owner,1582,Manual,2017,23.9,126.2,259.9,16,Jun,2017,60,10.18,Mumbai
+Maruti,Swift VXI,Third Party,Petrol,5,"53,172",MH14,First Owner,1197,Manual,2015,21.21,81.80,113,,Jun,2015,75,5.03,Mumbai
+Maruti,Wagon R VXI Optional,Comprehensive,Petrol,5,"80,867",MH16,First Owner,998,Manual,2018,20.51,67.04,90,,Jun,2018,50,5.0,Mumbai
+Toyota,Etios G,Third Party,Petrol,5,"39,310",MH02,First Owner,1496,Manual,2011,17.6,88.73,132,15,Jun,2011,75,3.1,Mumbai
+Maruti,Wagon R LXI CNG Optional,Comprehensive,CNG,5,"71,530",MH12,First Owner,998,Manual,2018,26.6,58.16,77,,Jun,2018,50,4.64,Mumbai
+Hyundai,Grand i10 1.2 Kappa Magna AT,Third Party,Petrol,5,"42,961",MH03,First Owner,1197,Automatic,2017,18.9,81.86,113.75,,Jun,2017,60,5.35,Mumbai
+Maruti,Celerio VXI CNG BSIV,Third Party,CNG,5,"93,229",MH12,First Owner,998,Manual,2019,31.79,58.33,78,,Jun,2019,40,5.31,Mumbai
+Maruti,Swift Dzire VXI,Comprehensive,Petrol,5,"57,410",MH02,First Owner,1197,Manual,2013,19.1,85.8,114,14,Jun,2013,75,4.61,Mumbai
+Hyundai,Venue SX Opt Turbo BSIV,Third Party,Petrol,5,"39,323",MH14,First Owner,998,Manual,2019,18.27,118.35,171.6,16,Jun,2019,40,10.29,Mumbai
+Maruti,Alto 800 VXI,Third Party,Petrol,5,"65,642",MH14,First Owner,796,Manual,2014,22.74,47.3,69,,Jun,2014,75,2.78,Mumbai
+Nissan,Micra XE,Third Party,Petrol,5,"56,431",MH12,Second Owner,1198,Manual,2013,23.08,63.1,160,,Jun,2013,75,2.76,Mumbai
+Maruti,Wagon R VXI Optional,Third Party,Petrol,5,"83,954",MH12,First Owner,998,Manual,2018,20.51,67.04,90,,Jun,2018,50,4.29,Mumbai
+Hyundai,i20 Petrol Asta Option,Third Party,Petrol,5,"9,833",MH03,Second Owner,1197,Manual,2019,18.6,81.86,114.73,16,Jun,2019,40,8.24,Mumbai
+Toyota,Etios Liva V Limited Edition,Third Party,Petrol,5,"36,327",MH43,First Owner,1197,Manual,2016,17.71,78.9,104,15,Jun,2016,70,4.8,Mumbai
+Maruti,Wagon R VXI BS IV,Third Party,Petrol,5,"73,059",MH05,Second Owner,998,Manual,2012,18.9,67.1,90,14,Jun,2012,75,2.99,Mumbai
+Toyota,Glanza G CVT,Third Party,Petrol,5,"26,347",MH12,First Owner,1197,Automatic,2019,19.56,81.80,113,R16,Jun,2019,40,7.92,Mumbai
+Honda,Brio EX MT,Third Party,Petrol,5,"30,076",MH12,Second Owner,1198,Manual,2014,19.4,86.8,109,,Jun,2014,75,3.5,Mumbai
+Maruti,Baleno Zeta,Third Party,Petrol,5,"23,467",MH12,First Owner,1197,Manual,2019,21.01,81.80,113,R16,Jun,2019,40,6.82,Mumbai
+Maruti,Wagon R LXI BS IV,Third Party,Petrol,5,"40,187",MH14,Second Owner,998,Manual,2014,20.51,67.04,90,,Jun,2014,75,3.39,Mumbai
+Mahindra,XUV300 W8 AMT Optional Diesel BSIV,Third Party,Diesel,5,"53,626",MH14,First Owner,1497,Automatic,2019,20,115,300,17,Jun,2019,40,12.07,Mumbai
+Tata,Altroz XZ,Third Party,Petrol,5,"33,332",MH17,First Owner,1199,Manual,2020,19.33,86.83,113,16,Jun,2020,30,7.76,Mumbai
+Maruti,Ciaz Alpha AT,Third Party,Petrol,5,"39,869",MH12,First Owner,1462,Automatic,2020,20.04,103.25,138,16,Jun,2020,30,9.82,Mumbai
+Honda,City Anniversary i-VTEC CVT ZX,Third Party,Petrol,5,"35,862",MH03,First Owner,1497,Automatic,2018,18,117.3,145,15,Jun,2018,50,10.78,Mumbai
+Maruti,Baleno Delta,Zero Dep,Petrol,5,"67,944",MH16,First Owner,1197,Manual,2019,21.01,81.80,113,,Jun,2019,40,6.34,Mumbai
+Maruti,Swift ZXI,Third Party,Petrol,5,"76,327",MH12,First Owner,1197,Manual,2012,18.6,85.8,114,15,Jun,2012,75,4.34,Mumbai
+Maruti,Celerio ZXI Optional,Third Party,Petrol,5,"52,203",MH14,First Owner,998,Manual,2017,23.1,67.04,90,14,Jun,2017,60,4.66,Mumbai
+Maruti,Wagon R LXI CNG,Third Party,CNG,5,"77,819",MH04,First Owner,998,Manual,2014,26.6,58.16,77,,Jun,2014,75,3.34,Mumbai
+Honda,City i VTEC S,Third Party,Petrol,5,"73,751",MH12,Second Owner,1497,Manual,2014,17.4,117.3,145,,Jun,2014,75,4.97,Mumbai
+Maruti,Wagon R LXI CNG,Comprehensive,CNG,5,"74,040",MH12,First Owner,998,Manual,2017,26.6,58.16,77,,Jun,2017,60,4.31,Mumbai
+Maruti,Wagon R LXI CNG,Third Party,CNG,5,"84,287",MH12,Second Owner,998,Manual,2017,26.6,58.16,77,,Jun,2017,60,4.37,Mumbai
+Hyundai,i20 Active 1.2 S,Third Party,Petrol,5,"45,184",MH14,Second Owner,1197,Manual,2015,17.19,81.86,114.73,16,Jun,2015,75,5.57,Mumbai
+Maruti,Wagon R AMT VXI,Third Party,Petrol,5,"53,993",MH12,First Owner,998,Automatic,2016,20.51,67,90,,Jun,2016,70,4.21,Mumbai
+Maruti,Wagon R LXI CNG,Comprehensive,CNG,5,"87,683",MH14,First Owner,998,Manual,2016,26.6,58.16,77,,Jun,2016,70,3.98,Mumbai
+Honda,WR-V i-VTEC VX,Third Party,Petrol,5,"55,606",MH03,First Owner,1199,Manual,2017,17.5,88.7,110,16,Jun,2017,60,6.95,Mumbai
+Maruti,Alto 800 LXI CNG,Third Party,CNG,5,"79,246",MH14,First Owner,796,Manual,2020,33,47.3,69,,Jun,2020,30,4.32,Mumbai
+Maruti,Ignis Alpha,Comprehensive,Petrol,5,"42,751",MH14,First Owner,1197,Manual,2021,20.89,81.80,113,15,Jun,2021,20,7.55,Mumbai
+Hyundai,EON Era Plus,Third Party,Petrol,5,"19,545",MH01,Second Owner,814,Manual,2013,21.1,55.2,74.5,,Jun,2013,75,2.62,Mumbai
+Honda,WR-V i-VTEC VX,Comprehensive,Petrol,5,"28,569",MH12,Second Owner,1199,Manual,2019,17.5,88.7,110,16,Jun,2019,40,8.43,Mumbai
+Mitsubishi,Pajero Sport 4X4 Dual Tone,Third Party insurance,Diesel,7,"40,000",N/A,Second Owner,2477,Manual,2018,13.5,175.56,400,17,,,50,14.5,Mumbai
+Hyundai,Creta 1.6 VTVT SX Plus Dual Tone,Comprehensive,Petrol,5,"25,000",MH02,First Owner,1591,Manual,2015,15.29,121.3,151,17,Sept,2015,75,8.2,Mumbai
+Jaguar,XF 2.2 Litre Luxury,Zero Dep,Diesel,5,"50,000",MH07,First Owner,2179,Automatic,2015,16.36,187.7,450,20,Mar,2015,75,23.75,Mumbai
+Mercedes-Benz,S-Class S 500,Comprehensive,Petrol,5,"72,000",DD03,First Owner,5461,Automatic,2011,7.81,362.9,505,17,May,2011,75,17.5,Mumbai
+Hyundai,Grand i10 1.2 CRDi Sportz,Third Party insurance,Diesel,5,"77,000",,First Owner,1186,Manual,2017,24,73.97,190.24,,,,60,5.0,Mumbai
+Toyota,Glanza G,Third Party,Petrol,5,"42,897",MH14,First Owner,1197,Manual,2021,21.01,81.80,113,R16,Jun,2021,20,7.38,Mumbai
+Maruti,Wagon R LXI BS IV,Third Party,Petrol,5,"80,326",MH12,Second Owner,998,Manual,2011,18.9,67.1,90,13,Jun,2011,75,2.45,Mumbai
+Hyundai,Grand i10 Asta,Comprehensive,Petrol,5,"71,829",MH12,First Owner,1197,Manual,2015,18.9,82,114,14,Jun,2015,75,4.49,Mumbai
+Toyota,Etios Liva 1.2 VX Dual Tone,Third Party,Petrol,5,"22,279",MH01,Second Owner,1197,Manual,2017,18.16,78.9,104,15,Jun,2017,60,4.84,Mumbai
+Maruti,Baleno Zeta,Third Party,Petrol,5,"33,038",MH12,Second Owner,1197,Manual,2019,21.01,81.80,113,R16,Jun,2019,40,6.4,Mumbai
+Honda,Brio S MT,Third Party,Petrol,5,"56,917",MH12,Third Owner,1198,Manual,2014,19.4,86.8,109,,Jun,2014,75,3.17,Mumbai
+Tata,New Safari XZA Plus AT,Third Party,Diesel,7,"50,219",MH12,First Owner,1956,Automatic,2021,14.08,167.67,350,18,Jun,2021,20,19.74,Mumbai
+Datsun,RediGO T Option,Third Party,Petrol,5,539,MH12,First Owner,799,Manual,2021,20.71,53.64,72,,Jun,2021,20,4.42,Mumbai
+Maruti,Wagon R LXI CNG,Third Party,CNG,5,"71,072",MH12,First Owner,998,Manual,2014,26.6,58.16,77,,Jun,2014,75,3.79,Mumbai
+Renault,KWID RXT Optional,Third Party,Petrol,5,"51,104",MH12,First Owner,799,Manual,2018,25.17,53.3,72,,Jun,2018,50,3.6,Mumbai
+Volkswagen,Polo 1.2 MPI Highline,Comprehensive,Petrol,5,"41,475",MH20,First Owner,1198,Manual,2015,16.47,74,110,15,Jun,2015,75,5.53,Mumbai
+Ford,Ecosport 1.5 Diesel Ambiente BSIV,Comprehensive,Diesel,5,"78,817",MH14,First Owner,1498,Manual,2019,23,98.96,205,,Jul,2019,40,8.18,Mumbai
+Maruti,Ciaz 1.4 AT Zeta,Third Party,Petrol,5,"64,675",MH12,First Owner,1373,Automatic,2017,19.12,91.1,130,15,Jun,2017,60,8.31,Mumbai
+Ford,Ecosport 1.5 Petrol Titanium Plus AT BSIV,Comprehensive,Petrol,5,"74,126",MH12,First Owner,1497,Automatic,2018,14.8,121.36,150,16,Jun,2018,50,8.23,Mumbai
+Toyota,Yaris V CVT,Third Party,Petrol,5,"34,788",MH12,First Owner,1496,Automatic,2019,17.8,105.5,140,15,Jun,2019,40,10.4,Mumbai
+Mahindra,XUV300 W8 Option Diesel,Comprehensive,Diesel,5,"39,364",MH04,First Owner,1497,Manual,2021,20.1,115.05,300,16,Jun,2021,20,14.76,Mumbai
+Volkswagen,Polo 1.0 MPI Highline Plus,Third Party,Petrol,5,"58,027",MH12,First Owner,999,Manual,2019,18.78,75,95,16,Jun,2019,40,7.3,Mumbai
+Maruti,Swift ZDi,Third Party,Diesel,5,"82,279",MH43,Second Owner,1248,Manual,2014,22.9,74,190,15,Jun,2014,75,5.16,Mumbai
+Maruti,Ignis 1.2 Alpha BSIV,Comprehensive,Petrol,5,"10,556",MH12,First Owner,1197,Manual,2020,20.89,81.80,113,15,Jun,2020,30,6.91,Mumbai
+Renault,Duster Petrol RxL,Third Party,Petrol,5,"96,341",MH01,First Owner,1598,Manual,2014,13.24,102.57,145,16,Jun,2014,75,5.08,Mumbai
+Hyundai,Verna CRDi 1.6 SX,Third Party,Diesel,5,"57,313",MH09,First Owner,1582,Manual,2019,22,126.2,259.87,16,Jun,2019,40,10.16,Mumbai
+Hyundai,Grand i10 Asta Option,Third Party,Petrol,5,"63,367",MH01,Second Owner,1197,Manual,2014,18.9,82,114,14,Jun,2014,75,4.49,Mumbai
+Maruti,Baleno RS,Comprehensive,Petrol,5,"51,493",MH12,First Owner,998,Manual,2017,21.1,100,150,,Jun,2017,60,6.38,Mumbai
+Ford,Ecosport 1.5 Petrol Titanium Plus AT BSIV,Zero Dep,Petrol,5,"8,452",MH14,First Owner,1497,Automatic,2019,14.8,121.36,150,16,Jun,2019,40,11.11,Mumbai
+Maruti,Ritz VXi,Third Party,Petrol,5,"40,823",MH02,First Owner,1197,Manual,2013,18.5,85.80,114,,Jun,2013,75,3.49,Mumbai
+Honda,Amaze S i-Dtech,Third Party insurance,Diesel,5,"60,000",MH12,First Owner,1498,Manual,2013,25.8,98.6,200,,Feb,2013,75,4.15,Mumbai
+Maruti,Omni MPI CARGO BSIV,Third Party,Petrol,5,"34,000",MH12,First Owner,796,Manual,2015,16.8,34.2,59,12,Jun,2015,75,2.65,Mumbai
+Volkswagen,Polo GT TSI,Third Party,Petrol,5,"51,733",MH43,Second Owner,1197,Automatic,2014,17.2,103.6,175,15,Jun,2014,75,5.46,Mumbai
+Renault,Duster 110PS Diesel RxL,Third Party,Diesel,5,"80,690",MH02,First Owner,1461,Manual,2015,19.01,108.45,248,16,Jun,2015,75,5.61,Mumbai
+Maruti,Baleno RS,Third Party,Petrol,5,"35,858",MH12,First Owner,998,Manual,2017,21.1,100,150,,Jun,2017,60,6.18,Mumbai
+Maruti,Ritz VXi,Third Party,Petrol,5,"58,935",MH02,First Owner,1197,Manual,2014,18.5,85.80,114,,Jun,2014,75,3.36,Mumbai
+Audi,Q3 35 TDI Quattro Premium,Comprehensive,Diesel,5,"68,601",MH02,First Owner,1968,Automatic,2016,15.73,174.33,380,17,Apr,2017,70,19.9,Mumbai
+Mercedes-Benz,C-Class C 220 CDI Avantgarde,Comprehensive,Diesel,5,"38,099",MH43,Second Owner,2143,Automatic,2017,19.27,170,400,17,Jan,2018,60,28.85,Mumbai
+Mercedes-Benz,E-Class Expression E 220 d BSIV,Comprehensive,Diesel,5,"41,078",MH01,First Owner,1950,Automatic,2017,16.1,191.7,400,17,Sept,2017,60,42.0,Mumbai
+Kia,Sonet HTX Turbo iMT,Third Party,Petrol,5,"18,539",MH12,First Owner,998,Manual,2021,18.2,118.36,172,16,Jun,2021,20,10.84,Mumbai
+Nissan,Magnite XE,Comprehensive,Petrol,5,"4,576",MH12,First Owner,999,Manual,2021,18.75,71.02,96,,Jun,2021,20,6.75,Mumbai
+Maruti,Swift VXI,Third Party,Petrol,5,"16,408",MH14,First Owner,1197,Manual,2018,21.21,81.80,113,,Jun,2018,50,6.46,Mumbai
+Maruti,Celerio ZXI Plus AMT,Third Party,Petrol,5,"1,777",MH14,First Owner,998,Automatic,2021,26,65.71,89,15,Jun,2021,20,6.84,Mumbai
+Renault,Triber RXZ BSIV,Comprehensive,Petrol,7,"4,553",MH12,First Owner,999,Manual,2019,20,72,96,,Jun,2019,40,6.94,Mumbai
+Maruti,Swift VXI,Comprehensive,Petrol,5,"49,882",MH12,First Owner,1197,Manual,2011,18.6,85.8,114,14,Jun,2011,75,3.49,Mumbai
+Hyundai,EON Magna Plus,Comprehensive,Petrol,5,"32,956",MH12,First Owner,814,Manual,2018,21.1,55.2,74.5,,Jun,2018,50,3.41,Mumbai
+Hyundai,i10 Sportz,Third Party,Petrol,5,"19,051",MH12,First Owner,1197,Manual,2013,20.36,78.9,111.8,13,Jun,2013,75,3.45,Mumbai
+Maruti,S-Presso VXI Plus 2019-2022,Comprehensive,Petrol,5,"23,453",MH12,First Owner,998,Manual,2019,21.7,65.71,89,,Jun,2019,40,4.17,Mumbai
+Hyundai,i20 Sportz Plus BSIV,Third Party,Petrol,5,"26,007",MH12,First Owner,1197,Manual,2019,18.6,81.86,117,15,Jun,2019,40,6.96,Mumbai
+Hyundai,EON D Lite Plus,Third Party,Petrol,5,"24,056",MH12,Third Owner,814,Manual,2014,21.1,55.2,74.5,,Jun,2014,75,2.71,Mumbai
+Hyundai,Grand i10 Nios AMT Sportz,Comprehensive,Petrol,5,"10,846",MH12,Second Owner,1197,Automatic,2021,20.7,81.86,113.8,14,Jun,2021,20,7.79,Mumbai
+Tata,Tiago 1.2 Revotron XE,Comprehensive,Petrol,5,"29,050",MH04,First Owner,1199,Manual,2018,23.84,84,114,,Jun,2018,50,4.54,Mumbai
+Hyundai,Grand i10 Nios AMT Sportz,Third Party,Petrol,5,"8,055",MH14,First Owner,1197,Automatic,2020,20.7,81.86,113.8,14,Jun,2020,30,7.88,Mumbai
+Mahindra,XUV500 W8 FWD,Third Party,Diesel,7,"67,598",MH46,First Owner,2179,Manual,2012,15.1,140,330,17,Jun,2012,75,5.71,Mumbai
+Honda,Jazz VX CVT,Comprehensive,Petrol,5,"7,609",MH12,First Owner,1199,Automatic,2019,18.2,88.7,110,15,Jun,2019,40,8.36,Mumbai
+Maruti,Celerio VXI CNG,Third Party,CNG,5,832,MH14,First Owner,998,Manual,2022,35.6 ,55.92,82.1,,Jun,2022,15,6.59,Mumbai
+Hyundai,i20 Asta 1.2,Comprehensive,Petrol,5,"44,830",MH12,First Owner,1197,Manual,2012,18.5,82.85,113.7,14,Jun,2012,75,4.26,Mumbai
+Honda,City i VTEC V,Third Party,Petrol,5,"59,717",MH01,Second Owner,1497,Manual,2015,17.4,117.3,145,15,Jun,2015,75,5.09,Mumbai
+Maruti,Baleno Delta CVT,Comprehensive,Petrol,5,"9,691",MH12,First Owner,1197,Automatic,2020,19.56,81.80,113,,Jun,2020,30,8.07,Mumbai
+Hyundai,i10 Magna 1.2,Third Party,Petrol,5,"32,483",MH12,First Owner,1197,Manual,2010,20.36,78.9,111.7,13,Jun,2010,75,2.41,Mumbai
+Ford,Ecosport 1.5 Diesel Titanium,Third Party,Diesel,5,"22,326",MH06,First Owner,1498,Manual,2020,21.7,98.96,215,R16,Jun,2020,30,9.11,Mumbai
+Hyundai,Santro Sportz CNG BSIV,Comprehensive,CNG,5,"50,887",MH14,First Owner,1086,Manual,2019,30.48 ,58,84.33,,Jun,2019,40,4.86,Mumbai
+Maruti,Wagon R LXI Opt,Third Party,Petrol,5,"9,083",MH05,Second Owner,998,Manual,2020,21.79,67.05,90,,Jun,2020,30,5.0,Mumbai
+Hyundai,Aura SX Option,Comprehensive,Petrol,5,"4,066",MH12,First Owner,1197,Manual,2021,20.5,81.86,113.8,15,Jun,2021,20,8.47,Mumbai
+Renault,Triber RXT,Third Party,Petrol,7,"17,053",MH12,First Owner,999,Manual,2020,20,71.01,96,,Jun,2020,30,7.06,Mumbai
+Maruti,Baleno Alpha,Third Party,Petrol,5,"18,654",MH14,First Owner,1197,Manual,2020,21.01,81.80,113,R16,Jun,2020,30,7.78,Mumbai
+Toyota,Etios 2014-2016 GD,Third Party insurance,Diesel,5,"1,15,000",,Second Owner,1364,Manual,2016,23.59,67.05,170,,,,70,5.3,Mumbai
+Honda,Brio S MT,Third Party,Petrol,5,"62,528",MH02,First Owner,1198,Manual,2013,19.4,86.8,109,,Jun,2013,75,3.19,Mumbai
+Hyundai,Grand i10 Asta,Comprehensive,Petrol,5,"52,308",MH12,First Owner,1197,Manual,2014,18.9,82,114,14,Jun,2014,75,4.34,Mumbai
+Maruti,Alto 800 CNG LXI,Comprehensive,CNG,5,"38,704",MH12,First Owner,796,Manual,2017,33.44,40.3,60,,Jun,2017,60,3.43,Mumbai
+Hyundai,i10 Sportz,Third Party,Petrol,5,"74,834",MH12,Second Owner,1197,Manual,2011,20.36,78.9,111.8,13,Jun,2011,75,2.69,Mumbai
+Maruti,Wagon R LXI CNG,Third Party,CNG,5,"87,336",MH12,First Owner,998,Manual,2015,26.6,58.16,77,,Jun,2015,75,3.56,Mumbai
+Maruti,Wagon R LXI CNG,Third Party,CNG,5,"44,992",MH12,First Owner,998,Manual,2017,26.6,58.16,77,,Jun,2017,60,4.37,Mumbai
+Hyundai,Verna CRDi 1.6 SX,Third Party,Diesel,5,"47,683",MH03,First Owner,1582,Manual,2017,22,126.2,259.87,16,Jun,2017,60,8.5,Mumbai
+Maruti,Wagon R VXI CNG,Third Party,CNG,5,"21,478",MH16,First Owner,998,Manual,2022,34.05,55.92,82.1,,Jun,2022,15,6.95,Mumbai
+Renault,KWID Climber 1.0 AMT,Comprehensive,Petrol,5,"21,003",MH14,First Owner,999,Automatic,2020,24.04,67,91,,Jun,2020,30,5.19,Mumbai
+Tata,Indica Aqua 1.3 Quadrajet,Third Party insurance,Diesel,5,"1,20,000",,Second Owner,1248,Manual,2009,18,75 PS at 4000 ,190 Nm at 1750 r,14,,,75,1.1,Mumbai
+Maruti,Swift Dzire AMT ZXI,Third Party,Petrol,5,"51,801",GJ03,First Owner,1197,Automatic,2018,21.21,81.80,113,15,Jun,2018,50,6.87,Mumbai
+Renault,KWID Climber 1.0 MT,Comprehensive,Petrol,5,"29,609",MH12,First Owner,999,Manual,2019,23.01,67,91,,Jun,2019,40,4.05,Mumbai
+Volkswagen,Polo 1.2 MPI Highline,Third Party,Petrol,5,"49,370",MH12,Second Owner,1198,Manual,2014,16.47,74,110,15,Jun,2014,75,4.59,Mumbai
+Honda,City 1.5 V AT,Comprehensive,Petrol,5,"80,000",,Second Owner,1497,Automatic,2010,16.8,"118PS at 6,600 ",146Nm at 4800 r,15,,,75,2.6,Mumbai
+Honda,City ZX CVT,Third Party,Petrol,5,"32,249",MH10,First Owner,1498,Automatic,2021,18.3,119.35,145,16,Jun,2021,20,13.95,Mumbai
+Maruti,Alto 800 LXI,Third Party,Petrol,5,"47,128",MH12,First Owner,796,Manual,2012,22.74,47.3,69,,Jun,2012,75,2.35,Mumbai
+Maruti,Celerio VXI CNG Optional BSIV,Third Party,CNG,5,"29,571",MH12,First Owner,998,Manual,2018,31.79,58.33,78,,Jun,2018,50,5.41,Mumbai
+Maruti,Ciaz 1.4 AT Alpha,Comprehensive,Petrol,5,"60,883",MH12,First Owner,1373,Automatic,2017,19.12,91.1,130,16,Jun,2017,60,7.55,Mumbai
+Maruti,Wagon R LXI CNG,Comprehensive,CNG,5,"79,458",MH02,Second Owner,998,Manual,2013,26.2,58.2,77,13,Jun,2013,75,2.88,Mumbai
+Maruti,Vitara Brezza VDi,Third Party,Diesel,5,"65,465",MH12,First Owner,1248,Manual,2019,24.3,88.5,200,,Jun,2019,40,8.43,Mumbai
+Tata,Nexon XZ Plus DualTone Roof,Comprehensive,Petrol,5,"30,731",MH14,First Owner,1199,Manual,2020,17.57,118.36,170,16,Jun,2020,30,10.24,Mumbai
+Hyundai,Creta 1.6 VTVT SX Plus,Comprehensive,Petrol,5,"48,839",MH12,First Owner,1591,Manual,2016,13,121.3,151,17,Jun,2016,70,8.81,Mumbai
+Renault,KWID Climber 1.0 MT,Third Party,Petrol,5,"26,122",MH14,First Owner,999,Manual,2017,23.01,67,91,,Jun,2017,60,3.51,Mumbai
+Datsun,RediGO T Option,Comprehensive,Petrol,5,"65,084",MH12,Second Owner,799,Manual,2017,22.7,53.64,72,,Jun,2017,60,2.55,Mumbai
+Maruti,Ignis 1.2 AMT Alpha BSIV,Third Party,Petrol,5,"29,862",MH12,First Owner,1197,Automatic,2018,20.89,81.80,113,15,Jun,2018,50,6.02,Mumbai
+Renault,KWID 1.0 RXT Optional AT 2016-2019,Third Party,Petrol,5,"45,165",MH12,First Owner,999,Automatic,2018,23.01,67,91,,Jun,2018,50,4.17,Mumbai
+Maruti,Wagon R LXI CNG,Comprehensive,CNG,5,"63,152",MH14,First Owner,998,Manual,2014,26.6,58.16,77,,Jun,2014,75,3.76,Mumbai
+Honda,WR-V i-VTEC VX,Third Party,Petrol,5,"34,016",MH04,First Owner,1199,Manual,2018,17.5,88.7,110,16,Jun,2018,50,7.86,Mumbai
+Renault,KWID RXT,Third Party,Petrol,5,"72,851",MH12,First Owner,799,Manual,2016,25.17,53.3,72,,Jun,2016,70,3.23,Mumbai
+Maruti,Wagon R VXI BS IV,Comprehensive,Petrol,5,"39,909",MH12,First Owner,998,Manual,2016,20.51,67.04,90,,Jun,2016,70,3.85,Mumbai
+Toyota,Camry 2.5 G,Comprehensive,Petrol,5,"66,402",MH02,First Owner,2494,Automatic,2015,12.98,178.4,233,16,Jun,2015,75,12.81,Mumbai
+Maruti,Wagon R VXI BS IV,Comprehensive,Petrol,5,"75,087",MH14,First Owner,998,Manual,2011,18.9,67.1,90,14,Jun,2011,75,2.72,Mumbai
+Honda,BR-V i-VTEC V CVT,Comprehensive,Petrol,7,"69,282",MH01,First Owner,1497,Automatic,2016,15.4,117.3,145,16,Jun,2016,70,7.73,Mumbai
+Honda,CR-V 2.0L 2WD AT,Third Party,Petrol,5,"69,098",MH02,First Owner,1997,Automatic,2015,13.7,153.86,190,17,Jun,2015,75,10.35,Mumbai
+Honda,Amaze S i-Vtech,Comprehensive,Petrol,5,"58,242",MH12,Second Owner,1198,Manual,2014,18,86.7,109,,Jun,2014,75,4.04,Mumbai
+Maruti,Swift Dzire ZXI,Third Party,Petrol,5,"10,144",MH04,First Owner,1197,Manual,2020,22.41,88.50,113,15,Jun,2020,30,7.56,Mumbai
+Jeep,Compass 2.0 Longitude Option BSIV,Third Party,Diesel,5,"53,813",MH12,First Owner,1956,Manual,2017,17.1,170,350,17,Jun,2017,60,12.01,Mumbai
+Toyota,Yaris G CVT BSIV,Third Party,Petrol,5,"56,491",MH14,First Owner,1496,Automatic,2018,17.8,105.5,140,,Jun,2018,50,8.17,Mumbai
+Tata,New Safari XZA Plus AT,Comprehensive,Diesel,7,"6,625",MH12,First Owner,1956,Automatic,2022,14.08,167.67,350,18,Jun,2022,15,23.84,Mumbai
+Toyota,Yaris VX CVT BSIV,Comprehensive,Petrol,5,"39,200",MH12,First Owner,1496,Automatic,2018,17.8,105.5,140,15,Jun,2018,50,10.01,Mumbai
+Maruti,Vitara Brezza ZXI Plus AT,Third Party,Petrol,5,"20,990",MH05,Second Owner,1462,Automatic,2020,18.76,103.26,138,R16,Jun,2020,30,10.38,Mumbai
+Ford,Ecosport 1.0 Ecoboost Titanium,Third Party,Petrol,5,"56,602",MH12,Second Owner,999,Manual,2015,18.88,123.37,170,16,Jun,2015,75,5.84,Mumbai
+Hyundai,Verna VTVT 1.6 AT SX Option,Third Party,Petrol,5,"31,577",MH12,Second Owner,1591,Automatic,2018,17,121.3,151,16,Jun,2018,50,9.74,Mumbai
+Maruti,Vitara Brezza ZDi,Third Party,Diesel,5,"45,301",MH14,First Owner,1248,Manual,2018,24.3,88.5,200,16,Jun,2018,50,8.55,Mumbai
+Skoda,Rapid 1.0 TSI Ambition AT,Third Party,Petrol,5,"20,659",MH14,First Owner,999,Automatic,2020,16.24,108.62,175,R15,Jun,2020,30,8.83,Mumbai
+Honda,City i VTEC VX Option,Third Party,Petrol,5,"95,274",MH12,First Owner,1497,Manual,2016,17.8,117.3,145,15,Jun,2016,70,6.61,Mumbai
+Mahindra,XUV300 W8 Option Diesel BSIV,Comprehensive,Diesel,5,"85,134",MH14,First Owner,1497,Manual,2019,20,115,300,17,Jun,2019,40,10.87,Mumbai
+Hyundai,Creta 1.6 CRDi SX Plus Dual Tone,Comprehensive,Diesel,5,"67,737",MH14,First Owner,1582,Manual,2015,19.67,126.2,259.9,17,Jun,2015,75,8.83,Mumbai
+Hyundai,Verna VTVT 1.6 AT SX Option,Third Party,Petrol,5,"49,364",MH04,First Owner,1591,Automatic,2017,17,121.3,151,16,Jun,2017,60,9.12,Mumbai
+Maruti,Celerio ZXI,Third Party,Petrol,5,"33,904",MH43,First Owner,998,Manual,2017,23.1,67.04,90,,Jun,2017,60,4.23,Mumbai
+Hyundai,i20 1.2 Asta Option,Third Party,Petrol,5,"71,882",MH14,First Owner,1197,Manual,2018,18.6,81.83,114.7,16,Jun,2018,50,6.9,Mumbai
+Hyundai,i10 Asta AT,Comprehensive,Petrol,5,"55,937",MH20,Second Owner,1197,Automatic,2012,16.95,78.9,111.8,13,Jun,2012,75,3.77,Mumbai
+Skoda,Rapid 1.5 TDI AT Style Plus,Third Party,Diesel,5,"58,056",MH02,First Owner,1498,Automatic,2015,21.66,103.52,250,15,Jun,2015,75,6.34,Mumbai
+Hyundai,Creta 1.6 SX Automatic,Third Party,Petrol,5,"67,826",MH47,Second Owner,1591,Automatic,2016,14.8,121.3,151,17,Jun,2016,70,9.27,Mumbai
+Volkswagen,Polo 1.2 MPI Highline,Third Party,Petrol,5,"58,933",MH15,First Owner,1198,Manual,2014,16.47,74,110,15,Jun,2014,75,4.96,Mumbai
+Honda,City E,Comprehensive,Petrol,5,"81,829",MH12,First Owner,1497,Manual,2012,16.8,116.3,146,15,Jun,2012,75,4.23,Mumbai
+Hyundai,Elite i20 2018 Diesel Asta Option,Third Party,Diesel,5,"50,717",MH05,First Owner,1396,Manual,2018,22.54,88.73,219.7,16,Jun,2018,50,6.26,Mumbai
+Maruti,Ciaz Alpha 1.5,Comprehensive,Diesel,5,"57,556",MH03,First Owner,1498,Manual,2019,26.82,93.87,225,16,Jun,2019,40,9.34,Mumbai
+Renault,Duster 85PS Diesel RxL,Third Party,Diesel,5,"46,744",MH12,First Owner,1461,Manual,2015,20.45,83.8,200,16,Jun,2015,75,6.07,Mumbai
+Maruti,Ciaz 1.3 Zeta,Third Party,Diesel,5,"93,337",MH48,Second Owner,1248,Manual,2017,28.09,88.5,200,15,Jun,2017,60,6.9,Mumbai
+Maruti,Celerio VXI,Third Party,Petrol,5,"84,927",MH14,First Owner,998,Manual,2014,23.1,67.04,90,,Jun,2014,75,3.77,Mumbai
+Volkswagen,Vento 1.5 TDI Highline AT,Comprehensive,Diesel,5,"68,890",MH14,Second Owner,1498,Automatic,2016,22.15,108.6,250,15,Jun,2016,70,7.24,Mumbai
+Volkswagen,Polo GT TSI,Third Party,Petrol,5,"42,653",MH12,Second Owner,1197,Automatic,2015,17.21,103.6,175,15,Jun,2015,75,6.42,Mumbai
+Honda,Amaze SX i-VTEC,Third Party,Petrol,5,"79,772",MH12,First Owner,1198,Manual,2015,18,86.7,109,,Jun,2015,75,4.33,Mumbai
+Toyota,Corolla Altis VL AT,Third Party,Petrol,5,"65,743",MH12,First Owner,1798,Automatic,2014,14.28,138.03,173,16,Jun,2014,75,9.25,Mumbai
+Hyundai,Xcent 1.2 Kappa SX,Comprehensive,Petrol,5,"94,756",MH12,Second Owner,1197,Manual,2015,19.1,82,114,14,Jun,2015,75,4.41,Mumbai
+Maruti,Alto LXi,Third Party,Petrol,5,"64,616",MH14,Second Owner,796,Manual,2011,19.7,46.3,62,12,Jun,2011,75,1.63,Mumbai
+Jeep,Compass Model S Diesel,Comprehensive,Diesel,5,"22,208",MH28,First Owner,1956,Manual,2021,17.1,167.67,350,18,Apr,2021,20,23.9,Mumbai
+Audi,A4 35 TDI Premium Plus,Comprehensive,Diesel,5,"49,043",MH04,Second Owner,1968,Automatic,2017,18.25,187.74,400,17,Feb,2018,60,26.9,Mumbai
+Renault,KWID 1.0 RXT,Third Party,Petrol,5,"43,097",MH14,First Owner,999,Manual,2016,23.01,67,91,,Jun,2016,70,3.07,Mumbai
+Maruti,Vitara Brezza ZDi Plus AMT,Third Party,Diesel,5,"55,061",MH05,First Owner,1248,Automatic,2019,24.3,88.5,200,16,Jun,2019,40,9.6,Mumbai
+Hyundai,i20 Magna 1.4 CRDi,Comprehensive,Diesel,5,"61,862",MH10,First Owner,1396,Manual,2015,22.54,88.73,219.7,,Jun,2015,75,6.26,Mumbai
+Hyundai,Santro Sportz,Comprehensive,Petrol,5,"18,000",MH14,First Owner,1086,Manual,2019,20.3,68.05,99,,Dec,2019,40,5.35,Mumbai
+Honda,Jazz ZX CVT,Third Party,Petrol,5,"7,130",MH12,First Owner,1199,Automatic,2021,17.1,88.50,110,15,Jun,2021,20,9.82,Mumbai
+Hyundai,i20 Sportz 1.2,Third Party,Petrol,5,"87,263",MH31,Second Owner,1197,Manual,2015,18.6,81.83,114.7,,Jun,2015,75,4.96,Mumbai
+Maruti,Alto LXi,Third Party,Petrol,5,"11,833",MH05,First Owner,796,Manual,2012,19.7,46.3,62,12,Jun,2012,75,2.15,Mumbai
+Hyundai,EON Era Plus,Third Party,Petrol,5,"57,692",MH12,First Owner,814,Manual,2016,21.1,55.2,74.5,,Jun,2016,70,2.87,Mumbai
+Tata,Nexon XZ Plus Diesel,Comprehensive,Diesel,5,"19,936",MH14,First Owner,1497,Manual,2020,23.22,113.42,260,16,Jun,2020,30,13.08,Mumbai
+Hyundai,Grand i10 1.2 Kappa Magna AT,Third Party,Petrol,5,"77,934",MH12,First Owner,1197,Automatic,2018,18.9,81.86,113.75,,Jun,2018,50,4.69,Mumbai
+Datsun,GO T Option Petrol,Third Party insurance,Petrol,5,"35,000",,First Owner,1198,Manual,2019,19.83,67,104,14,,,40,3.5,Mumbai
+Hyundai,Verna SX CRDi AT,Third Party insurance,Diesel,5,"90,000",,Second Owner,1582,Automatic,2013,19.08,126.32,259.8,16,,,75,5.1,Mumbai
+Hyundai,Xcent Prime T Plus CNG,Third Party insurance,CNG,5,"50,000",,First Owner,1197,Manual,2022,,65.39,97.96,,,,15,7.0,Mumbai
+Mahindra,Xylo H9,Third Party insurance,Diesel,8,"90,000",,Third Owner,2179,Manual,2015,14.02,118.3,280,15,,,75,5.5,Mumbai
+Hyundai,i10 Magna,Third Party insurance,Petrol,5,"55,343",MH02,First Owner,1197,Manual,2011,20.36,78.9,111.7,13,Jan,2011,75,2.12,Mumbai
+Hyundai,i20 1.2 Sportz,Third Party insurance,Petrol,5,"53,000",MH05,Second Owner,1197,Manual,2012,17,80 PS at 5200 ,"11.4 kgm at 4,000 r",14,Oct,2012,75,3.12,Mumbai
+Hyundai,Grand i10 1.2 Kappa Magna AT,Third Party insurance,Petrol,5,"13,000",N/A,First Owner,1197,Automatic,2019,18.9,81.86,113.75,,,,40,5.75,Mumbai
+Skoda,Octavia Style Plus 1.8 TSI AT,Third Party insurance,Petrol,5,"76,494",MH12,First Owner,1798,Automatic,2016,14.7,177.5,250,16,Mar,2017,70,14.0,Mumbai
+Mercedes-Benz,C-Class C 200 AVANTGARDE,Third Party insurance,Petrol,5,"63,210",MH12,First Owner,1991,Automatic,2013,14.74,181.04,300,17,Dec,2013,75,13.5,Mumbai
+BMW,X5 xDrive 30d Design Pure Experience 5 Seater,Third Party insurance,Diesel,5,"1,58,683",MH12,First Owner,2993,Automatic,2015,15.97,258,560,19,Aug,2015,75,30.0,Mumbai
+BMW,3 Series 320d,Third Party insurance,Diesel,5,"90,000",,Second Owner,1995,Automatic,2012,13.2,,34,16,,,75,5.75,Mumbai
+Audi,A6 35 TDI,Comprehensive,Diesel,5,"63,261",MH12,First Owner,1968,Automatic,2017,18.53,187.74,400,18,Jul,2017,60,32.0,Mumbai
+Volkswagen,Ameo 1.2 MPI Highline,Zero Dep,Petrol,5,"53,505",MH11,First Owner,1198,Manual,2017,17,73.75,110,15,Jul,2018,60,6.25,Mumbai
+Toyota,Corolla Altis 1.8 G CVT,Zero Dep,Petrol,5,"56,520",MH02,Second Owner,1798,Automatic,2017,14.28,138.03,173,16,Dec,2017,60,11.5,Mumbai
+Honda,Amaze VX AT i-Vtech,Third Party insurance,Petrol,5,"50,000",,First Owner,1198,Automatic,2015,15.5,86.7,109,14,,,75,4.65,Mumbai
+Maruti,Ertiga SHVS VDI,Third Party insurance,Diesel,7,"2,60,000",,Second Owner,1248,Manual,2016,24.52,88.5,200,,,,70,7.0,Mumbai
+Maruti,Baleno 1.2 Zeta,Third Party,Petrol,5,"68,000",,First Owner,1197,Manual,2018,21.4,83.1,115,16,,,50,5.7,Mumbai
+Maruti,Ertiga ZDI,Not Available,Diesel,7,"66,991",DN09,First Owner,1248,Manual,2015,20.77,88.8,200,15,Sept,2015,75,5.9,Mumbai
+Mahindra,KUV 100 NXT G80 K2,Third Party insurance,Petrol,6,"60,000",,First Owner,1198,Manual,2019,18.15,82,115,,,,40,3.5,Mumbai
+Audi,A6 35 TDI Premium,Comprehensive,Diesel,5,"1,26,176",MH12,First Owner,1968,Automatic,2015,17.68,174.33,380,17,Jul,2015,75,16.5,Mumbai
+BMW,X3 xDrive20d xLine,Third Party insurance,Diesel,5,"36,692",MH12,First Owner,1995,Automatic,2016,18.56,190,400,18,Mar,2017,70,37.0,Mumbai
+Mercedes-Benz,C-Class C 200 BE Classic,Third Party insurance,Petrol,5,"63,210",MH14,First Owner,1796,Automatic,2013,11.7,186,285,17,Dec,2013,75,13.5,Mumbai
+Audi,A3 35 TFSI Premium,Zero Dep,Petrol,5,"43,225",MH12,First Owner,1395,Automatic,2018,19.8,150,250,16,Jun,2018,50,26.5,Mumbai
+BMW,5 Series 520d Luxury Line,Zero Dep,Diesel,5,"59,077",MH12,First Owner,1995,Automatic,2018,20.37,187.74,400,R18,Jul,2018,50,46.0,Mumbai
+BMW,X1 sDrive 20d xLine,Third Party insurance,Diesel,5,"86,860",MH14,First Owner,1995,Automatic,2019,20.68,188,400,17,Aug,2019,40,27.5,Mumbai
+BMW,7 Series 730Ld DPE Signature,Third Party insurance,Diesel,4,"18,273",MH12,First Owner,2993,Automatic,2021,17.66,261.49,620,19,Aug,2021,20,1.35,Mumbai
+Skoda,Octavia Ambiente 1.9 TDI,Not Available,Diesel,5,"96,068",MH12,Second Owner,1896,Manual,2008,18.7,66(90) / 4,210 / 19,15,Jun,2008,75,2.0,Mumbai
+Hyundai,i10 Sportz,Third Party insurance,Petrol,5,"1,00,000",,Third Owner,1197,Manual,2008,20.36,78.9,111.8,13,,,75,1.3,Mumbai
+Tata,Tiago 1.2 Revotron XZ,Third Party insurance,Petrol,5,"64,000",,First Owner,1199,Manual,2018,23.84,84,114,14,,,50,3.8,Mumbai
+Nissan,Terrano XL,Not Available,Petrol,5,"58,742",MH02,First Owner,1598,Manual,2014,13.24,102.5,145,,Sept,2014,75,3.0,Mumbai
+BMW,5 Series 520d Luxury Line,Third Party insurance,Diesel,5,"53,122",MH43,Second Owner,1995,Automatic,2017,18.12,190,400,18,Jan,2018,60,39.0,Mumbai
+BMW,5 Series 525d Sedan,Comprehensive,Diesel,5,"1,58,156",MH12,First Owner,2993,Automatic,2011,16.73,218,450,17,Feb,2012,75,16.5,Mumbai
+BMW,7 Series 730Ld,Zero Dep,Diesel,5,"1,33,273",MH14,First Owner,2993,Automatic,2014,16.46,258,560,18,Jun,2014,75,32.0,Mumbai
+BMW,X5 xDrive 30d M Sport,Third Party insurance,Diesel,5,"83,985",MH12,First Owner,2993,Automatic,2017,15.97,258,560,19,Apr,2018,60,54.99,Mumbai
+MG,ZS EV Exclusive,Comprehensive,Electric,5,"30,045",MH10,First Owner,0,Automatic,2021,,140.8,350,17,May,2021,20,22.5,Mumbai
+BMW,X1 sDrive 20d xLine,Comprehensive,Diesel,5,"1,05,023",MH14,First Owner,1995,Automatic,2017,20.68,188,400,17,Sept,2017,60,23.5,Mumbai
+Toyota,Etios Liva GD,Available,Diesel,5,"70,000",,Second Owner,1364,Manual,2013,23.59,67.06,170,14,,,75,3.5,Mumbai
+Chevrolet,Beat LT,Not Available,Petrol,5,"17,477",MH14,First Owner,1199,Manual,2015,18.6,76.8,106.5,,Apr,2015,75,1.8,Mumbai
+Maruti,Ertiga VXI CNG,Third Party insurance,CNG,7,"1,10,000",N/A,Fourth Owner,1373,Manual,2013,22.8,80.9,110,,,,75,4.0,Mumbai
+Tata,Indica DLG,Third Party insurance,Diesel,5,"70,000",,First Owner,1396,Manual,2007,17.5,,14,14,,,75,1.7,Mumbai
+Volkswagen,Polo Petrol Comfortline 1.2L,Third Party,Petrol,5,"34,158",CH01,First Owner,1198,Manual,2012,16.47,73.9,110,15,Apr,2012,75,2.0,Mumbai
+Tata,Tiago XT,Zero Dep,Petrol,5,"23,979",MP14,First Owner,1199,Manual,2020,19.01,84.82,113,,Dec,2020,30,4.0,Mumbai
+Renault,KWID Climber 1.0 MT,Third Party insurance,Petrol,5,"21,000",N/A,First Owner,999,Manual,2018,23.01,67,91,,,,50,3.5,Mumbai
+Tata,Nexon XM,Third Party,Petrol,5,"10,138",MH10,First Owner,1199,Manual,2022,17.33,118.35,170,,Aug,2022,15,8.0,Mumbai
+Maruti,Ciaz ZDi,Third Party insurance,Diesel,5,"73,000",,Third Owner,1248,Manual,2014,26.21,88.5,200,15,,,75,5.0,Mumbai
+Chevrolet,Beat Diesel LS,Third Party insurance,Diesel,5,"1,20,000",,First Owner,936,Manual,2012,25.44,57.6,150,14,,,75,1.2,Mumbai
+Maruti,Celerio VXI CNG,Third Party insurance,CNG,5,"27,000",MH14,First Owner,998,Manual,2019,30.47 ,58.33,78,,Mar,2019,40,5.65,Mumbai
+Fiat,Linea Emotion Pack (Diesel),Third Party insurance,Diesel,5,"30,000",,Second Owner,1248,Manual,2010,19,93,209 ,15,,,75,2.0,Mumbai
+Maruti,Swift Dzire VXI 1.2,Third Party,Petrol,5,"44,961",MH12,First Owner,1197,Manual,2016,21.21,81.80,113,,Mar,2016,70,6.9,Mumbai
+Tata,Nexon 1.2 Revotron XMA,Third Party,Petrol,5,"27,507",MH12,First Owner,1198,Automatic,2019,17,108.5,170,,May,2019,40,8.5,Mumbai
+Renault,Duster 110PS Diesel RxL,Third Party insurance,Diesel,5,"77,363",MH14,First Owner,1461,Manual,2017,19.6,108.45,245,,Nov,2017,60,8.5,Mumbai
+Maruti,Vitara Brezza ZDi,Available,Diesel,5,"1,20,000",,First Owner,1248,Manual,2018,24.3,88.5,200,16,,,50,8.2,Mumbai
+Ford,Ecosport 1.5 TDCi Titanium BSIV,Third Party insurance,Diesel,5,"1,20,000",,First Owner,1498,Manual,2016,22.77,98.59,205,16,,,70,6.0,Mumbai
+Maruti,Baleno Delta,Comprehensive,Petrol,5,"11,300",,First Owner,1197,Manual,2022,21.01,81.80,113,,,,15,7.0,Mumbai
+Honda,WR-V i-DTEC VX,Third Party,Diesel,5,"73,151",MH12,First Owner,1498,Manual,2017,25.5,98.6,200,16,Jul,2017,60,8.75,Mumbai
+Honda,City ZX MT,Third Party insurance,Petrol,5,"1,720",MH12,First Owner,1497,Manual,2021,17.4,117.6,145,16,Mar,2021,20,12.5,Mumbai
+Volkswagen,Polo Diesel Comfortline 1.2L,Third Party insurance,Diesel,5,"95,217",MH15,First Owner,1199,Manual,2012,22.07,73.9,180,15,Jan,2012,75,3.75,Mumbai
+Nissan,Micra XL,Available,Petrol,5,"35,000",,Second Owner,1198,Manual,2012,18.06,75,104,14,,,75,2.2,Mumbai
+Tata,Tigor 1.2 Revotron XZ,Third Party insurance,Petrol,5,"50,000",,Second Owner,1199,Manual,2020,20.3,84,114,15,,,30,5.0,Mumbai
+Nissan,Sunny Diesel XL,Third Party insurance,Diesel,5,"80,000",,Fourth Owner,1461,Manual,2012,21.64,84.8,200,14,,,75,6.0,Mumbai
+Renault,Duster 85PS Diesel RxL,Third Party insurance,Diesel,5,"1,10,000",,Second Owner,1461,Manual,2012,20.45,83.8,200,16,,,75,3.0,Mumbai
+Honda,City GXi,Third Party insurance,Petrol,5,"1,20,000",,Third Owner,1497,Manual,2006,17.7,,12,14,,,75,1.0,Mumbai
+Maruti,XL6 Alpha,Third Party insurance,Petrol,6,"50,000",,First Owner,1462,Manual,2020,19.01,103.2,138,R15,,,30,8.45,Mumbai
+Maruti,Alto 800 LXI,Third Party insurance,Petrol,5,"50,000",,Second Owner,796,Manual,2014,22.74,47.3,69,,,,75,2.35,Mumbai
+Tata,Safari Storme VX Varicor 400,Individual,Diesel,7,"90,000",,Second Owner,2179,Manual,2018,14.1,153.86,400,17,,,50,11.0,Mumbai
+Audi,A4 2.0 TDI,Third Party insurance,Diesel,5,"1,00,000",,First Owner,1968,Automatic,2013,16.55,147.51,320,16,,,75,9.8,Mumbai
+Mahindra,XUV500 W9,Third Party insurance,Diesel,7,"25,000",,First Owner,2179,Manual,2021,15.1,152.87,360,R17,,,20,17.0,Mumbai
+Mahindra,XUV300 W6 AMT Sunroof,Third Party insurance,Petrol,5,"5,000",,First Owner,1197,Automatic,2022,17,108.6,200,,,,15,10.5,Mumbai
+Hyundai,i20 Magna 1.4 CRDi,Third Party,Diesel,5,"60,000",,Second Owner,1396,Manual,2016,22.54,88.73,219.7,,,,70,5.1,Mumbai
+Volkswagen,Polo Petrol Comfortline 1.2L,Comprehensive,Petrol,5,"63,932",MH43,First Owner,1198,Manual,2011,16.47,73.9,110,15,Aug,2011,75,2.79,Mumbai
+Maruti,Baleno 1.2 Delta,Comprehensive,Petrol,5,"48,950",MH47,First Owner,1197,Manual,2016,21.4,83.1,115,,May,2016,70,5.19,Mumbai
+Maruti,Vitara Brezza VDi,Comprehensive,Diesel,5,"80,000",,First Owner,1248,Manual,2019,24.3,88.5,200,,,,40,8.1,Mumbai
+Hyundai,Grand i10 Sportz,Third Party insurance,Petrol,5,"42,945",MH03,First Owner,1197,Manual,2017,18.9,81.86,113.75,,Nov,2017,60,4.72,Mumbai
+Honda,Jazz 1.2 V i VTEC,Comprehensive,Petrol,5,"37,300",MH01,First Owner,1199,Manual,2015,18.7,88.7,110,15,Dec,2015,75,4.69,Mumbai
+Hyundai,i20 Sportz 1.2,Comprehensive,Petrol,5,"71,000",MH03,First Owner,1197,Manual,2012,18.6,81.83,114.7,,May,2012,75,3.7,Mumbai
+Maruti,Swift Dzire VDI,Third Party,Diesel,5,"74,979",MH12,First Owner,1248,Manual,2015,28.4,74.02,190,,Aug,2015,75,6.5,Mumbai
+Hyundai,Creta 1.6 CRDi SX Option,Third Party,Diesel,5,"69,794",MH12,First Owner,1582,Manual,2018,19.67,126.2,259.9,17,Nov,2018,50,15.0,Mumbai
+Maruti,Baleno 1.3 Delta,Third Party,Diesel,5,"89,775",MH12,First Owner,1248,Manual,2017,27.39,74,190,,Sept,2017,60,6.75,Mumbai
+Maruti,Zen Estilo LXI BSIII,Comprehensive,Petrol,5,"70,000",MH12,First Owner,998,Manual,2011,18.2,67.1,90,13,Jul,2011,75,2.0,Mumbai
+Maruti,Swift LXI,Comprehensive,Petrol,5,"48,170",MH14,First Owner,1197,Manual,2015,18.6,85.8,114,14,Aug,2015,75,4.6,Mumbai
+Maruti,Swift VXI Optional,Corporate,Petrol,5,"80,000",,First Owner,1197,Manual,2017,20.4,81.80,113,,,,60,5.1,Mumbai
+Nissan,Terrano XL 85 PS,Third Party insurance,Diesel,5,"50,000",,First Owner,1461,Manual,2016,20.45,83.8,200,,,,70,6.5,Mumbai
+Maruti,Swift VDI,Third Party insurance,Diesel,5,"1,10,000",N/A,Second Owner,1248,Manual,2012,22.9,74,190,14,,,75,3.8,Mumbai
+Volkswagen,Polo 1.5 TDI Highline,Third Party insurance,Diesel,5,"70,000",,Second Owner,1498,Manual,2016,20.14,88,230,15,,,70,5.3,Mumbai
+Mahindra,XUV500 R W10 FWD,Third Party insurance,Diesel,7,"68,000",,Second Owner,2179,Manual,2017,16,140,330,17,,,60,10.5,Mumbai
+Honda,Amaze VX Petrol BSIV,Third Party insurance,Petrol,5,"87,149",MH14,First Owner,1199,Manual,2017,19.5,88.76,110,14,,,60,5.05,Mumbai
+Hyundai,Grand i10 1.2 Kappa Asta,Third Party insurance,Petrol,5,"60,000",,First Owner,1197,Manual,2017,18.9,81.86,113.75,14,,,60,5.25,Mumbai
+Mahindra,XUV500 AT W10 AWD,Third Party insurance,Diesel,7,"1,10,000",,Third Owner,2179,Automatic,2015,16,140,330,17,,,75,9.5,Mumbai
+Renault,Duster 110PS Diesel RXZ Optional with Nav,Third Party insurance,Diesel,5,"1,20,000",,Second Owner,1461,Manual,2013,19.01,108.45,248,16,,,75,4.5,Mumbai
+Maruti,SX4 Zxi with Leather BSIII,Third Party insurance,Petrol,5,"80,000",,Second Owner,1586,Manual,2007,15.6,104,1,16,,,75,1.2,Mumbai
+Honda,City 1.5 V MT,Third Party insurance,Petrol,5,"1,62,000",,Fourth Owner,1497,Manual,2011,17,"118PS at 6,600 ",146Nm at 4800 r,15,,,75,3.0,Mumbai
+Maruti,Alto K10 LXI,Comprehensive,Petrol,5,"23,360",MH12,First Owner,998,Manual,2012,20.92,67.1,90,13,Apr,2012,75,2.5,Mumbai
+Tata,Indica TDI LS,Third Party insurance,Diesel,5,"1,20,000",,Fourth Owner,1405,Manual,2012,19.4,70,135.4,13,,,75,1.1,Mumbai
+Maruti,Swift Dzire VXI,Third Party insurance,Petrol,5,"58,000",MH04,Second Owner,1197,Manual,2015,20.85,83.14,115,,Dec,2015,75,4.7,Mumbai
+Toyota,Etios Liva G,Comprehensive,Petrol,5,"90,000",MH14,First Owner,1197,Manual,2011,18.3,,,14,Dec,2011,75,2.65,Mumbai
+Maruti,Alto LXi,Comprehensive,Petrol,5,"77,000",MH12,First Owner,796,Manual,2005,19.7,46.3,62,12,Aug,2005,75,1.1,Mumbai
+Renault,Triber RXT,Third Party insurance,Petrol,7,"15,000",,First Owner,999,Manual,2022,20,71.01,96,,,,15,7.2,Mumbai
+Maruti,SX4 Green Vxi (CNG),Available,CNG,5,"50,000",,Second Owner,1586,Manual,2013,22.1,85.7,122,15,,,75,3.25,Mumbai
+Toyota,Innova Crysta 2.4 G MT,Third Party,Diesel,7,"1,48,109",MH12,First Owner,2393,Manual,2020,13.68,147.51,343,16,Jan,2020,30,19.75,Mumbai
+Ford,Figo Petrol Titanium,Third Party,Petrol,5,"50,000",,Third Owner,1196,Manual,2010,15.6,70,102,14,,,75,1.17,Mumbai
+Hyundai,Santro Xing GLS,Third Party insurance,Petrol,5,"1,02,000",MH01,Second Owner,1086,Manual,2009,17.92,62.1,96.1,13,Aug,2009,75,1.55,Mumbai
+Hyundai,Xcent 1.2 Kappa S Option,Comprehensive,Petrol,5,"96,000",MH12,Second Owner,1197,Manual,2014,19.1,81.86,113.75,14,May,2014,75,4.0,Mumbai
+Skoda,Rapid 1.6 MPI AT Ambition,Third Party insurance,Petrol,5,"57,000",MH14,First Owner,1598,Automatic,2014,14.3,105,153,14,Nov,2014,75,4.7,Mumbai
+Tata,Nexon EV Prime XZ Plus Dark Edition,Comprehensive,Electric,5,"18,440",MH12,First Owner,0,Automatic,2022,,127,245,16,Feb,2022,15,15.5,Mumbai
+Mercedes-Benz,C-Class C 220d Avantgarde Edition C,Comprehensive,Diesel,5,"17,826",MH09,First Owner,2143,Automatic,2021,19.27,167.62,400,17,Nov,2021,20,52.0,Mumbai
+Hyundai,i20 1.2 Asta,Third Party insurance,Petrol,5,"40,757",MH04,First Owner,1197,Manual,2015,18.6,81.83,114.7,16,Dec,2015,75,5.3,Mumbai
+Hyundai,Venue S BSIV,Comprehensive,Petrol,5,"31,000",MH14,First Owner,1197,Manual,2021,17.52,81.86,115,,Jun,2021,20,8.5,Mumbai
+Toyota,Innova Crysta 2.8 ZX AT BSIV,Comprehensive,Diesel,7,"74,223",MH42,First Owner,2755,Automatic,2019,11.36,171.5,360,17,Mar,2019,40,24.51,Mumbai
+Maruti,Swift VXI,Third Party insurance,Petrol,5,"18,000",MH12,First Owner,1197,Manual,2017,18.6,85.8,114,14,May,2017,60,5.6,Mumbai
+Maruti,Wagon R LXI CNG,Third Party,CNG,5,"64,000",MH04,Second Owner,998,Manual,2012,26.6,58.16,77,,Oct,2012,75,3.1,Mumbai
+Hyundai,Xcent 1.2 Kappa Base,Third Party insurance,Petrol,5,"30,113",MH12,First Owner,1197,Manual,2015,19.1,82,114,,Mar,2015,75,4.0,Mumbai
+Volkswagen,Vento 1.5 TDI Highline,Third Party insurance,Diesel,5,"76,435",MH12,First Owner,1498,Manual,2017,22.27,108.6,250,15,Oct,2017,60,7.0,Mumbai
+Mercedes-Benz,E-Class E350 CDI Elegance,Comprehensive,Diesel,5,"95,203",MH12,First Owner,2987,Automatic,2011,11.5,210,490,17,Feb,2011,75,11.5,Mumbai
+Hyundai,i20 Asta,Comprehensive,Petrol,5,"39,000",MH14,First Owner,1197,Manual,2018,17,80 PS at 5200 ,"11.4 kgm at 4,000 r",14,Jul,2018,50,7.1,Mumbai
+BMW,X1 sDrive20d,Third Party insurance,Diesel,5,"70,256",MH04,Second Owner,1995,Automatic,2011,17.05,184,380,17,Jan,2011,75,9.89,Mumbai
+Maruti,Eeco 5 Seater AC BSIV,Third Party insurance,Petrol,5,"12,345",,,1196,Manual,2018,15.37,73,101,,,,50,14.15,Mumbai
+Maruti,Eeco 5 Seater AC BSIV,Third Party insurance,Petrol,5,"12,345",,,1196,Manual,2018,15.37,73,101,,,,50,7.0,Mumbai
+Maruti,Eeco 5 Seater AC BSIV,Third Party insurance,Petrol,5,"12,345",,,1196,Manual,2018,15.37,73,101,,,,50,11.5,Mumbai
+Ford,Ecosport 1.0 Ecoboost Titanium Optional,Comprehensive,Petrol,5,"70,000",MH01,First Owner,999,Manual,2013,18.88,123.37,170,16,Dec,2013,75,4.75,Mumbai
+Ford,Ecosport 1.5 Ti VCT AT Titanium BSIV,Comprehensive,Petrol,5,"70,000",MH47,Third Owner,1499,Automatic,2015,15.63,110.4,140,16,Oct,2015,75,5.25,Mumbai
+Honda,Brio VX,Comprehensive,Petrol,5,"66,000",MH12,First Owner,1198,Manual,2013,19.4,86.8,109,14,Mar,2013,75,3.2,Mumbai
+Volkswagen,Polo 1.2 MPI Highline,Third Party,Petrol,5,"73,400",MH12,First Owner,1199,Manual,2015,16.2,74,110,15,Jun,2015,75,5.25,Mumbai
+Hyundai,Elantra SX AT,Comprehensive,Petrol,5,"44,000",MH01,First Owner,1797,Automatic,2013,14.5,147.5,177.5,16,Oct,2013,75,5.4,Mumbai
+Audi,A4 1.8 TFSI,Comprehensive,Petrol,5,"1,25,000",MH12,Second Owner,1781,Automatic,2010,12.3,16,22,16,May,2010,75,6.75,Mumbai
+Maruti,Baleno Alpha,Comprehensive,Petrol,5,"66,000",MH12,First Owner,1197,Manual,2016,21.01,81.80,113,R16,Mar,2016,70,5.5,Mumbai
+Hyundai,i20 Magna 1.2,Comprehensive,Petrol,5,"22,000",MH14,First Owner,1197,Manual,2017,18.6,81.83,114.7,,Mar,2017,60,5.6,Mumbai
+Maruti,Celerio VXI Optional,Comprehensive,Petrol,5,"29,000",MH12,First Owner,998,Manual,2017,23.1,67.04,90,,Mar,2017,60,4.25,Mumbai
+Volkswagen,Vento Petrol Highline,Third Party,Petrol,5,"54,000",MH43,First Owner,1598,Manual,2012,15.04,103.6,153,15,Jun,2012,75,3.25,Mumbai
+Volkswagen,Vento Petrol Highline,Third Party,Petrol,5,"62,000",MH01,Second Owner,1598,Manual,2011,15.04,103.6,153,15,Jul,2011,75,3.0,Mumbai
+Volkswagen,Vento Petrol Highline,Third Party,Petrol,5,"56,000",MH02,First Owner,1598,Manual,2011,15.04,103.6,153,15,Jul,2011,75,3.0,Mumbai
+Hyundai,Verna CRDi,Third Party,Diesel,5,"78,000",MH12,First Owner,1493,Manual,2010,16.8,,,14,Jul,2010,75,3.0,Mumbai
+Hyundai,i10 Magna,Third Party,Petrol,5,"62,000",MH02,First Owner,1197,Manual,2013,20.36,78.9,111.7,13,Jun,2013,75,3.0,Mumbai
+Toyota,Innova 2.5 G4 Diesel 8-seater,Third Party,Diesel,8,"1,63,000",MH06,Second Owner,2494,Manual,2006,12.8,,20,15,Aug,2006,75,3.3,Mumbai
+Volkswagen,Vento Petrol Highline,Third Party,Petrol,5,"84,000",MH02,Second Owner,1598,Manual,2011,15.04,103.6,153,15,Jul,2011,75,2.99,Mumbai
+Maruti,Wagon R CNG LXI,Comprehensive,CNG,5,"21,750",MH12,First Owner,998,Manual,2021,32.52,58.33,78,,Apr,2021,20,6.36,Mumbai
+Jaguar,XF 2.2 Litre Luxury,Comprehensive,Diesel,5,"84,000",MH12,Second Owner,2179,Automatic,2013,16.36,187.7,450,20,Dec,2013,75,15.99,Mumbai
+Maruti,SX4 S Cross Alpha DDiS 200 SH,Comprehensive,Diesel,5,"85,300",MH14,First Owner,1248,Manual,2016,25.1,88.5,200,R16,Nov,2016,70,6.75,Mumbai
+Mahindra,TUV 300 T8,Comprehensive,Diesel,7,"73,300",MH14,First Owner,1493,Manual,2016,18.49,100,240,15,Feb,2016,70,7.85,Mumbai
+Maruti,Wagon R CNG LXI BSIV,Comprehensive,CNG,5,"61,680",MH12,First Owner,998,Manual,2016,33.54,67.04,90,,Apr,2016,70,4.1,Mumbai
+Tata,Harrier XZA Plus Kaziranga Edition AT,Zero Dep,Diesel,5,"9,600",MH14,First Owner,1956,Automatic,2022,14.6,167.67,350,17,Mar,2022,15,23.65,Mumbai
+Honda,BR-V i-VTEC V CVT,Comprehensive,Petrol,7,"64,500",MH10,First Owner,1497,Automatic,2016,15.4,117.3,145,16,Jul,2016,70,7.3,Mumbai
+Hyundai,Tucson 2.0 e-VGT 2WD AT GL Opt,Comprehensive,Diesel,5,"51,000",MH12,First Owner,1995,Automatic,2019,16.38,182.46,400.11,18,Mar,2019,40,23.0,Mumbai
+Hyundai,i20 Magna 1.2,Comprehensive,Petrol,5,"58,000",MH12,First Owner,1197,Manual,2015,18.6,81.83,114.7,,Sept,2015,75,5.3,Mumbai
+Renault,Duster 110PS Diesel RXZ Option,Comprehensive,Diesel,5,"91,000",MH12,First Owner,1461,Manual,2015,19.64,108.45,245,16,Aug,2015,75,6.0,Mumbai
+Hyundai,i20 Sportz 1.4 CRDi,Comprehensive,Diesel,5,"68,000",MH12,First Owner,1396,Manual,2015,22.54,88.73,219.7,,Sept,2016,75,5.5,Mumbai
+Honda,City S,Comprehensive,Petrol,5,"74,000",MH12,First Owner,1497,Manual,2012,16.8,116.4,146,15,Aug,2012,75,4.3,Mumbai
+Maruti,Celerio ZXI,Comprehensive,Petrol,5,"31,223",MH19,First Owner,998,Manual,2014,23.1,67.04,90,,Jul,2014,75,3.9,Mumbai
+Hyundai,Creta 1.6 CRDi SX Option,Comprehensive,Diesel,5,"65,000",MH12,First Owner,1582,Manual,2018,19.67,126.2,259.9,17,Mar,2018,50,13.65,Mumbai
+Maruti,Celerio ZXI AT,Comprehensive,Petrol,5,"25,000",MH12,First Owner,998,Automatic,2016,23.1,67.04,90,,Mar,2016,70,4.5,Mumbai
+Ford,Endeavour 2.2 Titanium AT 4X2 Sunroof,Comprehensive,Diesel,7,"1,07,000",MH13,First Owner,2198,Automatic,2018,12.62,158,385,18,Oct,2018,50,29.5,Mumbai
+Renault,KWID 1.0 RXT,Comprehensive,Petrol,5,"53,123",MH12,First Owner,999,Manual,2016,23.01,67,91,,Jul,2016,70,2.9,Mumbai
+Hyundai,i10 Magna 1.1L,Comprehensive,Petrol,5,"64,213",MH12,First Owner,1086,Manual,2011,19.81,68.05,99.04,,Jul,2011,75,2.3,Mumbai
+Hyundai,Xcent 1.2 Kappa SX Option,Comprehensive,Petrol,5,"48,000",MH12,First Owner,1197,Manual,2017,19.1,82,114,15,Mar,2017,60,4.85,Mumbai
+Maruti,Alto K10 VXI,Comprehensive,Petrol,5,"29,000",MH14,Second Owner,998,Manual,2015,23.95,67.05,90,,Mar,2015,75,2.75,Mumbai
+Ford,Ecosport 1.5 Petrol Trend BSIV,Comprehensive,Petrol,5,"68,000",MH03,First Owner,1497,Manual,2015,17,121.36,150,,Oct,2015,75,4.5,Mumbai
+Maruti,Ritz VXi,Third Party insurance,Petrol,5,"77,000",MH15,Second Owner,1197,Manual,2015,18.5,85.80,114,,Jan,2015,75,3.55,Mumbai
+Honda,BR-V i-VTEC V CVT,Third Party insurance,Petrol,7,"62,000",MH12,First Owner,1497,Automatic,2017,15.4,117.3,145,16,Mar,2017,60,8.3,Mumbai
+Maruti,Celerio VXI AT,Comprehensive,Petrol,5,"57,000",MH12,First Owner,998,Automatic,2014,23.1,67.04,90,,Mar,2014,75,3.85,Mumbai
+Hyundai,i10 Magna,Comprehensive,Petrol,5,"57,000",MH12,First Owner,1197,Manual,2011,20.36,78.9,111.7,13,Mar,2011,75,2.45,Mumbai
+Volkswagen,Passat Diesel Comfortline AT,Third Party,Diesel,5,"1,04,000",MH02,Second Owner,1968,Automatic,2012,14.3,167.7,350,16,Nov,2012,75,5.5,Mumbai
+Maruti,SX4 ZXI AT Leather,Third Party,Petrol,5,"80,000",MH02,Second Owner,1586,Automatic,2010,12.6,103.2,145,16,Dec,2010,75,1.99,Mumbai
+Maruti,Ertiga ZDI Plus,Third Party,Diesel,7,"1,48,000",MH14,Second Owner,1248,Manual,2013,20.77,88.8,200,15,Jun,2013,75,6.65,Mumbai
+Renault,KWID 1.0 RXT,Comprehensive,Petrol,5,"39,000",MH48,First Owner,999,Manual,2016,23.01,67,91,,Nov,2016,70,2.95,Mumbai
+Honda,City i VTEC V,Third Party insurance,Petrol,5,"65,000",MH02,Second Owner,1497,Manual,2012,17.4,117.3,145,15,Dec,2012,75,3.65,Mumbai
+Hyundai,Verna 1.6 SX VTVT AT,Third Party insurance,Petrol,5,"75,000",MH01,Second Owner,1591,Automatic,2013,15.74,121.3,154.9,16,Nov,2013,75,4.35,Mumbai
+Honda,City 1.5 S MT,Third Party,Petrol,5,"68,000",MH03,First Owner,1497,Manual,2009,17,"118PS at 6,600 ",146Nm at 4800 r,15,Nov,2009,75,2.45,Mumbai
+Honda,Accord 2.4 A/T,Third Party insurance,Petrol,5,"92,000",MH05,First Owner,2354,Automatic,2010,11.7,177.6,222,16,Oct,2010,75,2.99,Mumbai
+Skoda,Superb 1.8 TSI MT,Third Party insurance,Petrol,5,"62,000",MH02,Second Owner,1798,Manual,2011,13.14,160 ,25 K,16,Nov,2011,75,3.35,Mumbai
+Skoda,Superb Elegance 2.0 TDI CR AT,Comprehensive,Diesel,5,"88,000",MH06,Second Owner,1968,Automatic,2011,17.2,138.1,320,16,Dec,2011,75,4.99,Mumbai
+Chevrolet,Cruze LTZ AT,Comprehensive,Diesel,5,"92,000",MH02,Second Owner,1991,Automatic,2010,18.1,147.9,327,16,Dec,2010,75,2.95,Mumbai
+Tata,Altroz XZ Plus,Comprehensive,Petrol,5,"17,000",MH07,First Owner,1199,Manual,2021,19.33,86.83,113,16,Nov,2021,20,7.45,Mumbai
+Renault,Duster Petrol RxL,Comprehensive,Petrol,5,"55,000",MH43,Second Owner,1598,Manual,2013,13.24,102.57,145,16,Dec,2013,75,3.99,Mumbai
+Maruti,Swift VXI,Comprehensive,Petrol,5,"78,000",MH14,First Owner,1197,Manual,2013,18.6,85.8,114,14,Dec,2013,75,3.95,Mumbai
+Volkswagen,Vento 1.6 Highline,Comprehensive,Petrol,5,"35,000",MH01,Second Owner,1598,Manual,2015,16.09,103.2,153,15,Nov,2015,75,4.99,Mumbai
+Maruti,Swift VXI BSIII,Third Party insurance,Petrol,5,"99,000",MH12,Second Owner,1298,Manual,2009,16.1,8,11,14,Feb,2009,75,2.0,Mumbai
+Maruti,Swift AMT VXI,Comprehensive,Petrol,5,"79,200",MH12,First Owner,1197,Automatic,2015,21.21,81.80,113,,Nov,2015,75,5.0,Mumbai
+Skoda,Superb LK 1.8 TSI AT,Comprehensive,Petrol,5,"64,000",MH01,Second Owner,1798,Automatic,2016,14.67,177.46,2,17,Nov,2016,70,13.85,Mumbai
+BMW,5 Series 530d Highline Sedan,Comprehensive,Diesel,5,"95,000",MH04,Second Owner,2993,Automatic,2009,11.5,,,17,Nov,2009,75,5.95,Mumbai

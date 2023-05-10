@@ -1,0 +1,161 @@
+Brand,Model,Fuel Type,Seats,Kms Driven (in kms),RTO,Ownership,Engine Displacement (in cc),Transmission,Year of Manufacture,Mileage (in kmpl),Max Power (in bhp),Torque (in nm),Wheel Size,Registration Month,Registration Year,Depreciation Rate (in %),Price (in lacs),City,Insurance Validity
+Hyundai,Creta 1.6 VTVT SX Plus,Petrol,5,"32,000",UP80,First Owner,1591,Manual,2017,13,121.3,151,17,Aug,2017,60,9.7,Agra,
+Jeep,Compass 2.0 Limited,Diesel,5,"52,000",UP80,First Owner,1956,Manual,2018,17.1,170,350,17,Feb,2018,50,12.77,Agra,
+Maruti,Wagon R AMT VXI,Petrol,5,"58,235",UP80,First Owner,998,Automatic,2015,20.51,67,90,,May,2015,75,2.9,Agra,
+Kia,Seltos HTK Plus D,Diesel,5,"30,000",,First Owner,1493,Manual,2022,20.8,113.43,250,16,Mar,2022,15,14.5,Agra,Third Party insurance
+Kia,Seltos HTK Plus D,Diesel,5,"30,000",,First Owner,1493,Manual,2022,20.8,113.43,250,16,Mar,2022,15,14.5,Agra,Third Party insurance
+Hyundai,i20 1.2 Magna Executive,Petrol,5,"30,000",,Second Owner,1197,Manual,2018,18.6,81.83,114.7,,Mar,2018,50,5.5,Agra,Third Party insurance
+Hyundai,Creta 1.6 CRDi SX,Diesel,5,"70,000",,Second Owner,1582,Manual,2016,19.67,126.2,259.9,16,Mar,2016,70,8.0,Agra,Third Party insurance
+Maruti,Swift VDI BSIV,Diesel,5,"80,000",,Second Owner,1248,Manual,2014,25.2,74,190,,Mar,2014,75,3.45,Agra,Third Party insurance
+Maruti,Swift Dzire VXi,Petrol,5,"80,000",,Second Owner,1298,Manual,2009,17.5,85.8,114,14,Mar,2009,75,1.7,Agra,Third Party insurance
+Maruti,Wagon R LXI Minor,Petrol,5,"70,000",,Second Owner,1061,Manual,2010,18.9,67,84,13,Mar,2010,75,1.6,Agra,Third Party insurance
+Volkswagen,Vento 1.5 TDI Highline AT,Diesel,5,"90,000",,First Owner,1498,Automatic,2016,22.15,108.6,250,15,Mar,2016,70,5.5,Agra,Third Party insurance
+Hyundai,Verna 1.6 SX,Diesel,5,"80,000",,Third Owner,1582,Manual,2012,22.32,126.32,259.8,16,,,75,3.5,Agra,Third Party insurance
+Maruti,Ignis 1.2 Alpha BSIV,Petrol,5,"54,000",,Second Owner,1197,Manual,2017,20.89,81.80,113,15,,,60,4.5,Agra,Comprehensive
+Maruti,Swift VDI BSIV,Diesel,5,"70,000",,Third Owner,1248,Manual,2014,25.2,74,190,,,,75,3.2,Agra,Third Party insurance
+Maruti,Ciaz ZXi Plus,Petrol,5,"40,000",,First Owner,1373,Manual,2015,20.73,91.1,130,16,,,75,5.3,Agra,Individual
+Maruti,Vitara Brezza ZDi Plus,Diesel,5,"1,20,000",,First Owner,1248,Manual,2016,24.3,88.5,200,16,,,70,5.8,Agra,Available
+Hyundai,Elite i20 2018 Diesel Asta Option,Diesel,5,"1,10,000",,First Owner,1396,Manual,2018,22.54,88.73,219.7,16,,,50,6.5,Agra,Third Party insurance
+Kia,Sonet 1.2 HTK,Petrol,5,"2,000",,First Owner,1197,Manual,2022,18.4,81.86,115,,,,15,8.57,Agra,Third Party insurance
+Kia,Sonet 1.2 HTK,Petrol,5,"5,000",,First Owner,1197,Manual,2022,18.4,81.86,115,,,,15,8.57,Agra,Individual
+Renault,KWID 1.0 AMT RXT,Petrol,5,"30,000",,Second Owner,999,Automatic,2016,24.04,67,91,,,,70,2.5,Agra,Comprehensive
+Hyundai,i20 Active 1.2 SX,Petrol,5,"78,500",,Second Owner,1197,Manual,2016,17.19,81.86,114.73,16,,,70,4.5,Agra,Third Party insurance
+Honda,Amaze S i-Vtech,Petrol,5,"40,000",,First Owner,1198,Manual,2014,18,86.7,109,,,,75,3.55,Agra,Third Party insurance
+Hyundai,i10 Era,Petrol,5,"87,500",,First Owner,1086,Manual,2010,19.81,68.05,99.04,,,,75,1.6,Agra,Third Party insurance
+Mahindra,KUV 100 NXT G80 K2,Petrol,6,"40,000",,Second Owner,1198,Manual,2019,18.15,82,115,,,,40,3.5,Agra,Third Party insurance
+Mahindra,XUV500 AT W10 FWD,Diesel,7,"40,000",,First Owner,2179,Automatic,2016,16,140,330,17,,,70,10.5,Agra,Third Party insurance
+Hyundai,i20 Magna 1.2,Petrol,5,"50,000",,First Owner,1197,Manual,2015,18.6,81.83,114.7,,,,75,4.15,Agra,Third Party insurance
+Chevrolet,Beat Diesel LT,Diesel,5,"71,000",,Second Owner,936,Manual,2013,25.44,57.6,150,14,,,75,2.0,Agra,Third Party
+Tata,Indigo LS (TDI) BS-III,Diesel,5,"1,20,000",,First Owner,1405,Manual,2014,19.09,69.01,135,,,,75,1.65,Agra,Third Party insurance
+Maruti,Vitara Brezza VDi,Diesel,5,"1,00,000",N/A,First Owner,1248,Manual,2018,24.3,88.5,200,,,,50,7.5,Agra,Third Party insurance
+Hyundai,Grand i10 1.2 Kappa Sportz BSIV,Petrol,5,"50,000",,Second Owner,1197,Manual,2019,18.9,81.86,113.75,,,,40,5.0,Agra,Third Party insurance
+Hyundai,Accent GLE,Petrol,5,"23,500",,First Owner,1495,Manual,2009,13.2,,12,13,,,75,1.1,Agra,Third Party insurance
+Maruti,Celerio VXI CNG BSIV,CNG,5,"80,000",,First Owner,998,Manual,2019,31.79,58.33,78,,,,40,3.8,Agra,Third Party insurance
+Mahindra,XUV300 W6 Sunroof,Petrol,5,"10,000",,First Owner,1197,Manual,2022,17,108.6,200,,,,15,9.94,Agra,Comprehensive
+Mahindra,XUV500 W8 2WD,Diesel,7,"90,000",,Second Owner,2179,Manual,2012,15.1,140,330,17,,,75,5.25,Agra,Third Party insurance
+Hyundai,Grand i10 1.2 Kappa Sportz BSIV,Petrol,5,"26,000",,Second Owner,1197,Manual,2019,18.9,81.86,113.75,,,,40,4.72,Agra,Third Party insurance
+Maruti,Wagon R VXI AMT 1.2,Petrol,5,"10,000",,First Owner,1197,Automatic,2020,20.52,81.80,113,,,,30,5.2,Agra,Third Party insurance
+Chevrolet,Spark 1.0,Petrol,5,"40,000",,Second Owner,995,Manual,2011,18,62,90.3,13,,,75,1.6,Agra,Third Party insurance
+Renault,Duster 85PS Diesel RxL,Diesel,5,"90,000",,First Owner,1461,Manual,2015,20.45,83.8,200,16,,,75,4.03,Agra,Third Party insurance
+Mahindra,XUV500 AT W10 AWD,Diesel,7,"1,28,000",,First Owner,2179,Automatic,2016,16,140,330,17,,,70,12.0,Agra,Third Party insurance
+Tata,Tiago XZ Plus CNG,CNG,5,"10,000",,First Owner,1199,Manual,2022,26.49 ,72,95,,,,15,7.4,Agra,Comprehensive
+Tata,Tiago XZ Plus CNG,CNG,5,"10,000",,First Owner,1199,Manual,2022,26.49 ,72,95,,,,15,7.2,Agra,Third Party insurance
+Hyundai,i20 Sportz 1.4 CRDi,Diesel,5,"1,04,000",,Third Owner,1396,Manual,2012,21.9,88.76,219.6,14,,,75,2.75,Agra,Third Party insurance
+Toyota,Innova Aero GX Diesel 8 Seater,Diesel,8,"1,20,000",,Second Owner,2494,Manual,2013,11.4,100.6,200,15,,,75,5.25,Agra,Third Party insurance
+Maruti,Wagon R LXI Minor Duo LPG,LPG,5,"42,000",,Third Owner,1061,Manual,2009,,67,84,14,,,75,0.95,Agra,Third Party
+Maruti,Swift Vdi BSIII,Diesel,5,"1,00,000",,Third Owner,1248,Manual,2007,17.8,75,190 ,14,,,75,1.0,Agra,Third Party insurance
+Hyundai,i20 Active 1.2 S,Petrol,5,"80,000",,First Owner,1197,Manual,2015,17.19,81.86,114.73,16,,,75,4.5,Agra,Third Party insurance
+Toyota,Innova 2.5 G4 Diesel 7-seater,Diesel,7,"1,50,000",,Second Owner,2494,Manual,2008,12.8,,20,15,,,75,2.59,Agra,Third Party insurance
+Tata,Tiago 1.2 Revotron XZ Plus,Petrol,5,"75,000",,First Owner,1199,Manual,2019,23.84,84,114,15,,,40,4.0,Agra,Third Party insurance
+Maruti,Eeco 5 Seater AC BSIV,Petrol,5,"50,000",N/A,First Owner,1196,Manual,2020,15.37,73,101,,,,30,4.01,Agra,Third Party insurance
+BMW,7 Series 730Ld,Diesel,5,"1,00,000",,Third Owner,2993,Automatic,2010,14.49,258,560,18,,,75,17.5,Agra,Third Party insurance
+Maruti,Alto 800 LXI,Petrol,5,"29,000",,First Owner,796,Manual,2014,22.74,47.3,69,,,,75,2.3,Agra,Third Party insurance
+Toyota,Innova 2.5 G (Diesel) 7 Seater BS IV,Diesel,8,"1,80,000",,First Owner,2494,Manual,2011,12.8,,20,15,,,75,4.25,Agra,Third Party insurance
+Maruti,Alto LX,Petrol,5,"80,000",,Second Owner,796,Manual,2005,19.7,46.3,62,12,,,75,0.4,Agra,Third Party insurance
+Mahindra,XUV500 W7 BSIV,Diesel,7,"18,050",,First Owner,2179,Manual,2019,15.1,152.87,360,,,,40,12.7,Agra,Third Party insurance
+Hyundai,Santro Xing XE,Petrol,5,"90,000",,First Owner,1086,Manual,2009,17.8,,9,13,,,75,0.9,Agra,Third Party insurance
+Hyundai,Grand i10 Magna,Petrol,5,"80,240",,First Owner,1197,Manual,2014,18.9,82,114,,,,75,3.25,Agra,Third Party insurance
+Maruti,Wagon R LXI Minor,Petrol,5,"30,000",,First Owner,1061,Manual,2009,18.9,67,84,13,,,75,1.0,Agra,Third Party insurance
+Maruti,Ritz ZXi,Petrol,5,"80,000",N/A,Second Owner,1197,Manual,2010,18.5,85.80,114,14,,,75,1.5,Agra,Third Party insurance
+Hyundai,Xcent 1.1 CRDi S Option,Diesel,5,"72,500",,Third Owner,1120,Manual,2015,24.4,71.01,180.4,14,,,75,3.4,Agra,Third Party insurance
+Maruti,Celerio Green VXI Optional,CNG,5,"70,000",,First Owner,998,Manual,2015,31.79,58.2,78,,,,75,3.01,Agra,Third Party insurance
+Hyundai,i20 Magna 1.4 CRDi (Diesel),Diesel,5,"90,000",,Second Owner,1396,Manual,2013,21.9,88.76,219.6,14,,,75,3.0,Agra,Third Party insurance
+Audi,Q3 35 TDI Quattro Premium,Diesel,5,"58,169",,First Owner,1968,Automatic,2015,15.73,174.33,380,16,,,75,24.0,Agra,Third Party insurance
+Honda,City VTEC,Petrol,5,"1,20,000",N/A,Fourth Owner,1497,Manual,2007,16.9,,13,14,,,75,0.85,Agra,N/a
+Mahindra,NuvoSport N8,Diesel,7,"95,000",,First Owner,1493,Manual,2017,17.45,100,240,16,,,60,7.0,Agra,Comprehensive
+Hyundai,Creta 1.6 CRDi SX Option,Diesel,5,"90,000",,First Owner,1582,Manual,2015,19.67,126.2,259.9,17,,,75,7.0,Agra,Third Party insurance
+Toyota,Etios GD,Diesel,5,"1,50,000",,First Owner,1364,Manual,2013,23.59,67.04,170,15,,,75,3.5,Agra,Third Party insurance
+Mahindra,Scorpio 1.99 S10,Diesel,7,"1,20,000",,First Owner,1997,Manual,2015,15.4,120,280,17,,,75,6.5,Agra,Third Party insurance
+Hyundai,EON Era Plus,Petrol,5,"40,000",,First Owner,814,Manual,2016,21.1,55.2,74.5,,,,70,2.25,Agra,Third Party insurance
+Mahindra,Thar CRDe,Diesel,6,"50,000",,First Owner,2498,Manual,2017,16.55,105,247,,,,60,6.75,Agra,Third Party insurance
+Nissan,Sunny XL CVT,Petrol,5,"1,10,000",,First Owner,1498,Automatic,2015,17.97,99.6,134,,,,75,3.0,Agra,Third Party insurance
+Maruti,Wagon R LXI,Petrol,5,"25,000",,First Owner,998,Manual,2019,21.79,67.05,90,,,,40,4.0,Agra,Third Party insurance
+Hyundai,i10 Sportz,Petrol,5,"50,000",,Second Owner,1197,Manual,2014,20.36,78.9,111.8,13,,,75,2.0,Agra,Third Party insurance
+Hyundai,i10 Era,Petrol,5,"1,10,000",N/A,Second Owner,1086,Manual,2010,19.81,68.05,99.04,,,,75,1.0,Agra,Third Party insurance
+Maruti,SX4 VDI,Diesel,5,"1,10,000",N/A,First Owner,1248,Manual,2013,21.79,88.73,200,15,,,75,2.75,Agra,Third Party insurance
+Maruti,Ciaz 1.3 Delta,Diesel,5,"50,000",,First Owner,1248,Manual,2017,28.09,88.5,200,,,,60,6.2,Agra,Third Party insurance
+Mahindra,Marazzo M6,Diesel,7,"25,000",,First Owner,1497,Manual,2018,17.3,121,300,,,,50,9.0,Agra,Individual
+Hyundai,i20 1.2 Era,Petrol,5,"5,000",N/A,First Owner,1197,Manual,2012,17,80 PS at 5200 ,"11.4 kgm at 4,000 r",14,,,75,2.2,Agra,Third Party insurance
+Ford,Figo 1.5D Titanium MT,Diesel,5,"39,000",,First Owner,1498,Manual,2016,25.83,99,215,14,,,70,3.0,Agra,Third Party insurance
+Honda,Amaze VX i-VTEC,Petrol,5,"60,000",,First Owner,1198,Manual,2016,17.8,86.7,109,14,,,70,4.0,Agra,Available
+Hyundai,Grand i10 Nios AMT Sportz,Petrol,5,"21,500",,Second Owner,1197,Automatic,2020,20.7,81.86,113.8,14,,,30,6.5,Agra,Third Party insurance
+Mahindra,TUV 300 T8,Diesel,7,"88,000",,First Owner,1493,Manual,2015,18.49,100,240,15,,,75,5.9,Agra,Third Party insurance
+Honda,City i DTEC V,Diesel,5,"1,10,000",,Third Owner,1498,Manual,2015,26,98.6,200,15,,,75,4.0,Agra,Third Party insurance
+Maruti,Ertiga SHVS VDI,Diesel,7,"1,00,000",,Second Owner,1248,Manual,2017,24.52,88.5,200,,,,60,6.5,Agra,Third Party insurance
+Chevrolet,Enjoy Petrol LTZ 8 Seater,Petrol,8,"90,000",,Third Owner,1399,Manual,2013,13.7,98.82,131,14,,,75,1.7,Agra,Third Party insurance
+Hyundai,EON Magna Plus,Petrol,5,"23,500",N/A,First Owner,814,Manual,2016,21.1,55.2,74.5,,,,70,2.5,Agra,Third Party insurance
+Maruti,Omni CNG,CNG,8,"50,000",,First Owner,796,Manual,2012,10.9,,,12,,,75,1.5,Agra,Third Party insurance
+Maruti,Swift VDI,Diesel,5,"80,000",N/A,Second Owner,1248,Manual,2018,28.4,74,190,,,,50,5.56,Agra,Third Party insurance
+Hyundai,Venue SX Turbo Executive,Diesel,5,"50,000",,First Owner,1498,Manual,2020,23.7,98.6,240.26,,,,30,8.6,Agra,Third Party insurance
+Mahindra,Thar CRDe AC,Diesel,6,"70,000",,Second Owner,2498,Manual,2014,16.55,105,247,,,,75,4.8,Agra,Third Party insurance
+Maruti,Swift VXI,Petrol,5,"65,000",,First Owner,1197,Manual,2013,18.6,85.8,114,14,,,75,3.0,Agra,Third Party insurance
+Maruti,Wagon R LXI CNG,CNG,5,"70,000",N/A,Second Owner,998,Manual,2017,26.6,58.16,77,,,,60,3.25,Agra,Third Party insurance
+Maruti,SX4 S Cross DDiS 200 Delta,Diesel,5,"90,000",,First Owner,1248,Manual,2017,23.65,88.5,200,,,,60,5.5,Agra,Third Party insurance
+Maruti,Swift Dzire VXI,Petrol,5,"60,000",,First Owner,1197,Manual,2015,20.85,83.14,115,,,,75,3.8,Agra,Third Party insurance
+Mahindra,Bolero SLE,Diesel,7,"90,000",,First Owner,2523,Manual,2013,15.96,62.1,195,,,,75,4.5,Agra,Third Party insurance
+Hyundai,i10 Magna,Petrol,5,"50,000",,First Owner,1197,Manual,2008,20.36,78.9,111.7,13,,,75,0.85,Agra,Available
+Toyota,Fortuner 3.0 Diesel,Diesel,7,"1,10,000",N/A,Second Owner,2982,Manual,2011,11.5,171,343 ,17,,,75,7.25,Agra,Third Party insurance
+Renault,Duster 110PS Diesel RxL AMT,Diesel,5,"60,000",,First Owner,1461,Automatic,2016,19.6,108.45,245,,,,70,6.95,Agra,Third Party insurance
+Maruti,Swift Dzire VDI,Diesel,5,"80,000",,First Owner,1248,Manual,2013,23.4,74,190,14,,,75,3.2,Agra,Third Party insurance
+Toyota,Yaris J CVT,Petrol,5,"35,000",,First Owner,1496,Automatic,2020,17.8,105.94,140,,,,30,10.0,Agra,Third Party insurance
+Maruti,Wagon R VXI Plus,Petrol,5,"25,000",,First Owner,998,Manual,2017,20.51,67.04,90,,,,60,3.3,Agra,Third Party insurance
+Ferrari,488 GTB Spider,Petrol,5,"5,000",,First Owner,3902,Automatic,2020,7.75,659.78,760,,,,30,3.26,Agra,Third Party insurance
+Maruti,Wagon R VXI,Petrol,5,"10,000",,First Owner,998,Manual,2022,24.35,65.71,89,,,,15,5.83,Agra,Third Party insurance
+Maruti,Wagon R LXI CNG,CNG,5,"1,20,000",,First Owner,998,Manual,2018,26.6,58.16,77,,,,50,3.6,Agra,Third Party insurance
+Tata,Indigo CR4,Diesel,5,"1,48,000",,First Owner,1396,Manual,2013,23.57,70,140,14,,,75,2.3,Agra,Third Party insurance
+Ford,Figo Diesel Titanium,Diesel,5,"1,00,000",,Third Owner,1399,Manual,2013,20,68.05,160,14,,,75,1.85,Agra,Third Party
+Volkswagen,Vento 1.5 TDI Comfortline AT,Diesel,5,"1,00,000",,Second Owner,1498,Automatic,2015,21.21,103.2,250,15,,,75,4.5,Agra,Third Party insurance
+Hyundai,Grand i10 Sportz,Petrol,5,"50,000",,First Owner,1197,Manual,2015,18.9,82,114,,,,75,3.1,Agra,Third Party insurance
+Mahindra,Scorpio S4 Plus,Diesel,7,"70,000",,First Owner,2179,Manual,2016,15.4,120,280,,,,70,7.0,Agra,Third Party insurance
+Maruti,Celerio LXI,Petrol,5,"60,000",,First Owner,998,Manual,2015,23.1,67.04,90,,,,75,2.8,Agra,N/a
+Tata,Aria Pleasure 4x2,Diesel,7,"1,00,000",,First Owner,2179,Manual,2011,13.7,138.1,320,16,,,75,3.0,Agra,Third Party insurance
+Hyundai,Santro Xing GL CNG,CNG,5,"80,000",,Second Owner,1086,Manual,2009,17,,,13,,,75,1.5,Agra,Third Party
+Hyundai,Santa Fe 4WD AT,Diesel,7,"1,30,000",N/A,Second Owner,2199,Automatic,2014,13.01,194.3,436.39,18,,,75,8.5,Agra,Third Party insurance
+Renault,KWID RXT,Petrol,5,"26,700",,First Owner,799,Manual,2015,25.17,53.3,72,,,,75,2.5,Agra,Third Party insurance
+Tata,Punch Adventure AMT Rhythm,Petrol,5,"5,000",,First Owner,1199,Automatic,2022,18.8,117.74,115,,,,15,6.7,Agra,Third Party insurance
+Hyundai,i10 Sportz,Petrol,5,"60,000",,Second Owner,1197,Manual,2009,20.36,78.9,111.8,13,,,75,1.15,Agra,Third Party insurance
+Audi,A4 35 TFSi Premium,Petrol,5,"36,300",HR26,First Owner,1798,Automatic,2015,15.64,167.62,320,16,Sept,2015,75,19.9,Agra,Zero Dep
+Audi,A4 2.0 TDI Multitronic,Diesel,5,"42,000",HR26,Second Owner,1968,Automatic,2013,16.55,,32,16,Mar,2013,75,7.9,Agra,Third Party insurance
+Land,Rover Discovery Sport TD4 HSE Luxury,Diesel,7,"47,000",DL3C,First Owner,1999,Automatic,2017,12.97,177,430,18,Aug,2017,60,33.8,Agra,Zero Dep
+Audi,A4 35 TDI Premium,Diesel,5,"65,000",HR26,First Owner,1968,Automatic,2013,17.11,174.33,380,16,Nov,2013,75,10.9,Agra,Comprehensive
+Audi,A3 35 TFSI Technology,Petrol,5,"44,000",HR26,First Owner,1395,Automatic,2019,19.2,150,250,16,Jul,2019,40,27.8,Agra,Zero Dep
+Mini,Cooper S,Petrol,4,"29,500",HR51,Second Owner,1598,Automatic,2013,13.6,181,240,15,Nov,2013,75,24.9,Agra,Comprehensive
+Audi,Q3 2.0 TDI,Diesel,5,"85,000",HR26,First Owner,1968,Automatic,2014,15.73,174.33,380,16,Jun,2014,75,13.8,Agra,Comprehensive
+Mercedes-Benz,C-Class C 220 CDI Elegance AT,Diesel,5,"54,000",UP16,Second Owner,2143,Automatic,2015,14.84,170,400,16,Apr,2015,75,19.8,Agra,Comprehensive
+Mercedes-Benz,E-Class E250 CDI Avantgarde,Diesel,5,"36,000",HR26,Second Owner,2143,Automatic,2016,13,204,500,17,Feb,2016,70,29.8,Agra,Comprehensive
+Audi,A6 35 TDI,Diesel,5,"49,000",DL7C,Second Owner,1968,Automatic,2016,18.53,187.74,400,18,Jul,2016,70,19.8,Agra,Comprehensive
+Audi,Q8 55 TFSI Quattro,Petrol,5,"17,500",MH14,First Owner,2995,Automatic,2020,9.8,340,500,20,Apr,2020,30,99.0,Agra,Zero Dep
+Audi,A4 Technology,Petrol,5,"31,000",UP74,First Owner,1998,Automatic,2021,17.42,187.74,320,17,Nov,2021,20,40.9,Agra,Zero Dep
+Audi,A6 35 TDI,Diesel,5,"33,500",HR26,First Owner,1968,Automatic,2016,18.53,187.74,400,18,Sept,2016,70,23.8,Agra,Comprehensive
+Audi,Q2 Premium Plus II,Petrol,5,"2,000",HR26,First Owner,1984,Automatic,2022,,187.74,320,,Jan,2022,15,29.9,Agra,Zero Dep
+Audi,Q7 35 TDI Quattro Premium,Diesel,7,"37,000",HR51,First Owner,2967,Automatic,2015,12.07,241.4,550,18,Feb,2015,75,25.8,Agra,Third Party insurance
+Audi,A6 35 TDI,Diesel,5,"46,000",HR26,Second Owner,1968,Automatic,2017,18.53,187.74,400,18,Nov,2017,60,26.9,Agra,Comprehensive
+Audi,A4 30 TFSI Technology,Petrol,5,"27,000",CH01,Second Owner,1395,Automatic,2018,17.84,147.51,250,17,Aug,2018,50,29.9,Agra,Third Party insurance
+Audi,A6 35 TDI,Diesel,5,"85,000",UP16,First Owner,1968,Automatic,2015,18.53,187.74,400,18,Nov,2015,75,18.9,Agra,Comprehensive
+Audi,A6 35 TDI,Diesel,5,"41,000",UP16,Second Owner,1968,Automatic,2016,18.53,187.74,400,18,Jan,2016,70,20.9,Agra,Comprehensive
+Audi,A6 2.0 TDI Premium Plus,Diesel,5,"71,000",CH01,First Owner,1968,Automatic,2014,17.68,174.33,380,17,Jul,2014,75,12.9,Agra,Comprehensive
+Maruti,Eeco CNG HTR 5-STR,CNG,5,"90,000",,Second Owner,1196,Manual,2016,21.94 ,63,83,,Mar,2016,70,3.0,Agra,Third Party insurance
+BMW,3 Series 320d Sport Line,Diesel,5,"40,000",,Fourth Owner,1995,Automatic,2013,18.88,184,380,17,,,75,10.0,Agra,Third Party insurance
+Hyundai,Verna SX Diesel,Diesel,5,"30,000",,First Owner,1493,Manual,2022,25,113.45,250,16,,,15,12.0,Agra,Third Party insurance
+Hyundai,i10 Era 1.1,Petrol,5,"87,500",,First Owner,1086,Manual,2010,19.81,68.05,99.04,,,,75,1.8,Agra,Third Party insurance
+Tata,Harrier XT BSIV,Diesel,5,"39,000",,First Owner,1956,Manual,2019,17,138.1,350,17,,,40,11.0,Agra,Third Party insurance
+Hyundai,i10 Era 1.1,Petrol,5,"87,500",,First Owner,1086,Manual,2010,19.81,68.05,99.04,,,,75,1.8,Agra,Third Party insurance
+Hyundai,i20 Asta,Petrol,5,"1,53,521",,Fourth Owner,1197,Manual,2009,17,80 PS at 5200 ,"11.4 kgm at 4,000 r",14,,,75,2.0,Agra,Third Party insurance
+Mahindra,Scorpio 1.99 S4 Plus 4WD,Diesel,7,"70,000",,Second Owner,1997,Manual,2017,15.4,120,280,,,,60,8.0,Agra,Third Party insurance
+Maruti,Eeco 5 Seater AC BSIV,Petrol,5,"40,000",N/A,First Owner,1196,Manual,2020,15.37,73,101,,,,30,3.56,Agra,Third Party insurance
+Maruti,Vitara Brezza ZXI,Petrol,5,"20,000",,First Owner,1462,Manual,2021,17.03,103.26,138,R16,,,20,9.0,Agra,Third Party insurance
+Maruti,Vitara Brezza ZXI,Petrol,5,"15,000",,First Owner,1462,Manual,2021,17.03,103.26,138,R16,,,20,8.9,Agra,Comprehensive
+Mahindra,Marazzo M2 8Str BSIV,Diesel,8,"50,000",,Second Owner,1497,Manual,2019,17.3,121,300,,,,40,6.45,Agra,Third Party insurance
+Maruti,Celerio ZXI,Petrol,5,"1,20,000",,Second Owner,998,Manual,2014,23.1,67.04,90,,,,75,3.5,Agra,Third Party insurance
+Maruti,Swift VDI BSIV,Diesel,5,"88,000",,First Owner,1248,Manual,2014,25.2,74,190,,,,75,3.5,Agra,Third Party insurance
+Maruti,Eeco 5 Seater AC 2020-2022,Petrol,5,"51,280",,First Owner,1196,Manual,2020,16.11,72.41,98,,,,30,3.9,Agra,Third Party insurance
+Chevrolet,Beat LS,Petrol,5,"80,000",,Third Owner,1199,Manual,2014,18.6,76.8,106.5,,,,75,1.4,Agra,Third Party insurance
+Maruti,Swift VDI BSIV,Diesel,5,"70,000",,Second Owner,1248,Manual,2014,25.2,74,190,,,,75,3.5,Agra,Third Party insurance
+Maruti,Swift VDI BSIV,Diesel,5,"70,000",,Second Owner,1248,Manual,2014,25.2,74,190,,,,75,3.5,Agra,Comprehensive
+Hyundai,i10 Magna 1.2 iTech SE,Petrol,5,"23,000",,First Owner,1197,Manual,2011,20.36,78.9,111.7,13,,,75,2.0,Agra,Third Party insurance
+Hyundai,i20 1.4 Sportz,Diesel,5,"90,000",,Second Owner,1396,Manual,2018,22.54,88.73,219.7,,,,50,5.5,Agra,Third Party insurance
+Maruti,Ertiga VDI,Diesel,7,"50,000",,Second Owner,1248,Manual,2014,20.77,88.76,200,,,,75,5.0,Agra,Third Party insurance
+Toyota,Innova 2.5 VX (Diesel) 7 Seater,Diesel,7,"1,60,000",,First Owner,2494,Manual,2014,12.99,100.6,200,15,,,75,6.0,Agra,Individual
+Hyundai,Santro Xing GLS,Petrol,5,"40,000",,First Owner,1086,Manual,2007,17.92,62.1,96.1,13,,,75,0.6,Agra,Third Party insurance
+Maruti,Alto LXi,Petrol,5,"13,000",,First Owner,796,Manual,2012,19.7,46.3,62,12,,,75,1.5,Agra,Third Party insurance
+Audi,A4 35 TDI Technology,Diesel,5,"43,000",HP12,First Owner,1968,Automatic,2019,18.25,187.74,400,17,Jan,2019,40,29.9,Agra,Zero Dep

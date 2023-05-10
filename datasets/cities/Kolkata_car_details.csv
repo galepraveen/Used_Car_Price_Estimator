@@ -1,0 +1,1248 @@
+Brand,Model,Insurance Validity,Fuel Type,Seats,Kms Driven (in kms),Ownership,Engine Displacement (in cc),Transmission,Year of Manufacture,Mileage (in kmpl),Max Power (in bhp),Torque (in nm),Registration Month,Registration Year,Depreciation Rate (in %),Price (in lacs),City,RTO,Wheel Size
+Hyundai,Xcent 1.2 VTVT S,Third Party insurance,Petrol,5,"30,000",First Owner,1197,Manual,2018,20.14,81.86,113.75,Mar,2018,50,4.0,Kolkata,,
+Kia,Seltos HTX IVT G,Comprehensive,Petrol,5,"11,720",First Owner,1497,Automatic,2021,16.8,113.42,144,Mar,2021,20,14.48,Kolkata,WB08,R17
+Maruti,Alto 800 LXI,Comprehensive,Petrol,5,"20,145",First Owner,796,Manual,2018,24.7,47.3,69,Jun,2018,50,3.06,Kolkata,WB06,
+Maruti,Wagon R LXI BS IV,Comprehensive,Petrol,5,"29,037",First Owner,998,Manual,2013,18.9,67.1,90,Jun,2013,75,2.48,Kolkata,WB02,13
+Maruti,Alto 800 VXI,Comprehensive,Petrol,5,"12,892",Second Owner,796,Manual,2020,22.05,47.33,69,Jun,2020,30,3.56,Kolkata,WB18,
+Maruti,Alto 800 LXI,Third Party,Petrol,5,"45,455",First Owner,796,Manual,2013,22.74,47.3,69,Jun,2013,75,2.25,Kolkata,WB02,
+Honda,City V CVT,Comprehensive,Petrol,5,"19,006",First Owner,1497,Automatic,2019,17.4,117.6,145,Sept,2019,40,9.11,Kolkata,WB30,15
+Maruti,Alto 800 LXI,Third Party,Petrol,5,"32,252",First Owner,796,Manual,2019,22.05,47.33,69,Jun,2019,40,3.3,Kolkata,WB26,
+Maruti,Swift RS VXI,Comprehensive,Petrol,5,"42,793",First Owner,1197,Manual,2014,18.6,85.8,114,Jun,2014,75,3.66,Kolkata,WB20,14
+Maruti,Wagon R VXI BS IV,Comprehensive,Petrol,5,"40,371",First Owner,998,Manual,2014,20.51,67.04,90,Jun,2014,75,2.91,Kolkata,WB02,
+Maruti,Swift VXI,Third Party,Petrol,5,"11,024",First Owner,1197,Manual,2015,21.21,81.80,113,Jun,2015,75,4.18,Kolkata,WB24,
+Maruti,Wagon R VXI BS IV,Comprehensive,Petrol,5,"69,217",First Owner,998,Manual,2012,18.9,67.1,90,Jun,2012,75,2.46,Kolkata,WB06,14
+Mahindra,XUV500 W11 AT BSIV,Comprehensive,Diesel,7,"50,136",Second Owner,2179,Automatic,2018,15.1,152.87,360,Aug,2018,50,12.0,Kolkata,WB12,17
+Renault,Duster 85PS Diesel RxL,Comprehensive,Diesel,5,"1,37,000",First Owner,1461,Manual,2014,20.45,83.8,200,Jul,2014,75,2.25,Kolkata,WB02,16
+Maruti,Swift LXI Option SP Limited Edition,Third Party insurance,Petrol,5,"70,000",First Owner,1197,Manual,2016,20.4,83.11,115,Mar,2016,70,3.5,Kolkata,,
+Maruti,Celerio VXI AT,Comprehensive,Petrol,5,"56,014",First Owner,998,Automatic,2014,23.1,67.04,90,Jun,2014,75,3.05,Kolkata,WB08,
+Maruti,A-Star Lxi,Comprehensive,Petrol,5,"66,018",Second Owner,998,Manual,2010,19,66.1,90,Jul,2010,75,1.51,Kolkata,WB06,13
+Maruti,Baleno 1.2 Alpha,Comprehensive,Petrol,5,"26,019",First Owner,1197,Manual,2019,21.4,83.1,115,Jan,2019,40,6.35,Kolkata,WB02,16
+Maruti,Wagon R VXI,Comprehensive,Petrol,5,"36,000",First Owner,998,Manual,2017,21.79,67.05,90,Dec,2017,60,3.65,Kolkata,WB54,
+Maruti,Ciaz 1.4 Zeta,Third Party insurance,Petrol,5,"54,700",First Owner,1373,Manual,2017,20.73,91.1,130,Nov,2017,60,4.95,Kolkata,WB02,15
+Maruti,Alto 800 VXI,Third Party,Petrol,5,"25,769",Second Owner,796,Manual,2016,22.74,47.3,69,Jun,2016,70,2.64,Kolkata,WB20,
+Maruti,Alto 800 LXI,Third Party,Petrol,5,"42,000",First Owner,796,Manual,2017,24.7,47.3,69,Jun,2017,60,2.91,Kolkata,WB24,
+Maruti,Alto 800 VXI,Third Party,Petrol,5,"13,766",First Owner,796,Manual,2020,22.05,47.33,69,Jun,2020,30,3.96,Kolkata,WB02,
+Volkswagen,Ameo 1.2 MPI Comfortline,Third Party,Petrol,5,"60,741",First Owner,1198,Manual,2017,17,73.75,110,Jun,2017,60,3.93,Kolkata,WB06,
+Ford,Ecosport 1.5 Petrol Trend,Third Party,Petrol,5,"15,489",First Owner,1496,Manual,2020,15.9,120.69,149,Jun,2020,30,7.59,Kolkata,WB26,
+Maruti,Wagon R VXI BS IV,Comprehensive,Petrol,5,"23,343",Second Owner,998,Manual,2018,20.51,67.04,90,Jun,2018,50,4.1,Kolkata,WB24,
+Hyundai,i20 Magna 1.2,Third Party,Petrol,5,"39,522",Second Owner,1197,Manual,2016,18.6,81.83,114.7,Jun,2016,70,4.23,Kolkata,WB02,
+Maruti,Wagon R VXI BS IV,Third Party,Petrol,5,"28,352",Second Owner,998,Manual,2016,20.51,67.04,90,Jun,2016,70,3.47,Kolkata,WB02,
+Maruti,Alto 800 VXI,Third Party,Petrol,5,"40,303",First Owner,796,Manual,2016,22.74,47.3,69,Jun,2016,70,2.64,Kolkata,WB02,
+Maruti,Wagon R VXI BS IV,Third Party,Petrol,5,"13,444",Second Owner,998,Manual,2017,20.51,67.04,90,Jun,2017,60,4.14,Kolkata,WB02,
+Hyundai,Creta 1.6 CRDi SX Plus,Comprehensive,Diesel,5,"72,309",First Owner,1582,Manual,2017,19.67,126.2,259.9,Jun,2017,60,8.91,Kolkata,WB20,16
+Maruti,Wagon R VXI BS IV,Third Party,Petrol,5,"31,236",Second Owner,998,Manual,2014,20.51,67.04,90,Jun,2014,75,3.21,Kolkata,WB08,
+Kia,Carnival Limousine,Third Party insurance,Diesel,7,"13,200",First Owner,2199,Automatic,2020,14.11,197.26,440,Dec,2020,30,30.0,Kolkata,WB08,18
+Skoda,Kushaq 1.0 TSI Ambition AT,Third Party insurance,Petrol,5,"8,700",,999,Automatic,2021,17.2,113.98,178,,,20,12.75,Kolkata,,16
+Hyundai,i10 Sportz,Comprehensive,Petrol,5,"42,041",Second Owner,1197,Manual,2011,20.36,78.9,111.8,May,2011,75,2.25,Kolkata,WB06,13
+Maruti,Ignis Delta,Comprehensive,Petrol,5,"44,023",First Owner,1197,Manual,2018,20.89,81.80,113,Feb,2018,50,4.05,Kolkata,WB02,
+Maruti,Ertiga VXI,Comprehensive,Petrol,7,"80,041",First Owner,1462,Manual,2019,19.01,103.26,138,Mar,2019,40,8.05,Kolkata,WB16,
+Maruti,Swift VXI,Comprehensive,Petrol,5,"25,041",First Owner,1197,Manual,2020,21.21,81.80,113,Jun,2020,30,5.75,Kolkata,WB16,
+Honda,City i VTEC VX,Comprehensive,Petrol,5,"45,000",First Owner,1497,Manual,2016,17.4,117.3,145,May,2016,70,6.11,Kolkata,WB06,15
+Tata,Nexon XZ Plus (O) Diesel,Comprehensive,Diesel,5,"7,500",First Owner,1497,Manual,2020,21.19,108.49,260,Dec,2020,30,11.0,Kolkata,WB02,16
+Maruti,Swift VXI,Third Party,Petrol,5,"19,034",Second Owner,1197,Manual,2012,18.6,85.8,114,Jun,2012,75,3.07,Kolkata,WB02,14
+Hyundai,Xcent 1.2 Kappa S Option,Comprehensive,Petrol,5,"54,361",Second Owner,1197,Manual,2014,19.1,81.86,113.75,Jun,2014,75,3.23,Kolkata,WB26,14
+Maruti,Wagon R VXI BS IV,Third Party,Petrol,5,"32,532",Second Owner,998,Manual,2016,20.51,67.04,90,Jun,2016,70,3.47,Kolkata,WB02,
+Maruti,Alto 800 VXI,Comprehensive,Petrol,5,"92,885",First Owner,796,Manual,2014,22.74,47.3,69,Jun,2014,75,2.16,Kolkata,WB06,
+Honda,Jazz ZX,Comprehensive,Petrol,5,"9,405",First Owner,1199,Manual,2021,17.1,88.50,110,Jun,2021,20,8.25,Kolkata,WB12,15
+Maruti,Ritz Genus VXi,Comprehensive,Petrol,5,"44,833",Second Owner,1197,Manual,2010,18.5,85 PS at 6000,113Nm at 4500r,Jun,2010,75,1.96,Kolkata,WB06,14
+Hyundai,Creta 1.4 CRDi S Plus,Comprehensive,Diesel,5,"88,520",First Owner,1396,Manual,2016,21.38,88.7,219.7,Jun,2016,70,7.48,Kolkata,WB02,16
+Maruti,Wagon R VXI BS IV,Comprehensive,Petrol,5,"86,041",First Owner,998,Manual,2017,20.51,67.04,90,Jun,2017,60,3.25,Kolkata,WB26,
+Maruti,Wagon R VXI BS IV,Comprehensive,Petrol,5,"55,319",Second Owner,998,Manual,2017,20.51,67.04,90,Jun,2017,60,3.79,Kolkata,WB20,
+Maruti,S-Presso VXI Plus 2019-2022,Comprehensive,Petrol,5,"11,420",First Owner,998,Manual,2020,21.7,65.71,89,Jun,2020,30,4.36,Kolkata,WB12,
+Maruti,Baleno 1.2 CVT Zeta,Third Party,Petrol,5,"56,272",First Owner,1197,Automatic,2017,21.4,83.1,115,Jun,2017,60,6.03,Kolkata,WB20,16
+Toyota,Corolla Altis 1.8 G,Comprehensive,Petrol,5,"30,012",First Owner,1798,Manual,2018,14.28,138.03,173,Apr,2018,50,11.34,Kolkata,WB02,16
+Honda,Amaze S i-Vtech,Comprehensive,Petrol,5,"36,000",First Owner,1198,Manual,2013,18,86.7,109,Nov,2013,75,2.6,Kolkata,WB02,
+Renault,Kiger RXZ AMT,Comprehensive,Petrol,5,"4,500",First Owner,999,Automatic,2021,19.03,71.01,96,Nov,2021,20,8.0,Kolkata,WB08,16
+Honda,City i VTEC VX,Comprehensive,Petrol,5,"35,000",First Owner,1497,Manual,2017,17.8,117.3,145,Apr,2017,60,7.25,Kolkata,WB08,15
+Hyundai,Creta SX Executive,Comprehensive,Petrol,5,"17,009",First Owner,1497,Manual,2021,,113.18,143.8,Aug,2021,20,14.25,Kolkata,WB24,17
+Hyundai,i20 1.2 Magna,Comprehensive,Petrol,5,"26,034",Second Owner,1197,Manual,2011,18.5,80 PS at 5200 ,"11.4 kgm at 4,000 r",Jul,2011,75,2.15,Kolkata,WB20,14
+Honda,City S,Comprehensive,Petrol,5,"45,000",First Owner,1497,Manual,2013,16.8,116.4,146,Aug,2013,75,2.95,Kolkata,WB02,15
+Mahindra,XUV500 W10 2WD,Comprehensive,Diesel,7,"28,025",First Owner,2179,Manual,2016,16,140,330,Jul,2016,70,9.35,Kolkata,WB12,17
+Hyundai,Elantra 2.0 SX,Comprehensive,Petrol,5,"27,000",First Owner,1999,Manual,2017,14.59,149.92,192.2,Dec,2017,60,7.5,Kolkata,WB02,16
+Hyundai,i20 Magna 1.2,Third Party,Petrol,5,"11,396",Second Owner,1197,Manual,2016,18.6,81.83,114.7,Jun,2016,70,4.5,Kolkata,WB24,
+Maruti,Ignis 1.2 Delta BSIV,Third Party,Petrol,5,"1,290",First Owner,1197,Manual,2020,20.89,81.80,113,Jun,2020,30,5.23,Kolkata,WB24,
+Hyundai,Santro Sportz BSIV,Comprehensive,Petrol,5,"20,630",First Owner,1086,Manual,2019,20.3,68,99,Aug,2019,40,4.98,Kolkata,WB08,
+Maruti,Wagon R VXI BS IV,Third Party,Petrol,5,"61,389",First Owner,998,Manual,2015,20.51,67.04,90,Jun,2015,75,3.16,Kolkata,WB12,
+Maruti,Wagon R VXI BS IV,Third Party,Petrol,5,"71,243",First Owner,998,Manual,2015,20.51,67.04,90,Jun,2015,75,2.98,Kolkata,WB24,
+Maruti,Ertiga VXI,Comprehensive,Petrol,7,"95,475",First Owner,1373,Manual,2013,16.02,93.7,130,Sept,2013,75,4.48,Kolkata,WB24,
+Tata,Nexon XMA AMT Diesel S,Comprehensive,Diesel,5,"37,813",First Owner,1497,Automatic,2021,24.07,113.42,260,Jun,2021,20,9.78,Kolkata,WB20,
+Hyundai,i20 Active 1.2,Comprehensive,Petrol,5,"73,722",First Owner,1197,Manual,2017,17.19,81.86,114.73,Sept,2017,60,5.02,Kolkata,WB12,16
+Maruti,Alto 800 VXI Plus,Third Party,Petrol,5,"53,378",First Owner,796,Manual,2020,22.05,47.33,69,Jun,2020,30,3.58,Kolkata,WB12,
+Maruti,Ertiga VXI,Third Party,Petrol,7,"44,423",Second Owner,1373,Manual,2014,16.02,93.7,130,Jun,2014,75,5.01,Kolkata,WB02,
+Mahindra,Scorpio S11,Comprehensive,Diesel,7,"55,557",First Owner,2179,Manual,2020,15.4,136.78,319,Aug,2020,30,15.3,Kolkata,WB28,R17
+Hyundai,Santro Asta BSIV,Comprehensive,Petrol,5,"22,509",First Owner,1086,Manual,2019,20.3,68,99,Jun,2019,40,4.76,Kolkata,WB26,
+Volkswagen,Polo 1.5 TDI Highline,Comprehensive,Diesel,5,"75,000",First Owner,1498,Manual,2015,20.14,88,230,Aug,2015,75,3.5,Kolkata,WB08,15
+Honda,Amaze S i-Vtech,Comprehensive,Petrol,5,"54,000",First Owner,1198,Manual,2014,18,86.7,109,Mar,2014,75,2.99,Kolkata,WB02,
+Renault,Duster 85PS Diesel RxE,Comprehensive,Diesel,5,"73,000",First Owner,1461,Manual,2013,20.45,83.8,200,Nov,2013,75,2.25,Kolkata,WB02,16
+Mercedes-Benz,E-Class E 350 d BSIV,Third Party insurance,Diesel,5,"24,200",Second Owner,2987,Automatic,2020,18,254.8,620,Oct,2020,30,55.0,Kolkata,WB02,17
+Volkswagen,Polo 1.2 MPI Highline,Comprehensive,Petrol,5,"37,000",First Owner,1199,Manual,2016,16.2,74,110,May,2016,70,4.3,Kolkata,WB02,15
+Honda,City i VTEC V,Comprehensive,Petrol,5,"32,000",First Owner,1497,Manual,2014,17.4,117.3,145,Aug,2014,75,4.15,Kolkata,WB02,15
+Hyundai,i20 1.2 Asta,Comprehensive,Petrol,5,"39,000",First Owner,1197,Manual,2018,18.6,81.83,114.7,Jun,2018,50,5.25,Kolkata,WB02,16
+Volkswagen,Polo 1.2 MPI Comfortline,Comprehensive,Petrol,5,"14,000",First Owner,1199,Manual,2019,16.2,74,110,Jun,2019,40,4.75,Kolkata,WB02,
+Hyundai,Verna VTVT 1.4 E,Third Party insurance,Petrol,5,"44,906",First Owner,1368,Manual,2019,19.1,98.6,132.38,Jun,2019,40,7.65,Kolkata,WB38,
+Maruti,Swift Dzire VXI,Comprehensive,Petrol,5,"14,642",First Owner,1197,Manual,2013,19.1,85.8,114,Jul,2013,75,3.84,Kolkata,WB90,14
+Honda,City i VTEC V,Comprehensive,Petrol,5,"51,336",Second Owner,1497,Manual,2016,17.8,117.3,145,Jun,2016,70,4.78,Kolkata,WB06,15
+Toyota,Corolla Altis 1.4 DGL,Comprehensive,Diesel,5,"72,456",First Owner,1364,Manual,2018,21.43,86.79,205,Mar,2018,50,11.46,Kolkata,WB02,16
+Hyundai,i20 1.2 Magna Opt,Comprehensive,Petrol,5,"99,853",First Owner,1197,Manual,2010,17,80 PS at 5200 ,"11.4 kgm at 4,000 r",Jun,2010,75,2.16,Kolkata,WB06,14
+Hyundai,i10 Magna 1.1L,Third Party,Petrol,5,"47,742",First Owner,1086,Manual,2015,19.81,68.05,99.04,Jun,2015,75,2.81,Kolkata,WB06,
+Honda,Amaze V Petrol BSIV,Comprehensive,Petrol,5,"66,677",First Owner,1199,Manual,2018,19.5,88.76,110,Jun,2018,50,5.31,Kolkata,WB06,
+Hyundai,i20 Sportz 1.2,Third Party,Petrol,5,"46,533",Second Owner,1197,Manual,2016,18.6,81.83,114.7,Jun,2018,70,4.18,Kolkata,WB02,
+Ford,Ecosport 1.5 Ti VCT MT Trend,Third Party,Petrol,5,"36,037",Second Owner,1499,Manual,2014,15.8,110,140,Jun,2014,75,3.92,Kolkata,WB20,
+Maruti,Swift VXI,Third Party,Petrol,5,"39,966",First Owner,1197,Manual,2012,18.6,85.8,114,Jun,2012,75,3.21,Kolkata,WB22,14
+Maruti,Ciaz ZDi,Comprehensive,Diesel,5,"42,000",First Owner,1248,Manual,2017,26.21,88.5,200,Feb,2017,60,5.49,Kolkata,WB02,15
+Maruti,Wagon R VXI 1.2,Third Party insurance,Petrol,5,"40,000",First Owner,1197,Manual,2019,20.52,81.80,113,Mar,2019,40,4.8,Kolkata,,
+Hyundai,Creta 1.6 CRDi SX Plus,Comprehensive,Diesel,5,"59,000",First Owner,1582,Manual,2015,19.67,126.2,259.9,Sept,2015,75,6.8,Kolkata,WB02,16
+Hyundai,Creta 1.6 CRDi SX Plus,Comprehensive,Diesel,5,"54,000",First Owner,1582,Manual,2016,19.67,126.2,259.9,Sept,2016,70,7.35,Kolkata,WB02,16
+Maruti,Ertiga VXI Petrol,Comprehensive,Petrol,7,"43,000",First Owner,1462,Manual,2018,19.34,103,138,Feb,2018,50,6.85,Kolkata,WB06,
+Nissan,Terrano XV 110 PS,Third Party insurance,Diesel,5,"1,20,000",First Owner,1461,Manual,2014,19.01,108.5,248,Mar,2014,75,3.0,Kolkata,,16
+Hyundai,Grand i10 1.2 Kappa Sportz BSIV,Third Party,Petrol,5,"16,494",First Owner,1197,Manual,2018,18.9,81.86,113.75,Jun,2018,50,4.55,Kolkata,WB02,
+Honda,City ZX CVT,Comprehensive,Petrol,5,"17,934",First Owner,1498,Automatic,2020,18.3,119.35,145,Aug,2020,30,12.46,Kolkata,WB26,16
+Maruti,Swift VVT VXI,Third Party,Petrol,5,"69,566",First Owner,1197,Manual,2014,22,81.80,113,Jun,2014,75,3.45,Kolkata,WB20,
+Hyundai,Verna 1.6 SX VTVT,Comprehensive,Petrol,5,"40,558",First Owner,1591,Manual,2014,17.01,121.3,154.9,Jun,2014,75,3.96,Kolkata,WB08,16
+Hyundai,Santro Magna Corp Edition,Third Party,Petrol,5,"15,263",First Owner,1086,Manual,2020,20.3,68.07,99.07,Jun,2020,30,4.19,Kolkata,WB24,
+Maruti,Ignis 1.2 AMT Alpha BSIV,Comprehensive,Petrol,5,"13,168",First Owner,1197,Automatic,2017,20.89,81.80,113,Jun,2017,60,5.9,Kolkata,WB20,15
+Maruti,Swift Dzire ZXI Plus,Third Party,Petrol,5,"23,168",Second Owner,1197,Manual,2021,22.41,88.50,113,Jun,2021,20,8.23,Kolkata,WB08,15
+Hyundai,i20 1.2 Magna Executive,Third Party,Petrol,5,"15,755",First Owner,1197,Manual,2018,18.6,81.83,114.7,Jun,2018,50,5.48,Kolkata,WB06,
+Datsun,GO T CVT,Third Party,Petrol,5,"15,645",Second Owner,1198,Automatic,2019,19.59,76.43,104,Jun,2019,40,4.74,Kolkata,WB06,
+Hyundai,Verna 1.4 VTVT,Comprehensive,Petrol,5,"34,946",Second Owner,1396,Manual,2014,17.43,105.5,135.3,Aug,2014,75,4.47,Kolkata,WB12,15
+Hyundai,i20 Asta 1.2,Comprehensive,Petrol,5,"63,504",First Owner,1197,Manual,2015,18.6,81.83,114.7,Jun,2015,75,4.5,Kolkata,WB02,16
+Honda,City ZX MT,Comprehensive,Petrol,5,"12,265",First Owner,1498,Manual,2020,18.6,119.35,145,Aug,2020,30,12.15,Kolkata,WB20,16
+Volkswagen,Ameo 1.0 MPI Trendline,Third Party,Petrol,5,"21,830",First Owner,999,Manual,2017,19.44,75,95,Dec,2017,60,3.74,Kolkata,WB24,
+Maruti,Ritz VXi,Third Party insurance,Petrol,5,"59,720",First Owner,1197,Manual,2011,18.5,85.80,114,Jun,2011,75,1.99,Kolkata,WB12,
+Maruti,Baleno 1.2 Zeta,Third Party insurance,Petrol,5,"20,000",First Owner,1197,Manual,2019,21.4,83.1,115,Mar,2019,40,6.0,Kolkata,,16
+Hyundai,Santro Xing GLS,Third Party insurance,Petrol,5,"70,000",Second Owner,1086,Manual,2012,17.92,62.1,96.1,Mar,2012,75,1.5,Kolkata,,13
+Mahindra,KUV 100 mFALCON D75 K8,Third Party insurance,Diesel,6,"50,000",Second Owner,1198,Manual,2015,25.32,77,190,Mar,2015,75,2.5,Kolkata,,14
+Hyundai,Creta 1.6 VTVT E Plus,Comprehensive,Petrol,5,"40,000",First Owner,1591,Manual,2018,15.29,121.3,151,Mar,2018,50,7.85,Kolkata,WB02,
+Kia,Carens Luxury Plus Turbo 6 STR 2022-2023,Third Party insurance,Petrol,6,"10,000",First Owner,1353,Manual,2022,16.2,138.05,242,Mar,2022,15,17.0,Kolkata,,16
+Hyundai,i20 1.2 Magna Executive,Third Party,Petrol,5,"26,610",First Owner,1197,Manual,2018,18.6,81.83,114.7,Jun,2018,50,5.16,Kolkata,WB08,
+Maruti,Swift VXI,Comprehensive,Petrol,5,"70,063",First Owner,1197,Manual,2013,18.6,85.8,114,Jun,2013,75,3.15,Kolkata,WB40,14
+Hyundai,Verna VTVT 1.6 SX,Comprehensive,Petrol,5,"31,703",First Owner,1591,Manual,2017,17,121.3,151,Jun,2017,60,6.77,Kolkata,WB24,16
+Hyundai,Grand i10 Magna,Third Party,Petrol,5,"74,747",First Owner,1197,Manual,2015,18.9,82,114,Jun,2015,75,3.36,Kolkata,WB12,
+Maruti,Ciaz VXi Option,Comprehensive,Petrol,5,"29,119",First Owner,1373,Manual,2017,20.73,91.1,130,Jun,2017,60,6.32,Kolkata,WB06,
+Renault,Kiger RXZ Turbo,Zero Dep,Petrol,5,"4,047",First Owner,999,Manual,2022,20.5,98.63,160,Jun,2022,15,9.55,Kolkata,WB12,16
+Toyota,Yaris J BSIV,Third Party insurance,Petrol,5,"24,020",Second Owner,1496,Manual,2018,17.1,105.5,140,Jun,2018,50,8.14,Kolkata,WB02,
+Maruti,Ciaz VXi Plus,Comprehensive,Petrol,5,"31,349",First Owner,1373,Manual,2016,20.73,91.1,130,Jun,2016,70,4.51,Kolkata,WB08,
+Hyundai,Grand i10 Sportz,Third Party,Petrol,5,"69,461",First Owner,1197,Manual,2015,18.9,82,114,Jun,2015,75,3.51,Kolkata,WB40,
+Maruti,Swift VXI Optional,Third Party,Petrol,5,"69,015",First Owner,1197,Manual,2016,20.4,81.80,113,Jun,2016,70,3.77,Kolkata,WB02,
+Honda,Amaze S i-Dtech,Comprehensive,Diesel,5,"48,236",First Owner,1498,Manual,2013,25.8,98.6,200,Jun,2013,75,2.92,Kolkata,WB02,
+Hyundai,i20 Sportz Option 1.2,Third Party,Petrol,5,"26,874",First Owner,1197,Manual,2014,18.6,81.83,114.7,Jun,2014,75,4.33,Kolkata,WB08,16
+Jeep,Compass 2.0 Limited Option,Third Party insurance,Diesel,5,"52,000",First Owner,1956,Manual,2018,17.1,170,350,Feb,2018,50,11.21,Kolkata,WB02,17
+Hyundai,i20 Sportz Option 1.2,Third Party insurance,Petrol,5,"40,000",Second Owner,1197,Manual,2017,18.6,81.83,114.7,Mar,2017,60,4.59,Kolkata,,16
+BMW,2 Series 220i M Sport,Third Party insurance,Petrol,5,"10,000",First Owner,1998,Automatic,2022,14.82,189.08,280,Mar,2022,15,45.0,Kolkata,,18
+Maruti,Ciaz ZXi,Comprehensive,Petrol,5,"62,000",First Owner,1373,Manual,2016,20.73,91.1,130,Aug,2016,70,5.45,Kolkata,WB02,15
+Mercedes-Benz,C-Class AMG Line C 300d,Third Party insurance,Diesel,5,"10,000",First Owner,1950,Automatic,2019,12.6,245,500,Mar,2019,40,37.0,Kolkata,,18
+Hyundai,Santro Asta BSIV,Third Party insurance,Petrol,5,"20,000",First Owner,1086,Manual,2019,20.3,68,99,Mar,2019,40,5.0,Kolkata,,
+Hyundai,Venue SX Plus Turbo DCT BSIV,Third Party insurance,Petrol,5,"40,000",First Owner,998,Automatic,2019,18.15,118.35,171.6,Mar,2019,40,9.25,Kolkata,,16
+Hyundai,Grand i10 CRDi Sportz,Third Party insurance,Diesel,5,"70,000",Second Owner,1120,Manual,2017,24,70,160,Mar,2017,60,3.75,Kolkata,,
+Maruti,Swift Dzire VXI,Third Party,Petrol,5,"29,296",First Owner,1197,Manual,2013,19.1,85.8,114,Jun,2013,75,3.34,Kolkata,WB02,14
+Maruti,Swift Dzire VXI,Comprehensive,Petrol,5,"43,254",Second Owner,1197,Manual,2014,19.1,85.8,114,Jun,2014,75,3.62,Kolkata,WB02,14
+Maruti,Ciaz VXi,Comprehensive,Petrol,5,"46,169",First Owner,1373,Manual,2017,20.73,91.1,130,Jun,2017,60,6.57,Kolkata,WB02,
+Hyundai,Grand i10 1.2 Kappa Sportz BSIV,Third Party,Petrol,5,"10,287",First Owner,1197,Manual,2019,18.9,81.86,113.75,Jun,2019,40,5.07,Kolkata,WB08,
+Hyundai,Verna VTVT 1.6 SX Option,Comprehensive,Petrol,5,"31,577",First Owner,1591,Manual,2020,17,121.3,151,Jun,2020,30,11.11,Kolkata,WB02,16
+Ford,Figo Titanium Diesel,Third Party,Diesel,5,"22,154",First Owner,1499,Manual,2020,24.4,98.96,215,Jun,2020,30,6.61,Kolkata,WB08,R15
+Datsun,RediGO 1.0 T Option,Comprehensive,Petrol,5,"6,540",First Owner,999,Manual,2021,21.7,67.05,91,Jun,2021,20,4.2,Kolkata,WB08,
+Hyundai,Grand i10 Nios Magna Corp Edition,Third Party,Petrol,5,"39,538",Second Owner,1197,Manual,2021,20.7,81.86,113.75,Jun,2021,20,6.77,Kolkata,WB24,R15
+Honda,City V MT,Third Party,Petrol,5,"19,524",First Owner,1498,Manual,2021,18.6,119.35,145,Jun,2021,20,10.17,Kolkata,WB02,15
+Maruti,Swift Dzire VXI,Comprehensive,Petrol,5,"85,470",First Owner,1197,Manual,2015,20.85,83.14,115,Jun,2015,75,3.93,Kolkata,WB08,
+Maruti,Vitara Brezza VDi,Third Party,Diesel,5,"51,579",First Owner,1248,Manual,2019,24.3,88.5,200,Jun,2019,40,7.23,Kolkata,WB24,
+Maruti,Swift VXI,Third Party,Petrol,5,"20,365",Second Owner,1197,Manual,2018,21.21,81.80,113,Jun,2018,50,5.43,Kolkata,WB96,
+MG,Hector Sharp DCT,Comprehensive,Petrol,5,"14,700",First Owner,1451,Automatic,2019,,141,250,Sept,2019,40,14.95,Kolkata,WB02,R18
+Maruti,S-Presso VXi Plus,Comprehensive,Petrol,5,492,First Owner,998,Manual,2022,24.76,65.71,89,Dec,2022,15,5.25,Kolkata,WB06,
+Maruti,Swift VXI,Comprehensive,Petrol,5,"43,000",First Owner,1197,Manual,2016,18.6,85.8,114,May,2016,70,3.59,Kolkata,WB02,14
+Honda,Civic VX,Comprehensive,Petrol,5,"34,300",First Owner,1799,Automatic,2019,16.5,139.46,174,Nov,2019,40,12.99,Kolkata,WB02,16
+Maruti,Ciaz 1.4 Zeta,Comprehensive,Petrol,5,"54,700",First Owner,1373,Manual,2017,20.73,91.1,130,Nov,2017,60,5.25,Kolkata,WB02,15
+Hyundai,i10 Sportz 1.1L,Comprehensive,Petrol,5,"38,000",First Owner,1086,Manual,2013,19.81,68.05,99.04,May,2013,75,2.3,Kolkata,WB02,
+BMW,5 Series 530d,Comprehensive,Diesel,5,"47,400",First Owner,2993,Automatic,2011,16.2,,,Aug,2011,75,11.95,Kolkata,WB02,17
+Maruti,Celerio VXI,Comprehensive,Petrol,5,"11,245",First Owner,998,Manual,2015,23.1,67.04,90,Jun,2015,75,3.47,Kolkata,WB02,
+Maruti,Swift VXI,Comprehensive,Petrol,5,"46,971",First Owner,1197,Manual,2018,21.21,81.80,113,Jun,2018,50,5.67,Kolkata,WB26,
+Hyundai,Grand i10 Sportz,Third Party,Petrol,5,"61,181",First Owner,1197,Manual,2015,18.9,82,114,Jun,2015,75,3.78,Kolkata,WB02,
+Hyundai,Grand i10 SportZ Edition,Third Party,Petrol,5,"60,496",First Owner,1197,Manual,2014,18.9,81.86,113.75,Jun,2014,75,3.38,Kolkata,WB02,14
+Tata,Nexon XZA Plus (O) AMT,Comprehensive,Petrol,5,"73,072",First Owner,1199,Automatic,2020,16.35,118.36,170,Jun,2020,30,10.54,Kolkata,WB18,16
+Hyundai,Venue SX Turbo,Third Party,Petrol,5,"17,501",First Owner,998,Manual,2019,18.27,118.35,172,Jun,2019,40,9.28,Kolkata,WB08,
+Hyundai,EON Era Plus,Third Party,Petrol,5,"34,351",First Owner,814,Manual,2016,21.1,55.2,74.5,Jun,2016,70,2.69,Kolkata,WB18,
+Maruti,Baleno 1.2 Alpha,Comprehensive,Petrol,5,"48,989",First Owner,1197,Manual,2016,21.4,83.1,115,Jun,2016,70,5.17,Kolkata,WB08,16
+Toyota,Yaris V BSIV,Comprehensive,Petrol,5,"13,238",Second Owner,1496,Manual,2018,17.1,105.5,140,Jun,2018,50,7.92,Kolkata,WB12,15
+Maruti,S-Presso VXI,Third Party,Petrol,5,"53,822",First Owner,998,Manual,2020,24.76,65.71,89,Jun,2020,30,4.05,Kolkata,WB08,
+Maruti,S-Presso VXI 2019-2022,Third Party,Petrol,5,"6,941",First Owner,998,Manual,2020,21.7,65.71,89,Jun,2020,30,4.38,Kolkata,WB12,
+Jeep,Compass 2.0 Longitude Option BSIV,Third Party,Diesel,5,"47,352",Second Owner,1956,Manual,2017,17.1,170,350,Jun,2017,60,10.87,Kolkata,WB26,17
+Toyota,Fortuner 4x4 MT,Comprehensive,Diesel,7,"73,000",First Owner,2982,Manual,2014,12.55,168.5,343,Jul,2014,75,13.49,Kolkata,WB06,17
+Jaguar,XE 2.0L Diesel Prestige,Third Party insurance,Diesel,5,"54,000",First Owner,1999,Automatic,2018,13.6,177,430,,,50,24.5,Kolkata,,17
+Maruti,Ignis 1.2 Alpha BSIV,Third Party insurance,Petrol,5,"15,000",First Owner,1197,Manual,2017,20.89,81.80,113,,,60,5.25,Kolkata,,15
+Tata,Harrier Camo XZA AT,Third Party,Diesel,5,"26,000",First Owner,1956,Automatic,2021,17,167.63,350,Apr,2021,20,18.75,Kolkata,WB10,R17
+Hyundai,Grand i10 Nios Magna,Third Party insurance,Petrol,5,"25,000",First Owner,1197,Manual,2020,20.7,81.86,113.8,,,30,5.0,Kolkata,,
+Renault,Triber RXT,Individual,Petrol,7,"5,000",First Owner,999,Manual,2022,20,71.01,96,,,15,6.45,Kolkata,N/A,
+Volkswagen,Polo 1.2 MPI Highline,Third Party insurance,Petrol,5,"44,000",First Owner,1198,Manual,2014,16.47,74,110,,,75,3.25,Kolkata,,15
+Maruti,Swift VVT VXI,Comprehensive,Petrol,5,"41,000",First Owner,1197,Manual,2015,22,81.80,113,Sept,2015,75,3.69,Kolkata,WB12,
+Hyundai,i20 1.2 Magna Executive,Third Party,Petrol,5,"36,915",First Owner,1197,Manual,2018,18.6,81.83,114.7,Jun,2018,50,5.25,Kolkata,WB24,
+Hyundai,Verna 1.6 SX CRDI (O) AT,Comprehensive,Diesel,5,"48,554",First Owner,1582,Automatic,2013,22.32,126.32,259.8,Oct,2013,75,4.73,Kolkata,WB02,16
+Maruti,Celerio VXI,Comprehensive,Petrol,5,"75,377",First Owner,998,Manual,2016,23.1,67.04,90,Jun,2016,70,3.23,Kolkata,WB02,
+Maruti,Baleno 1.2 Zeta,Third Party,Petrol,5,"62,411",First Owner,1197,Manual,2016,21.4,83.1,115,Jun,2016,70,4.43,Kolkata,WB02,16
+Maruti,Baleno 1.2 Zeta,Third Party,Petrol,5,"29,936",First Owner,1197,Manual,2015,21.4,83.1,115,Jun,2015,75,4.56,Kolkata,WB02,16
+Honda,City i VTEC SV,Third Party,Petrol,5,"47,622",Second Owner,1497,Manual,2015,17.4,117.3,145,Jun,2015,75,4.42,Kolkata,WB02,
+Hyundai,Santro Era Executive BSIV,Comprehensive,Petrol,5,"21,851",First Owner,1086,Manual,2019,20.3,68,99,Jun,2019,40,3.97,Kolkata,WB08,
+Maruti,Baleno Alpha,Third Party,Petrol,5,"25,111",Second Owner,1197,Manual,2021,21.01,81.80,113,Jun,2021,20,7.73,Kolkata,WB08,R16
+Hyundai,Venue SX Diesel BSIV,Third Party,Diesel,5,"15,697",First Owner,1396,Manual,2019,23.7,88.76,219.6,Jun,2019,40,9.19,Kolkata,WB20,16
+Maruti,Ciaz ZDi Plus SHVS,Third Party,Diesel,5,"86,788",First Owner,1248,Manual,2015,28.09,88.5,200,Jun,2015,75,4.21,Kolkata,WB02,16
+Maruti,Wagon R VXI BS IV,Third Party,Petrol,5,"76,617",First Owner,998,Manual,2013,18.9,67.1,90,Jun,2013,75,2.55,Kolkata,WB02,14
+Ford,Ecosport 1.5 TDCi Titanium BSIV,Third Party,Diesel,5,"85,708",Second Owner,1498,Manual,2016,22.77,98.59,205,Jun,2016,70,4.37,Kolkata,WB20,16
+Maruti,Vitara Brezza VDi,Comprehensive,Diesel,5,"47,000",First Owner,1248,Manual,2016,24.3,88.5,200,Oct,2016,70,5.59,Kolkata,WB02,
+Maruti,Alto 800 LXI Opt,Third Party insurance,Petrol,5,"13,700",First Owner,796,Manual,2021,22.05,47.33,69,,,20,3.6,Kolkata,,
+Hyundai,EON D Lite Plus,Comprehensive,Petrol,5,"13,195",First Owner,814,Manual,2012,21.1,55.2,74.5,,,75,2.35,Kolkata,,
+Maruti,Swift VXI,Third Party insurance,Petrol,5,"5,000",First Owner,1197,Manual,2022,22.38,88.50,113,,,15,6.9,Kolkata,,
+Hyundai,i10 Magna 1.1 iTech SE,Third Party insurance,Petrol,5,"30,000",First Owner,1086,Manual,2014,19.81,68.05,99.04,,,75,2.41,Kolkata,,
+Maruti,Celerio LXI,Third Party insurance,Petrol,5,"25,000",First Owner,998,Manual,2017,23.1,67.04,90,,,60,4.0,Kolkata,,
+Hyundai,Grand i10 Asta,Comprehensive,Petrol,5,"10,000",Second Owner,1197,Manual,2015,18.9,82,114,,,75,3.85,Kolkata,,14
+Maruti,Baleno 1.2 Alpha,Comprehensive,Petrol,5,"29,401",First Owner,1197,Manual,2017,21.4,83.1,115,Jun,2017,60,5.25,Kolkata,WB02,16
+Hyundai,Santro Sportz,Comprehensive,Petrol,5,"11,984",First Owner,1086,Manual,2020,20.3,68.05,99,Jun,2020,30,5.11,Kolkata,WB26,
+Hyundai,Xcent 1.2 VTVT SX,Comprehensive,Petrol,5,"55,962",First Owner,1197,Manual,2018,20.14,81.86,113.75,Jun,2018,50,5.09,Kolkata,WB20,14
+Maruti,Ciaz Delta BSIV,Third Party,Petrol,5,"37,713",First Owner,1462,Manual,2018,21.56,103.25,138,Jun,2018,50,6.91,Kolkata,WB18,15
+Maruti,Celerio ZXI,Comprehensive,Petrol,5,"38,371",Second Owner,998,Manual,2014,23.1,67.04,90,Jun,2014,75,3.05,Kolkata,WB24,
+Maruti,Vitara Brezza ZDi AMT,Comprehensive,Diesel,5,"89,535",First Owner,1248,Automatic,2019,24.3,88.5,200,Jun,2019,40,7.29,Kolkata,WB02,16
+Hyundai,i20 Asta 1.2,Third Party,Petrol,5,"53,890",First Owner,1197,Manual,2015,18.6,81.83,114.7,Jun,2015,75,4.73,Kolkata,WB02,16
+Maruti,Baleno 1.2 Zeta,Third Party,Petrol,5,"28,722",First Owner,1197,Manual,2018,21.4,83.1,115,Jun,2018,50,5.95,Kolkata,WB02,16
+Maruti,Baleno 1.2 Zeta,Third Party,Petrol,5,"24,264",Second Owner,1197,Manual,2018,21.4,83.1,115,Jun,2018,50,6.31,Kolkata,WB02,16
+Honda,City V MT,Comprehensive,Petrol,5,"31,778",First Owner,1497,Manual,2018,17.4,117.60,145,Jun,2018,50,7.01,Kolkata,WB02,15
+Honda,City V MT,Third Party,Petrol,5,"44,425",First Owner,1497,Manual,2019,17.4,117.60,145,Jun,2019,40,8.18,Kolkata,WB06,15
+Maruti,S-Presso VXI Opt 2019-2022,Third Party,Petrol,5,"31,305",First Owner,998,Manual,2020,21.7,67.05,90,Jun,2020,30,4.3,Kolkata,WB08,
+Maruti,Swift VXI,Third Party,Petrol,5,"76,175",First Owner,1197,Manual,2015,21.21,81.80,113,Jun,2015,75,3.96,Kolkata,WB24,
+Maruti,Swift Dzire ZXI 1.2,Third Party insurance,Petrol,5,"25,000",Second Owner,1197,Manual,2017,21.21,81.80,113,,,60,5.0,Kolkata,,15
+Maruti,Alto 800 VXI,Comprehensive,Petrol,5,"29,178",First Owner,796,Manual,2017,24.7,47.3,69,Oct,2017,60,2.6,Kolkata,WB08,
+Maruti,Zen Estilo LXI BS IV,Comprehensive,Petrol,5,"29,000",First Owner,998,Manual,2011,19,67.1,90,May,2011,75,1.65,Kolkata,WB26,13
+Hyundai,Verna 1.4 VTVT,Comprehensive,Petrol,5,"52,126",First Owner,1396,Manual,2014,17.43,105.5,135.3,May,2014,75,3.49,Kolkata,WB08,15
+Maruti,Wagon R LX BS IV,Third Party insurance,Petrol,5,"30,000",Second Owner,998,Manual,2013,20.51,67.04,90,,,75,1.56,Kolkata,,
+Honda,City i VTEC V,Third Party insurance,Petrol,5,"49,000",First Owner,1497,Manual,2015,17.4,117.3,145,Jul,2015,75,4.6,Kolkata,WB02,15
+Hyundai,i20 Active 1.4 SX,Third Party insurance,Diesel,5,"50,000",Third Owner,1396,Manual,2015,21.19,88.73,220,,,75,5.2,Kolkata,,16
+Maruti,Swift Dzire VDI,Third Party insurance,Diesel,5,"21,000",First Owner,1248,Manual,2015,26.59,74,190,,,75,4.5,Kolkata,,
+Maruti,Swift Dzire VXI,Third Party,Petrol,5,"76,343",First Owner,1197,Manual,2014,19.1,85.8,114,Jun,2014,75,3.89,Kolkata,WB02,14
+Ford,Ecosport 1.0 Ecoboost Titanium Optional,Third Party,Petrol,5,"59,813",Second Owner,999,Manual,2013,18.88,123.37,170,Jun,2013,75,4.4,Kolkata,WB02,16
+Tata,Tigor XM,Third Party,Petrol,5,"69,925",First Owner,1199,Manual,2021,19.28,84.82,113,Jun,2021,20,6.38,Kolkata,WB42,
+Hyundai,Verna 1.6 VTVT SX,Third Party,Petrol,5,"73,427",First Owner,1591,Manual,2016,17.01,121.3,154.9,Jun,2016,70,4.59,Kolkata,WB06,16
+Hyundai,Verna 1.6 CRDi SX,Comprehensive,Diesel,5,"46,892",Second Owner,1582,Manual,2015,23.9,126.2,259.9,Jun,2015,75,5.7,Kolkata,WB26,16
+Hyundai,i20 Active 1.2 SX,Third Party,Petrol,5,"72,657",First Owner,1197,Manual,2015,17.19,81.86,114.73,Jun,2015,75,4.45,Kolkata,WB02,16
+Hyundai,Elantra 2.0 SX,Third Party,Petrol,5,"61,360",First Owner,1999,Manual,2017,14.59,149.92,192.2,Jun,2017,60,7.41,Kolkata,WB08,16
+Ford,Ecosport 1.5 Diesel Titanium Plus BSIV,Third Party,Diesel,5,"89,354",First Owner,1498,Manual,2017,23,98.96,205,Jun,2017,60,5.91,Kolkata,WB06,16
+Hyundai,Elite i20 2018 Diesel Asta Option,Third Party,Diesel,5,"90,744",First Owner,1396,Manual,2018,22.54,88.73,219.7,Jun,2018,50,5.95,Kolkata,WB24,16
+Honda,City Corporate Edition,Third Party,Petrol,5,"81,042",First Owner,1497,Manual,2012,16.8,116.3,146,Jun,2012,75,3.15,Kolkata,WB06,15
+Hyundai,i20 Active 1.2 S,Third Party,Petrol,5,"50,214",Second Owner,1197,Manual,2016,17.19,81.86,114.73,Jun,2016,70,4.85,Kolkata,WB02,16
+Hyundai,Santro Sportz BSIV,Third Party,Petrol,5,"20,366",Second Owner,1086,Manual,2019,20.3,68,99,Jun,2019,40,4.14,Kolkata,WB42,
+Honda,WR-V i-VTEC VX,Comprehensive,Petrol,5,"37,000",First Owner,1199,Manual,2018,17.5,88.7,110,Feb,2018,50,6.85,Kolkata,WB06,16
+Maruti,Swift VDI BSIV,Comprehensive,Diesel,5,"65,000",First Owner,1248,Manual,2015,17.8,,,Sept,2015,75,3.65,Kolkata,WB02,15
+Jeep,Compass 2.0 Limited Option,Comprehensive,Diesel,5,"31,984",First Owner,1956,Manual,2017,17.1,170,350,Aug,2017,60,11.49,Kolkata,WB02,17
+Honda,City i VTEC CVT VX,Comprehensive,Petrol,5,"42,000",First Owner,1497,Automatic,2017,18,117.3,145,May,2017,60,7.49,Kolkata,WB12,15
+Renault,Lodgy Stepway 110PS RXZ 7S,Comprehensive,Diesel,7,"45,000",First Owner,1461,Manual,2017,19.98,108.5,245,May,2017,60,4.64,Kolkata,WB02,15
+Hyundai,i20 Active 1.2 S,Comprehensive,Petrol,5,"47,000",First Owner,1197,Manual,2015,17.19,81.86,114.73,Oct,2017,75,4.21,Kolkata,WB12,16
+Hyundai,Grand i10 1.2 CRDi Sportz,Comprehensive,Diesel,5,"43,217",First Owner,1186,Manual,2017,24,73.97,190.24,Aug,2017,60,3.65,Kolkata,WB02,
+Jeep,Compass 2.0 Limited 4X4 Opt Diesel AT,Comprehensive,Diesel,5,"38,000",First Owner,1956,Automatic,2021,14.9,167.67,350,Feb,2021,20,21.95,Kolkata,WB02,18
+Hyundai,Grand i10 Nios AMT Sportz,Comprehensive,Petrol,5,"6,95,000",First Owner,1197,Automatic,2020,20.7,81.86,113.8,Jun,2020,30,6.68,Kolkata,WB02,14
+Maruti,Baleno 1.2 Alpha,Third Party,Petrol,5,"71,506",First Owner,1197,Manual,2018,21.4,83.1,115,Jun,2018,50,5.36,Kolkata,WB08,16
+Maruti,Swift VDI,Third Party,Diesel,5,"91,653",First Owner,1248,Manual,2013,22.9,74,190,Jun,2013,75,3.41,Kolkata,WB02,14
+Honda,WR-V i-VTEC VX,Third Party,Petrol,5,"32,763",Second Owner,1199,Manual,2017,17.5,88.7,110,Jun,2017,60,6.76,Kolkata,WB02,16
+Ford,Ecosport 1.5 Petrol Titanium Plus AT BSIV,Third Party,Petrol,5,"53,457",First Owner,1497,Automatic,2018,14.8,121.36,150,Jun,2018,50,8.13,Kolkata,WB16,16
+Maruti,Baleno 1.2 Alpha,Third Party,Petrol,5,"39,689",First Owner,1197,Manual,2018,21.4,83.1,115,Jun,2018,50,6.4,Kolkata,WB08,16
+Maruti,Baleno 1.2 Alpha,Third Party,Petrol,5,"65,320",Second Owner,1197,Manual,2016,21.4,83.1,115,Jun,2016,70,4.74,Kolkata,WB02,16
+Honda,Jazz 1.5 V i DTEC,Comprehensive,Diesel,5,"67,057",First Owner,1498,Manual,2018,27.3,98.6,200,Jun,2018,50,5.36,Kolkata,WB18,15
+Maruti,Ciaz VXi,Third Party,Petrol,5,"66,659",Second Owner,1373,Manual,2015,20.73,91.1,130,Jun,2015,75,4.48,Kolkata,WB26,
+Ford,Ecosport 1.5 TDCi Titanium BSIV,Third Party,Diesel,5,"75,154",First Owner,1498,Manual,2015,22.77,98.59,205,Jun,2015,75,4.79,Kolkata,WB34,16
+Ford,Ecosport 1.5 Diesel Titanium Plus BSIV,Third Party,Diesel,5,"38,447",First Owner,1498,Manual,2019,23,98.96,205,Jun,2019,40,7.65,Kolkata,WB02,16
+Toyota,Corolla Altis 1.8 Limited Edition,Comprehensive,Petrol,5,"53,000",First Owner,1798,Manual,2015,14.28,138.03,173,Nov,2015,75,5.75,Kolkata,WB02,15
+Mahindra,Thar LX 4-Str Convert Top Diesel AT,Comprehensive,Diesel,4,"10,047",First Owner,2184,Automatic,2021,,130,300,May,2021,20,14.11,Kolkata,WB02,18
+Mahindra,KUV 100 NXT G80 K4 Plus 5Str,Available,Petrol,5,"20,000",Second Owner,1198,Manual,2017,18.15,82,115,,,60,2.3,Kolkata,,
+Tata,Tiago XZ Plus,Third Party insurance,Petrol,5,"25,000",First Owner,1199,Manual,2021,19.01,84.82,113,,,20,6.5,Kolkata,,15
+Hyundai,Verna CRDi 1.6 SX Option,Third Party insurance,Diesel,5,"30,000",Third Owner,1582,Manual,2018,22,126.2,259.87,,,50,8.75,Kolkata,,16
+Hyundai,Grand i10 1.2 Kappa Asta,Third Party insurance,Petrol,5,"30,000",First Owner,1197,Manual,2019,18.9,81.86,113.75,,,40,5.1,Kolkata,,14
+Tata,Tiago XZA Plus AMT,Available,Petrol,5,"35,000",First Owner,1199,Automatic,2021,19,84.82,113,,,20,6.4,Kolkata,,15
+Mahindra,Quanto C8,Available,Diesel,7,"1,39,133",Second Owner,1493,Manual,2013,17.21,100,240,,,75,2.0,Kolkata,,15
+Kia,Sonet GTX Plus Turbo iMT,Third Party,Petrol,5,"20,709",Second Owner,998,Manual,2020,18.2,118.36,172,Jun,2020,30,10.84,Kolkata,WB12,16
+Honda,Amaze EX i-Dtech,Third Party,Diesel,5,"75,360",Second Owner,1498,Manual,2013,25.8,98.6,200,Jun,2013,75,2.94,Kolkata,WB02,
+Hyundai,i20 Magna 1.2,Zero Dep,Petrol,5,"41,782",Second Owner,1197,Manual,2015,18.6,81.83,114.7,Jun,2015,75,4.08,Kolkata,WB06,
+Skoda,Rapid 1.0 TSI Ambition AT,Third Party,Petrol,5,"13,677",First Owner,999,Automatic,2020,16.24,108.62,175,Jun,2020,30,9.74,Kolkata,WB02,R15
+Maruti,Vitara Brezza ZDi Plus Dual Tone,Third Party,Diesel,5,"74,226",First Owner,1248,Manual,2016,24.3,88.5,200,Jun,2016,70,5.79,Kolkata,WB08,16
+Skoda,Rapid 1.6 MPI Ambition Plus Alloy,Third Party,Petrol,5,"91,539",Second Owner,1598,Manual,2013,15,103.5,153,Jun,2013,75,4.11,Kolkata,WB02,14
+Toyota,Corolla Altis 1.8 VL CVT,Comprehensive,Petrol,5,"34,174",Second Owner,1798,Automatic,2018,14.28,138.03,173,Jun,2018,50,13.48,Kolkata,WB06,16
+Kia,Seltos HTX Diesel,Comprehensive,Diesel,5,"16,242",First Owner,1493,Manual,2021,20.8,113.43,250,Jan,2021,20,14.15,Kolkata,WB20,17
+Hyundai,i10 Era 1.1 iTech SE,Third Party,Petrol,5,"33,821",First Owner,1086,Manual,2011,19.81,68.05,99.04,Jun,2011,75,1.84,Kolkata,WB06,13
+Maruti,Alto 800 LXI,Third Party,Petrol,5,"7,355",First Owner,796,Manual,2016,22.74,47.3,69,Jun,2016,70,2.77,Kolkata,WB24,
+Maruti,Alto 800 LXI,Third Party,Petrol,5,"14,213",First Owner,796,Manual,2020,22.05,47.33,69,Jun,2020,30,3.09,Kolkata,WB24,
+Maruti,Alto 800 LXI,Comprehensive,Petrol,5,"10,849",First Owner,796,Manual,2020,22.05,47.33,69,Jun,2020,30,3.31,Kolkata,WB16,
+Mahindra,Quanto C8,Available,Diesel,7,"1,39,133",Second Owner,1493,Manual,2013,17.21,100,240,,,75,2.0,Kolkata,,15
+Maruti,Alto K10 VXI,Third Party insurance,Petrol,5,"50,000",Second Owner,998,Manual,2015,23.95,67.05,90,,,75,2.0,Kolkata,,
+Tata,Sumo CX,Third Party,Diesel,8,"1,20,000",First Owner,2179,Manual,2009,14.4,,25,,,75,2.0,Kolkata,,
+Maruti,Wagon R VXI,Third Party insurance,Petrol,5,"35,000",First Owner,998,Manual,2019,21.79,67.05,90,,,40,4.35,Kolkata,,
+Honda,Jazz 1.5 VX i DTEC,Comprehensive,Diesel,5,"90,000",First Owner,1498,Manual,2015,27.3,98.6,200,,,75,4.1,Kolkata,,15
+Hyundai,i20 Asta 1.4 CRDi,Third Party insurance,Diesel,5,"70,000",Second Owner,1396,Manual,2013,21.27,88.76,219.6,,,75,2.35,Kolkata,,14
+Renault,Lodgy Stepway 85PS RXL 8S,Third Party,Diesel,8,"30,000",First Owner,1461,Manual,2019,21.04,83.8,200,,,40,7.5,Kolkata,,
+Jeep,Compass 2.0 Limited Option,Third Party insurance,Diesel,5,"58,000",First Owner,1956,Manual,2018,17.1,170,350,Jun,2018,50,11.81,Kolkata,WB26,17
+Maruti,Alto 800 VXI,Comprehensive,Petrol,5,"9,030",First Owner,796,Manual,2019,22.05,47.33,69,Jun,2019,40,3.76,Kolkata,WB02,
+Hyundai,Grand i10 1.2 Kappa Sportz BSIV,Comprehensive,Petrol,5,"31,367",First Owner,1197,Manual,2019,18.9,81.86,113.75,Apr,2019,40,4.93,Kolkata,WB02,
+Kia,Seltos HTK Plus D,Comprehensive,Diesel,5,"31,588",First Owner,1493,Manual,2020,20.8,113.43,250,Mar,2020,30,13.66,Kolkata,WB12,16
+Hyundai,Grand i10 1.2 Kappa Sportz BSIV,Comprehensive,Petrol,5,"35,781",First Owner,1197,Manual,2018,18.9,81.86,113.75,Jul,2018,50,4.35,Kolkata,WB54,
+Maruti,Alto 800 LXI,Third Party,Petrol,5,"62,124",First Owner,796,Manual,2014,22.74,47.3,69,Jun,2014,75,1.94,Kolkata,WB06,
+Hyundai,EON Era Plus,Comprehensive,Petrol,5,"46,464",First Owner,814,Manual,2017,21.1,55.2,74.5,Jun,2017,60,2.49,Kolkata,WB02,
+Maruti,Alto 800 LXI,Third Party,Petrol,5,"18,190",First Owner,796,Manual,2017,24.7,47.3,69,Jun,2017,60,2.84,Kolkata,WB12,
+Maruti,Alto 800 LXI,Comprehensive,Petrol,5,"12,026",First Owner,796,Manual,2020,22.05,47.33,69,Jun,2020,30,3.34,Kolkata,WB06,
+Maruti,Alto 800 VXI,Comprehensive,Petrol,5,"3,900",First Owner,796,Manual,2018,24.7,47.3,69,Jun,2018,50,3.02,Kolkata,WB10,
+Maruti,Alto 800 VXI,Third Party,Petrol,5,"5,195",First Owner,796,Manual,2021,22.05,47.33,69,Jun,2021,20,3.88,Kolkata,WB26,
+Hyundai,Creta 1.6 SX Automatic Diesel,Comprehensive,Diesel,5,"56,907",First Owner,1582,Automatic,2018,17.6,126.2,259.87,Jun,2018,50,10.33,Kolkata,WB08,17
+Maruti,Wagon R LXI BS IV,Comprehensive,Petrol,5,"46,816",First Owner,998,Manual,2013,18.9,67.1,90,Jun,2013,75,2.37,Kolkata,WB02,13
+Honda,Mobilio S i-DTEC,Third Party insurance,Diesel,7,"85,000",Second Owner,1498,Manual,2015,24.2,98.6,200,,,75,4.0,Kolkata,,
+Hyundai,Verna 1.6 SX CRDi (O),Third Party insurance,Diesel,5,"60,000",Second Owner,1582,Manual,2012,22.32,126.32,259.8,,,75,3.1,Kolkata,,16
+Ford,Ecosport 1.5 Diesel Titanium BSIV,Third Party insurance,Diesel,5,"42,000",Second Owner,1498,Manual,2018,23,98.96,205,,,50,6.25,Kolkata,,16
+Ford,Figo 1.2P Ambiente ABS MT,Third Party insurance,Petrol,5,"10,000",First Owner,1196,Manual,2018,18.16,86.8,112,,,50,3.2,Kolkata,,
+Maruti,Ciaz 1.4 Delta,Comprehensive,Petrol,5,"38,000",First Owner,1373,Manual,2017,20.73,91.1,130,Nov,2017,60,5.1,Kolkata,WB02,
+Nissan,Sunny XV,Third Party insurance,Petrol,5,"80,000",Second Owner,1498,Manual,2011,16.95,97.7,134,,,75,1.6,Kolkata,,15
+Maruti,Swift VXI 2018,Third Party insurance,Petrol,5,"50,000",First Owner,1197,Manual,2019,22,81.80,113,,,40,4.4,Kolkata,,
+Maruti,SX4 S Cross Zeta DDiS 200 SH,Third Party insurance,Diesel,5,"35,000",First Owner,1248,Manual,2018,25.1,88.5,200,,,50,7.9,Kolkata,,R16
+Maruti,Alto 800 LXI,Third Party,Petrol,5,"23,380",First Owner,796,Manual,2016,22.74,47.3,69,Jun,2016,70,2.6,Kolkata,WB06,
+Maruti,Alto 800 LXI,Third Party,Petrol,5,"45,898",First Owner,796,Manual,2016,22.74,47.3,69,Jun,2016,70,2.56,Kolkata,WB06,
+Hyundai,Creta 1.6 SX Automatic Diesel,Third Party,Diesel,5,"37,362",First Owner,1582,Automatic,2018,17.6,126.2,259.87,Jun,2018,50,10.73,Kolkata,WB08,17
+Maruti,Alto K10 VXI AMT,Third Party,Petrol,5,"44,012",First Owner,998,Automatic,2018,23.95,67.05,90,Jun,2018,50,3.45,Kolkata,WB02,
+Maruti,Baleno 1.2 Zeta,Comprehensive,Petrol,5,"12,423",First Owner,1197,Manual,2019,21.4,83.1,115,Jun,2019,40,6.28,Kolkata,WB10,16
+Maruti,Alto 800 LXI,Third Party,Petrol,5,"34,876",First Owner,796,Manual,2017,24.7,47.3,69,Jun,2017,60,2.73,Kolkata,WB12,
+Maruti,Alto 800 LXI,Third Party,Petrol,5,"26,688",First Owner,796,Manual,2020,22.05,47.33,69,Jun,2020,30,3.33,Kolkata,WB24,
+Maruti,Swift LXI Optional-O,Comprehensive,Petrol,5,"50,820",First Owner,1197,Manual,2016,20.4,83.11,113,Jun,2016,70,3.51,Kolkata,WB08,
+Volkswagen,Vento 1.2 TSI Comfortline AT,Comprehensive,Petrol,5,"23,797",First Owner,1197,Automatic,2015,16.93,103.2,175,Jun,2015,75,5.31,Kolkata,WB02,
+Maruti,Alto K10 VXI,Comprehensive,Petrol,5,"24,486",Second Owner,998,Manual,2018,23.95,67.05,90,Jun,2018,50,3.42,Kolkata,WB90,
+Maruti,Wagon R VXI,Comprehensive,Petrol,5,"9,231",First Owner,998,Manual,2020,21.79,67.05,90,Jul,2020,30,5.05,Kolkata,WB18,
+Hyundai,Creta 1.6 CRDi SX Plus,Third Party,Diesel,5,"40,286",First Owner,1582,Manual,2017,19.67,126.2,259.9,Jun,2017,60,7.91,Kolkata,WB06,16
+Toyota,Innova Crysta 2.8 ZX AT BSIV,Comprehensive,Diesel,7,"49,200",First Owner,2755,Automatic,2018,11.36,171.5,360,Oct,2018,50,18.5,Kolkata,WB02,17
+Maruti,Ciaz Alpha Automatic BSIV,Comprehensive,Petrol,5,"31,000",First Owner,1462,Automatic,2018,20.28,103.25,138,Apr,2018,50,6.49,Kolkata,WB02,16
+Honda,City i VTEC VX,Comprehensive,Petrol,5,"49,000",First Owner,1497,Manual,2017,17.4,117.3,145,Apr,2017,60,7.24,Kolkata,WB02,15
+Honda,City i VTEC V,Comprehensive,Petrol,5,"54,000",First Owner,1497,Manual,2015,17.8,117.3,145,Sept,2015,75,4.78,Kolkata,WB02,15
+Ford,Figo Diesel ZXI,Third Party insurance,Diesel,5,"60,000",Third Owner,1399,Manual,2010,20,68,160,,,75,1.05,Kolkata,,14
+Honda,City 1.5 V MT,Third Party,Petrol,5,"60,000",Fourth Owner,1497,Manual,2010,17,"118PS at 6,600 ",146Nm at 4800 r,,,75,2.6,Kolkata,,15
+Honda,Brio S MT,Comprehensive,Petrol,5,"20,000",First Owner,1198,Manual,2014,19.4,86.8,109,,,75,3.0,Kolkata,,
+Maruti,Swift ZXi BSIV,Third Party insurance,Petrol,5,"60,000",First Owner,1197,Manual,2010,16.1,,113,,,75,2.1,Kolkata,,14
+Hyundai,i10 Magna 1.2,Third Party,Petrol,5,"17,667",Second Owner,1197,Manual,2010,20.36,78.9,111.7,Jun,2010,75,1.66,Kolkata,WB06,13
+Hyundai,i20 1.2 Magna Executive,Comprehensive,Petrol,5,"40,782",First Owner,1197,Manual,2018,18.6,81.83,114.7,Jun,2018,50,5.47,Kolkata,WB02,
+Maruti,Alto 800 LXI,Comprehensive,Petrol,5,"5,533",First Owner,796,Manual,2020,22.05,47.33,69,Jun,2020,30,3.56,Kolkata,WB10,
+Maruti,S-Presso VXI Plus 2019-2022,Third Party,Petrol,5,"9,190",Second Owner,998,Manual,2020,21.7,65.71,89,Jun,2020,30,4.43,Kolkata,WB24,
+Maruti,Wagon R VXI BS IV,Comprehensive,Petrol,5,"33,173",Second Owner,998,Manual,2014,20.51,67.04,90,Jun,2014,75,2.87,Kolkata,WB08,
+Hyundai,Grand i10 Magna,Third Party,Petrol,5,"64,740",First Owner,1197,Manual,2016,18.9,82,114,Jun,2016,70,3.46,Kolkata,WB02,
+Hyundai,Grand i10 Sportz,Third Party,Petrol,5,"23,527",Second Owner,1197,Manual,2015,18.9,82,114,Jun,2015,75,3.5,Kolkata,WB02,
+Maruti,Alto 800 LXI,Third Party,Petrol,5,"37,210",First Owner,796,Manual,2018,24.7,47.3,69,Jun,2018,50,3.07,Kolkata,WB08,
+Maruti,Wagon R LXI,Comprehensive,Petrol,5,"22,228",First Owner,998,Manual,2021,21.79,67.05,90,Jun,2021,20,5.34,Kolkata,WB26,
+Maruti,Alto 800 LXI,Third Party,Petrol,5,"26,855",First Owner,796,Manual,2020,22.05,47.33,69,Jun,2020,30,3.67,Kolkata,WB98,
+Mahindra,Bolero B6 Opt,Comprehensive,Diesel,7,"30,000",First Owner,1493,Manual,2020,16,74.96,210,Aug,2020,30,8.39,Kolkata,WB02,
+Honda,Mobilio V i-VTEC,Third Party insurance,Petrol,7,"1,20,000",Second Owner,1497,Manual,2014,17.3,117.3,145,,,75,3.8,Kolkata,,15
+Maruti,Ciaz Alpha BSIV,Comprehensive,Petrol,5,"35,000",First Owner,1462,Manual,2019,21.56,103.25,138,Oct,2019,40,7.55,Kolkata,WB12,16
+Tata,Nexon 1.2 Revotron XZ Plus,Available,Petrol,5,"16,000",First Owner,1198,Manual,2019,17,108.5,170,,,40,6.5,Kolkata,,16
+Maruti,Swift 1.3 VXi,Third Party insurance,Petrol,5,"50,000",Second Owner,1298,Manual,2009,16.1,8,11,,,75,1.8,Kolkata,,14
+Mahindra,XUV500 W8 4WD,Third Party insurance,Diesel,7,"60,000",Third Owner,2179,Manual,2012,15.1,140,330,,,75,4.0,Kolkata,,17
+Honda,City 1.5 V MT Sunroof,Comprehensive,Petrol,5,"45,166",First Owner,1497,Manual,2013,16.8,116.3,146,Mar,2013,75,4.15,Kolkata,WB02,15
+Maruti,Ciaz Alpha BSIV,Third Party insurance,Petrol,5,"20,000",First Owner,1462,Manual,2018,21.56,103.25,138,,,50,7.0,Kolkata,,16
+Maruti,Alto 800 VXI,Comprehensive,Petrol,5,"29,001",Second Owner,796,Manual,2019,22.05,47.33,69,Jun,2019,40,3.17,Kolkata,WB26,
+Maruti,Wagon R LX Minor,Third Party,Petrol,5,"41,029",Second Owner,998,Manual,2013,18.9,67.1,90,Jun,2013,75,2.14,Kolkata,WB02,14
+Honda,WR-V i-VTEC VX,Comprehensive,Petrol,5,"33,826",First Owner,1199,Manual,2018,17.5,88.7,110,Sept,2018,50,6.38,Kolkata,WB26,16
+Maruti,Wagon R AMT VXI Option,Comprehensive,Petrol,5,"64,057",First Owner,998,Automatic,2018,20.51,67,90,Jun,2018,50,4.26,Kolkata,WB10,
+Mahindra,Scorpio S11,Comprehensive,Diesel,7,"24,366",Second Owner,2179,Manual,2020,15.4,136.78,319,Jan,2021,30,14.81,Kolkata,WB32,R17
+Honda,WR-V i-VTEC S,Comprehensive,Petrol,5,"34,829",First Owner,1199,Manual,2020,17.5,88.7,110,Jun,2020,30,7.56,Kolkata,WB02,16
+Mahindra,XUV300 W8,Third Party,Petrol,5,"5,467",First Owner,1197,Manual,2022,16.82,108.62,200,Jun,2022,15,10.27,Kolkata,WB06,16
+Honda,Jazz 1.5 V i DTEC,Third Party,Diesel,5,"65,950",First Owner,1498,Manual,2017,27.3,98.6,200,Jun,2017,60,4.39,Kolkata,WB02,15
+Maruti,Wagon R VXI Optional,Third Party,Petrol,5,"49,606",First Owner,998,Manual,2018,20.51,67.04,90,Jun,2018,50,4.18,Kolkata,WB12,
+Maruti,Wagon R VXI,Third Party,Petrol,5,"19,002",First Owner,998,Manual,2020,21.79,67.05,90,Jun,2020,30,5.06,Kolkata,WB24,
+Maruti,Wagon R VXI 1.2 BSIV,Comprehensive,Petrol,5,"14,228",Second Owner,1197,Manual,2019,21.5,81.80,113,Jun,2019,40,5.08,Kolkata,WB82,
+Maruti,Alto 800 LXI,Comprehensive,Petrol,5,"6,156",Third Owner,796,Manual,2019,22.05,47.33,69,Jun,2019,40,3.31,Kolkata,WB24,
+Hyundai,Santro Xing GL,Third Party insurance,Petrol,5,"78,594",First Owner,1086,Manual,2008,,62,96.1,,,75,1.2,Kolkata,,13
+Hyundai,Grand i10 Asta,Comprehensive,Petrol,5,"40,000",First Owner,1197,Manual,2015,18.9,82,114,Feb,2015,75,3.25,Kolkata,WB02,14
+Hyundai,Santro Xing XG eRLX Euro III,Third Party insurance,Petrol,5,"70,000",Second Owner,1086,Manual,2006,17,,,,,75,0.7,Kolkata,,13
+Maruti,Ertiga BSIV ZXI Plus,Comprehensive,Petrol,7,"27,100",First Owner,1373,Manual,2019,17.5,91.1,130,Apr,2019,40,8.7,Kolkata,WV06,15
+Kia,Seltos GTX Option,Comprehensive,Petrol,5,"18,000",First Owner,1353,Manual,2022,16.5,138.08,242,Jan,2022,15,14.69,Kolkata,WB26,17
+Hyundai,Verna 1.6 VTVT S,Individual,Petrol,5,"12,100",First Owner,1591,Manual,2017,17.01,121.3,154.9,,,60,5.8,Kolkata,,
+Maruti,Omni E 8 Str STD,Third Party insurance,Petrol,0,"70,000",First Owner,,Manual,2009,19.7,,,,,75,1.2,Kolkata,N/A,12
+Volkswagen,Polo Petrol Trendline 1.2L,Third Party insurance,Petrol,5,"48,000",Second Owner,1198,Manual,2013,16.47,73.9,110,,,75,2.1,Kolkata,,14
+Hyundai,Verna 1.6 SX VTVT AT,Third Party,Petrol,5,"63,444",First Owner,1591,Automatic,2013,15.74,121.3,154.9,Jun,2013,75,4.86,Kolkata,WB08,16
+Maruti,Swift Dzire VXi,Comprehensive,Petrol,5,"46,055",Second Owner,1298,Manual,2012,17.5,85.8,114,Jun,2012,75,2.98,Kolkata,WB24,14
+Maruti,Wagon R VXI,Third Party,Petrol,5,"18,843",First Owner,998,Manual,2019,21.79,67.05,90,Jun,2019,40,5.01,Kolkata,WB24,
+Hyundai,Grand i10 Nios AMT Sportz,Comprehensive,Petrol,5,"25,911",Second Owner,1197,Automatic,2019,20.7,81.86,113.8,Jun,2019,40,6.5,Kolkata,WB20,14
+Hyundai,Creta 1.6 VTVT S,Third Party,Petrol,5,"70,714",Second Owner,1591,Manual,2016,15.29,121.3,151,Jun,2016,70,6.57,Kolkata,WB12,
+Hyundai,Creta 1.6 CRDi SX,Third Party,Diesel,5,"82,176",First Owner,1582,Manual,2016,19.67,126.2,259.9,Jun,2016,70,7.32,Kolkata,WB02,16
+Maruti,Ertiga VXI,Comprehensive,Petrol,7,"70,053",First Owner,1373,Manual,2013,16.02,93.7,130,Sept,2013,75,4.63,Kolkata,WB02,
+Hyundai,i20 Active 1.2 S,Third Party,Petrol,5,"17,375",First Owner,1197,Manual,2017,17.19,81.86,114.73,Jun,2017,60,5.94,Kolkata,WB06,16
+Honda,City i VTEC V,Comprehensive,Petrol,5,"29,629",Second Owner,1497,Manual,2017,17.8,117.3,145,Jun,2017,60,6.16,Kolkata,WB02,15
+Honda,City V MT,Third Party,Petrol,5,"20,355",First Owner,1497,Manual,2019,17.4,117.60,145,Jun,2019,40,7.93,Kolkata,WB02,15
+Hyundai,Verna VTVT 1.4 E,Comprehensive,Petrol,5,"31,530",First Owner,1368,Manual,2018,19.1,98.6,132.38,Jun,2018,50,6.44,Kolkata,WB02,
+Hyundai,i20 Asta Option 1.2,Third Party,Petrol,5,"32,195",Second Owner,1197,Manual,2017,18.6,81.83,114.7,Jun,2017,60,5.67,Kolkata,WB08,16
+Tata,Indica Quadrajet VX,Third Party insurance,Diesel,5,"50,000",First Owner,1248,Manual,2013,22.3,74,190,,,75,2.2,Kolkata,,14
+Volkswagen,Polo 1.2 MPI Comfortline,Comprehensive,Petrol,5,"39,000",First Owner,1199,Manual,2015,16.2,74,110,Jun,2015,75,2.75,Kolkata,WB02,
+Hyundai,Grand i10 1.2 Kappa Sportz BSIV,Comprehensive,Petrol,5,"29,204",First Owner,1197,Manual,2019,18.9,81.86,113.75,Jan,2019,40,4.65,Kolkata,WB20,
+Maruti,Vitara Brezza ZDi,Third Party insurance,Diesel,5,"90,000",First Owner,1248,Manual,2018,24.3,88.5,200,,,50,6.8,Kolkata,,16
+Hyundai,Grand i10 1.2 Kappa Asta,Third Party insurance,Petrol,5,"10,000",First Owner,1197,Manual,2018,18.9,81.86,113.75,,,50,4.1,Kolkata,,14
+Datsun,RediGO 1.0 S,Third Party insurance,Petrol,5,"20,000",First Owner,999,Manual,2019,22.5,67,91,,,40,2.1,Kolkata,,
+Honda,Brio S MT,Comprehensive,Petrol,5,"47,000",First Owner,1198,Manual,2012,19.4,86.8,109,Aug,2012,75,2.3,Kolkata,WB02,
+Volkswagen,Polo 1.2 MPI Comfortline,Comprehensive,Petrol,5,"50,000",First Owner,1198,Manual,2014,16.47,74,110,Nov,2014,75,2.95,Kolkata,WB06,
+Volkswagen,Vento Diesel Highline,Third Party,Diesel,5,"50,346",Second Owner,1598,Manual,2013,20.54,103.6,250,Jun,2013,75,2.69,Kolkata,WB02,15
+Hyundai,Verna VTVT 1.6 SX Option,Third Party,Petrol,5,"57,439",First Owner,1591,Manual,2018,17,121.3,151,Jun,2018,50,6.95,Kolkata,WB08,16
+Hyundai,Grand i10 1.2 Kappa Sportz BSIV,Comprehensive,Petrol,5,"18,896",First Owner,1197,Manual,2018,18.9,81.86,113.75,Oct,2018,50,4.59,Kolkata,WB24,
+Honda,City i VTEC SV,Comprehensive,Petrol,5,"29,856",First Owner,1497,Manual,2014,17.4,117.3,145,Jun,2014,75,4.22,Kolkata,WB02,
+Volkswagen,Polo 1.2 MPI Highline,Third Party,Petrol,5,"77,115",First Owner,1198,Manual,2015,16.47,74,110,Jun,2015,75,3.94,Kolkata,WB02,15
+Maruti,Swift Dzire VXI 1.2,Comprehensive,Petrol,5,"50,597",First Owner,1197,Manual,2018,21.21,81.80,113,Jun,2018,50,5.62,Kolkata,WB02,
+Hyundai,Verna VTVT 1.6 SX,Third Party,Petrol,5,"33,831",First Owner,1591,Manual,2018,17,121.3,151,Jun,2018,50,7.47,Kolkata,WB08,16
+Maruti,Ciaz Alpha,Comprehensive,Petrol,5,"43,349",First Owner,1462,Manual,2020,20.65,103.25,138,Mar,2020,30,7.51,Kolkata,WB90,16
+Hyundai,Grand i10 Magna,Third Party,Petrol,5,"67,585",First Owner,1197,Manual,2016,18.9,82,114,Jun,2016,70,3.71,Kolkata,WB02,
+Hyundai,Grand i10 1.2 Kappa Sportz BSIV,Third Party,Petrol,5,"17,457",First Owner,1197,Manual,2018,18.9,81.86,113.75,Jun,2018,50,4.17,Kolkata,WB02,
+Maruti,Vitara Brezza VDi Option,Third Party,Diesel,5,"37,996",First Owner,1248,Manual,2017,24.3,88.5,200,Jun,2017,60,6.15,Kolkata,WB18,
+Tata,Tigor XE,Third Party,Petrol,5,"2,933",First Owner,1199,Manual,2021,19.28,84.82,113,Jun,2021,20,5.79,Kolkata,WB24,
+Chevrolet,Beat LS,Third Party,Petrol,5,"35,000",Second Owner,1199,Manual,2011,18.6,79.4,108,,,75,1.35,Kolkata,,14
+MG,Hector Hybrid Sharp MT BSIV,Third Party insurance,Petrol,5,"20,000",First Owner,1451,Manual,2019,15.81,141,250,,,40,12.0,Kolkata,,R17
+Maruti,Ritz LXI,Not Available,Petrol,5,"61,217",First Owner,1197,Manual,2009,21.1,85.80,114,Dec,2009,75,1.0,Kolkata,WB06,14
+Hyundai,Santro Xing GL,Third Party insurance,Petrol,5,"30,000",First Owner,1086,Manual,2008,,62,96.1,,,75,1.2,Kolkata,,13
+Toyota,Etios Liva GD,Third Party insurance,Diesel,5,"1,00,000",Second Owner,1364,Manual,2013,23.59,67.06,170,,,75,2.7,Kolkata,,14
+Mahindra,Scorpio Getaway 4WD,Third Party insurance,Diesel,5,"40,000",First Owner,2179,Manual,2015,9,120,280,,,75,7.0,Kolkata,,
+Mahindra,TUV 300 T6 Plus,Third Party insurance,Diesel,7,"15,000",First Owner,1493,Manual,2015,18.49,100,240,,,75,6.0,Kolkata,,
+Mahindra,XUV300 W8,Third Party,Petrol,5,"10,000",First Owner,1197,Manual,2021,16.82,108.62,200,,,20,9.1,Kolkata,,16
+Honda,City VX CVT,Comprehensive,Petrol,5,"5,670",First Owner,1498,Automatic,2021,18.3,119.35,145,Jul,2021,20,12.39,Kolkata,WB02,16
+Maruti,Baleno 1.2 Delta,Third Party insurance,Petrol,5,"33,172",Second Owner,1197,Manual,2018,21.4,83.1,115,Jun,2018,50,5.56,Kolkata,WB02,
+Maruti,Baleno Zeta,Third Party,Petrol,5,"7,989",First Owner,1197,Manual,2021,21.01,81.80,113,Jun,2021,20,7.02,Kolkata,WB02,R16
+Hyundai,Grand i10 Sportz,Third Party,Petrol,5,"30,183",First Owner,1197,Manual,2016,18.9,82,114,Jun,2016,70,3.8,Kolkata,WB08,
+Hyundai,i20 1.2 Magna Executive,Comprehensive,Petrol,5,"23,928",First Owner,1197,Manual,2018,18.6,81.83,114.7,Jun,2018,50,5.15,Kolkata,WB06,
+Honda,City i VTEC SV,Comprehensive,Petrol,5,"80,606",First Owner,1497,Manual,2015,17.4,117.3,145,Jun,2015,75,4.35,Kolkata,WB02,
+Mahindra,XUV500 W7 BSIV,Comprehensive,Diesel,7,"27,396",First Owner,2179,Manual,2018,15.1,152.87,360,Jun,2018,50,10.3,Kolkata,WB10,
+Hyundai,Verna VTVT 1.6 AT SX Option,Comprehensive,Petrol,5,"12,158",First Owner,1591,Automatic,2017,17,121.3,151,Jun,2017,60,8.26,Kolkata,WB08,16
+Maruti,Alto K10 VXI AGS Optional,Comprehensive,Petrol,5,"29,489",Second Owner,998,Automatic,2018,23.95,67.1,90,Jun,2018,50,3.58,Kolkata,WB24,
+Maruti,Baleno 1.2 Delta,Third Party,Petrol,5,"46,141",First Owner,1197,Manual,2019,21.4,83.1,115,Jun,2019,40,5.68,Kolkata,WB02,
+Tata,Altroz XM plus,Third Party,Petrol,5,"3,520",First Owner,1199,Manual,2022,19.33,86.83,113,Jun,2022,15,7.11,Kolkata,WB24,
+Tata,Nexon XZ Plus HS Diesel,Third Party insurance,Diesel,5,"5,000",First Owner,1497,Manual,2022,21.19,108.49,260,,,15,12.25,Kolkata,,16
+Maruti,Alto LXi,Third Party insurance,Petrol,5,"50,000",First Owner,796,Manual,2012,19.7,46.3,62,,,75,1.6,Kolkata,,12
+Maruti,Celerio VXI AT,Third Party insurance,Petrol,5,"40,000",Second Owner,998,Automatic,2014,23.1,67.04,90,,,75,3.0,Kolkata,,
+Maruti,SX4 S Cross DDiS 200 Zeta,Third Party insurance,Diesel,5,"80,000",Second Owner,1248,Manual,2015,23.65,88.5,200,,,75,5.25,Kolkata,,16
+Mercedes-Benz,C-Class 220 CDI AT,Third Party insurance,Diesel,5,"49,000",Second Owner,2143,Automatic,2010,14.84,170,400,,,75,4.5,Kolkata,N/A,16
+Skoda,New Laura Elegance MT,Third Party insurance,Diesel,5,"1,40,000",Fourth Owner,1896,Manual,2010,17.5,,25,,,75,2.45,Kolkata,,16
+Hyundai,Xcent 1.1 CRDi S,Comprehensive,Diesel,5,"53,000",First Owner,1120,Manual,2014,24.4,71,180.4,Jun,2014,75,2.69,Kolkata,WB16,
+Mahindra,TUV 300 T10 AMT Dual Tone,Available,Diesel,7,"1,20,000",First Owner,1493,Automatic,2019,18.49,100,240,,,40,8.7,Kolkata,,15
+Maruti,XL6 Alpha,Comprehensive,Petrol,6,"40,818",First Owner,1462,Manual,2021,19.01,103.2,138,Jun,2021,20,9.31,Kolkata,WB30,R15
+Honda,Jazz 1.2 SV i VTEC,Third Party,Petrol,5,"48,302",First Owner,1199,Manual,2015,18.7,88.7,110,Jun,2015,75,3.98,Kolkata,WB02,
+Hyundai,Grand i10 1.2 Kappa Magna BSIV,Third Party,Petrol,5,"33,583",First Owner,1197,Manual,2019,18.9,81.86,113.75,Jun,2019,40,4.91,Kolkata,WB02,
+Maruti,SX4 S Cross Zeta,Third Party,Petrol,5,"33,524",First Owner,1462,Manual,2020,18.55,103.25,138,Jun,2020,30,8.12,Kolkata,WB08,16
+Hyundai,Venue SX Turbo,Third Party,Petrol,5,"24,023",First Owner,998,Manual,2021,18.27,118.35,172,Jun,2021,20,9.23,Kolkata,WB18,
+Honda,WR-V i-VTEC VX,Comprehensive,Petrol,5,"28,303",First Owner,1199,Manual,2019,17.5,88.7,110,Jun,2019,40,6.89,Kolkata,WB02,16
+Ford,Ecosport 1.5 TDCi Titanium Plus BSIV,Comprehensive,Diesel,5,"69,224",First Owner,1498,Manual,2017,22.77,98.59,205,Jun,2017,60,6.25,Kolkata,WB26,16
+Skoda,Rapid 1.0 TSI Style,Third Party,Petrol,5,"20,786",Second Owner,999,Manual,2020,18.97,108.62,175,Jun,2020,30,8.18,Kolkata,WB02,R16
+Honda,WR-V i-DTEC S,Third Party,Diesel,5,"97,986",First Owner,1498,Manual,2018,25.5,98.6,200,Jun,2018,50,4.99,Kolkata,WB20,16
+Hyundai,i20 Petrol Magna,Comprehensive,Petrol,5,"18,704",Second Owner,1197,Manual,2019,18.6,81.86,114.73,Jun,2019,40,5.49,Kolkata,WB02,
+Mahindra,XUV500 W8 2WD,Third Party,Diesel,7,"68,488",Second Owner,2179,Manual,2016,16,140,330,Jun,2016,70,8.1,Kolkata,WB26,17
+Tata,Altroz XT,Comprehensive,Petrol,5,"24,106",First Owner,1199,Manual,2021,19.33,86.83,113,Jun,2021,20,6.59,Kolkata,WB08,
+Maruti,Wagon R VXI Optional,Third Party insurance,Petrol,5,"57,430",First Owner,998,Manual,2016,20.51,67.04,90,,,70,2.77,Kolkata,,
+Maruti,Zen VXI,Third Party insurance,Petrol,5,"70,000",First Owner,993,Manual,2003,17.3,60,78 ,,,75,0.5,Kolkata,,12
+Mahindra,Verito Vibe 1.5 dCi D4,Third Party insurance,Diesel,5,"40,000",First Owner,1461,Manual,2018,20.8,64.1,160,,,50,3.4,Kolkata,,
+Maruti,Swift Dzire VXi,Third Party insurance,Petrol,5,"72,850",First Owner,1298,Manual,2012,17.5,85.8,114,,,75,2.99,Kolkata,,14
+Honda,City i VTEC SV,Individual,Petrol,5,"50,000",First Owner,1497,Manual,2014,17.4,117.3,145,,,75,3.75,Kolkata,N/A,
+Maruti,Swift Dzire Vdi BSIV,Third Party insurance,Diesel,5,"30,000",First Owner,1248,Manual,2012,19.3,73.9,190,,,75,3.0,Kolkata,,14
+Renault,Triber RXZ,Comprehensive,Petrol,7,"1,00,000",First Owner,999,Manual,2021,20,71.01,96,,,20,6.4,Kolkata,,
+Maruti,SX4 Vxi BSIV,Third Party insurance,Petrol,5,"80,000",Third Owner,1586,Manual,2010,15.5,103.3,145,,,75,2.0,Kolkata,,15
+Tata,Altroz XZ,Third Party,Petrol,5,"9,288",First Owner,1199,Manual,2021,19.33,86.83,113,Jun,2021,20,6.95,Kolkata,WB84,16
+Honda,Amaze SX i-DTEC,Third Party,Diesel,5,"98,378",First Owner,1498,Manual,2016,25.8,98.6,200,Jun,2016,70,3.69,Kolkata,WB02,
+Ford,Ecosport 1.0 Ecoboost Titanium,Comprehensive,Petrol,5,"75,603",First Owner,999,Manual,2014,18.88,123.37,170,Jun,2014,75,5.19,Kolkata,WB20,16
+Ford,Ecosport 1.5 DV5 MT Trend,Third Party,Diesel,5,"74,324",First Owner,1498,Manual,2014,22.7,89.84,204,Jun,2014,75,4.34,Kolkata,WB02,
+Maruti,Baleno 1.2 Alpha,Third Party,Petrol,5,"74,861",Second Owner,1197,Manual,2017,21.4,83.1,115,Jun,2017,60,5.51,Kolkata,WB06,16
+Tata,New Safari XZ Plus,Comprehensive,Diesel,7,"16,566",First Owner,1956,Manual,2021,16.14,167.67,350,May,2021,20,17.47,Kolkata,WB08,18
+Honda,WR-V i-VTEC VX,Comprehensive,Petrol,5,"75,131",First Owner,1199,Manual,2017,17.5,88.7,110,Jun,2017,60,5.78,Kolkata,WB02,16
+Hyundai,i10 Magna,Third Party,Petrol,5,"76,351",Second Owner,1197,Manual,2010,20.36,78.9,111.7,Jun,2010,75,1.83,Kolkata,WB12,13
+Skoda,Rapid 1.6 MPI Active BSIV,Third Party,Petrol,5,"41,102",First Owner,1598,Manual,2019,15.41,103.2,153,Jun,2019,40,6.74,Kolkata,WB02,
+Maruti,Swift VXI,Third Party,Petrol,5,"26,325",First Owner,1197,Manual,2016,21.21,81.80,113,Jun,2016,70,4.25,Kolkata,WB16,
+Maruti,Celerio ZXI AT,Comprehensive,Petrol,5,"9,475",First Owner,998,Automatic,2017,23.1,67.04,90,Jun,2017,60,4.09,Kolkata,WB20,
+Maruti,Alto K10 LXI,Comprehensive,Petrol,5,"15,168",First Owner,998,Manual,2016,23.95,67.05,90,Jun,2016,70,2.63,Kolkata,WB20,
+Maruti,Alto LX,Third Party insurance,Petrol,5,"60,000",First Owner,796,Manual,2003,19.7,46.3,62,,,75,0.55,Kolkata,,12
+Maruti,Swift VXI BSIII,Third Party insurance,Petrol,5,"50,000",First Owner,1298,Manual,2009,16.1,8,11,,,75,1.5,Kolkata,,14
+Audi,A4 1.8 TFSI,Third Party insurance,Petrol,5,"35,000",First Owner,1798,Automatic,2013,15.64,167.62,320,,,75,8.5,Kolkata,,16
+Maruti,Alto LXi BSIII,Third Party insurance,Petrol,5,"90,000",Second Owner,796,Manual,2010,19.7,46.3,62,,,75,1.3,Kolkata,,12
+Datsun,GO Plus T BSIV,Third Party insurance,Petrol,7,"20,000",First Owner,1198,Manual,2016,19.44,67,104,,,70,2.21,Kolkata,,
+Maruti,Wagon R Stingray AMT VXI,Third Party insurance,Petrol,5,"90,000",First Owner,998,Automatic,2016,20.51,67.04,90,,,70,3.65,Kolkata,,14
+Audi,A6 2.8 FSI,Third Party insurance,Petrol,5,"1,10,000",First Owner,2773,Automatic,2011,10.4,201,280,,,75,4.8,Kolkata,N/A,17
+Maruti,Ritz ZXi,Third Party insurance,Petrol,5,"25,000",Second Owner,1197,Manual,2009,18.5,85.80,114,,,75,1.5,Kolkata,,14
+Maruti,Alto K10 LXI,Comprehensive,Petrol,5,"5,175",First Owner,998,Manual,2013,20.92,67.1,90,Jun,2013,75,2.01,Kolkata,WB24,13
+Maruti,Alto 800 LXI,Third Party,Petrol,5,"10,225",Second Owner,796,Manual,2019,22.05,47.33,69,Jun,2019,40,2.88,Kolkata,WB10,
+Maruti,Alto K10 LXI,Comprehensive,Petrol,5,"27,909",First Owner,998,Manual,2011,20.92,67.1,90,Jun,2011,75,1.85,Kolkata,WB24,13
+Maruti,Wagon R ZXI 1.2,Comprehensive,Petrol,5,"12,810",First Owner,1197,Manual,2020,20.52,81.80,113,Jun,2020,30,5.59,Kolkata,WB30,
+Hyundai,Creta 1.6 VTVT S,Third Party,Petrol,5,"47,849",Second Owner,1591,Manual,2019,15.29,121.3,151,Jun,2019,40,9.26,Kolkata,WB50,
+Hyundai,i20 Asta 1.4 CRDi,Comprehensive,Diesel,5,"82,640",First Owner,1396,Manual,2014,22.54,88.73,219.7,Jun,2014,75,4.7,Kolkata,WB02,16
+Maruti,SX4 S Cross Alpha,Comprehensive,Petrol,5,"6,792",First Owner,1462,Manual,2020,18.55,103.25,138,Sept,2020,30,9.73,Kolkata,WB02,16
+Honda,CR-V 2.0L 2WD AT,Third Party,Petrol,5,"47,815",First Owner,1997,Automatic,2015,13.7,153.86,190,Jun,2015,75,9.72,Kolkata,WB02,17
+Mahindra,XUV500 W7 BSIV,Comprehensive,Diesel,7,"27,198",First Owner,2179,Manual,2019,15.1,152.87,360,Jun,2019,40,10.83,Kolkata,WB30,
+Mahindra,Thar LX 4-Str Hard Top,Comprehensive,Petrol,4,"5,857",First Owner,1997,Manual,2022,15.2,150,300,Apr,2022,15,13.67,Kolkata,WB08,18
+Maruti,Baleno Zeta,Comprehensive,Petrol,5,"8,233",First Owner,1197,Manual,2020,21.01,81.80,113,Jun,2020,30,6.94,Kolkata,WB08,R16
+Maruti,Swift Dzire VXI 1.2,Third Party,Petrol,5,"27,476",First Owner,1197,Manual,2018,21.21,81.80,113,Jun,2018,50,5.37,Kolkata,WB02,
+Hyundai,Verna 1.6 SX,Third Party insurance,Diesel,5,"1,20,000",Second Owner,1582,Manual,2012,22.32,126.32,259.8,,,75,4.0,Kolkata,,16
+Maruti,Swift Dzire AMT ZXI BS IV,Third Party insurance,Petrol,5,"30,000",Second Owner,1197,Automatic,2019,22,81.80,113,,,40,5.5,Kolkata,,15
+Honda,Amaze S Petrol,Third Party insurance,Petrol,5,"2,000",First Owner,1199,Manual,2021,18.6,88.76,110,,,20,6.5,Kolkata,,
+Chevrolet,Sail LS ABS,Third Party insurance,Diesel,5,"43,000",Second Owner,1248,Manual,2013,22.1,74,190,,,75,1.6,Kolkata,,
+Volkswagen,Polo 1.5 TDI Comfortline,Third Party insurance,Diesel,5,"80,000",Second Owner,1498,Manual,2014,20.14,88.8,230,,,75,2.3,Kolkata,,
+Mahindra,Scorpio S11,Third Party insurance,Diesel,7,"35,000",First Owner,2179,Manual,2022,15.4,136.78,319,,,15,17.5,Kolkata,,R17
+Maruti,Baleno Alpha,Third Party insurance,Petrol,5,"5,000",First Owner,1197,Manual,2023,22.35,88.50,113,,,10,5.85,Kolkata,,16
+Maruti,Ertiga VXI ABS,Third Party insurance,Petrol,7,"25,000",First Owner,1373,Manual,2015,16.02,93.7,130,,,75,5.2,Kolkata,,
+Maruti,SX4 S Cross Zeta DDiS 200 SH,Comprehensive,Diesel,5,"64,303",First Owner,1248,Manual,2018,25.1,88.5,200,Jun,2018,50,6.32,Kolkata,WB02,R16
+Hyundai,Grand i10 1.2 Kappa Magna BSIV,Comprehensive,Petrol,5,"38,807",First Owner,1197,Manual,2019,18.9,81.86,113.75,Jun,2019,40,2.69,Kolkata,WB02,
+Maruti,Alto 800 VXI,Third Party,Petrol,5,"13,766",First Owner,796,Manual,2020,22.05,47.33,69,Jun,2020,30,3.96,Kolkata,WB02,
+Maruti,Alto K10 VXI AMT,Third Party,Petrol,5,"44,012",First Owner,998,Automatic,2018,23.95,67.05,90,Jun,2018,50,3.45,Kolkata,WB02,
+Maruti,Alto 800 LXI,Comprehensive,Petrol,5,"85,022",First Owner,796,Manual,2014,22.74,47.3,69,Jun,2014,75,1.93,Kolkata,WB24,
+Maruti,Wagon R VXI BS IV,Third Party,Petrol,5,"61,389",First Owner,998,Manual,2015,20.51,67.04,90,Jun,2015,75,3.16,Kolkata,WB12,
+Maruti,Wagon R VXI BS IV,Third Party,Petrol,5,"42,478",First Owner,998,Manual,2013,18.9,67.1,90,Jun,2013,75,2.84,Kolkata,WB08,14
+Maruti,Swift VVT VXI,Third Party,Petrol,5,"21,315",Second Owner,1197,Manual,2014,22,81.80,113,Jun,2014,75,4.02,Kolkata,WB02,
+Maruti,Swift VVT VXI,Third Party,Petrol,5,"62,628",First Owner,1197,Manual,2014,22,81.80,113,Jun,2014,75,3.57,Kolkata,WB24,
+Renault,Duster 1.5 Petrol RXL,Comprehensive,Petrol,5,"36,846",First Owner,1498,Manual,2017,14.19,104.5,142,Jun,2017,60,5.93,Kolkata,WB26,
+Maruti,S-Presso VXI Plus 2019-2022,Comprehensive,Petrol,5,"4,298",First Owner,998,Manual,2019,21.7,65.71,89,Jun,2019,40,4.38,Kolkata,WB02,
+Hyundai,i20 Sportz 1.2,Third Party,Petrol,5,"54,612",First Owner,1197,Manual,2015,18.6,81.83,114.7,Jun,2015,75,3.94,Kolkata,WB12,
+Tata,Indica Aqua 1.2 Safire BSIV,Third Party insurance,Petrol,5,"70,000",First Owner,1172,Manual,2011,16.6,65 PS at 5500 ,96 Nm at 3000 r,,,75,1.1,Kolkata,N/A,13
+Hyundai,i20 Active SX Diesel,Third Party insurance,Diesel,5,"3,200",First Owner,1396,Manual,2018,21.19,88.76,219.66,,,50,6.5,Kolkata,,16
+Renault,KWID Climber 1.0 MT Opt,Third Party insurance,Petrol,5,"15,000",First Owner,999,Manual,2021,21.74,67,91,,,20,5.0,Kolkata,,
+Maruti,Baleno Alpha,Third Party insurance,Petrol,5,"5,000",First Owner,1197,Manual,2023,22.35,88.50,113,,,10,7.48,Kolkata,N/A,16
+Mahindra,XUV300 W4,Third Party insurance,Petrol,5,"10,000",First Owner,1197,Manual,2022,16.82,108.62,200,,,15,8.0,Kolkata,,
+Toyota,Etios VD SP,Available,Diesel,5,"1,20,000",First Owner,1364,Manual,2013,23.59,67.04,170,,,75,3.0,Kolkata,,15
+Maruti,Baleno Alpha,Third Party insurance,Petrol,5,"5,000",First Owner,1197,Manual,2023,22.35,88.50,113,,,10,7.5,Kolkata,,16
+Mitsubishi,Pajero Sport 4X4 Dual Tone,Third Party insurance,Diesel,7,"40,000",First Owner,2477,Manual,2016,13.5,175.56,400,,,70,13.0,Kolkata,,17
+Hyundai,Grand i10 Magna,Third Party,Petrol,5,"34,091",Second Owner,1197,Manual,2016,18.9,82,114,Jun,2016,70,3.99,Kolkata,WB02,
+Toyota,Etios G,Third Party,Petrol,5,"72,273",First Owner,1496,Manual,2014,16.78,88.73,132,Jun,2014,75,2.69,Kolkata,WB02,15
+Hyundai,i20 Asta 1.2,Comprehensive,Petrol,5,"33,678",First Owner,1197,Manual,2014,18.6,81.83,114.7,Jun,2014,75,4.35,Kolkata,WB08,16
+Hyundai,i20 Asta 1.2,Third Party,Petrol,5,"40,370",First Owner,1197,Manual,2015,18.6,81.83,114.7,Jun,2015,75,4.44,Kolkata,WB02,16
+Hyundai,Grand i10 Magna,Third Party,Petrol,5,"85,871",Second Owner,1197,Manual,2015,18.9,82,114,Jun,2015,75,3.32,Kolkata,WB06,
+Mahindra,Marazzo M2 8Str,Comprehensive,Diesel,8,"9,043",First Owner,1497,Manual,2021,17.3,120.96,300,Jun,2021,20,11.11,Kolkata,WB20,
+Tata,Tigor XM,Comprehensive,Petrol,5,"51,408",First Owner,1199,Manual,2021,19.28,84.82,113,Jun,2021,20,6.44,Kolkata,WB18,
+Toyota,Corolla Altis Diesel D4DG,Third Party,Diesel,5,"43,217",Second Owner,1364,Manual,2013,21.43,87.2,205,Jun,2013,75,4.44,Kolkata,WB06,15
+Hyundai,Santro Asta,Third Party,Petrol,5,"40,826",First Owner,1086,Manual,2021,20.3,68.05,99,Jun,2021,20,5.69,Kolkata,WB08,
+Hyundai,Elantra 1.6 SX Option AT,Comprehensive,Diesel,5,"78,883",First Owner,1582,Automatic,2016,18.23,126.2,259.88,Jun,2016,70,9.92,Kolkata,WB02,16
+Renault,Triber RXL,Third Party,Petrol,7,"8,722",Second Owner,999,Manual,2021,20,71.01,96,Jun,2021,20,5.55,Kolkata,WB24,
+Maruti,Swift VXI,Comprehensive,Petrol,5,"46,411",First Owner,1197,Manual,2020,21.21,81.80,113,Jun,2020,30,6.63,Kolkata,WB06,
+Maruti,Wagon R VXI Optional,Individual,Petrol,5,"25,000",First Owner,998,Manual,2016,20.51,67.04,90,,,70,4.0,Kolkata,,
+Ford,Aspire Ambiente BSIV,Third Party insurance,Petrol,5,"40,000",First Owner,1194,Manual,2019,20.4,94.93,120,,,40,3.5,Kolkata,,
+Tata,Hexa XT,Third Party insurance,Diesel,7,"25,000",First Owner,2179,Manual,2018,17.6,153.86,400,,,50,11.0,Kolkata,,17
+Maruti,Omni E MPI STD BSIV,Third Party insurance,Petrol,8,"60,000",First Owner,796,Manual,2009,16.8,34.2,59,,,75,1.2,Kolkata,,12
+Honda,BR-V Style Edition S,Third Party insurance,Petrol,7,"40,000",First Owner,1497,Manual,2019,15.4,117.3,145,,,40,8.5,Kolkata,,
+Mahindra,XUV500 W8 FWD,Third Party insurance,Diesel,7,"40,000",First Owner,2179,Manual,2013,15.1,140,330,,,75,5.0,Kolkata,,17
+Hyundai,Creta 1.6 CRDi SX,Available,Diesel,5,"70,000",First Owner,1582,Manual,2016,19.67,126.2,259.9,,,70,8.0,Kolkata,N/A,16
+Hyundai,i20 1.2 Asta,Third Party insurance,Petrol,5,"60,000",Second Owner,1197,Manual,2011,17,80 PS at 5200 ,"11.4 kgm at 4,000 r",,,75,2.5,Kolkata,,14
+Hyundai,i20 1.2 Spotz,Third Party,Petrol,5,"25,744",First Owner,1197,Manual,2018,18.6,81.83,114.7,Jun,2018,50,6.11,Kolkata,WB08,
+Hyundai,i10 Magna 1.1L,Third Party,Petrol,5,"38,982",First Owner,1086,Manual,2015,19.81,68.05,99.04,Jun,2015,75,2.99,Kolkata,WB08,
+Maruti,Swift Dzire VXI,Third Party,Petrol,5,"35,113",First Owner,1197,Manual,2014,19.1,85.8,114,Jun,2014,75,3.91,Kolkata,WB02,14
+Hyundai,i20 Active 1.2 S,Third Party insurance,Petrol,5,"50,000",First Owner,1197,Manual,2018,17.19,81.86,114.73,,,50,5.35,Kolkata,,16
+BMW,X5 4.8is SAV,Third Party insurance,Petrol,5,"40,000",First Owner,4799,Automatic,2009,10.5,,48,,,75,9.0,Kolkata,,19
+Volkswagen,Vento 1.5 TDI Highline,Third Party insurance,Diesel,5,"90,000",Third Owner,1498,Manual,2015,20.34,103.2,250,,,75,4.75,Kolkata,,15
+Jeep,Compass 2.0 Longitude Option BSIV,Third Party insurance,Diesel,5,"77,000",First Owner,1956,Manual,2018,17.1,170,350,,,50,11.0,Kolkata,,17
+Ford,Figo Petrol EXI,Third Party insurance,Petrol,5,"90,000",Second Owner,1196,Manual,2012,15.6,70,102,,,75,1.3,Kolkata,,14
+Maruti,Ignis Alpha AMT,Third Party insurance,Petrol,5,"1,000",First Owner,1197,Automatic,2023,20.89,81.80,113,,,10,5.03,Kolkata,N/A,15
+Maruti,Swift Dzire VXi,Third Party insurance,Petrol,5,"1,20,000",First Owner,1298,Manual,2008,17.5,85.8,114,,,75,1.0,Kolkata,,14
+Maruti,Swift Dzire LDI,Available,Diesel,5,"1,39,000",First Owner,1248,Manual,2013,23.4,74,190,,,75,2.1,Kolkata,,14
+Tata,Tigor XM,Third Party insurance,Petrol,5,"70,000",First Owner,1199,Manual,2021,19.28,84.82,113,,,20,5.5,Kolkata,,
+Maruti,Alto K10 LXI,Third Party insurance,Petrol,5,"40,000",Second Owner,998,Manual,2014,23.95,67.05,90,,,75,2.5,Kolkata,,
+Skoda,Rapid 1.6 MPI AT Ambition Plus Alloy,Third Party insurance,Petrol,5,"25,000",First Owner,1598,Automatic,2014,14.3,103.6,153,,,75,4.0,Kolkata,,14
+Honda,Jazz 1.2 SV i VTEC,Third Party insurance,Petrol,5,"60,000",Second Owner,1199,Manual,2018,18.7,88.7,110,,,50,3.85,Kolkata,,
+Maruti,Swift Dzire VDI,Third Party insurance,Diesel,5,"1,20,000",Second Owner,1248,Manual,2013,23.4,74,190,,,75,3.5,Kolkata,,14
+Hyundai,Xcent 1.2 Kappa AT S Option,Third Party insurance,Petrol,5,"50,000",Second Owner,1197,Automatic,2015,16.9,81.86,113.75,,,75,3.5,Kolkata,,
+Hyundai,EON Magna Plus,Third Party insurance,Petrol,5,"40,000",First Owner,814,Manual,2015,21.1,55.2,74.5,,,75,2.5,Kolkata,,
+Maruti,Alto 800 LXI,Third Party insurance,Petrol,5,"10,000",First Owner,796,Manual,2015,22.74,47.3,69,,,75,2.15,Kolkata,,
+Hyundai,Alcazar Signature Diesel AT,Third Party insurance,Diesel,6,"5,000",First Owner,1493,Automatic,2022,18.1,113.42,250,,,15,19.5,Kolkata,,18
+Mahindra,XUV500 W8 FWD,Comprehensive,Diesel,7,"82,000",First Owner,2179,Manual,2014,15.1,140,330,Mar,2014,75,6.5,Kolkata,WB02,17
+Toyota,Glanza G,Third Party insurance,Petrol,5,"5,000",First Owner,1197,Manual,2022,22.35,88.50,113,,,15,8.5,Kolkata,,16
+Hyundai,i10 Sportz,Corporate,Petrol,5,"96,000",First Owner,1197,Manual,2010,20.36,78.9,111.8,,,75,1.1,Kolkata,,13
+Mahindra,KUV 100 NXT D75 K6 Plus,Third Party insurance,Diesel,6,"50,000",First Owner,1198,Manual,2017,25.32,77,190,,,60,4.0,Kolkata,,14
+Toyota,Innova 2.5 V Diesel 7-seater,Third Party insurance,Diesel,7,"1,20,000",Second Owner,2494,Manual,2008,12.8,,20,,,75,6.0,Kolkata,,15
+Hyundai,i10 Magna 1.1L,Available,Petrol,5,"50,000",Second Owner,1086,Manual,2013,19.81,68.05,99.04,,,75,1.7,Kolkata,N/A,
+Mahindra,KUV 100 NXT G80 K4 Plus,Third Party insurance,Petrol,6,"30,000",First Owner,1198,Manual,2018,18.15,82,115,,,50,3.75,Kolkata,,
+Maruti,Alto 800 LXI,Third Party insurance,Petrol,5,"70,000",First Owner,796,Manual,2018,24.7,47.3,69,,,50,2.03,Kolkata,,
+Hyundai,Verna S Plus,Third Party insurance,Petrol,5,"5,000",First Owner,1497,Manual,2022,17.7,113.18,143.8,,,15,9.4,Kolkata,,
+Kia,Seltos GTX Plus DCT,Third Party insurance,Petrol,5,"30,000",First Owner,1353,Automatic,2020,16.5,138.08,242,,,30,14.0,Kolkata,,17
+Toyota,Etios 2014-2016 G,Available,Petrol,5,"50,000",First Owner,1496,Manual,2016,16.78,88.73,132,,,70,3.15,Kolkata,,
+Mahindra,Bolero DI BSIII,Third Party insurance,Diesel,7,"80,000",Second Owner,2523,Manual,2008,13.6,63 HP at 3200 ,180 Nm at 1440-1500r,,,75,2.5,Kolkata,,15
+Hyundai,i20 Magna 1.2,Third Party insurance,Petrol,5,"1,10,000",First Owner,1197,Manual,2015,18.6,81.83,114.7,,,75,4.0,Kolkata,,
+Maruti,Baleno 1.2 CVT Alpha,Third Party insurance,Petrol,5,"15,000",First Owner,1197,Automatic,2019,21.4,83.1,115,,,40,5.98,Kolkata,,16
+Maruti,Alto 800 LXI,Third Party insurance,Petrol,5,"48,000",First Owner,796,Manual,2018,24.7,47.3,69,,,50,2.0,Kolkata,,
+Maruti,Swift Vdi BSIII,Third Party insurance,Diesel,5,"1,20,000",Second Owner,1248,Manual,2007,17.8,75,190 ,,,75,1.5,Kolkata,,14
+Maruti,Omni E MPI STD BSIV,Third Party insurance,Petrol,8,"25,000",First Owner,796,Manual,2013,16.8,34.2,59,,,75,1.4,Kolkata,,12
+Chevrolet,Cruze LTZ AT,Third Party insurance,Diesel,5,"1,10,000",Second Owner,1991,Automatic,2011,18.1,147.9,327,,,75,3.5,Kolkata,,16
+Toyota,Fortuner 4x2 AT,Third Party insurance,Diesel,7,"80,000",Second Owner,2982,Automatic,2013,12.55,168.5,360,,,75,10.0,Kolkata,,17
+Hyundai,Aura SX,Third Party insurance,Petrol,5,"40,000",First Owner,1197,Manual,2020,20.5,81.86,113.8,,,30,6.2,Kolkata,N/A,15
+Maruti,Swift VVT VXI,Comprehensive,Petrol,5,"26,000",First Owner,1197,Manual,2015,22,81.80,113,Dec,2015,75,3.8,Kolkata,WB08,
+Maruti,Swift Dzire VXI 1.2 BS IV,Comprehensive,Petrol,5,"67,000",First Owner,1197,Manual,2016,22,81.80,113,Jun,2016,70,4.5,Kolkata,WB08,
+Chevrolet,Beat LS,Available,Petrol,5,"50,000",Second Owner,1199,Manual,2012,18.6,79.4,108,,,75,2.0,Kolkata,,14
+Tata,Sumo Gold CX,Third Party insurance,Diesel,7,"1,20,000",First Owner,2956,Manual,2016,15.3,83.83,250,,,70,3.5,Kolkata,,
+Maruti,Alto 800 Tour H,Third Party insurance,Petrol,5,"90,000",Second Owner,796,Manual,2019,24.7,47.3,69,,,40,1.7,Kolkata,,
+Hyundai,Xcent 1.2 Kappa SX,Third Party insurance,Petrol,5,"50,000",First Owner,1197,Manual,2015,19.1,82,114,,,75,3.5,Kolkata,,14
+Tata,Nexon XZ Plus S 2020-2022,Available,Petrol,5,"20,000",First Owner,1199,Manual,2021,17.57,118.36,170,,,20,8.51,Kolkata,,16
+Maruti,Ritz VDi,Third Party insurance,Diesel,5,"56,000",First Owner,1248,Manual,2009,21.1,73.9,113,,,75,1.35,Kolkata,,14
+Mahindra,Scorpio S5,Third Party insurance,Diesel,7,"80,000",First Owner,2179,Manual,2021,,136.78,319,,,20,14.0,Kolkata,,
+Toyota,Land Cruiser VX,Third Party insurance,Diesel,7,"1,49,000",Second Owner,4461,Automatic,2012,11,261.49,650,Apr,2012,75,59.5,Kolkata,WB06,18
+Renault,Lodgy 85PS RxL,Comprehensive,Diesel,8,"40,000",First Owner,1461,Manual,2016,21.04,83.8,200,Jan,2016,70,4.7,Kolkata,WB26,
+Maruti,Wagon R VXI 1.2 BSIV,Comprehensive,Petrol,5,"51,000",First Owner,1197,Manual,2012,21.5,81.80,113,Jul,2012,75,2.5,Kolkata,WB26,
+Hyundai,i20 Sportz 1.2,Comprehensive,Petrol,5,"50,000",First Owner,1197,Manual,2013,18.5,82.85,113.7,Jul,2013,75,3.5,Kolkata,WB02,14
+Maruti,Swift VXI BSIV,Comprehensive,Petrol,5,"32,100",First Owner,1197,Manual,2014,22,81.80,113,Sept,2014,75,3.85,Kolkata,WB02,
+Maruti,Swift AMT VXI BSIV,Comprehensive,Petrol,5,"15,171",First Owner,1197,Automatic,2019,22,81.80,113,Dec,2019,40,5.75,Kolkata,WB06,
+Maruti,Wagon R VXI BS IV,Comprehensive,Petrol,5,"41,996",First Owner,998,Manual,2015,20.51,67.04,90,Aug,2015,75,2.65,Kolkata,WB20,
+Honda,WR-V i-VTEC S,Comprehensive,Petrol,5,"25,000",First Owner,1199,Manual,2017,17.5,88.7,110,Jun,2017,60,4.8,Kolkata,WB12,16
+Honda,WR-V 2020-2023 VX,Comprehensive,Petrol,5,650,First Owner,1199,Manual,2023,16.5,88.50,110,Mar,2023,10,10.1,Kolkata,WB12,16
+Hyundai,Verna SX IVT Opt,Comprehensive,Petrol,5,"4,000",First Owner,1497,Automatic,2021,18.45,113.18,143.8,Dec,2021,20,11.75,Kolkata,WB02,16
+Hyundai,Xcent 1.2 Kappa SX Option,Comprehensive,Petrol,5,"52,137",First Owner,1197,Manual,2014,19.1,82,114,Jun,2014,75,3.1,Kolkata,WB06,15
+Maruti,Swift VDI,Comprehensive,Diesel,5,"42,008",First Owner,1248,Manual,2014,28.4,74,190,Sept,2014,75,3.41,Kolkata,WB20,
+Maruti,Swift VXI,Comprehensive,Petrol,5,"46,021",Second Owner,1197,Manual,2014,18.6,85.8,114,Aug,2014,75,3.35,Kolkata,WB02,14
+Hyundai,i10 Sportz,Comprehensive,Petrol,5,"46,008",First Owner,1197,Manual,2014,20.36,78.9,111.8,Jan,2014,75,2.65,Kolkata,WB02,13
+Hyundai,EON D Lite Plus,Comprehensive,Petrol,5,"31,021",First Owner,814,Manual,2014,21.1,55.2,74.5,Jun,2014,75,2.05,Kolkata,WB20,
+Maruti,Ertiga 1.5 VDI,Comprehensive,Diesel,7,"52,002",First Owner,1498,Manual,2016,24.2,93.87,225,Jul,2016,70,6.9,Kolkata,WB24,
+Mercedes-Benz,GLC 220d 4MATIC Sport,Comprehensive,Diesel,5,"51,232",First Owner,2143,Automatic,2017,17.9,170,400,Sept,2017,60,27.5,Kolkata,OD33,18
+Chevrolet,Sail 1.2 LS,Third Party insurance,Petrol,5,"24,000",First Owner,1199,Manual,2013,18.2,82.4,108.5,Apr,2013,75,1.89,Kolkata,WB22,
+Skoda,New Laura Ambition 2.0 TDI CR MT,Third Party,Diesel,5,"75,000",First Owner,1968,Manual,2013,20,108.5,250,Jun,2013,75,3.25,Kolkata,WB02,16
+Ford,Ecosport 1.5 Petrol Trend BSIV,Comprehensive,Petrol,5,"59,200",First Owner,1497,Manual,2016,17,121.36,150,May,2016,70,4.65,Kolkata,WB02,
+Hyundai,i20 1.2 Magna Executive,Comprehensive,Petrol,5,"31,060",First Owner,1197,Manual,2017,18.6,81.83,114.7,Sept,2017,60,4.9,Kolkata,WB02,
+Hyundai,Grand i10 1.2 Kappa Magna BSIV,Comprehensive,Petrol,5,"36,000",First Owner,1197,Manual,2018,18.9,81.86,113.75,Sept,2018,50,3.9,Kolkata,WB20,
+Volkswagen,Vento 2013-2015 1.6 Comfortline,Third Party,Petrol,5,"60,000",First Owner,1598,Manual,2013,15.04,103.2,153,Apr,2013,75,2.75,Kolkata,WB02,
+Chevrolet,Sail Hatchback 1.2 LS,Third Party insurance,Petrol,5,"65,000",First Owner,1199,Manual,2014,18.2,82.5,108.5,Apr,2014,75,1.99,Kolkata,WB12,
+Toyota,Innova Crysta 2.4 G MT,Third Party insurance,Diesel,7,"45,000",First Owner,2393,Manual,2018,13.68,147.51,343,Oct,2018,50,15.5,Kolkata,WB02,16
+Maruti,Ciaz AT ZXi,Comprehensive,Petrol,5,"43,000",First Owner,1373,Automatic,2015,19.12,91.1,130,Mar,2015,75,5.25,Kolkata,WB02,15
+Honda,City V MT,Comprehensive,Petrol,5,"65,000",First Owner,1497,Manual,2013,16.8,116.3,146,Mar,2013,75,3.5,Kolkata,WB02,15
+Maruti,Swift 1.3 VXi,Comprehensive,Petrol,5,"37,000",First Owner,1298,Manual,2010,16.1,8,11,Sept,2010,75,1.75,Kolkata,WB06,14
+Mercedes-Benz,E-Class Exclusive E 220 d BSIV,Third Party insurance,Diesel,5,"6,700",First Owner,1950,Automatic,2019,16.1,191.7,400,Aug,2019,40,54.0,Kolkata,WB02,17
+Tata,Punch Creative IRA,Third Party insurance,Petrol,5,"9,100",,1199,Manual,2021,20.09,117.74,115,,,20,7.2,Kolkata,,16
+Mercedes-Benz,C-Class Progressive C 220d,Comprehensive,Diesel,5,"3,560",First Owner,1950,Automatic,2021,12.6,194,400,Mar,2021,20,39.2,Kolkata,WB02,17
+Renault,Duster Petrol RxL,Comprehensive,Petrol,5,"57,000",First Owner,1598,Manual,2014,13.24,102.57,145,Jan,2014,75,3.75,Kolkata,WB02,16
+Toyota,Etios 2014-2016 GD,Comprehensive,Diesel,5,"67,000",Second Owner,1364,Manual,2016,23.59,67.05,170,Aug,2016,70,4.8,Kolkata,WB02,
+Honda,Jazz S,Comprehensive,Petrol,5,"69,000",First Owner,1198,Manual,2011,16,90(,110 (11.,May,2011,75,2.1,Kolkata,WB06,15
+Mahindra,XUV300 W6,Comprehensive,Petrol,5,"53,470",First Owner,1197,Manual,2019,17,108.6,200,Jul,2019,40,6.55,Kolkata,WB02,
+Nissan,Micra Active XV,Comprehensive,Petrol,5,"16,937",First Owner,1198,Manual,2017,19.69,67.04,104,Dec,2017,60,3.25,Kolkata,WB02,
+Honda,Accord 2.4 MT,Comprehensive,Petrol,5,"63,000",First Owner,2354,Manual,2009,12.8,177.6,222,Mar,2009,75,2.5,Kolkata,WB06,16
+Honda,City i VTEC CVT VX,Comprehensive,Petrol,5,"41,000",First Owner,1497,Automatic,2017,18,117.3,145,Mar,2017,60,7.5,Kolkata,WB02,15
+Honda,City EXi,Comprehensive,Petrol,5,"85,000",Second Owner,1497,Manual,2008,17.7,,12,Jul,2008,75,1.1,Kolkata,WB06,14
+Honda,Amaze EX i-Vtech,Comprehensive,Petrol,5,"48,000",First Owner,1198,Manual,2013,18,86.7,109,Oct,2013,75,2.3,Kolkata,WB02,
+Hyundai,Verna 1.6 CRDi EX MT,Comprehensive,Diesel,5,"52,024",First Owner,1582,Manual,2014,22.32,126.3,259.9,Mar,2014,75,4.15,Kolkata,WB02,15
+Maruti,Vitara Brezza ZDi,Comprehensive,Diesel,5,"52,004",First Owner,1248,Manual,2017,24.3,88.5,200,Nov,2017,60,6.65,Kolkata,WB02,16
+Mahindra,Bolero Neo N10 R,Comprehensive,Diesel,7,"10,021",First Owner,1493,Manual,2022,17.29,100,260,Jul,2022,15,10.35,Kolkata,WB08,15
+Maruti,Baleno 1.2 Delta,Comprehensive,Petrol,5,"48,002",First Owner,1197,Manual,2016,21.4,83.1,115,Sept,2016,70,4.49,Kolkata,WB02,
+Maruti,Celerio ZXI,Third Party insurance,Petrol,5,"50,529",First Owner,998,Manual,2017,21.63,67.05,90,Mar,2017,60,3.75,Kolkata,WB08,
+Mahindra,Thar LX 4-Str Convert Top Diesel,Comprehensive,Diesel,4,"25,134",First Owner,2184,Manual,2020,15.2,130,300,Dec,2020,30,13.5,Kolkata,WB02,18
+Maruti,Omni MPI STD BSIV,Comprehensive,Petrol,5,"28,423",First Owner,796,Manual,2017,16.8,34.2,59,Jan,2017,60,2.25,Kolkata,WB98,12
+Hyundai,Verna SX Opt,Comprehensive,Petrol,5,"7,219",First Owner,1497,Manual,2022,17.7,113.18,143.8,Jan,2022,15,12.6,Kolkata,WB02,16
+Hyundai,Santro Xing GLS,Comprehensive,Petrol,5,"60,014",Second Owner,1086,Manual,2014,17.92,62.1,96.1,Jan,2014,75,1.75,Kolkata,WB06,13
+Hyundai,Grand i10 Sportz,Comprehensive,Petrol,5,"44,024",First Owner,1197,Manual,2016,18.9,82,114,Jan,2016,70,3.65,Kolkata,WB02,
+Mahindra,XUV500 W11 BSIV,Comprehensive,Diesel,7,"64,000",First Owner,2179,Manual,2018,15.1,152.87,360,Jun,2018,50,11.0,Kolkata,WB08,17
+Maruti,Alto 800 LXI,Third Party,Petrol,5,"36,166",First Owner,796,Manual,2018,24.7,47.3,69,Jun,2018,50,2.73,Kolkata,WB02,
+Hyundai,Verna VTVT 1.6 AT SX Option,Comprehensive,Petrol,5,"21,000",First Owner,1591,Automatic,2019,17,121.3,151,May,2019,40,8.0,Kolkata,WB08,16
+Hyundai,Verna 1.6 VTVT S Option,Comprehensive,Petrol,5,"42,000",First Owner,1591,Manual,2015,17.01,121.4,154.9,Jun,2015,75,4.25,Kolkata,WB02,16
+Hyundai,i20 Sportz 1.2,Comprehensive,Petrol,5,"73,000",Second Owner,1197,Manual,2016,18.6,81.83,114.7,Dec,2016,70,3.75,Kolkata,WB08,
+Hyundai,i10 Era 1.1,Comprehensive,Petrol,5,"45,000",First Owner,1086,Manual,2010,19.81,68.05,99.04,Aug,2010,75,1.5,Kolkata,WB06,
+Maruti,Alto 800 VXI,Comprehensive,Petrol,5,927,First Owner,796,Manual,2020,22.05,47.33,69,Jun,2020,30,3.69,Kolkata,WB02,
+Hyundai,i10 Sportz,Comprehensive,Petrol,5,"66,000",Third Owner,1197,Manual,2014,20.36,78.9,111.8,Jun,2014,75,2.0,Kolkata,WB12,13
+BMW,3 Series 320d Sport Line,Comprehensive,Diesel,5,"40,000",First Owner,1995,Automatic,2013,18.88,184,380,Jan,2013,75,12.45,Kolkata,WB02,17
+Hyundai,Elantra 2.0 SX,Comprehensive,Petrol,5,"40,040",First Owner,1999,Manual,2017,14.59,149.92,192.2,Jan,2017,60,7.25,Kolkata,WB02,16
+Mitsubishi,Pajero Sport 4X4,Comprehensive,Diesel,7,"65,000",First Owner,2477,Manual,2013,13.5,175.56,400,Mar,2013,75,10.45,Kolkata,WB02,17
+Ford,Ecosport 1.5 Ti VCT MT Titanium BSIV,Third Party insurance,Petrol,5,"47,555",First Owner,1499,Manual,2016,15.85,110.4,140,Jan,2017,70,5.45,Kolkata,WB02,16
+Skoda,Rapid 1.6 MPI Style BSIV,Comprehensive,Petrol,5,"32,000",First Owner,1598,Manual,2017,14.3,103.2,153,Jan,2017,60,5.75,Kolkata,WB02,16
+Hyundai,Santro Xing GL,Comprehensive,Petrol,5,"40,000",First Owner,1086,Manual,2008,,62,96.1,Sept,2008,75,1.0,Kolkata,WB06,13
+Audi,A6 35 TFSI,Comprehensive,Petrol,5,"37,000",First Owner,1798,Automatic,2016,15.26,187.74,320,Sept,2016,70,21.0,Kolkata,WB02,17
+Maruti,Wagon R VXI,Comprehensive,Petrol,5,"40,000",First Owner,998,Manual,2013,18.9,67.1,90,Jul,2013,75,2.77,Kolkata,WB22,13
+Maruti,Wagon R VXI,Comprehensive,Petrol,5,"10,800",First Owner,998,Manual,2016,21.79,67.05,90,Jun,2016,70,3.0,Kolkata,WB08,
+Hyundai,Verna VTVT 1.6 SX,Comprehensive,Petrol,5,"35,000",First Owner,1591,Manual,2018,17,121.3,151,Jul,2018,50,6.79,Kolkata,WB10,16
+Renault,Scala Diesel RxZ,Third Party,Diesel,5,"14,294",First Owner,1461,Manual,2013,21.64,84.8,200,Apr,2013,75,3.35,Kolkata,WB02,15
+Hyundai,Tucson GLS Diesel AT,Comprehensive,Diesel,5,"14,000",First Owner,1995,Automatic,2021,15.38,182.37,400,Aug,2021,20,24.0,Kolkata,WB08,R18
+BMW,3 Series 320d Sport,Comprehensive,Diesel,5,"21,000",First Owner,1995,Automatic,2019,19.62,187.74,400,Jun,2019,40,24.5,Kolkata,WB26,17
+Mercedes-Benz,S-Class S 350 d,Comprehensive,Diesel,5,"34,000",First Owner,2925,Automatic,2016,13.5,281.61,600,Sept,2016,70,48.0,Kolkata,WB02,18
+Volkswagen,Passat 2.0 PD DSG,Comprehensive,Diesel,5,"48,000",First Owner,1968,Automatic,2009,14.3,,36,Dec,2009,75,5.0,Kolkata,WB06,16
+Kia,Seltos HTX Diesel,Comprehensive,Diesel,5,"4,604",First Owner,1493,Manual,2022,20.8,113.43,250,Jul,2022,15,16.5,Kolkata,WB08,17
+Toyota,Fortuner 2.8 4WD AT BSIV,Comprehensive,Diesel,7,"85,271",Second Owner,2755,Automatic,2016,15.04,174.5,450,Nov,2016,70,23.5,Kolkata,WB02,18
+Toyota,Innova 2.5 Z Diesel 7 Seater,Comprehensive,Diesel,7,"68,121",First Owner,2494,Manual,2015,12.99,100.6,200,Jan,2015,75,8.3,Kolkata,WB02,15
+Ford,Figo Diesel Titanium,Comprehensive,Diesel,5,"43,052",Second Owner,1399,Manual,2010,20,68,160,Nov,2010,75,1.45,Kolkata,WB06,14
+Toyota,Innova 2.5 G (Diesel) 8 Seater BS IV,Comprehensive,Diesel,8,"45,000",First Owner,2494,Manual,2015,12.99,100.6,200,Nov,2015,75,10.65,Kolkata,WB02,
+Mahindra,XUV500 W11 BSIV,Comprehensive,Diesel,7,"14,901",First Owner,2179,Manual,2019,15.1,152.87,360,Sept,2019,40,14.5,Kolkata,WB12,17
+Skoda,Superb Sportline 2.0 TDi AT,Third Party insurance,Diesel,5,"18,000",First Owner,1968,Automatic,2019,18.19,174.5,350,Jul,2019,40,21.0,Kolkata,WB02,17
+Volvo,XC60 Inscription D5,Third Party insurance,Diesel,5,"16,100",First Owner,1969,Automatic,2020,11.2,231.78,480,Aug,2020,30,54.0,Kolkata,WB02,19
+Hyundai,Creta SX Executive,Comprehensive,Petrol,5,"7,219",First Owner,1497,Manual,2021,,113.18,143.8,Jul,2021,20,14.5,Kolkata,WB02,17
+Maruti,Ertiga VXI,Comprehensive,Petrol,7,"4,612",First Owner,1462,Manual,2021,20.51,101.65,136.8,Oct,2021,20,9.25,Kolkata,WB20,
+Honda,City 1.5 S MT,Comprehensive,Petrol,5,"47,794",First Owner,1497,Manual,2011,17,"118PS at 6,600 ",146Nm at 4800 r,Mar,2011,75,2.4,Kolkata,WB06,15
+Hyundai,Grand i10 Asta,Comprehensive,Petrol,5,"81,322",First Owner,1197,Manual,2015,18.9,82,114,Oct,2015,75,3.4,Kolkata,WB02,14
+Maruti,Wagon R VXI 1.2,Comprehensive,Petrol,5,"96,799",First Owner,1197,Manual,2015,20.52,81.80,113,Aug,2015,75,2.8,Kolkata,WB02,
+Hyundai,Xcent 1.2 Kappa S,Comprehensive,Petrol,5,"59,765",First Owner,1197,Manual,2014,19.1,82,114,Jun,2014,75,3.0,Kolkata,WB06,
+Maruti,Celerio ZXI Optional MT BSIV,Comprehensive,Petrol,5,"60,841",First Owner,998,Manual,2017,23.1,67.04,90,Jun,2017,60,3.5,Kolkata,WB02,14
+Hyundai,Grand i10 Nios Sportz,Comprehensive,Petrol,5,"29,944",First Owner,1197,Manual,2019,20.7,81.86,113.8,Feb,2020,40,5.25,Kolkata,WB12,14
+Mercedes-Benz,E-Class E200 CGI Blue Efficiency,Third Party insurance,Petrol,5,"52,100",Second Owner,1796,Automatic,2013,12.3,185,285,May,2013,75,8.25,Kolkata,WB02,17
+Hyundai,EON 1.0 Kappa Magna Plus Optional,Comprehensive,Petrol,5,"17,004",First Owner,998,Manual,2017,20.3,68.05,94.14,Dec,2017,60,2.95,Kolkata,WB24,
+Mercedes-Benz,S-Class Maybach S500,Third Party insurance,Petrol,4,"25,100",First Owner,4663,Automatic,2017,7.81,459,700,Jul,2017,60,1.21,Kolkata,WB02,19
+Hyundai,Verna VTVT 1.6 SX,Comprehensive,Petrol,5,"21,000",First Owner,1591,Manual,2017,17,121.3,151,Feb,2017,60,5.95,Kolkata,WB06,16
+Maruti,Celerio VXI AT,Third Party insurance,Petrol,5,"45,000",First Owner,998,Automatic,2016,23.1,67.04,90,Feb,2016,70,3.3,Kolkata,WB02,
+Audi,Q3 35 TDI Quattro Premium Plus,Comprehensive,Diesel,5,"54,588",First Owner,1968,Automatic,2015,15.17,181,380,May,2015,75,14.25,Kolkata,WB26,18
+Volvo,V40 D3 R Design,Comprehensive,Diesel,5,"15,373",First Owner,1969,Automatic,2017,16.8,150,320,Feb,2017,60,18.0,Kolkata,WB06,16
+Land,Rover Discovery Sport Petrol HSE 7S,Comprehensive,Petrol,7,"33,004",First Owner,1997,Automatic,2019,12.81,237.36,340,Dec,2019,40,40.5,Kolkata,AS04,18
+Hyundai,Creta SX Opt Diesel,Comprehensive,Diesel,5,"38,398",First Owner,1493,Manual,2021,,113.45,250,Jun,2021,20,15.25,Kolkata,WB02,17
+Volvo,XC40 D4 Inscription,Comprehensive,Diesel,5,"44,680",First Owner,1969,Automatic,2019,18,190,400,Feb,2019,40,27.0,Kolkata,WB02,18
+Mercedes-Benz,GLS 350d 4MATIC,Comprehensive,Diesel,7,"25,211",First Owner,2987,Automatic,2018,11,258,620,Feb,2018,50,62.0,Kolkata,HP38,20
+Audi,A3 35 TDI Premium Plus,Comprehensive,Diesel,5,"49,003",Second Owner,1968,Automatic,2017,20.38,143,320,Apr,2017,60,14.0,Kolkata,JH01,16
+Kia,Seltos GTX Plus Diesel AT,Comprehensive,Diesel,5,"24,946",First Owner,1493,Automatic,2021,18,113.43,250,May,2021,20,16.5,Kolkata,WB12,17
+Mahindra,Scorpio S11,Comprehensive,Diesel,7,"15,372",First Owner,2179,Manual,2020,15.4,136.78,319,Nov,2020,30,14.5,Kolkata,WB12,R17
+Hyundai,Grand i10 Nios Asta,Comprehensive,Petrol,5,"5,273",First Owner,1197,Manual,2022,20.7,81.86,113.8,Jun,2022,15,6.95,Kolkata,WB32,15
+Honda,Amaze SX i-VTEC,Comprehensive,Petrol,5,"62,000",First Owner,1198,Manual,2016,18,86.7,109,Oct,2016,70,3.95,Kolkata,WB02,
+Audi,Q5 30 TDI quattro Premium Plus,Comprehensive,Diesel,5,"42,000",First Owner,1968,Automatic,2017,14.16,174.3,380,May,2017,60,22.5,Kolkata,WB02,17
+Hyundai,Creta 1.6 VTVT S,Comprehensive,Petrol,5,"75,000",First Owner,1591,Manual,2018,15.29,121.3,151,Feb,2018,50,6.99,Kolkata,WB02,
+Mahindra,TUV 300 T8,Comprehensive,Diesel,7,"34,000",First Owner,1493,Manual,2017,18.49,100,240,Apr,2017,60,6.25,Kolkata,WB06,15
+Hyundai,Grand i10 Sportz Petrol BSIV,Comprehensive,Petrol,5,"11,000",First Owner,1197,Manual,2018,18.9,81.86,113.75,Nov,2018,50,4.75,Kolkata,WB20,
+Toyota,Etios Liva GD,Comprehensive,Diesel,5,"68,000",First Owner,1364,Manual,2011,23.59,,,Oct,2011,75,2.3,Kolkata,WB06,
+Maruti,Vitara Brezza VDi Option,Comprehensive,Diesel,5,"38,000",First Owner,1248,Manual,2018,24.3,88.5,200,Feb,2018,50,6.5,Kolkata,WB18,
+Mahindra,Thar LX 4-Str Convert Top Diesel,Comprehensive,Diesel,4,"22,000",First Owner,2184,Manual,2021,15.2,130,300,Dec,2021,20,12.75,Kolkata,WB08,18
+Honda,Civic ZX Diesel,Comprehensive,Diesel,5,"42,000",First Owner,1597,Manual,2019,23.9,118,300,Dec,2019,40,14.5,Kolkata,WB26,17
+Audi,A6 35 TDI,Third Party insurance,Diesel,5,"68,000",First Owner,1968,Automatic,2016,18.53,187.74,400,Jun,2016,70,19.0,Kolkata,WB08,18
+Renault,Duster 110PS Diesel RXZ Option,Third Party,Diesel,5,"75,000",First Owner,1461,Manual,2015,19.64,108.45,245,Aug,2015,75,4.85,Kolkata,WB02,16
+Audi,A6 35 TDI Premium,Third Party insurance,Diesel,5,"38,900",First Owner,1968,Automatic,2015,17.68,174.33,380,Nov,2015,75,22.5,Kolkata,WB02,17
+Toyota,Innova Crysta 2.4 ZX MT BSIV,Comprehensive,Diesel,7,"78,000",Second Owner,2393,Manual,2018,13.68,147.8,343,Feb,2018,50,16.0,Kolkata,WB96,17
+Tata,Hexa XM,Comprehensive,Diesel,7,"73,171",First Owner,2179,Manual,2018,17.6,153.86,400,Aug,2018,50,7.35,Kolkata,WB26,
+Hyundai,i20 1.2 Asta Dual Tone,Third Party,Petrol,5,"49,000",Second Owner,1197,Manual,2017,18.6,81.83,114.7,Jul,2017,60,5.25,Kolkata,WB24,16
+Maruti,Ignis 1.2 Zeta BSIV,Third Party,Petrol,5,"52,000",First Owner,1197,Manual,2017,20.89,81.80,113,May,2017,60,4.65,Kolkata,WB24,15
+Mahindra,Bolero Power Plus ZLX,Third Party,Diesel,7,"64,000",Second Owner,1493,Manual,2016,16.5,70,195,Feb,2016,70,5.75,Kolkata,WB52,
+Hyundai,i10 Sportz,Third Party,Petrol,5,"49,000",First Owner,1197,Manual,2017,20.36,78.9,111.8,Jun,2017,60,3.25,Kolkata,WB02,13
+Maruti,Baleno 1.2 Alpha,Comprehensive,Petrol,5,"44,000",First Owner,1197,Manual,2018,21.4,83.1,115,Aug,2018,50,5.39,Kolkata,WB02,16
+Audi,A4 35 TDI Premium Plus,Third Party insurance,Diesel,5,"42,400",Second Owner,1968,Automatic,2018,18.25,187.74,400,Sept,2018,50,22.5,Kolkata,WB40,17
+Hyundai,i20 Magna Plus,Third Party insurance,Petrol,5,"22,000",First Owner,1197,Manual,2020,18.6,81.86,117,Mar,2020,30,5.45,Kolkata,WB02,
+Hyundai,i10 Magna,Third Party insurance,Petrol,5,"64,341",First Owner,1197,Manual,2012,20.36,78.9,111.7,May,2012,75,2.35,Kolkata,WB22,13
+Honda,Amaze VX i-DTEC,Comprehensive,Diesel,5,"99,000",First Owner,1498,Manual,2013,25.8,98.6,200,Dec,2013,75,1.95,Kolkata,WB02,14
+Maruti,Ertiga ZXI Petrol,Comprehensive,Petrol,7,"24,000",First Owner,1462,Manual,2019,19.34,103,138,Dec,2019,40,8.85,Kolkata,WB08,
+Volkswagen,Vento 1.2 TSI Highline AT,Comprehensive,Petrol,5,"46,850",First Owner,1197,Automatic,2016,16.93,103.2,175,Apr,2016,70,5.9,Kolkata,WB02,15
+Honda,City i DTec VX,Comprehensive,Diesel,5,"57,127",First Owner,1498,Manual,2016,26,98.6,200,Mar,2016,70,5.75,Kolkata,WB12,15
+Volkswagen,Polo Diesel Comfortline 1.2L,Comprehensive,Diesel,5,"57,261",First Owner,1199,Manual,2013,22.07,73.9,180,Jan,2013,75,2.9,Kolkata,WB02,15
+Maruti,Vitara Brezza ZDi,Comprehensive,Diesel,5,"35,612",First Owner,1248,Manual,2018,24.3,88.5,200,Mar,2018,50,7.5,Kolkata,WB02,16
+Honda,Jazz 1.5 S i DTEC,Comprehensive,Diesel,5,"46,220",First Owner,1498,Manual,2016,27.3,98.6,200,Nov,2016,70,4.15,Kolkata,WB02,
+Maruti,Ciaz Alpha,Comprehensive,Petrol,5,"10,200",First Owner,1462,Manual,2020,20.65,103.25,138,Feb,2020,30,7.75,Kolkata,WB08,16
+Volkswagen,Passat 1.8 TSI MT,Comprehensive,Petrol,5,"55,460",First Owner,1798,Manual,2010,14.3,160,250 ,Jul,2010,75,3.1,Kolkata,WB06,16
+Hyundai,i20 1.2 Era,Comprehensive,Petrol,5,"36,000",First Owner,1197,Manual,2017,18.6,81.83,114.7,Mar,2017,60,4.25,Kolkata,WB02,
+Hyundai,Grand i10 1.2 Kappa Magna BSIV,Third Party,Petrol,5,"25,744",First Owner,1197,Manual,2017,18.9,81.86,113.75,Jun,2017,60,3.86,Kolkata,WB02,
+Ford,Ecosport 1.5 Diesel Titanium,Comprehensive,Diesel,5,"59,511",First Owner,1498,Manual,2018,21.7,98.96,215,Sept,2018,50,6.5,Kolkata,WB02,R16
+Mahindra,Alturas G4 4X4 AT,Comprehensive,Diesel,7,"76,187",First Owner,2157,Automatic,2020,12.05,178.49,420,Apr,2020,30,22.24,Kolkata,WB26,18
+Audi,A6 2.0 TDI Premium Plus,Comprehensive,Diesel,5,"34,085",First Owner,1968,Automatic,2014,17.68,174.33,380,Apr,2014,75,15.25,Kolkata,WB02,17
+Honda,Amaze E i-DTEC,Comprehensive,Diesel,5,"43,000",First Owner,1498,Manual,2017,25.8,98.6,200,Feb,2017,60,4.75,Kolkata,WB08,
+Toyota,Corolla Altis 1.8 G CVT,Comprehensive,Petrol,5,"36,000",First Owner,1798,Automatic,2016,14.28,138.03,173,Apr,2016,70,9.25,Kolkata,WB02,16
+Skoda,Slavia 1.0 TSI Style AT,Third Party insurance,Petrol,5,"6,100",First Owner,999,Automatic,2022,18.07,113.98,178,Sept,2022,15,14.5,Kolkata,WB02,16
+Honda,Civic VX BSIV,Third Party insurance,Petrol,5,"34,300",First Owner,1799,Automatic,2019,16.5,139.46,174,Nov,2019,40,13.0,Kolkata,WB20,16
+Maruti,Celerio VXI AT,Not Available,Petrol,5,"4,379",First Owner,998,Automatic,2017,23.1,67.04,90,Jul,2017,60,3.78,Kolkata,WB02,
+Maruti,Wagon R VXI BS IV,Third Party insurance,Petrol,5,"22,000",First Owner,998,Manual,2015,20.51,67.04,90,Apr,2015,75,3.15,Kolkata,WB02,
+Hyundai,i10 Magna,Comprehensive,Petrol,5,"27,841",First Owner,1197,Manual,2014,20.36,78.9,111.7,Oct,2014,75,2.6,Kolkata,WB02,13
+Maruti,Swift VXI,Third Party,Petrol,5,"61,641",First Owner,1197,Manual,2013,18.6,85.8,114,Apr,2013,75,3.03,Kolkata,WB02,14
+Honda,Jazz 1.2 S i VTEC,Third Party insurance,Petrol,5,"42,000",First Owner,1199,Manual,2016,18.7,88.7,110,Mar,2016,70,3.65,Kolkata,WB08,
+Hyundai,i20 Asta Option 1.2,Comprehensive,Petrol,5,"22,000",First Owner,1197,Manual,2016,18.6,81.83,114.7,Oct,2016,70,5.55,Kolkata,WB08,16
+Mahindra,Scorpio S11,Third Party,Diesel,7,"31,912",First Owner,2179,Manual,2020,15.4,136.78,319,Jun,2020,30,15.46,Kolkata,WB24,R17
+Land,Rover Range Rover Evoque 2.2L Pure,Comprehensive,Diesel,5,"67,447",Second Owner,2179,Automatic,2013,12.7,187.7,420,Apr,2013,75,15.99,Kolkata,JH01,18
+BMW,5 Series 520d Luxury Line,Comprehensive,Diesel,5,"50,412",Second Owner,1995,Automatic,2016,18.12,190,400,Oct,2016,70,15.99,Kolkata,WB02,18
+BMW,5 Series 520d Luxury Line,Third Party,Diesel,5,"26,357",First Owner,1995,Automatic,2017,18.12,190,400,Feb,2018,60,30.0,Kolkata,WB10,18
+Honda,Jazz V CVT,Comprehensive,Petrol,5,"32,000",First Owner,1199,Automatic,2015,18.2,88.7,110,Aug,2015,75,4.4,Kolkata,WB02,15
+Jaguar,XF 2.2 Litre Luxury,Comprehensive,Diesel,5,"36,000",First Owner,2179,Automatic,2014,16.36,187.7,450,Oct,2014,75,18.0,Kolkata,WB02,20
+Maruti,Wagon R VXI,Comprehensive,Petrol,5,"34,124",First Owner,998,Manual,2018,18.9,67.1,90,Feb,2018,50,4.25,Kolkata,WB02,13
+Audi,Q5 2.0 TDI Premium Plus,Comprehensive,Diesel,5,"34,000",First Owner,1968,Automatic,2014,14.16,174.3,380,May,2014,75,20.25,Kolkata,WB02,17
+BMW,3 Series 320d Highline,Comprehensive,Diesel,5,"40,000",First Owner,1995,Automatic,2011,16.07,181,380,Jul,2011,75,8.65,Kolkata,WB06,16
+Toyota,Etios Cross 1.2L G,Comprehensive,Petrol,5,"32,545",First Owner,1197,Manual,2015,18.16,78.8,104,May,2015,75,4.35,Kolkata,WB16,15
+Volkswagen,Jetta 2.0L TDI Comfortline,Comprehensive,Diesel,5,"63,340",First Owner,1968,Manual,2011,19.33,138.1,320,Dec,2011,75,2.65,Kolkata,WB06,16
+Hyundai,Grand i10 Magna,Comprehensive,Petrol,5,"36,122",First Owner,1197,Manual,2015,18.9,82,114,Jan,2015,75,3.59,Kolkata,WB08,
+Mercedes-Benz,E-Class 280,Comprehensive,Petrol,5,"40,206",First Owner,2997,Automatic,2007,9.5,23,28,May,2007,75,4.49,Kolkata,WB06,16
+Honda,City i DTEC VX,Comprehensive,Diesel,5,"41,000",First Owner,1498,Manual,2015,25.1,98.6,200,May,2015,75,6.71,Kolkata,WB02,15
+Audi,A6 2.0 TDI Premium Plus,Comprehensive,Diesel,5,"52,000",First Owner,1968,Automatic,2013,17.68,174.33,380,Apr,2013,75,10.75,Kolkata,WB02,17
+Tata,Indigo eGLX BS IV,Not Available,Petrol,5,"83,080",First Owner,1193,Manual,2010,15.64,64.1,100,Dec,2010,75,0.7,Kolkata,WB06,
+Mercedes-Benz,CLA 200 CGI Sport,Third Party insurance,Petrol,5,"5,600",First Owner,1991,Automatic,2017,15.04,183,300,Jul,2017,60,23.5,Kolkata,WB08,17
+MG,Hector Sharp Diesel MT,Comprehensive,Diesel,5,"31,952",First Owner,1956,Manual,2020,17.41,167.68,350,Feb,2020,30,12.5,Kolkata,SK01,R17
+Mahindra,Thar LX 4-Str Hard Top,Comprehensive,Petrol,4,"8,000",First Owner,1997,Manual,2021,15.2,150,300,Aug,2021,20,12.99,Kolkata,WB02,18
+Honda,WR-V i-VTEC VX,Not Available,Petrol,5,"8,198",First Owner,1199,Manual,2018,17.5,88.7,110,Mar,2018,50,7.05,Kolkata,WB10,16
+Maruti,Eeco 5 Seater AC BSIV,Comprehensive,Petrol,5,"26,000",First Owner,1196,Manual,2020,15.37,73,101,Feb,2020,30,4.1,Kolkata,WB20,
+Audi,A3 35 TDI Premium Plus,Comprehensive,Diesel,5,"7,855",First Owner,1968,Automatic,2016,20.38,143,320,Apr,2016,70,17.9,Kolkata,WB02,16
+Hyundai,Verna 1.6 CRDi SX,Comprehensive,Diesel,5,"26,000",First Owner,1582,Manual,2017,23.9,126.2,259.9,Feb,2017,60,6.5,Kolkata,WB26,16
+Hyundai,i20 1.2 Asta,Comprehensive,Petrol,5,"30,012",Second Owner,1197,Manual,2018,18.6,81.83,114.7,Feb,2019,50,5.75,Kolkata,WB02,16
+Toyota,Etios Liva 1.2 G,Comprehensive,Petrol,5,"40,000",First Owner,1197,Manual,2017,17.71,78.9,104,Oct,2017,60,4.0,Kolkata,WB08,
+Skoda,Superb Elegance 2.0 TDI CR AT,Not Available,Diesel,5,"33,895",First Owner,1968,Automatic,2010,17.2,138.1,320,Dec,2010,75,4.37,Kolkata,WB06,16
+Maruti,Eeco 5 Seater AC BSIV,Third Party,Petrol,5,"36,811",First Owner,1196,Manual,2010,15.37,73,101,Dec,2010,75,1.5,Kolkata,WB44,
+Maruti,S-Presso VXI Plus 2019-2022,Third Party,Petrol,5,"7,846",First Owner,998,Manual,2020,21.7,65.71,89,Nov,2020,30,4.0,Kolkata,WB24,
+Maruti,Alto 800 STD Optional,Comprehensive,Petrol,5,"40,000",First Owner,796,Manual,2013,22.74,47.3,69,Nov,2013,75,1.65,Kolkata,WB42,
+Ford,Figo Diesel EXI,Comprehensive,Diesel,5,"39,500",First Owner,1399,Manual,2013,20,68.05,160,Mar,2013,75,1.5,Kolkata,WB22,
+Jeep,Compass 2.0 Longitude Option BSIV,Third Party,Diesel,5,"49,607",First Owner,1956,Manual,2017,17.1,170,350,Sept,2017,60,9.5,Kolkata,WB08,17
+Jeep,Compass 2.0 Longitude Option BSIV,Third Party,Diesel,5,"49,607",First Owner,1956,Manual,2017,17.1,170,350,Sept,2017,60,9.5,Kolkata,WB08,17
+Hyundai,Elantra 1.6 SX Option,Not Available,Diesel,5,"50,231",First Owner,1582,Manual,2016,22.54,126.2,259.88,Feb,2017,70,8.86,Kolkata,WB02,16
+Hyundai,Creta 1.6 SX Option,Third Party,Petrol,5,"26,276",First Owner,1591,Manual,2019,15.8,121.3,151,Jun,2019,40,11.0,Kolkata,WB74,17
+Hyundai,i20 Active 1.2 S,Third Party insurance,Petrol,5,"34,000",First Owner,1197,Manual,2015,17.19,81.86,114.73,Jul,2015,75,4.45,Kolkata,WB08,16
+Mahindra,Bolero Neo N10 R,Third Party insurance,Diesel,7,"10,600",First Owner,1493,Manual,2022,17.29,100,260,May,2022,15,10.0,Kolkata,WB38,15
+Honda,City i VTEC VX Option,Third Party insurance,Petrol,5,"45,000",First Owner,1497,Manual,2016,17.8,117.3,145,Mar,2016,70,5.7,Kolkata,WB02,15
+Tata,Tiago XZA Plus AMT,Third Party,Petrol,5,"35,624",First Owner,1199,Automatic,2021,19,84.82,113,Apr,2021,20,6.25,Kolkata,WB16,15
+Audi,Q5 2.0 TFSI Quattro,Comprehensive,Petrol,5,"50,245",Second Owner,1984,Automatic,2010,9.74,208,350,Jun,2010,75,9.0,Kolkata,WB06,17
+Ford,Endeavour 3.2 Titanium AT 4X4,Comprehensive,Diesel,7,"62,137",First Owner,3198,Automatic,2016,10.91,197,470,Jun,2016,70,23.0,Kolkata,WB12,18
+Porsche,Macan S,Comprehensive,Petrol,5,"22,066",First Owner,2894,Automatic,2021,,375.48,520,Apr,2021,20,95.0,Kolkata,JH01,20
+Land,Rover Range Rover Velar P250 R-Dynamic S,Comprehensive,Petrol,5,"33,581",Second Owner,1997,Automatic,2020,15.8,247,365,Dec,2020,30,79.0,Kolkata,WB08,19
+Renault,Kiger RXT AMT,Comprehensive,Petrol,5,"6,959",First Owner,999,Automatic,2021,19.03,71.01,96,Nov,2021,20,7.0,Kolkata,WB06,
+Hyundai,i20 Magna,Not Available,Petrol,5,"43,198",First Owner,1197,Manual,2010,18.5,80 PS at 5200 ,"11.4 kgm at 4,000 r",Sept,2010,75,2.0,Kolkata,WB06,14
+Hyundai,i20 Petrol Spotz,Comprehensive,Petrol,5,"25,000",First Owner,1197,Manual,2018,18.6,81.86,114.73,Sept,2018,50,5.25,Kolkata,WB02,
+Honda,City i DTEC V,Third Party insurance,Diesel,5,"55,000",First Owner,1498,Manual,2014,26,98.6,200,Jul,2014,75,4.15,Kolkata,WB02,15
+Ford,Endeavour 3.0L 4X4 AT,Comprehensive,Diesel,7,"25,000",First Owner,2953,Automatic,2011,11.4,153.86,380,Feb,2011,75,6.0,Kolkata,WB20,16
+Hyundai,EON D Lite Plus Option,Comprehensive,Petrol,5,"67,000",First Owner,814,Manual,2012,21.1,55.2,74.5,Nov,2012,75,1.61,Kolkata,WB02,
+Honda,Jazz X,Comprehensive,Petrol,5,"48,000",First Owner,1198,Manual,2012,16.7,88.8,110,Aug,2012,75,2.5,Kolkata,WB06,15
+Hyundai,Creta 1.6 VTVT S,Comprehensive,Petrol,5,"62,000",First Owner,1591,Manual,2018,15.29,121.3,151,Feb,2018,50,7.25,Kolkata,WB02,
+Mitsubishi,Pajero Sport 4X4 Dual Tone,Comprehensive,Diesel,7,"85,000",First Owner,2477,Manual,2016,13.5,175.56,400,Dec,2016,70,14.5,Kolkata,WB34,17
+Ford,Ecosport 1.5 Petrol Trend,Comprehensive,Petrol,5,"27,000",First Owner,1496,Manual,2016,15.9,120.69,149,Sept,2016,70,4.7,Kolkata,WB02,
+Toyota,Fortuner 4x2 AT,Comprehensive,Diesel,7,"1,20,000",First Owner,2982,Automatic,2016,12.55,168.5,360,Dec,2016,70,22.5,Kolkata,WB02,17
+Maruti,Ritz LXI,Not Available,Petrol,5,"16,296",Second Owner,1197,Manual,2010,21.1,85.80,114,Jan,2011,75,1.85,Kolkata,WB24,14
+Toyota,Fortuner 4x2 AT,Comprehensive,Diesel,7,"54,000",First Owner,2982,Automatic,2015,12.55,168.5,360,Dec,2015,75,15.0,Kolkata,WB20,17
+Hyundai,Creta 1.6 CRDi SX,Comprehensive,Diesel,5,"25,100",First Owner,1582,Manual,2017,19.67,126.2,259.9,Dec,2017,60,7.8,Kolkata,WB02,16
+Maruti,Ritz VXI,Not Available,Petrol,5,"79,671",Second Owner,1197,Manual,2011,21.1,85.80,114,May,2011,75,1.5,Kolkata,WB06,14
+Hyundai,i10 Sportz 1.2,Not Available,Petrol,5,"44,960",Second Owner,1197,Manual,2010,20.36,78.9,111.8,May,2010,75,1.86,Kolkata,WB06,13
+Renault,Duster 110PS Diesel RxL,Third Party,Diesel,5,"75,000",First Owner,1461,Manual,2014,19.01,108.45,248,Apr,2014,75,3.49,Kolkata,WB02,16
+Skoda,Rapid 1.6 TDI Ambition Plus,Not Available,Diesel,5,"55,662",First Owner,1598,Manual,2014,20.5,103.5,250,Mar,2015,75,3.17,Kolkata,UP14,14
+Maruti,Ertiga VDI,Third Party insurance,Diesel,7,"42,000",First Owner,1248,Manual,2019,25.47,88.50,200,Aug,2019,40,9.0,Kolkata,WB08,
+Renault,Fluence Diesel E4,Third Party,Diesel,5,"45,000",First Owner,1461,Manual,2013,21.8,78,240 ,Aug,2013,75,3.25,Kolkata,WB02,16
+Audi,Q3 30 TFSI Premium FWD,Comprehensive,Petrol,5,"32,000",First Owner,1395,Automatic,2018,16.9,147.51,250,Mar,2018,50,22.5,Kolkata,WB02,18
+Toyota,Yaris VX,Comprehensive,Petrol,5,"34,237",First Owner,1496,Manual,2018,17.1,105.5,140,Jul,2018,50,7.1,Kolkata,WB02,15
+Hyundai,i20 Magna 1.2,Comprehensive,Petrol,5,"50,000",First Owner,1197,Manual,2016,18.6,81.83,114.7,Oct,2016,70,3.99,Kolkata,WB96,
+Maruti,SX4 S Cross Zeta DDiS 200 SH,Comprehensive,Diesel,5,"41,000",First Owner,1248,Manual,2016,25.1,88.5,200,Dec,2016,70,5.5,Kolkata,WB20,R16
+Maruti,Baleno Alpha,Comprehensive,Petrol,5,"1,300",First Owner,1197,Manual,2023,21.01,81.80,113,Jan,2023,10,8.95,Kolkata,WB32,R16
+Renault,Triber RXT,Comprehensive,Petrol,7,"15,000",Second Owner,999,Manual,2021,20,71.01,96,Nov,2021,20,6.0,Kolkata,WB96,
+Nissan,Magnite Turbo XV Premium Opt DT,Third Party,Petrol,5,"19,702",First Owner,999,Manual,2021,20,98.63,160,May,2021,20,9.0,Kolkata,WB02,16
+Honda,BR-V i-DTEC V MT,Third Party,Diesel,7,"77,161",First Owner,1498,Manual,2016,21.9,98.6,200,Jun,2016,70,5.75,Kolkata,WB02,16
+Hyundai,Grand i10 Asta,Third Party insurance,Petrol,5,"53,000",Second Owner,1197,Manual,2015,18.9,82,114,Mar,2015,75,3.25,Kolkata,WB02,14
+Maruti,Alto LXi,Comprehensive,Petrol,5,"5,100",First Owner,796,Manual,2010,19.7,46.3,62,Feb,2010,75,1.2,Kolkata,WB06,12
+Maruti,Swift Lxi BSIII,Not Available,Petrol,5,"37,217",First Owner,1298,Manual,2009,16.1,8,11,Sept,2009,75,1.5,Kolkata,WB06,14
+Jeep,Compass 2.0 Limited Option,Third Party,Diesel,5,"48,237",First Owner,1956,Manual,2018,17.1,170,350,Mar,2018,50,10.0,Kolkata,WB10,17
+Hyundai,EON Magna,Third Party,Petrol,5,"39,452",First Owner,814,Manual,2011,22,55 ,76.5 ,Mar,2012,75,1.49,Kolkata,WB06,13
+Audi,Q3 30 TFSI Premium FWD,Third Party,Petrol,5,"52,438",First Owner,1395,Automatic,2017,16.9,147.51,250,Jan,2018,60,16.0,Kolkata,WB08,18
+Chevrolet,Sail Hatchback Petrol Base,Not Available,Petrol,5,"55,745",First Owner,1199,Manual,2013,18.2,84.8,113,Aug,2013,75,1.2,Kolkata,WB02,14
+Hyundai,i20 Sportz Option 1.2,Comprehensive,Petrol,5,"24,000",First Owner,1197,Manual,2016,18.6,81.83,114.7,Nov,2016,70,5.3,Kolkata,WB06,16
+Hyundai,Santro Xing GLS,Comprehensive,Petrol,5,"39,000",First Owner,1086,Manual,2015,17.92,62.1,96.1,Feb,2015,75,2.18,Kolkata,WB20,13
+MG,Hector Sharp DCT,Third Party,Petrol,5,"22,155",First Owner,1451,Automatic,2019,13.96,141,250,Nov,2019,40,12.0,Kolkata,WB12,R17
+Hyundai,Elantra VTVT SX AT,Comprehensive,Petrol,5,"16,776",First Owner,1999,Automatic,2021,14.62,150.19,192,Dec,2021,20,16.99,Kolkata,WB02,R16
+BMW,6 Series GT 630i M Sport,Comprehensive,Petrol,4,"7,673",First Owner,1998,Automatic,2022,13.32,254.79,400,Feb,2022,15,64.99,Kolkata,WB06,19
+Ford,Endeavour 2.2 Titanium AT 4X2 Sunroof,Comprehensive,Diesel,7,"67,011",First Owner,2198,Automatic,2019,12.62,158,385,Jan,2019,40,24.99,Kolkata,WB10,18
+Tata,Tiago 1.05 Revotorq XZ,Comprehensive,Diesel,5,"37,000",First Owner,1047,Manual,2018,27.28,69,140,Feb,2018,50,3.99,Kolkata,WB18,14
+Maruti,Swift Dzire VXI,Comprehensive,Petrol,5,"39,000",First Owner,1197,Manual,2014,19.1,85.8,114,Feb,2014,75,3.55,Kolkata,WB02,14
+Maruti,Wagon R VXI AMT 1.2,Third Party,Petrol,5,"15,210",Second Owner,1197,Automatic,2020,20.52,81.80,113,Oct,2020,30,4.8,Kolkata,WB20,
+Jeep,Compass 2.0 Limited 4X4,Not Available,Diesel,5,"19,856",First Owner,1956,Manual,2018,16.3,170,350,Oct,2018,50,12.66,Kolkata,WB02,17
+BMW,X1 sDrive20d Expedition,Third Party,Diesel,5,"85,456",First Owner,1995,Automatic,2017,20.68,188,400,Aug,2017,60,16.98,Kolkata,WB02,17
+Audi,A4 2.0 TDI Premium Plus,Not Available,Diesel,5,"64,519",Third Owner,1968,Automatic,2013,17.11,174.33,380,Oct,2013,75,10.6,Kolkata,WB02,17
+Maruti,Swift Dzire LDI,Not Available,Diesel,5,"21,911",Third Owner,1248,Manual,2012,23.4,74,190,Nov,2012,75,1.8,Kolkata,WB02,14
+Mahindra,TUV 300 T6,Third Party,Diesel,7,"1,00,031",Second Owner,1493,Manual,2015,18.49,100,240,Nov,2015,75,3.69,Kolkata,WB28,
+Honda,Jazz Select Edition,Comprehensive,Petrol,,"24,000",First Owner,1198,Manual,2013,16.7,,,Jun,2013,75,3.25,Kolkata,WB02,
+Maruti,Ciaz ZDi Plus SHVS,Third Party insurance,Diesel,5,"46,000",First Owner,1248,Manual,2017,28.09,88.5,200,Mar,2017,60,5.5,Kolkata,WB02,16
+Volkswagen,Ameo 1.2 MPI Highline Plus 16,Comprehensive,Petrol,5,"32,000",First Owner,1198,Manual,2017,17,73.75,110,Feb,2017,60,4.11,Kolkata,WB02,16
+Hyundai,Xcent 1.2 VTVT SX Option,Comprehensive,Petrol,5,"40,000",First Owner,1197,Manual,2019,20.14,81.86,113.75,Dec,2019,40,4.95,Kolkata,WB88,15
+Honda,WR-V Edge Edition i-DTEC S,Comprehensive,Diesel,5,"55,000",First Owner,1498,Manual,2017,25.5,98.6,200,Dec,2017,60,5.5,Kolkata,WB02,16
+Ford,Figo 1.5D Trend Plus MT,Comprehensive,Diesel,5,"59,000",First Owner,1498,Manual,2015,25.83,99,215,Dec,2015,75,1.95,Kolkata,WB26,
+Kia,Seltos GTX Plus DCT,Comprehensive,Petrol,5,"29,000",First Owner,1353,Automatic,2020,16.5,138.08,242,Aug,2020,30,14.25,Kolkata,WB52,17
+Hyundai,Xcent 1.1 CRDi SX Option,Comprehensive,Diesel,5,"55,000",First Owner,1120,Manual,2015,24.4,71,180.4,Dec,2015,75,3.9,Kolkata,WB02,15
+Jeep,Compass 1.4 Sport Plus BSIV,Third Party,Petrol,5,"20,635",First Owner,1368,Manual,2019,16,160,250,Aug,2019,40,12.5,Kolkata,WB08,
+Hyundai,i20 1.2 Magna Executive,Third Party,Petrol,5,"46,195",First Owner,1197,Manual,2018,18.6,81.83,114.7,Jul,2018,50,4.5,Kolkata,WB08,
+Maruti,Swift Dzire VXi,Comprehensive,Petrol,5,"71,163",First Owner,1298,Manual,2009,17.5,85.8,114,Feb,2009,75,1.97,Kolkata,WB06,14
+Maruti,Wagon R VXI BS IV,Third Party,Petrol,5,"22,611",First Owner,998,Manual,2015,20.51,67.04,90,Apr,2015,75,2.8,Kolkata,WB02,
+Toyota,Innova 2.5 VX (Diesel) 8 Seater,Third Party,Diesel,8,"40,201",First Owner,2494,Manual,2014,12.99,100.6,200,Jul,2014,75,8.48,Kolkata,WB02,15
+Maruti,Swift VXI,Third Party,Petrol,5,"99,409",First Owner,1197,Manual,2013,18.6,85.8,114,Dec,2013,75,2.5,Kolkata,WB02,14
+Mahindra,Xylo H4,Third Party insurance,Diesel,7,"42,000",First Owner,2179,Manual,2019,14.02,118.3,280,Sept,2019,40,6.75,Kolkata,WB64,
+Maruti,Wagon R VXI,Third Party insurance,Petrol,5,"33,275",Second Owner,998,Manual,2012,18.9,67.1,90,Jan,2013,75,2.45,Kolkata,WB24,13
+Maruti,Wagon R VXI BS IV,Third Party,Petrol,5,"60,121",First Owner,998,Manual,2013,20.51,67.04,90,Aug,2013,75,2.42,Kolkata,WB02,
+Volkswagen,Taigun 1.0 TSI Highline AT,Comprehensive,Petrol,5,"2,000",First Owner,999,Automatic,2022,18.41,113.98,178,Feb,2022,15,13.99,Kolkata,WB02,16
+Hyundai,i10 Magna 1.2,Third Party insurance,Petrol,5,"49,000",First Owner,1197,Manual,2010,20.36,78.9,111.7,Jan,2010,75,1.45,Kolkata,WB20,13
+Toyota,Etios Liva GD,Comprehensive,Diesel,5,"60,000",First Owner,1364,Manual,2012,23.59,67.06,170,Feb,2012,75,2.8,Kolkata,WB02,14
+Mahindra,TUV 300 T4 Plus,Third Party insurance,Diesel,7,"45,000",First Owner,1493,Manual,2017,18.49,100,240,Jan,2017,60,4.9,Kolkata,WB1A,
+Maruti,Vitara Brezza ZXI Plus,Third Party insurance,Petrol,5,"12,000",First Owner,1462,Manual,2021,17.03,103.26,138,Jan,2021,20,8.9,Kolkata,WB26,R16
+Hyundai,i20 Asta 1.2,Third Party insurance,Petrol,5,"45,000",First Owner,1197,Manual,2015,18.6,81.83,114.7,Mar,2015,75,4.0,Kolkata,WB08,16
+Hyundai,Grand i10 Nios Asta,Comprehensive,Petrol,5,"30,094",First Owner,1197,Manual,2021,,81.80,113.8,Apr,2021,20,6.1,Kolkata,WB12,15
+Honda,City i-VTEC VX,Third Party insurance,Petrol,5,"34,500",First Owner,1497,Manual,2019,17.4,117.6,145,Apr,2019,40,8.0,Kolkata,WB10,16
+Maruti,Wagon R VXI BS IV,Third Party,Petrol,5,"49,844",Second Owner,998,Manual,2011,18.9,67.1,90,May,2011,75,1.75,Kolkata,WB26,14
+Hyundai,Verna 1.6 SX,Comprehensive,Diesel,5,"1,12,484",First Owner,1582,Manual,2014,22.32,126.32,259.8,Jan,2015,75,4.2,Kolkata,WB02,16
+Honda,Jazz Basic,Not Available,Petrol,5,"43,749",Second Owner,1198,Manual,2010,16.7,88.8,110,May,2010,75,2.31,Kolkata,WB06,15
+Toyota,Corolla Altis JS MT,Third Party insurance,Petrol,5,"57,000",First Owner,1798,Manual,2015,14.28,138.03,173,Nov,2015,75,5.7,Kolkata,WB02,
+Volkswagen,Polo 1.0 MPI Comfortline,Third Party insurance,Petrol,5,"15,000",First Owner,999,Manual,2019,17.74,75.10,95,Jun,2019,40,4.7,Kolkata,WB02,R15
+Toyota,Innova 2.5 G (Diesel) 8 Seater,Comprehensive,Diesel,8,"1,60,001",First Owner,2494,Manual,2013,12.99,100.6,200,Mar,2013,75,6.75,Kolkata,WB02,
+Hyundai,i20 Sportz AT 1.4,Not Available,Petrol,5,"9,105",First Owner,1396,Automatic,2012,15,98.6,136.3,Jul,2012,75,3.45,Kolkata,WB02,14
+Maruti,Ertiga VXI,Comprehensive,Petrol,7,"38,016",First Owner,1462,Manual,2018,20.51,101.65,136.8,Mar,2018,50,6.75,Kolkata,WB08,
+Maruti,Wagon R VXI,Comprehensive,Petrol,5,"38,768",First Owner,998,Manual,2018,18.9,67.1,90,Nov,2018,50,3.95,Kolkata,WB98,13
+Honda,Jazz 1.2 SV i VTEC,Third Party,Petrol,5,"49,639",First Owner,1199,Manual,2015,18.7,88.7,110,Oct,2015,75,3.5,Kolkata,WB74,
+Maruti,Alto K10 VXI AGS Optional,Not Available,Petrol,5,"22,651",First Owner,998,Automatic,2018,23.95,67.1,90,Sept,2018,50,2.6,Kolkata,WB36,
+Tata,Indica Terra Safire BS III,Third Party,Petrol,5,"77,646",Third Owner,1172,Manual,2010,15.8,65,96 ,Mar,2010,75,1.0,Kolkata,WB06,13
+Maruti,Ertiga VDI,Comprehensive,Diesel,7,"44,600",First Owner,1248,Manual,2013,20.77,88.76,200,Nov,2013,75,4.55,Kolkata,WB02,
+Chevrolet,Spark 1.0 LT,Third Party,Petrol,5,"20,162",First Owner,995,Manual,2011,18,62,90.3,Apr,2011,75,0.94949,Kolkata,WB06,13
+Honda,City i VTEC SV,Third Party,Petrol,5,"54,846",First Owner,1497,Manual,2017,17.8,117.3,145,Jun,2017,60,4.6,Kolkata,WB02,
+Maruti,Alto LXi,Comprehensive,Petrol,5,"24,870",First Owner,796,Manual,2011,19.7,46.3,62,Oct,2011,75,1.2,Kolkata,WB06,12
+Jaguar,F-TYPE 3.0 V6 S,Comprehensive,Petrol,2,"31,828",Third Owner,2995,Automatic,2014,15.15,375.5,460,Nov,2014,75,64.0,Kolkata,DL2C,19
+BMW,5 Series 520d Luxury Line,Comprehensive,Diesel,5,"19,858",First Owner,1995,Automatic,2019,18.12,190,400,Apr,2019,40,39.5,Kolkata,WB08,18
+Honda,Mobilio V Option i-VTEC,Third Party insurance,Petrol,7,"12,500",First Owner,1497,Manual,2014,17.3,117.3,145,Nov,2014,75,3.5,Kolkata,WB02,15
+Hyundai,Verna VTVT 1.6 SX Option,Third Party insurance,Petrol,5,"26,000",First Owner,1591,Manual,2018,17,121.3,151,Oct,2018,50,7.5,Kolkata,WB38,16
+Toyota,Innova 2.5 GX 8 STR BSIV,Third Party insurance,Diesel,8,"1,45,000",First Owner,2494,Manual,2011,12.8,,20,Jun,2011,75,4.75,Kolkata,WB06,15
+Toyota,Fortuner 4X4 Diesel,Comprehensive,Diesel,7,"13,000",First Owner,2755,Manual,2022,8,201.15,420,Aug,2022,15,39.49,Kolkata,WB74,18
+Honda,Brio S MT,Third Party insurance,Petrol,5,"60,000",Second Owner,1198,Manual,2012,19.4,86.8,109,Sept,2012,75,2.35,Kolkata,WB62,
+Chevrolet,Aveo 1.4 LS BSIV,Third Party insurance,Petrol,5,"45,000",First Owner,1399,Manual,2009,14.49,92.7,127,Jul,2009,75,1.75,Kolkata,WB06,14
+Maruti,Swift VVT VXI,Not Available,Petrol,5,"42,782",First Owner,1197,Manual,2014,22,81.80,113,Jan,2015,75,3.0,Kolkata,WB20,
+Maruti,Baleno 1.2 Sigma,Comprehensive,Petrol,5,"22,000",First Owner,1197,Manual,2018,21.4,83.1,115,Sept,2018,50,4.95,Kolkata,WB02,
+Hyundai,Verna VTVT 1.6 AT SX Option,Third Party insurance,Petrol,5,"55,000",First Owner,1591,Automatic,2018,17,121.3,151,Mar,2018,50,8.49,Kolkata,WB26,16
+Honda,City i VTEC VX,Third Party,Petrol,5,"70,022",First Owner,1497,Manual,2014,17.4,117.3,145,Jun,2014,75,4.0,Kolkata,WB08,15
+Honda,Amaze VX i-VTEC,Third Party,Petrol,5,"49,034",First Owner,1198,Manual,2017,17.8,86.7,109,Aug,2017,60,4.83,Kolkata,WB06,14
+Honda,City VX MT,Third Party insurance,Petrol,5,"10,000",First Owner,1498,Manual,2020,18.6,119.35,145,Mar,2020,30,9.5,Kolkata,WB02,16
+Maruti,Swift VXI,Comprehensive,Petrol,5,"20,000",First Owner,1197,Manual,2021,22.38,88.50,113,Jul,2021,20,6.1,Kolkata,WB36,
+Honda,Jazz VX CVT,Comprehensive,Petrol,5,"39,000",First Owner,1199,Automatic,2018,18.2,88.7,110,Sept,2018,50,5.0,Kolkata,WB26,15
+Maruti,Vitara Brezza ZDi,Comprehensive,Diesel,5,"45,000",First Owner,1248,Manual,2017,24.3,88.5,200,Sept,2017,60,7.15,Kolkata,WB02,16
+Ford,Ecosport 1.5 Petrol Ambiente BSIV,Comprehensive,Petrol,5,"31,000",First Owner,1497,Manual,2018,17,121.36,150,Mar,2018,50,5.85,Kolkata,WB02,
+Toyota,Fortuner 2.8 4WD MT BSIV,Third Party insurance,Diesel,7,"15,000",First Owner,2755,Manual,2019,14.24,174.5,420,Jun,2019,40,30.9,Kolkata,WB30,18
+Toyota,Fortuner 3.0 Diesel,Comprehensive,Diesel,7,"1,28,173",First Owner,2982,Manual,2011,11.5,171,343 ,Feb,2011,75,8.75,Kolkata,WB06,17
+Honda,City i DTec V,Comprehensive,Diesel,5,"64,400",First Owner,1498,Manual,2014,26,98.6,200,Jul,2014,75,4.55,Kolkata,WB02,15
+Volkswagen,Ameo 1.5 TDI Highline AT,Third Party,Diesel,5,"1,08,545",First Owner,1498,Automatic,2016,22,108.495,250,Feb,2017,70,4.57,Kolkata,WB20,15
+Maruti,Swift VXI,Third Party,Petrol,5,"29,219",Second Owner,1197,Manual,2018,22,81.80,113,Dec,2018,50,5.0,Kolkata,WB02,
+Hyundai,Santro LP zipPlus,Third Party,Petrol,5,"42,399",First Owner,,Manual,2003,,,,Apr,2003,75,1.01,Kolkata,MP04,13
+Maruti,Wagon R VXI BS IV,Third Party,Petrol,5,"35,168",First Owner,998,Manual,2014,20.51,67.04,90,Jun,2014,75,2.4,Kolkata,WB02,
+Mahindra,Alturas G4 4X4 AT,Comprehensive,Diesel,7,"18,853",First Owner,2157,Automatic,2022,12.05,178.49,420,Jul,2022,15,26.99,Kolkata,WB94,18
+Maruti,Wagon R VXI,Third Party insurance,Petrol,5,"25,000",First Owner,998,Manual,2020,21.79,67.05,90,Jul,2020,30,5.0,Kolkata,WB26,
+Mercedes-Benz,GLC 220d 4MATIC,Comprehensive,Diesel,5,"10,517",First Owner,1950,Automatic,2020,,194,400,Nov,2020,30,52.99,Kolkata,WB02,19
+Mahindra,Bolero B6,Third Party,Diesel,7,"26,691",First Owner,1493,Manual,2020,16,74.96,210,Jan,2021,30,8.0,Kolkata,WB66,
+Maruti,Ignis 1.2 Alpha BSIV,Third Party,Petrol,5,"29,901",First Owner,1197,Manual,2018,20.89,81.80,113,Mar,2018,50,4.5,Kolkata,WB26,15
+Ford,Aspire 1.2 Ti-VCT Titanium,Not Available,Petrol,5,"27,807",First Owner,1196,Manual,2017,18.16,86.8,112,Sept,2017,60,3.96,Kolkata,AS01,14
+Toyota,Etios G SP,Not Available,Petrol,5,"65,162",Second Owner,1496,Manual,2013,16.78,88.73,132,Nov,2013,75,2.4,Kolkata,WB02,15
+Hyundai,Grand i10 Nios Asta,Not Available,Petrol,5,"15,066",First Owner,1197,Manual,2019,20.7,81.86,113.8,Oct,2019,40,6.44,Kolkata,AS11,15
+Hyundai,Xcent 1.1 CRDi S Option,Third Party,Diesel,5,"1,14,842",First Owner,1120,Manual,2014,24.4,71.01,180.4,Jul,2014,75,2.91,Kolkata,WB02,14
+Maruti,Wagon R VXI Plus,Comprehensive,Petrol,5,"30,000",First Owner,998,Manual,2017,20.51,67.04,90,Sept,2017,60,3.15,Kolkata,WB02,
+Hyundai,i20 1.2 Magna,Not Available,Petrol,5,"1,13,763",First Owner,1197,Manual,2010,18.5,80 PS at 5200 ,"11.4 kgm at 4,000 r",Dec,2010,75,1.5,Kolkata,WB06,14
+Hyundai,Venue S Turbo BSIV,Comprehensive,Petrol,5,"19,000",First Owner,998,Manual,2019,18.27,118.35,171.6,Jul,2019,40,7.25,Kolkata,WB02,
+Maruti,Alto 800 VXI,Not Available,Petrol,5,"3,890",First Owner,796,Manual,2018,24.7,47.3,69,Jan,2019,50,2.4,Kolkata,WB10,
+Maruti,Ignis 1.2 Delta BSIV,Not Available,Petrol,5,"9,990",First Owner,1197,Manual,2019,20.89,81.80,113,Jun,2019,40,3.7,Kolkata,WB10,
+Jeep,Compass 2.0 Limited,Third Party,Diesel,5,"51,548",First Owner,1956,Manual,2018,17.1,170,350,Aug,2018,50,10.43,Kolkata,WB02,17
+Honda,Jazz 1.2 V i VTEC,Not Available,Petrol,5,"12,142",First Owner,1199,Manual,2018,18.7,88.7,110,Aug,2018,50,5.0,Kolkata,WB02,15
+Hyundai,Grand i10 Sportz Plus,Comprehensive,Petrol,5,"12,000",First Owner,1197,Manual,2017,18.9,82,114,Jul,2017,60,3.95,Kolkata,WB02,
+Honda,WR-V i-VTEC VX,Comprehensive,Petrol,5,"14,000",First Owner,1199,Manual,2018,17.5,88.7,110,Feb,2018,50,6.75,Kolkata,WB02,16
+Hyundai,i20 1.2 Magna,Comprehensive,Petrol,5,"39,500",First Owner,1197,Manual,2010,18.5,80 PS at 5200 ,"11.4 kgm at 4,000 r",Oct,2010,75,1.5,Kolkata,WB06,14
+Honda,City 1.5 S AT,Comprehensive,Petrol,5,"68,500",Second Owner,1497,Automatic,2013,16.8,116.4,146,Nov,2013,75,2.5,Kolkata,WB02,15
+Maruti,Wagon R VXI BS IV,Not Available,Petrol,5,"32,992",First Owner,998,Manual,2011,18.9,67.1,90,Jul,2011,75,1.98,Kolkata,WB06,14
+Honda,Amaze S i-Vtech,Third Party,Petrol,5,"35,561",First Owner,1198,Manual,2015,18,86.7,109,Mar,2015,75,3.5,Kolkata,WB02,
+Honda,City i VTEC SV,Not Available,Petrol,5,"51,342",Second Owner,1497,Manual,2015,17.4,117.3,145,Mar,2015,75,3.8,Kolkata,WB02,
+Audi,Q3 35 TDI Quattro Premium,Comprehensive,Diesel,5,"21,897",First Owner,1968,Automatic,2016,15.73,174.33,380,Feb,2016,70,17.99,Kolkata,WB22,17
+Nissan,Sunny XL,Not Available,Petrol,5,"39,169",First Owner,1498,Manual,2013,16.95,97.7,134,Jul,2013,75,2.5,Kolkata,WB02,14
+Mahindra,XUV500 AT W9 2WD,Comprehensive,Diesel,7,"4,000",First Owner,2179,Automatic,2021,16,138,330,Feb,2021,20,15.75,Kolkata,WB20,17
+Honda,City i DTEC VX,Comprehensive,Diesel,5,"64,716",First Owner,1498,Manual,2015,25.1,98.6,200,Jun,2015,75,5.54,Kolkata,WB02,15
+Maruti,A-Star Vxi,Not Available,Petrol,5,"34,202",First Owner,998,Manual,2009,19,66.1,90,Nov,2009,75,1.55,Kolkata,WB06,13
+Hyundai,Xcent 1.2 Kappa SX,Comprehensive,Petrol,5,"42,354",Second Owner,1197,Manual,2016,19.1,82,114,Oct,2016,70,3.8,Kolkata,WB02,14
+Maruti,XL6 Zeta AT,Third Party insurance,Petrol,6,"27,000",First Owner,1462,Automatic,2019,17.99,103.2,138,Nov,2019,40,8.99,Kolkata,WB30,R15
+Nissan,Micra XV,Third Party,Petrol,5,"69,492",Second Owner,1198,Manual,2012,18.06,75,104,Dec,2012,75,1.93,Kolkata,WB02,14
+Maruti,Baleno 1.2 Alpha,Not Available,Petrol,5,"95,325",First Owner,1197,Manual,2017,21.4,83.1,115,Aug,2017,60,4.7,Kolkata,WB02,16
+Hyundai,Venue S Plus,Third Party,Petrol,5,"10,310",First Owner,1197,Manual,2021,17.52,81.86,113.76,Jan,2022,20,8.0,Kolkata,WB26,
+Maruti,Zen Estilo LXI BS IV,Third Party,Petrol,5,"40,874",Second Owner,998,Manual,2010,19,67.1,90,Jul,2010,75,1.5,Kolkata,WB06,13
+Mercedes-Benz,CLA 200 CDI Sport,Third Party,Diesel,5,"51,090",First Owner,2143,Automatic,2017,17.9,136,300,Feb,2017,60,17.0,Kolkata,WB06,17
+Skoda,Superb Ambition 1.8 TSI MT,Third Party,Petrol,5,"13,000",First Owner,1798,Manual,2015,13.1,157.81,250,Jan,2015,75,7.85,Kolkata,WB02,16
+Skoda,Rapid 1.6 TDI Ambition Plus,Comprehensive,Diesel,5,"65,000",First Owner,1598,Manual,2014,20.5,103.5,250,Apr,2014,75,3.65,Kolkata,WB02,14
+Mercedes-Benz,C-Class C 220 CDI Avantgarde,Third Party,Diesel,5,"53,000",First Owner,2143,Automatic,2010,19.27,170,400,Mar,2010,75,2.99,Kolkata,WB06,17
+Hyundai,Creta SX,Third Party insurance,Petrol,5,"8,000",First Owner,1497,Manual,2022,,113.18,143.8,Apr,2022,15,13.99,Kolkata,WB48,17
+Toyota,Glanza G,Third Party insurance,Petrol,5,"13,000",First Owner,1197,Manual,2019,21.01,81.80,113,Oct,2019,40,6.0,Kolkata,WB02,R16
+Maruti,Swift Dzire LXI,Third Party insurance,Petrol,5,"43,000",First Owner,1197,Manual,2015,20.85,83.14,115,May,2015,75,4.0,Kolkata,WB12,
+Maruti,Wagon R VXI,Third Party insurance,Petrol,5,"16,800",First Owner,998,Manual,2020,21.79,67.05,90,Oct,2020,30,5.0,Kolkata,WB02,
+Honda,City i-VTEC SV,Third Party insurance,Petrol,5,"42,000",First Owner,1497,Manual,2018,17.4,117.6,145,Apr,2018,50,5.0,Kolkata,WB10,15
+Mahindra,XUV500 W10 AWD,Third Party insurance,Diesel,7,"70,000",First Owner,2179,Manual,2017,16,140,330,Oct,2017,60,10.75,Kolkata,WB26,17
+Hyundai,i20 1.2 Spotz,Comprehensive,Petrol,5,"38,176",First Owner,1197,Manual,2018,18.6,81.83,114.7,Mar,2018,50,4.9,Kolkata,WB16,
+Mahindra,Scorpio S5 BSIV,Comprehensive,Diesel,7,"27,000",First Owner,2179,Manual,2018,16.36,120,280,Dec,2018,50,9.75,Kolkata,WB02,
+Volkswagen,Vento Diesel Highline,Comprehensive,Diesel,5,"65,000",First Owner,1598,Manual,2011,20.54,103.6,250,Jul,2011,75,2.75,Kolkata,WB20,15
+Maruti,Alto K10 VXI,Not Available,Petrol,5,"50,111",First Owner,998,Manual,2016,23.95,67.05,90,Nov,2016,70,2.3,Kolkata,WB06,
+Mahindra,XUV500 W4,Comprehensive,Diesel,7,"50,000",First Owner,2179,Manual,2018,15.1,140,330,Nov,2018,50,8.25,Kolkata,WB02,
+Hyundai,Grand i10 Sportz,Not Available,Petrol,5,"23,526",Second Owner,1197,Manual,2015,18.9,82,114,Dec,2015,75,3.1,Kolkata,WB02,
+Hyundai,i20 Sportz Option 1.4 CRDi,Comprehensive,Diesel,5,"55,000",Second Owner,1396,Manual,2015,22.54,88.73,219.7,Dec,2015,75,4.51,Kolkata,WB02,16
+Hyundai,i10 Sportz,Comprehensive,Petrol,5,"32,000",Third Owner,1197,Manual,2014,20.36,78.9,111.8,Sept,2014,75,1.95,Kolkata,WB02,13
+Maruti,Ciaz 1.4 AT Alpha,Comprehensive,Petrol,5,"50,000",First Owner,1373,Automatic,2017,19.12,91.1,130,Aug,2017,60,5.75,Kolkata,WB02,16
+Ford,Ecosport 1.5 Diesel Titanium Plus,Comprehensive,Diesel,5,"12,000",First Owner,1498,Manual,2021,21.7,98.96,215,Nov,2021,20,9.25,Kolkata,WB20,R16
+Hyundai,Verna 1.6 VTVT SX,Comprehensive,Petrol,5,"39,000",First Owner,1591,Manual,2015,17.01,121.3,154.9,Jul,2015,75,4.55,Kolkata,WB02,16
+Honda,Mobilio S i-DTEC,Comprehensive,Diesel,7,"68,000",First Owner,1498,Manual,2014,24.2,98.6,200,Dec,2014,75,4.75,Kolkata,WB02,
+Hyundai,Grand i10 Nios Sportz,Comprehensive,Petrol,5,"12,000",First Owner,1197,Manual,2020,20.7,81.86,113.8,Aug,2020,30,5.99,Kolkata,WB20,14
+Tata,Tigor 1.05 Revotorq XZ Option,Comprehensive,Diesel,5,"55,000",First Owner,1047,Manual,2018,24.7,69,140,Aug,2018,50,4.5,Kolkata,WB08,14
+Honda,WR-V Edge Edition i-VTEC S,Comprehensive,Petrol,5,"34,000",First Owner,1199,Manual,2018,17.5,88.7,110,Apr,2018,50,5.5,Kolkata,WB02,16
+Mahindra,XUV500 AT W10 FWD,Third Party insurance,Diesel,7,"60,000",First Owner,2179,Automatic,2016,16,140,330,Mar,2016,70,8.0,Kolkata,WB02,17
+Volkswagen,Polo Diesel Comfortline 1.2L,Third Party insurance,Diesel,5,"74,000",First Owner,1199,Manual,2011,22.07,73.9,180,Mar,2011,75,1.75,Kolkata,WB06,15
+Maruti,Vitara Brezza VDi Option,Not Available,Diesel,5,"89,173",First Owner,1248,Manual,2017,24.3,88.5,200,Feb,2017,60,6.4,Kolkata,WB02,
+Maruti,Zen LX,Third Party,Petrol,5,"66,399",Second Owner,993,Manual,2004,17.3,60,78 ,Aug,2004,75,0.54598,Kolkata,WB02,12
+Hyundai,i20 Sportz 1.2,Not Available,Petrol,5,"43,111",First Owner,1197,Manual,2015,18.6,81.83,114.7,Aug,2015,75,4.0,Kolkata,WB20,
+Honda,WR-V i-VTEC VX,Not Available,Petrol,5,"66,591",First Owner,1199,Manual,2017,17.5,88.7,110,Jul,2017,60,6.45,Kolkata,WB12,16
+Maruti,Wagon R LXI BS IV,Not Available,Petrol,5,"46,805",First Owner,998,Manual,2013,20.51,67.04,90,Dec,2013,75,2.0,Kolkata,WB02,
+Hyundai,Elantra SX AT,Not Available,Petrol,5,"55,495",Second Owner,1797,Automatic,2014,14.5,147.5,177.5,Mar,2014,75,5.43,Kolkata,WB02,16
+Hyundai,Verna 1.6 CRDi SX,Third Party,Diesel,5,"19,690",First Owner,1582,Manual,2017,23.9,126.2,259.9,Feb,2018,60,7.0,Kolkata,JH01,16
+Maruti,Swift Dzire VDI,Comprehensive,Diesel,5,"46,000",First Owner,1248,Manual,2017,28.4,74.02,190,Jul,2017,60,5.85,Kolkata,WB02,
+Maruti,Baleno Sigma,Third Party,Petrol,5,"17,990",First Owner,1197,Manual,2021,21.01,81.80,113,Feb,2021,20,5.0,Kolkata,WB30,
+Hyundai,i20 Magna 1.2,Third Party,Petrol,5,"39,554",Second Owner,1197,Manual,2016,18.6,81.83,114.7,May,2016,70,3.8,Kolkata,WB02,
+Honda,Amaze VX Petrol,Third Party,Petrol,5,"8,013",First Owner,1199,Manual,2021,18.6,88.76,110,Sept,2021,20,6.9,Kolkata,WB02,R15
+Volkswagen,Polo 1.2 MPI Comfortline,Third Party,Petrol,5,"90,163",First Owner,1198,Manual,2014,16.47,74,110,Nov,2014,75,2.5,Kolkata,WB08,
+Kia,Sonet 1.5 HTX Diesel,Third Party,Diesel,5,"22,483",First Owner,1493,Manual,2020,,98.63,240,Nov,2020,30,11.72,Kolkata,JH10,16
+Maruti,A-Star Zxi,Third Party,Petrol,5,"1,03,915",First Owner,998,Manual,2009,19,66.1,90,Feb,2009,75,1.3,Kolkata,WB06,13
+Ford,Figo Diesel ZXI,Not Available,Diesel,5,"89,078",First Owner,1399,Manual,2015,20,68.05,160,Jan,2016,75,2.5,Kolkata,WB02,
+Mahindra,XUV500 W4,Third Party insurance,Diesel,7,"99,000",First Owner,2179,Manual,2015,16,140,330,Jun,2015,75,5.0,Kolkata,WB44,
+Mahindra,XUV300 W8 AMT Diesel,Third Party insurance,Diesel,5,"24,000",First Owner,1497,Automatic,2021,17,115,300,Mar,2021,20,11.25,Kolkata,WB02,R17
+Honda,Jazz V CVT,Third Party insurance,Petrol,5,"40,000",First Owner,1199,Automatic,2018,18.2,88.7,110,Oct,2018,50,4.5,Kolkata,WB26,15
+Maruti,Ritz VXI,Not Available,Petrol,5,"30,402",Second Owner,1197,Manual,2011,21.1,85.80,114,Jul,2011,75,2.02,Kolkata,WB06,14
+Hyundai,i10 Asta VTVT,Comprehensive,Petrol,5,"42,000",First Owner,1197,Manual,2010,19.2,,,Oct,2010,75,2.0,Kolkata,WB06,13
+Maruti,Celerio X VXI Option BSIV,Comprehensive,Petrol,5,"22,000",First Owner,998,Manual,2019,21.63,67,90,Aug,2019,40,4.24,Kolkata,WB02,
+Honda,Amaze VX i-DTEC,Comprehensive,Diesel,5,"15,000",First Owner,1498,Manual,2014,25.8,98.6,200,Jun,2014,75,4.5,Kolkata,WB08,14
+Renault,Duster RXZ 110PS AMT BSIV,Third Party,Diesel,5,"36,181",First Owner,1461,Automatic,2019,19.87,108.5,245,Oct,2019,40,8.0,Kolkata,WB06,16
+Mercedes-Benz,E-Class E 350d,Comprehensive,Diesel,5,"47,963",First Owner,2987,Automatic,2017,17,254.8,620,Apr,2017,60,42.0,Kolkata,WB02,17
+Hyundai,Venue SX Opt iMT,Comprehensive,Petrol,5,"11,000",First Owner,998,Manual,2021,18,118.35,171.6,Oct,2021,20,9.5,Kolkata,WB02,16
+Hyundai,Elantra SX,Third Party,Petrol,5,"33,816",Second Owner,1797,Manual,2015,16.3,147.4,177.5,Sept,2015,75,5.01,Kolkata,WB08,16
+Skoda,Superb LK 1.8 TSI AT,Comprehensive,Petrol,5,"59,000",First Owner,1798,Automatic,2019,14.67,177.46,2,Jun,2019,40,21.75,Kolkata,WB02,17
+Hyundai,Verna 1.4 VTVT,Third Party,Petrol,5,"37,561",Third Owner,1396,Manual,2014,17.43,105.5,135.3,Nov,2014,75,3.32,Kolkata,WB02,15
+Tata,Tiago 1.2 Revotron XM,Third Party,Petrol,5,"41,137",First Owner,1199,Manual,2016,23.84,84,114,Aug,2016,70,3.0,Kolkata,RJ07,
+Maruti,Alto LX,Not Available,Petrol,5,"37,899",First Owner,796,Manual,2010,19.7,46.3,62,Oct,2010,75,1.24,Kolkata,WB06,12
+Maruti,Esteem Vxi - BSIII,Not Available,Petrol,5,"45,872",First Owner,1298,Manual,2006,15.9,85,110 ,Jun,2006,75,0.9,Kolkata,WB12,13
+Maruti,Ciaz 1.4 Delta,Comprehensive,Petrol,5,"76,637",First Owner,1373,Manual,2017,20.73,91.1,130,May,2017,60,4.5,Kolkata,WB02,
+BMW,X5 3.0d,Third Party,Diesel,5,"1,18,205",Fourth Owner,2993,Automatic,2008,11,,,Jul,2008,75,11.85,Kolkata,PB04,18
+Mercedes-Benz,E-Class E250 CDI Avantgarde,Comprehensive,Diesel,5,"60,000",First Owner,2143,Automatic,2014,14.21,203,500,Jan,2014,75,14.75,Kolkata,WB02,17
+Hyundai,i10 Magna 1.1L,Third Party,Petrol,5,"47,102",First Owner,1086,Manual,2011,19.81,68.05,99.04,Jun,2011,75,1.88,Kolkata,PB10,
+Tata,Harrier XZ,Third Party,Diesel,5,"23,933",First Owner,1956,Manual,2021,16.35,167.67,350,Mar,2021,20,17.0,Kolkata,BR01,17
+Maruti,Alto 800 LXI,Third Party,Petrol,5,,First Owner,796,Manual,2014,22.74,47.3,69,Jul,2014,75,2.27,Kolkata,WB06,
+Hyundai,i20 Active 1.2 S,Third Party,Petrol,5,"34,981",First Owner,1197,Manual,2018,17.19,81.86,114.73,Mar,2018,50,4.7,Kolkata,WB26,16
+Maruti,Ritz LDi,Third Party,Diesel,5,"78,839",Second Owner,1248,Manual,2011,21.1,73.9,190,May,2011,75,1.8,Kolkata,WB06,14
+Maruti,Alto K10 LXI,Third Party,Petrol,5,"16,179",First Owner,998,Manual,2011,20.92,67.1,90,Sept,2011,75,1.52,Kolkata,WB06,13
+Maruti,Celerio VDi,Comprehensive,Diesel,5,"55,001",First Owner,793,Manual,2016,27.62,47,125,Apr,2016,70,2.65,Kolkata,WB02,
+Mercedes-Benz,E-Class E350 CDI Avantgrade,Comprehensive,Diesel,5,"15,077",Second Owner,2987,Automatic,2016,13,265,620,Feb,2016,70,27.49,Kolkata,WB02,17
+Hyundai,Grand i10 1.2 Kappa Magna BSIV,Comprehensive,Petrol,5,"6,000",First Owner,1197,Manual,2017,18.9,81.86,113.75,Feb,2017,60,4.6,Kolkata,WB06,
+Kia,Seltos HTK Plus G,Comprehensive,Petrol,5,"14,000",First Owner,1497,Manual,2020,16.8,113.43,144,May,2020,30,10.4,Kolkata,WB02,16
+Audi,A4 Technology,Comprehensive,Petrol,5,"4,974",First Owner,1998,Automatic,2021,17.42,187.74,320,Jul,2021,20,42.99,Kolkata,WB02,17
+Skoda,Slavia 1.0 TSI Ambition,Third Party insurance,Petrol,5,"7,300",,999,Manual,2022,19.47,113.98,178,,,15,10.75,Kolkata,,16
+Hyundai,Accent Executive,Third Party,Petrol,5,"19,978",First Owner,1495,Manual,2008,16.36,93.7,124.6,Feb,2009,75,1.0,Kolkata,WB06,13
+Hyundai,i20 Magna 1.2,Third Party,Petrol,5,"52,630",First Owner,1197,Manual,2015,18.6,81.83,114.7,Dec,2015,75,4.0,Kolkata,WB08,
+Hyundai,Grand i10 Sportz,Third Party,Petrol,5,"35,386",First Owner,1197,Manual,2014,18.9,82,114,Aug,2014,75,3.2,Kolkata,WB02,
+Mercedes-Benz,E-Class E350 CDI Avantgrade,Comprehensive,Diesel,5,"15,076",Second Owner,2987,Automatic,2016,13,265,620,Aug,2016,70,27.49,Kolkata,WB02,17
+Maruti,Swift 1.3 VXi,Third Party,Petrol,5,"57,495",First Owner,1298,Manual,2006,16.1,8,11,Mar,2006,75,1.0,Kolkata,WB74,14
+Honda,City i VTEC VX,Third Party,Petrol,5,"66,393",Fourth Owner,1497,Manual,2014,17.4,117.3,145,Oct,2014,75,3.96,Kolkata,WB02,15
+Honda,Amaze VX Petrol,Third Party,Petrol,5,"10,015",First Owner,1199,Manual,2020,18.6,88.76,110,Nov,2020,30,8.14,Kolkata,MH49,R15
+Hyundai,Verna 1.4 VTVT,Third Party,Petrol,5,"35,600",Second Owner,1396,Manual,2013,17.43,105.5,135.3,May,2013,75,2.99,Kolkata,WB26,
+Maruti,Wagon R VXI 1.2 BSIV,Comprehensive,Petrol,5,"33,000",First Owner,1197,Manual,2013,21.5,81.80,113,Dec,2013,75,2.6,Kolkata,WB22,
+Hyundai,i10 Sportz 1.2,Not Available,Petrol,5,"49,710",First Owner,1197,Manual,2009,20.36,78.9,111.8,May,2009,75,1.7,Kolkata,WB06,13
+Hyundai,Santro Xing GLS,Not Available,Petrol,5,"91,058",First Owner,1086,Manual,2010,17.92,62.1,96.1,Feb,2010,75,1.15,Kolkata,WB06,13
+Maruti,Ciaz 1.4 Delta,Comprehensive,Petrol,5,"36,000",First Owner,1373,Manual,2017,20.73,91.1,130,Aug,2017,60,5.44,Kolkata,WB02,
+Hyundai,i10 Sportz 1.2,Not Available,Petrol,5,"51,182",First Owner,1197,Manual,2009,20.36,78.9,111.8,May,2009,75,1.7,Kolkata,WB06,13
+Hyundai,EON Magna Plus,Third Party insurance,Petrol,5,"38,742",Second Owner,814,Manual,2013,21.1,55.2,74.5,Sept,2013,75,2.25,Kolkata,WB02,
+Mahindra,XUV500 W9 AT BSIV,Not Available,Diesel,7,"7,196",First Owner,2179,Automatic,2019,15.1,152.87,360,Dec,2019,40,13.5,Kolkata,WB26,17
+Maruti,Baleno 1.2 CVT Alpha,Third Party insurance,Petrol,5,"39,128",First Owner,1197,Automatic,2018,21.4,83.1,115,Mar,2018,50,6.55,Kolkata,WB02,16
+Hyundai,Grand i10 Asta,Third Party insurance,Petrol,5,"31,763",First Owner,1197,Manual,2013,18.9,82,114,Nov,2013,75,3.0,Kolkata,WB02,14
+Maruti,Ciaz Alpha BSIV,Comprehensive,Petrol,5,"35,000",First Owner,1462,Manual,2019,21.56,103.25,138,Aug,2019,40,6.95,Kolkata,WB02,16
+Maruti,Ertiga SHVS VDI,Third Party insurance,Diesel,7,"52,000",First Owner,1248,Manual,2017,24.52,88.5,200,Feb,2017,60,7.0,Kolkata,WB02,
+Tata,Nexon XZ Plus HS,Third Party,Petrol,5,"4,304",First Owner,1199,Manual,2022,17.57,118.36,170,Aug,2022,15,9.3,Kolkata,WB24,16
+Maruti,Alto Std,Not Available,Petrol,5,"18,288",Second Owner,796,Manual,2005,19.7,46.3,62,Mar,2005,75,0.80132,Kolkata,WB02,12
+Hyundai,Creta 1.6 SX,Not Available,Petrol,5,"21,359",Second Owner,1591,Manual,2019,15.8,121.3,151,Aug,2019,40,9.89,Kolkata,WB06,17
+Tata,Nano XT,Third Party,Petrol,4,"49,652",First Owner,624,Manual,2015,23.9,37.48,51,Aug,2015,75,0.8,Kolkata,WB26,
+Hyundai,i20 Asta Option 1.2,Third Party,Petrol,5,"37,901",First Owner,1197,Manual,2015,18.6,81.83,114.7,Dec,2015,75,4.2,Kolkata,WB02,16
+Toyota,Innova Crysta 2.4 VX MT 8 STR,Comprehensive,Diesel,8,"36,000",First Owner,2393,Manual,2017,13.68,147.51,343,Aug,2017,60,17.95,Kolkata,WB02,16
+Mahindra,XUV500 W8 2WD,Not Available,Diesel,7,"49,544",First Owner,2179,Manual,2016,16,140,330,Jun,2016,70,9.0,Kolkata,WB02,17
+Honda,City i VTEC SV,Third Party,Petrol,5,"46,806",First Owner,1497,Manual,2014,17.4,117.3,145,Apr,2014,75,3.2,Kolkata,WB24,
+Maruti,Swift Dzire VXi,Third Party,Petrol,5,"42,162",First Owner,1298,Manual,2009,17.5,85.8,114,Aug,2009,75,1.97,Kolkata,WB06,14
+Mahindra,Quanto C4,Not Available,Diesel,7,"1,08,582",Fourth Owner,1493,Manual,2014,17.21,100,240,Apr,2014,75,2.6,Kolkata,WB14,
+Citroen,C5 Aircross Shine,Comprehensive,Diesel,5,"16,594",First Owner,1997,Automatic,2021,18.6,174,400,May,2021,20,26.99,Kolkata,WB02,18
+Hyundai,Creta 1.6 VTVT SX Plus,Third Party insurance,Petrol,5,"44,000",First Owner,1591,Manual,2016,13,121.3,151,Jun,2016,70,8.0,Kolkata,WB02,17
+Mahindra,Bolero B6 Opt,Third Party insurance,Diesel,7,"30,000",First Owner,1493,Manual,2020,16,74.96,210,Oct,2020,30,8.4,Kolkata,WB02,
+Honda,Amaze S Petrol BSIV,Third Party insurance,Petrol,5,"49,000",First Owner,1199,Manual,2016,19.5,88.76,110,Mar,2016,70,3.0,Kolkata,WB02,
+Audi,A6 45 TFSI Technology,Comprehensive,Petrol,5,"23,271",First Owner,1984,Automatic,2021,14.11,241.3,370,Apr,2021,20,54.99,Kolkata,JH05,18
+Maruti,Ertiga SHVS VDI,Third Party insurance,Diesel,7,"55,000",First Owner,1248,Manual,2016,24.52,88.5,200,Jun,2016,70,6.5,Kolkata,WB06,
+Honda,Amaze S Petrol BSIV,Third Party insurance,Petrol,5,"12,539",First Owner,1199,Manual,2019,19.5,88.76,110,Dec,2019,40,5.5,Kolkata,WB02,
+Jeep,Compass 1.4 Limited,Not Available,Petrol,5,"29,994",First Owner,1368,Automatic,2018,16,160,250,May,2018,50,13.0,Kolkata,WB02,17
+Hyundai,Venue SX Diesel BSIV,Third Party insurance,Diesel,5,"28,800",First Owner,1396,Manual,2020,23.7,88.76,219.6,Nov,2020,30,9.0,Kolkata,WB24,16
+Mahindra,XUV500 W8 FWD,Comprehensive,Diesel,7,"87,384",First Owner,2179,Manual,2012,15.1,140,330,Aug,2012,75,4.6,Kolkata,WB02,17
+Mercedes-Benz,S-Class Maybach S500,Third Party insurance,Petrol,4,"24,500",First Owner,4663,Automatic,2017,7.81,459,700,Jul,2017,60,1.16,Kolkata,WB02,19
+Mercedes-Benz,GLA Class 200 d Sport,Third Party insurance,Diesel,5,"18,800",Second Owner,2143,Automatic,2018,17.9,136,300,Dec,2018,50,23.95,Kolkata,WB02,18
+Hyundai,i20 1.2 Asta Dual Tone,Not Available,Petrol,5,"28,228",Second Owner,1197,Manual,2018,18.6,81.83,114.7,Feb,2018,50,6.0,Kolkata,WB02,16
+Jeep,Compass 1.4 Limited Option Black,Third Party,Petrol,5,"38,786",First Owner,1368,Automatic,2018,16,160,250,Mar,2018,50,13.0,Kolkata,WB02,17
+Hyundai,Creta 1.6 VTVT S,Third Party,Petrol,5,"52,235",First Owner,1591,Manual,2015,15.29,121.3,151,Dec,2015,75,6.7,Kolkata,WB02,
+Honda,City i DTec VX,Third Party insurance,Diesel,5,"50,000",First Owner,1498,Manual,2017,26,98.6,200,Aug,2017,60,7.5,Kolkata,WB02,15
+Hyundai,Elantra SX,Third Party insurance,Petrol,5,"41,000",First Owner,1797,Manual,2014,16.3,147.5,177.5,Jul,2014,75,4.0,Kolkata,WB02,16
+Ford,Endeavour 3.2 Titanium AT 4X4,Comprehensive,Diesel,7,"69,325",First Owner,3198,Automatic,2018,10.91,197,470,Nov,2018,50,24.99,Kolkata,OD13,18
+Mercedes-Benz,E-Class E250 CDI Avantgarde,Comprehensive,Diesel,5,"60,725",Second Owner,2143,Automatic,2014,14.21,203,500,Jan,2014,75,15.99,Kolkata,WB02,17
+Mahindra,Scorpio LX 2WD 7S,Not Available,Diesel,7,"88,038",First Owner,2179,Manual,2013,12.05,120,290,Aug,2013,75,5.0,Kolkata,WB02,16
+Honda,City i VTEC SV,Comprehensive,Petrol,5,"66,131",First Owner,1497,Manual,2016,17.8,117.3,145,Nov,2017,70,5.75,Kolkata,WB68,
+Land,Rover Discovery Sport SD4 HSE Luxury 7S,Comprehensive,Diesel,7,"51,830",First Owner,2179,Automatic,2020,12.51,187.7,420,Feb,2020,30,44.99,Kolkata,OD05,18
+Toyota,Innova Crysta 2.4 VX MT BSIV,Third Party insurance,Diesel,7,"80,000",First Owner,2393,Manual,2017,13.68,147.8,343,Nov,2017,60,17.5,Kolkata,WB24,16
+Honda,City 1.5 S MT,Not Available,Petrol,5,"58,648",Second Owner,1497,Manual,2009,17,"118PS at 6,600 ",146Nm at 4800 r,Mar,2009,75,2.2,Kolkata,WB06,15
+Chevrolet,Tavera Neo 3 10 Seats BSIII,Comprehensive,Diesel,10,"35,000",Second Owner,2499,Manual,2012,13.58,72.4,171,Jul,2012,75,3.5,Kolkata,WB26,
+Datsun,RediGO T Option,Not Available,Petrol,5,"4,229",First Owner,799,Manual,2017,22.7,53.64,72,Jan,2018,60,2.0,Kolkata,WB10,
+Honda,City S,Third Party,Petrol,5,"61,901",First Owner,1497,Manual,2011,16.8,116.4,146,Nov,2011,75,2.7,Kolkata,WB06,15
+Tata,Nexon 1.2 Revotron XM,Not Available,Petrol,5,"4,730",First Owner,1198,Manual,2019,17,108.5,170,Jan,2020,40,6.5,Kolkata,WB02,
+Datsun,GO T BSIV,Not Available,Petrol,5,"22,188",First Owner,1198,Manual,2018,20.63,67,104,Feb,2018,50,2.87,Kolkata,WB08,
+Maruti,Eeco 5 Seater AC BSIV,Comprehensive,Petrol,5,"29,000",First Owner,1196,Manual,2014,15.37,73,101,Aug,2014,75,2.51,Kolkata,WB02,
+Honda,City 1.5 S MT,Third Party,Petrol,5,"45,172",Second Owner,1497,Manual,2009,17,"118PS at 6,600 ",146Nm at 4800 r,Jun,2009,75,2.5,Kolkata,WB06,15
+Honda,Jazz X,Comprehensive,Petrol,5,"58,000",First Owner,1198,Manual,2012,16.7,88.8,110,Oct,2012,75,2.5,Kolkata,WB02,15
+Hyundai,Grand i10 1.2 Kappa Magna BSIV,Comprehensive,Petrol,5,"6,000",First Owner,1197,Manual,2017,18.9,81.86,113.75,Aug,2017,60,4.55,Kolkata,WB02,
+Ford,Fiesta 1.6 SXI ABS Duratec,Comprehensive,Petrol,5,"50,000",First Owner,1596,Manual,2010,15.3,,,Aug,2010,75,1.95,Kolkata,WB06,15
+Mercedes-Benz,C-Class C 200 CGI Avantgarde,Comprehensive,Petrol,5,"26,000",First Owner,1796,Automatic,2013,11.74,186,285,Oct,2013,75,10.75,Kolkata,WB02,17
+Mahindra,Scorpio BSIV,Third Party,Diesel,7,"72,000",First Owner,2523,Manual,2013,15.4,75,200,Jul,2013,75,4.75,Kolkata,WB02,
+Maruti,Wagon R AMT VXI,Not Available,Petrol,5,"50,698",First Owner,998,Automatic,2018,20.51,67,90,Jun,2018,50,3.15,Kolkata,WB02,
+Renault,KWID Climber 1.0 MT Opt,Third Party,Petrol,5,"1,496",Second Owner,999,Manual,2020,21.74,67,91,Dec,2020,30,4.2,Kolkata,WB10,
+Hyundai,i20 Sportz 1.2,Third Party,Petrol,5,"43,470",First Owner,1197,Manual,2014,18.6,81.83,114.7,Dec,2014,75,4.0,Kolkata,WB08,
+Mahindra,KUV 100 NXT D75 K2,Third Party,Diesel,6,"55,697",First Owner,1198,Manual,2017,25.32,77,190,Nov,2017,60,3.0,Kolkata,WB02,
+Maruti,Wagon R VXI BS IV,Not Available,Petrol,5,"38,570",First Owner,998,Manual,2012,18.9,67.1,90,Aug,2012,75,1.7,Kolkata,WB24,14
+Ford,Figo Petrol EXI,Not Available,Petrol,5,"19,408",First Owner,1196,Manual,2010,15.6,70,102,Sept,2010,75,1.0,Kolkata,PB13,14
+Ambassador,Grand 1500 DSZ BSIII,Not Available,Diesel,5,"76,490",Second Owner,1995,Manual,2010,12.8,52,106 ,Feb,2010,75,0.95,Kolkata,WB06,15
+Maruti,Alto 800 LXI,Comprehensive,Petrol,5,"1,400",First Owner,796,Manual,2017,22.05,47.33,69,Oct,2017,60,2.69,Kolkata,WB02,
+Hyundai,i20 Sportz,Comprehensive,Petrol,5,"17,200",First Owner,1197,Manual,2021,21,81.80,114.74,Nov,2021,20,7.5,Kolkata,WB18,
+Maruti,Baleno 1.2 Zeta,Third Party,Petrol,5,"17,536",First Owner,1197,Manual,2019,21.4,83.1,115,Jul,2019,40,5.5,Kolkata,WB02,16
+Honda,Amaze S i-Vtech,Comprehensive,Petrol,5,"34,866",First Owner,1198,Manual,2013,18,86.7,109,Oct,2013,75,2.2,Kolkata,WB02,
+Honda,WR-V i-DTEC VX,Third Party,Diesel,5,"1,11,772",First Owner,1498,Manual,2017,25.5,98.6,200,Sept,2017,60,4.5,Kolkata,WB02,16
+Mahindra,XUV500 W9 BSIV,Third Party insurance,Diesel,7,"25,000",First Owner,2179,Manual,2018,15.1,152.87,360,Apr,2018,50,9.0,Kolkata,WB10,17
+Mahindra,Ssangyong Rexton RX7,Third Party,Diesel,7,"86,715",Second Owner,2696,Automatic,2013,11.18,184,402,Mar,2013,75,2.8,Kolkata,WB02,16
+Maruti,Ertiga VDI,Third Party,Diesel,7,"86,240",Second Owner,1248,Manual,2014,20.77,88.76,200,May,2014,75,4.2,Kolkata,WB20,
+Hyundai,i20 1.2 Asta,Third Party,Petrol,5,"7,573",First Owner,1197,Manual,2018,18.6,81.83,114.7,Aug,2018,50,5.5,Kolkata,WB02,16
+Audi,A6 35 TDI Premium,Not Available,Diesel,5,"14,200",Fourth Owner,1968,Automatic,2014,17.68,174.33,380,Apr,2015,75,15.23,Kolkata,WB02,17
+Renault,Duster 85PS Diesel RxL Plus,Not Available,Diesel,5,"1,06,898",First Owner,1461,Manual,2013,20.45,83.8,200,Dec,2013,75,2.2,Kolkata,WB02,16
+Renault,KWID 1.0 AMT RXT,Not Available,Petrol,5,"37,272",Second Owner,999,Automatic,2019,24.04,67,91,Dec,2019,40,3.32,Kolkata,WB58,
+Maruti,Ciaz ZDi SHVS,Third Party insurance,Diesel,5,"65,000",First Owner,1248,Manual,2016,28.09,88.5,200,Apr,2016,70,4.75,Kolkata,WB02,15
+Tata,Nexon 1.5 Revotorq XM,Comprehensive,Diesel,5,"58,021",First Owner,1497,Manual,2017,21.5,108.5,260,Dec,2017,60,6.15,Kolkata,WB32,
+Maruti,Ciaz S 1.4,Third Party,Petrol,5,"73,059",First Owner,1373,Manual,2018,28.09,91.1,130,Apr,2018,50,4.9,Kolkata,WB02,16
+Maruti,Swift Dzire LXi,Not Available,Petrol,5,"81,506",First Owner,1298,Manual,2009,17.5,85.8,114,Mar,2009,75,1.5,Kolkata,WB06,14
+Ford,Ecosport 1.5 Diesel Titanium,Third Party,Diesel,5,"12,461",First Owner,1498,Manual,2021,21.7,98.96,215,Mar,2021,20,8.3,Kolkata,WB20,R16
+Renault,Duster 85PS Diesel RxL,Not Available,Diesel,5,"17,711",First Owner,1461,Manual,2014,20.45,83.8,200,May,2014,75,4.5,Kolkata,WB66,16
+Hyundai,Grand i10 CRDi Asta,Third Party,Diesel,5,"44,200",First Owner,1120,Manual,2014,24,70,160,May,2014,75,2.8,Kolkata,WB02,14
+Maruti,Swift Dzire 1.2 Vxi BSIV,Third Party,Petrol,5,"42,104",First Owner,1197,Manual,2010,17.5,85.8,114,Aug,2010,75,1.6,Kolkata,WB20,14
+Hyundai,i20 Active 1.2 S,Comprehensive,Petrol,5,"79,329",First Owner,1197,Manual,2016,17.19,81.86,114.73,Apr,2016,70,4.75,Kolkata,WB02,16
+Maruti,Swift VXI,Not Available,Petrol,5,"32,572",Second Owner,1197,Manual,2021,21.21,81.80,113,Mar,2021,20,6.0,Kolkata,WB02,
+Maruti,Swift Dzire VXI,Not Available,Petrol,5,"2,545",First Owner,1197,Manual,2016,20.85,83.14,115,Nov,2016,70,5.0,Kolkata,WB24,
+Maruti,Swift Lxi BSIII,Comprehensive,Petrol,5,"33,515",First Owner,1298,Manual,2009,16.1,8,11,May,2009,75,1.5,Kolkata,WB06,14
+Honda,Amaze S i-Vtech,Not Available,Petrol,5,"37,282",Second Owner,1198,Manual,2013,18,86.7,109,Dec,2013,75,2.0,Kolkata,WB02,
+Maruti,Swift Dzire ZXI,Not Available,Petrol,5,"84,684",First Owner,1197,Manual,2013,19.1,85.8,114,Apr,2013,75,3.5,Kolkata,WB02,15
+Toyota,Etios V,Third Party,Petrol,5,"49,231",First Owner,1496,Manual,2011,17.6,,,Jul,2011,75,2.25,Kolkata,WB06,15
+Renault,Duster 110PS Diesel RxL,Third Party,Diesel,5,"24,990",First Owner,1461,Manual,2015,19.64,108.45,245,Dec,2015,75,5.0,Kolkata,WB02,
+Maruti,Wagon R AMT VXI Option,Third Party,Petrol,5,"63,717",First Owner,998,Automatic,2018,20.51,67,90,Jul,2018,50,4.0,Kolkata,WB10,
+Chevrolet,Aveo U-VA 1.2 LS,Third Party,Petrol,5,"35,186",First Owner,1150,Manual,2009,15.26,74.9,110,Jun,2009,75,0.8,Kolkata,WB38,13
+Kia,Seltos HTX G,Third Party,Petrol,5,"4,253",First Owner,1497,Manual,2020,16.8,113.43,144,Aug,2020,30,12.5,Kolkata,WB02,17
+Hyundai,i10 Magna 1.2,Third Party,Petrol,5,"51,965",First Owner,1197,Manual,2009,20.36,78.9,111.7,Sept,2009,75,1.5,Kolkata,JH10,13
+Maruti,Swift Dzire VXi,Not Available,Petrol,5,"98,685",Third Owner,1298,Manual,2008,17.5,85.8,114,Sept,2008,75,1.75,Kolkata,WB06,14
+Hyundai,Creta 1.6 VTVT AT SX Plus,Third Party,Petrol,5,"33,817",Third Owner,1591,Automatic,2017,13,121.3,151,May,2017,60,7.8,Kolkata,WB26,17
+Volkswagen,Polo Petrol Trendline 1.2L,Not Available,Petrol,5,"32,643",First Owner,1198,Manual,2012,16.47,73.9,110,Feb,2012,75,2.0,Kolkata,WB06,14
+Mahindra,XUV500 W10 AWD,Third Party insurance,Diesel,7,"53,000",First Owner,2179,Manual,2017,16,140,330,Apr,2017,60,10.0,Kolkata,WB08,17
+Maruti,Alto 800 LXI,Third Party,Petrol,5,"32,773",First Owner,796,Manual,2020,22.05,47.33,69,Aug,2020,30,3.0,Kolkata,WB52,
+Maruti,Alto LXi,Third Party,Petrol,5,"14,534",First Owner,796,Manual,2011,19.7,46.3,62,Oct,2011,75,1.5,Kolkata,WB06,12
+Skoda,New Laura Ambiente 2.0 TDI CR MT,Comprehensive,Diesel,5,"79,631",First Owner,1968,Manual,2013,20,108.5,250,Jun,2013,75,2.7,Kolkata,WB02,16
+Hyundai,Xcent 1.2 Kappa SX,Third Party,Petrol,5,"20,699",Second Owner,1197,Manual,2016,19.1,82,114,May,2016,70,3.6,Kolkata,WB24,14
+Hyundai,EON Era Plus,Third Party,Petrol,5,"73,929",Second Owner,814,Manual,2013,21.1,55.2,74.5,Jan,2013,75,1.4,Kolkata,RJ14,
+Ford,Ecosport 1.5 TDCi Titanium BSIV,Third Party,Diesel,5,"81,129",First Owner,1498,Manual,2015,22.77,98.59,205,Nov,2015,75,4.5,Kolkata,WB06,16
+Mahindra,Marazzo M6,Third Party,Diesel,7,"1,05,247",Second Owner,1497,Manual,2018,17.3,121,300,Oct,2018,50,6.5,Kolkata,WB26,
+Maruti,Swift LXI,Third Party,Petrol,5,"18,178",First Owner,1197,Manual,2020,21.21,81.80,113,Jan,2021,30,5.0,Kolkata,WB10,
+Hyundai,Verna 1.6 CRDi EX MT,Comprehensive,Diesel,5,"90,051",First Owner,1582,Manual,2011,22.32,126.3,259.9,Aug,2011,75,2.5,Kolkata,WB06,15
+Mahindra,XUV500 W10 2WD,Third Party,Diesel,7,"71,533",First Owner,2179,Manual,2017,16,140,330,Oct,2017,60,9.5,Kolkata,WB06,17
+Maruti,Ciaz ZDi,Third Party,Diesel,5,"76,822",First Owner,1248,Manual,2015,26.21,88.5,200,Jul,2015,75,5.5,Kolkata,WB02,15
+Maruti,Alto K10 VXI,Third Party,Petrol,5,"40,457",First Owner,998,Manual,2015,23.95,67.05,90,Oct,2015,75,2.5,Kolkata,WB24,
+Mahindra,Thar LX 4-Str Convert Top Diesel AT,Third Party,Diesel,4,"21,110",First Owner,2184,Automatic,2022,,130,300,Jun,2022,15,13.8,Kolkata,WB26,18
+Volkswagen,Ameo 1.2 MPI Highline Plus,Third Party,Petrol,5,"12,831",First Owner,1198,Manual,2018,17,73.75,110,Mar,2018,50,4.45,Kolkata,WB08,16
+Honda,City i VTEC VX,Not Available,Petrol,5,"53,189",Second Owner,1497,Manual,2016,17.8,117.3,145,Nov,2016,70,5.63,Kolkata,WB02,15
+Nissan,Magnite XL,Third Party,Petrol,5,"25,414",First Owner,999,Manual,2021,18.75,71.02,96,Oct,2021,20,6.1,Kolkata,WB24,
+Maruti,Alto K10 VXI,Comprehensive,Petrol,5,"40,000",First Owner,998,Manual,2017,23.95,67.05,90,Aug,2017,60,2.9,Kolkata,WB02,
+Hyundai,Alcazar Platinum AT,Comprehensive,Petrol,6,"3,347",First Owner,1999,Automatic,2022,14.2,156.9,191,Aug,2022,15,18.5,Kolkata,OD16,18
+Audi,A3 cabriolet 40 TFSI Premium Plus,Comprehensive,Petrol,4,"32,649",Third Owner,1798,Automatic,2016,16.6,177,250,Aug,2016,70,32.0,Kolkata,WB02,17
+Hyundai,Verna 1.6 SX VTVT (O),Comprehensive,Petrol,5,"37,000",First Owner,1591,Manual,2014,17.1,121.3,154.9,Jun,2014,75,4.35,Kolkata,WB20,16
+Tata,Harrier XZA Plus Dual Tone AT,Comprehensive,Diesel,5,"6,000",First Owner,1956,Automatic,2022,14.6,167.67,350,Feb,2023,15,19.0,Kolkata,WB08,17
+Toyota,Fortuner 4x4 MT,Comprehensive,Diesel,7,"1,45,000",Second Owner,2982,Manual,2012,12.55,168.5,343,May,2012,75,11.59,Kolkata,WB02,17
+Mahindra,KUV 100 NXT G80 K8,Not Available,Petrol,6,"30,265",First Owner,1198,Manual,2017,18.15,82,115,Jul,2018,60,3.5,Kolkata,WB18,15
+Maruti,Vitara Brezza ZDi Plus Dual Tone,Not Available,Diesel,5,"69,718",First Owner,1248,Manual,2019,24.3,88.5,200,Apr,2019,40,8.0,Kolkata,WB22,16
+Hyundai,i20 Sportz 1.2,Third Party,Petrol,5,"93,299",Second Owner,1197,Manual,2013,18.5,82.85,113.7,Mar,2013,75,2.25,Kolkata,WB02,14
+Maruti,Swift Ldi BSIII,Third Party,Diesel,5,"1,39,171",Second Owner,1248,Manual,2009,17.8,7,190,Jul,2009,75,1.5,Kolkata,WB06,14
+Hyundai,EON Sportz,Comprehensive,Petrol,5,"69,696",First Owner,814,Manual,2016,21.1,55.2,74.5,Jul,2016,70,2.3,Kolkata,WB02,
+Maruti,Swift Dzire ZXI 1.2,Third Party,Petrol,5,"30,322",Second Owner,1197,Manual,2019,21.21,81.80,113,Jul,2019,40,5.0,Kolkata,WB50,15
+Maruti,Swift Dzire VXI 1.2 BS IV,Third Party,Petrol,5,"25,027",Second Owner,1197,Manual,2018,22,81.80,113,Dec,2018,50,4.0,Kolkata,WB02,
+Maruti,Wagon R VXI BS IV,Third Party,Petrol,5,"59,612",First Owner,998,Manual,2015,20.51,67.04,90,Feb,2016,75,3.5,Kolkata,WB02,
+Maruti,Swift VDI,Third Party,Diesel,5,"57,491",Second Owner,1248,Manual,2012,22.9,74,190,Jul,2013,75,2.72,Kolkata,WB02,14
+Maruti,Swift Dzire LXI,Third Party,Petrol,5,"30,224",First Owner,1197,Manual,2014,19.1,85.8,114,Sept,2014,75,2.5,Kolkata,WB06,14
+Mahindra,XUV500 W11 BSIV,Not Available,Diesel,7,"83,251",Second Owner,2179,Manual,2019,15.1,152.87,360,Oct,2019,40,11.0,Kolkata,WB20,17
+Renault,KWID RXL BSIV,Third Party,Petrol,5,"14,828",Second Owner,799,Manual,2019,25.17,53.3,72,Aug,2019,40,2.7,Kolkata,WB10,
+Maruti,Swift ZXI Plus,Third Party,Petrol,5,"61,056",First Owner,1197,Manual,2018,22,81.80,113,Jun,2018,50,5.0,Kolkata,WB40,15
+Maruti,Ciaz ZDi Plus,Third Party,Diesel,5,"85,679",Second Owner,1248,Manual,2015,26.21,88.5,200,Jul,2015,75,4.2,Kolkata,WB02,16
+Maruti,Baleno 1.2 Alpha,Comprehensive,Petrol,5,"23,486",Second Owner,1197,Manual,2016,21.4,83.1,115,Nov,2016,70,5.5,Kolkata,WB02,16
+Audi,Q3 35 TDI Quattro Premium Plus,Third Party,Diesel,5,"45,917",First Owner,1968,Automatic,2015,15.17,181,380,Jan,2016,75,15.0,Kolkata,WB02,18
+Volkswagen,Vento 2013-2015 1.6 Comfortline,Comprehensive,Petrol,5,"34,723",First Owner,1598,Manual,2015,15.04,103.2,153,Mar,2015,75,3.5,Kolkata,WB02,
+Maruti,Alto LXi,Third Party,Petrol,5,"78,388",First Owner,796,Manual,2012,19.7,46.3,62,Mar,2012,75,1.15,Kolkata,WB06,12
+Datsun,RediGO T Option,Third Party,Petrol,5,"5,715",Second Owner,799,Manual,2017,22.7,53.64,72,Jul,2017,60,2.5,Kolkata,WB24,
+Mahindra,Bolero Power Plus SLE,Third Party,Diesel,7,"92,731",First Owner,1493,Manual,2017,16.5,70,195,Dec,2017,60,5.0,Kolkata,WB06,
+Hyundai,Grand i10 1.2 Kappa Sportz BSIV,Not Available,Petrol,5,"14,329",First Owner,1197,Manual,2018,18.9,81.86,113.75,Apr,2018,50,4.3,Kolkata,WB58,
+Maruti,Swift ZXI Plus,Third Party,Petrol,5,"39,746",First Owner,1197,Manual,2018,21.21,81.80,113,Mar,2018,50,5.0,Kolkata,WB02,R15
+Hyundai,Venue SX Opt iMT,Not Available,Petrol,5,"38,955",First Owner,998,Manual,2021,18,118.35,171.6,May,2021,20,10.0,Kolkata,WB02,16
+Tata,Indigo GLX BS III,Comprehensive,Petrol,5,"47,504",First Owner,1193,Manual,2009,15.2,,10,Apr,2009,75,0.8,Kolkata,WB06,14
+Renault,Triber RXZ BSIV,Third Party,Petrol,7,"28,709",First Owner,999,Manual,2019,20,72,96,Nov,2019,40,4.8,Kolkata,UP15,
+Hyundai,Creta 1.6 VTVT E Plus,Third Party,Petrol,5,"30,866",First Owner,1591,Manual,2017,15.29,121.3,151,Oct,2017,60,7.0,Kolkata,WB02,
+Maruti,Swift Dzire VXI,Third Party,Petrol,5,"62,254",Second Owner,1197,Manual,2015,20.85,83.14,115,Sept,2015,75,3.97,Kolkata,WB16,
+Tata,Tiago XZ Plus,Third Party,Petrol,5,"11,254",First Owner,1199,Manual,2020,23.84,83.83,114,Dec,2020,30,4.0,Kolkata,WB10,15
+Chevrolet,Aveo U-VA 1.2 LS,Third Party,Petrol,5,"60,543",First Owner,1150,Manual,2010,15.26,74.9,110,Jun,2010,75,0.7,Kolkata,WB06,13
+Honda,City 1.5 S MT,Third Party,Petrol,5,"26,059",Second Owner,1497,Manual,2011,17,"118PS at 6,600 ",146Nm at 4800 r,Aug,2011,75,4.0,Kolkata,WB06,15
+Hyundai,Verna 1.6 VTVT SX Option,Third Party,Petrol,5,"41,945",Second Owner,1591,Manual,2017,17.01,121.3,154.9,Nov,2017,60,8.0,Kolkata,WB02,16
+Maruti,Swift VDI,Third Party insurance,Diesel,5,"39,000",First Owner,1248,Manual,2013,22.9,74,190,Jan,2013,75,3.0,Kolkata,WB02,14
+Hyundai,i20 Active 1.2 SX,Third Party,Petrol,5,"43,710",First Owner,1197,Manual,2017,17.19,81.86,114.73,Nov,2017,60,5.68,Kolkata,WB68,16
+Honda,Jazz X,Comprehensive,Petrol,5,"68,000",Second Owner,1198,Manual,2010,16.7,88.8,110,Dec,2010,75,1.75,Kolkata,WB06,15
+Toyota,Corolla Altis GL,Comprehensive,Petrol,5,"60,000",First Owner,1798,Manual,2010,14.53,138.1,173,Nov,2010,75,2.99,Kolkata,WB02,15
+Maruti,Baleno 1.3 Delta,Comprehensive,Diesel,5,"57,000",First Owner,1248,Manual,2017,27.39,74,190,Jul,2017,60,5.25,Kolkata,WB26,
+Hyundai,Creta 1.6 VTVT S,Comprehensive,Petrol,5,"75,000",First Owner,1591,Manual,2018,15.29,121.3,151,Feb,2018,50,7.45,Kolkata,WB02,
+Mahindra,XUV500 W10 AWD,Comprehensive,Diesel,7,"95,000",First Owner,2179,Manual,2016,16,140,330,Jan,2016,70,8.75,Kolkata,WB02,17
+Hyundai,Xcent 1.1 CRDi SX Option,Comprehensive,Diesel,5,"50,000",First Owner,1120,Manual,2015,24.4,71,180.4,Dec,2015,75,3.9,Kolkata,WB02,15
+Toyota,Innova Crysta 2.4 GX 8 STR,Comprehensive,Diesel,8,"5,000",First Owner,2393,Manual,2021,12,148,343,Aug,2021,20,21.5,Kolkata,WB08,R16
+MG,ZS EV Exclusive,Comprehensive,Electric,5,"23,000",First Owner,0,Automatic,2021,,140.8,350,Jan,2021,20,19.95,Kolkata,WB02,17
+Hyundai,i10 Magna 1.1L,Comprehensive,Petrol,5,"50,000",First Owner,1086,Manual,2016,19.81,68.05,99.04,Oct,2016,70,2.85,Kolkata,WB02,
+Maruti,Zen LXI,Comprehensive,Petrol,5,"53,000",First Owner,993,Manual,2005,17.3,60,78 ,Nov,2005,75,1.25,Kolkata,WB02,
+Skoda,Octavia 2.0 TDI AT Style Plus,Comprehensive,Diesel,5,"50,000",First Owner,1968,Automatic,2016,19.5,141,320,May,2016,70,9.75,Kolkata,WB20,16
+Maruti,Baleno Zeta,Third Party,Petrol,5,"34,560",First Owner,1197,Manual,2020,21.01,81.80,113,Jan,2021,30,6.7,Kolkata,WB10,R16
+Maruti,Baleno 1.2 Zeta,Comprehensive,Petrol,5,"12,850",First Owner,1197,Manual,2021,21.4,83.1,115,Apr,2021,20,7.2,Kolkata,WB26,16
+Honda,Jazz 1.2 SV i VTEC,Third Party,Petrol,5,"48,304",First Owner,1199,Manual,2015,18.7,88.7,110,Sept,2015,75,3.5,Kolkata,WB02,
+Hyundai,Grand i10 Sportz,Third Party,Petrol,5,"28,811",Second Owner,1197,Manual,2016,18.9,82,114,Jan,2017,70,3.5,Kolkata,WB02,
+Maruti,Wagon R LXI BS IV,Third Party,Petrol,5,"41,252",Second Owner,998,Manual,2012,18.9,67.1,90,Apr,2012,75,2.0,Kolkata,WB26,13
+Hyundai,i10 Sportz,Third Party,Petrol,5,"76,943",First Owner,1197,Manual,2012,20.36,78.9,111.8,Feb,2013,75,1.5,Kolkata,WB02,13
+Hyundai,i20 Sportz,Third Party,Petrol,5,"14,005",First Owner,1197,Manual,2021,21,81.80,114.74,Apr,2021,20,6.25,Kolkata,WB26,
+Toyota,Corolla Altis Diesel D4DGL,Not Available,Diesel,5,"1,42,317",First Owner,1364,Manual,2010,21.43,87.2,205,Nov,2010,75,2.95,Kolkata,WB06,15
+Maruti,Baleno Zeta,Third Party,Petrol,5,"4,118",First Owner,1197,Manual,2020,21.01,81.80,113,Aug,2020,30,6.0,Kolkata,WB98,R16
+Maruti,Ignis 1.2 Alpha BSIV,Comprehensive,Petrol,5,"35,965",First Owner,1197,Manual,2018,20.89,81.80,113,Mar,2018,50,3.5,Kolkata,WB06,15
+Volkswagen,Polo Petrol Comfortline 1.2L,Third Party,Petrol,5,"75,688",Second Owner,1198,Manual,2013,16.47,73.9,110,Jun,2013,75,2.8,Kolkata,WB02,15
+Maruti,Swift ZXI,Not Available,Petrol,5,"41,916",First Owner,1197,Manual,2018,22,81.80,113,Jul,2018,50,4.75,Kolkata,WB10,15
+Kia,Seltos HTX IVT G,Third Party,Petrol,5,"24,323",First Owner,1497,Automatic,2019,16.8,113.42,144,Jan,2020,40,11.8,Kolkata,WB02,R17
+Honda,Amaze S Diesel BSIV,Third Party,Diesel,5,"1,74,453",First Owner,1498,Manual,2016,27.4,98.63,200,May,2016,70,3.23,Kolkata,WB02,
+Mercedes-Benz,C-Class C250 Avantgarde,Third Party,Petrol,5,"39,932",Fourth Owner,1796,Automatic,2010,11.74,186,285,Jun,2010,75,5.0,Kolkata,WB06,17
+Maruti,Swift Dzire ZXI AT,Zero Dep,Petrol,5,"16,405",Second Owner,1197,Automatic,2021,22.61,88.50,113,Apr,2021,20,7.0,Kolkata,WB06,15
+Hyundai,i20 Asta 1.4 CRDi,Not Available,Diesel,5,"74,587",First Owner,1396,Manual,2014,22.54,88.73,219.7,Dec,2014,75,2.3,Kolkata,WB06,16
+Fiat,Punto 1.3 Emotion,Not Available,Diesel,5,,First Owner,1248,Manual,2012,20.3,75,197,Jun,2012,75,1.0,Kolkata,WB02,15
+Maruti,Vitara Brezza LDi Option,Third Party,Diesel,5,"1,45,455",First Owner,1248,Manual,2017,24.3,88.5,200,Dec,2017,60,5.55,Kolkata,WB12,
+Hyundai,Creta 1.6 CRDi SX Option,Third Party insurance,Diesel,5,"57,000",First Owner,1582,Manual,2016,19.67,126.2,259.9,Nov,2016,70,7.0,Kolkata,WB02,17
+Mahindra,XUV300 W8,Comprehensive,Petrol,5,"40,000",First Owner,1197,Manual,2020,16.82,108.62,200,Jan,2020,30,9.5,Kolkata,WB26,16
+Hyundai,Xcent 1.2 VTVT S,Comprehensive,Petrol,5,"40,000",First Owner,1197,Manual,2019,20.14,81.86,113.75,Jan,2019,40,4.99,Kolkata,WB90,
+Honda,City i VTEC S,Comprehensive,Petrol,5,"44,000",First Owner,1497,Manual,2012,17.4,117.3,145,Jun,2012,75,3.3,Kolkata,WB06,
+Toyota,Urban cruiser High,Comprehensive,Petrol,5,"21,000",First Owner,1462,Manual,2022,17.03,103.26,138,May,2022,15,8.75,Kolkata,WB06,16
+Kia,Seltos HTK Plus G,Comprehensive,Petrol,5,"14,000",First Owner,1497,Manual,2020,16.8,113.43,144,Apr,2020,30,10.99,Kolkata,WB02,16
+Mercedes-Benz,V-Class Exclusive,Third Party insurance,Diesel,6,"7,700",First Owner,1950,Automatic,2019,16,160.92,380,Jun,2019,40,69.0,Kolkata,WB08,17
+Maruti,Zen Estilo LXI BS IV,Comprehensive,Petrol,5,"45,000",First Owner,998,Manual,2012,19,67.1,90,Jul,2012,75,1.85,Kolkata,WB02,13
+Land,Rover Range Rover Evoque 2.0 TD4 HSE Dynamic,Comprehensive,Diesel,5,"22,298",First Owner,1999,Automatic,2018,15.68,177,430,Apr,2018,50,38.99,Kolkata,BR37,18
+BMW,X1 sDrive20i SportX,Comprehensive,Petrol,5,"14,307",First Owner,1998,Automatic,2020,14.82,257.47,280,Oct,2020,30,33.5,Kolkata,WB68,17
+Land,Rover Range Rover Evoque 2.0 TD4 HSE,Comprehensive,Diesel,5,"37,763",Second Owner,1999,Automatic,2018,15.68,177,430,Jan,2018,50,35.99,Kolkata,WB02,18
+Maruti,Ciaz Alpha BSIV,Third Party insurance,Petrol,5,"35,000",First Owner,1462,Manual,2019,21.56,103.25,138,Oct,2019,40,6.99,Kolkata,WB12,16
+Hyundai,Elantra 2.0 SX Option AT,Comprehensive,Petrol,5,"65,537",First Owner,1999,Automatic,2018,14.62,149.92,192.2,Jan,2018,50,11.25,Kolkata,WB02,16
+Renault,KWID 1.0 RXL,Comprehensive,Petrol,5,"16,933",First Owner,999,Manual,2017,21.46,67.06,91,Aug,2017,60,3.0,Kolkata,WB02,
+Tata,Altroz XZ,Third Party,Petrol,5,"9,311",First Owner,1199,Manual,2021,19.33,86.83,113,Feb,2021,20,7.76,Kolkata,WB84,16
+Maruti,Celerio X AMT VXI Option BSIV,Comprehensive,Petrol,5,"28,689",First Owner,998,Automatic,2019,21.63,67,90,Oct,2019,40,4.5,Kolkata,WB24,
+Chevrolet,Enjoy Petrol LT 7 Seater,Third Party,Petrol,7,"44,113",First Owner,1399,Manual,2014,13.7,98.82,131,Feb,2015,75,2.82,Kolkata,WB26,
+Maruti,Swift Dzire VDI,Third Party,Diesel,5,"71,109",First Owner,1248,Manual,2017,28.4,74.02,190,Nov,2017,60,5.5,Kolkata,WB02,
+Mitsubishi,Pajero Sport 4X4 Dual Tone,Third Party,Diesel,7,"41,075",First Owner,2477,Manual,2016,13.5,175.56,400,Jun,2016,70,12.0,Kolkata,WB08,17
+Maruti,Swift Dzire 1.2 Vxi BSIV,Not Available,Petrol,5,"39,629",First Owner,1197,Manual,2010,17.5,85.8,114,Oct,2010,75,2.5,Kolkata,JH01,14
+MG,Hector Sharp DCT,Third Party insurance,Petrol,5,"14,700",First Owner,1451,Automatic,2019,13.96,141,250,Oct,2019,40,14.5,Kolkata,WB02,R17
+Maruti,Ertiga SHVS VDI,Third Party insurance,Diesel,7,"41,000",First Owner,1248,Manual,2017,24.52,88.5,200,Nov,2017,60,6.0,Kolkata,WB02,
+Maruti,Swift Dzire AMT ZXI Plus BS IV,Comprehensive,Petrol,5,"13,000",First Owner,1197,Automatic,2017,22,81.80,113,Dec,2017,60,5.99,Kolkata,WB20,15
+Mahindra,Thar LX 4-Str Convert Top Diesel,Comprehensive,Diesel,4,"8,900",First Owner,2184,Manual,2022,15.2,130,300,Nov,2022,15,14.75,Kolkata,WB16,18
+Hyundai,EON Magna Plus,Third Party,Petrol,5,"43,937",First Owner,814,Manual,2016,21.1,55.2,74.5,Dec,2016,70,3.0,Kolkata,WB24,
+Renault,KWID 1.0 RXT Optional,Comprehensive,Petrol,5,"18,084",First Owner,999,Manual,2018,23.01,67,91,Sept,2018,50,3.16,Kolkata,WB06,
+Honda,City i VTEC VX,Comprehensive,Petrol,5,"1,06,064",First Owner,1497,Manual,2015,17.4,117.3,145,Sept,2015,75,5.0,Kolkata,WB02,15
+Hyundai,Aura SX Option,Comprehensive,Petrol,5,"22,100",First Owner,1197,Manual,2020,20.5,81.86,113.8,Apr,2020,30,6.71,Kolkata,WB08,15
+Mercedes-Benz,E-Class E250 CDI Avantgarde,Comprehensive,Diesel,5,"41,510",Second Owner,2143,Automatic,2015,14.21,203,500,Apr,2015,75,21.99,Kolkata,WB02,17
+Maruti,Vitara Brezza ZDi Plus Dual Tone,Comprehensive,Diesel,5,"19,000",First Owner,1248,Manual,2019,24.3,88.5,200,Nov,2019,40,8.5,Kolkata,WB84,16
+Maruti,Swift VXI,Third Party,Petrol,5,"9,000",First Owner,1197,Manual,2020,21.21,81.80,113,Oct,2020,30,5.5,Kolkata,WB18,
+Maruti,S-Presso VXI 2019-2022,Comprehensive,Petrol,5,"4,000",First Owner,998,Manual,2021,21.7,65.71,89,Sept,2021,20,4.25,Kolkata,WB02,
+Jeep,Compass 2.0 Limited Plus BSIV,Comprehensive,Diesel,5,"27,000",First Owner,1956,Manual,2019,17.1,170.63,350,Dec,2019,40,17.25,Kolkata,WB94,18
+Renault,KWID RXL BSVI,Comprehensive,Petrol,5,"7,000",First Owner,799,Manual,2021,25.17,53.3,72,Oct,2021,20,3.5,Kolkata,WB90,
+Honda,City i VTEC VX,Third Party,Petrol,5,"23,000",First Owner,1497,Manual,2015,17.4,117.3,145,Dec,2016,75,4.99,Kolkata,WB06,15
+Hyundai,Grand i10 1.2 Kappa Magna BSIV,Comprehensive,Petrol,5,"24,716",First Owner,1197,Manual,2018,18.9,81.86,113.75,Jun,2018,50,3.75,Kolkata,WB06,
+Hyundai,Venue SX iMT,Comprehensive,Petrol,5,"11,300",First Owner,998,Manual,2020,18,118.35,171.6,Oct,2020,30,8.87,Kolkata,WB08,
+Maruti,Swift VXi BSIV,Not Available,Petrol,5,"15,687",First Owner,1197,Manual,2010,16.1,8,113,Nov,2010,75,3.5,Kolkata,WB06,14
+Kia,Sonet HTX Plus Turbo iMT DT,Comprehensive,Petrol,5,"16,000",First Owner,998,Manual,2021,18.2,118.36,172,Dec,2021,20,9.99,Kolkata,WB74,R16
+Kia,Sonet 1.5 GTX Plus Diesel DT,Comprehensive,Diesel,5,"13,000",First Owner,1493,Manual,2020,,98.63,240,Dec,2020,30,10.99,Kolkata,WB74,R16
+Hyundai,Grand i10 Nios Turbo Sportz Dual Tone,Comprehensive,Petrol,5,"10,000",First Owner,998,Manual,2021,20.7,98.63,171.61,Nov,2021,20,6.5,Kolkata,WB84,R15
+Hyundai,Grand i10 Nios AMT Sportz,Comprehensive,Petrol,5,"33,000",First Owner,1197,Automatic,2019,20.7,81.86,113.8,Dec,2019,40,5.54,Kolkata,WB08,14
+Volkswagen,Polo 1.2 MPI Comfortline,Third Party,Petrol,5,"39,276",Third Owner,1198,Manual,2014,16.47,74,110,Mar,2014,75,3.0,Kolkata,WB24,
+Maruti,Wagon R LXI Minor,Third Party,Petrol,5,"26,611",Second Owner,1061,Manual,2008,18.9,67,84,Jan,2009,75,1.2,Kolkata,WB02,13
+Maruti,Ritz VXi,Third Party,Petrol,5,"45,820",First Owner,1197,Manual,2014,18.5,85.80,114,Dec,2014,75,3.0,Kolkata,WB08,
+Honda,Amaze S i-Vtech,Third Party,Petrol,5,"65,072",Second Owner,1198,Manual,2016,18,86.7,109,Jun,2016,70,3.5,Kolkata,WB12,
+Hyundai,Creta 1.6 CRDi SX,Third Party,Diesel,5,"76,294",First Owner,1582,Manual,2016,19.67,126.2,259.9,Jun,2016,70,6.75,Kolkata,WB24,16
+Mahindra,Marazzo M6 8Str,Third Party,Diesel,8,"43,000",First Owner,1497,Manual,2018,17.3,121,300,Dec,2018,50,8.25,Kolkata,WB38,
+Hyundai,i20 Asta 1.2,Third Party,Petrol,5,"74,974",First Owner,1197,Manual,2017,18.6,81.83,114.7,Sept,2017,60,4.0,Kolkata,WB08,16
+Mahindra,Xylo H8 ABS with Airbags,Third Party,Diesel,8,"55,000",First Owner,2179,Manual,2015,14.02,118.3,280,Dec,2015,75,5.5,Kolkata,WB02,15
+Toyota,Glanza G CVT,Comprehensive,Petrol,5,"5,000",First Owner,1197,Automatic,2021,19.56,81.80,113,Dec,2021,20,7.99,Kolkata,WB18,R16
+Tata,New Safari XZ Plus,Third Party,Diesel,7,"9,909",First Owner,1956,Manual,2022,16.14,167.67,350,Apr,2022,15,21.0,Kolkata,WB24,18
+Tata,Indica eV2 LX,Third Party,Diesel,5,"1,21,532",First Owner,1396,Manual,2013,25,69,140,Jun,2013,75,0.7,Kolkata,WB02,
+Jeep,Compass 2.0 Limited Plus BSIV,Comprehensive,Diesel,5,"22,000",First Owner,1956,Manual,2019,17.1,170.63,350,Dec,2019,40,17.25,Kolkata,WB02,18
+Hyundai,i10 Magna 1.1L,Third Party,Petrol,5,"57,913",First Owner,1086,Manual,2016,19.81,68.05,99.04,Aug,2016,70,3.0,Kolkata,WB02,
+Mahindra,Marazzo M2 8Str,Third Party,Diesel,8,"26,000",First Owner,1497,Manual,2020,17.3,120.96,300,Dec,2020,30,8.99,Kolkata,WB08,
+Mahindra,XUV500 W10 2WD,Third Party,Diesel,7,"41,000",First Owner,2179,Manual,2018,16,140,330,Jan,2018,50,11.5,Kolkata,WB24,17
+Hyundai,Verna VTVT 1.6 SX,Third Party,Petrol,5,"13,000",First Owner,1591,Manual,2019,17,121.3,151,Nov,2019,40,7.99,Kolkata,WB02,16
+Honda,City i DTEC VX Option,Third Party,Diesel,5,"37,000",First Owner,1498,Manual,2015,25.1,98.6,200,Dec,2015,75,5.5,Kolkata,WB02,15
+Maruti,Swift Dzire VDI,Third Party,Diesel,5,"61,552",First Owner,1248,Manual,2018,28.4,74.02,190,Jun,2018,50,5.0,Kolkata,WB02,
+Ford,Ecosport 1.5 DV5 MT Titanium,Third Party,Diesel,5,"1,36,534",First Owner,1498,Manual,2015,22.7,89.84,204,Sept,2015,75,3.0,Kolkata,WB34,16
+Hyundai,Verna 1.6 CRDi SX,Not Available,Diesel,5,"46,891",Second Owner,1582,Manual,2015,23.9,126.2,259.9,Mar,2015,75,4.3,Kolkata,WB26,16
+Honda,City i VTEC VX,Zero Dep,Petrol,5,"55,547",First Owner,1497,Manual,2014,17.4,117.3,145,Oct,2014,75,5.0,Kolkata,WB02,15
+Honda,Amaze V Petrol BSIV,Third Party,Petrol,5,"34,084",First Owner,1199,Manual,2018,19.5,88.76,110,Jun,2018,50,4.85,Kolkata,WB02,
+Maruti,Alto 800 LXI,Not Available,Petrol,5,"2,488",First Owner,796,Manual,2019,22.05,47.33,69,Jun,2019,40,3.02,Kolkata,WB02,
+Hyundai,i20 Active 1.2,Not Available,Petrol,5,"34,551",First Owner,1197,Manual,2016,17.19,81.86,114.73,Jan,2017,70,4.2,Kolkata,WB02,16
+Tata,New Safari XZ Plus Gold,Comprehensive,Diesel,7,"17,000",First Owner,1956,Manual,2021,16.14,167.67,350,Nov,2021,20,19.0,Kolkata,WB26,18
+Hyundai,i20 Sportz 1.2,Third Party,Petrol,5,"80,906",First Owner,1197,Manual,2015,18.6,81.83,114.7,Jun,2015,75,3.0,Kolkata,WB02,
+Renault,KWID 1.0 RXT,Not Available,Petrol,5,"31,663",First Owner,999,Manual,2016,23.01,67,91,Jan,2017,70,2.5,Kolkata,UP32,
+Hyundai,Creta 1.6 VTVT SX Plus,Third Party,Petrol,5,"64,569",First Owner,1591,Manual,2016,13,121.3,151,Oct,2016,70,7.0,Kolkata,WB02,17
+Maruti,Baleno Zeta,Third Party,Petrol,5,"10,945",First Owner,1197,Manual,2020,21.01,81.80,113,Feb,2020,30,6.5,Kolkata,WB02,R16
+Maruti,Wagon R VXI BS IV,Third Party,Petrol,5,"16,245",First Owner,998,Manual,2015,20.51,67.04,90,Dec,2015,75,2.7,Kolkata,WB02,
+Hyundai,i10 Magna,Third Party,Petrol,5,"52,822",Third Owner,1197,Manual,2009,20.36,78.9,111.7,Mar,2009,75,1.5,Kolkata,WB06,13
+Hyundai,i20 Asta 1.2,Not Available,Petrol,5,"63,562",First Owner,1197,Manual,2015,18.6,81.83,114.7,Jun,2015,75,4.0,Kolkata,BR01,16
+Honda,Amaze S i-Vtech,Comprehensive,Petrol,5,"34,150",First Owner,1198,Manual,2014,18,86.7,109,Apr,2014,75,2.5,Kolkata,WB06,
+Hyundai,EON Era Plus,Not Available,Petrol,5,"45,179",First Owner,814,Manual,2015,21.1,55.2,74.5,Oct,2015,75,3.0,Kolkata,WB18,
+Audi,A4 35 TDI Technology,Not Available,Diesel,5,"33,649",First Owner,1968,Automatic,2017,18.25,187.74,400,Oct,2017,60,20.0,Kolkata,WB02,17
+Chevrolet,Enjoy TCDi LT 7 Seater,Not Available,Diesel,7,"61,563",First Owner,1248,Manual,2014,18.2,73.8,172.5 ,Feb,2014,75,3.0,Kolkata,WB08,
+Maruti,Alto 800 LXI,Not Available,Petrol,5,"31,970",First Owner,796,Manual,2014,22.74,47.3,69,Apr,2014,75,3.0,Kolkata,WB02,
+Maruti,Swift Dzire 1.2 Vxi BSIV,Third Party,Petrol,5,"46,658",First Owner,1197,Manual,2010,17.5,85.8,114,Jun,2010,75,3.0,Kolkata,WB06,14
+Toyota,Yaris V BSIV,Comprehensive,Petrol,5,"13,236",Second Owner,1496,Manual,2018,17.1,105.5,140,Feb,2019,50,7.5,Kolkata,WB12,15

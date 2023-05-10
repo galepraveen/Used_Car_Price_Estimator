@@ -1,0 +1,1392 @@
+Brand,Model,Insurance Validity,Fuel Type,Seats,Kms Driven (in kms),RTO,Ownership,Engine Displacement (in cc),Transmission,Year of Manufacture,Mileage (in kmpl),Max Power (in bhp),Torque (in nm),Registration Month,Registration Year,Depreciation Rate (in %),Price (in lacs),City,Wheel Size
+Maruti,Alto 800 LXI,Comprehensive,Petrol,5,"46,687",GJ04,First Owner,796,Manual,2017,24.7,47.3,69,Jun,2017,60,2.89,Ahmedabad,
+Maruti,Baleno Delta,Third Party,Petrol,5,"30,329",GJ01,First Owner,1197,Manual,2021,21.01,81.80,113,Jun,2021,20,6.98,Ahmedabad,
+Hyundai,Grand i10 1.2 Kappa Sportz BSIV,Comprehensive,Petrol,5,"38,581",GJ06,First Owner,1197,Manual,2018,18.9,81.86,113.75,Jun,2018,50,5.03,Ahmedabad,
+Maruti,Baleno Zeta CVT,Third Party insurance,Petrol,5,"60,532",GJ18,First Owner,1197,Automatic,2020,19.56,81.80,113,Mar,2020,30,6.95,Ahmedabad,R16
+Maruti,Baleno Delta,Comprehensive,Petrol,5,"61,462",GJ11,First Owner,1197,Manual,2021,21.01,81.80,113,May,2021,20,6.1,Ahmedabad,
+Hyundai,Grand i10 1.2 Kappa Magna BSIV,Third Party,Petrol,5,"25,776",GJ01,First Owner,1197,Manual,2018,18.9,81.86,113.75,Jun,2018,50,5.23,Ahmedabad,
+Maruti,Alto K10 VXI,Third Party,Petrol,5,"17,357",GJ10,First Owner,998,Manual,2018,23.95,67.05,90,Jun,2018,50,3.91,Ahmedabad,
+Maruti,S-Presso VXI Plus 2019-2022,Third Party insurance,Petrol,5,"29,102",GJ38,First Owner,998,Manual,2020,21.7,65.71,89,Dec,2020,30,4.25,Ahmedabad,
+Maruti,Alto 800 LXI,Third Party,Petrol,5,"39,246",GJ01,First Owner,796,Manual,2018,24.7,47.3,69,Jun,2018,50,3.27,Ahmedabad,
+Maruti,Alto 800 LXI,Comprehensive,Petrol,5,"40,211",GJ34,First Owner,796,Manual,2018,24.7,47.3,69,Jun,2018,50,3.27,Ahmedabad,
+Maruti,Wagon R VXI BS IV,Third Party,Petrol,5,"26,877",GJ04,First Owner,998,Manual,2016,20.51,67.04,90,Jun,2016,70,4.22,Ahmedabad,
+Honda,Brio S MT,Third Party insurance,Petrol,5,"46,004",GJ05,First Owner,1198,Manual,2012,19.4,86.8,109,Dec,2012,75,2.75,Ahmedabad,
+Hyundai,Verna 1.6 CRDi SX,Comprehensive,Diesel,5,"50,000",GJ27,First Owner,1582,Manual,2017,23.9,126.2,259.9,Oct,2017,60,8.75,Ahmedabad,16
+Tata,Movus LX,Comprehensive,Diesel,7,"65,000",GJ18,First Owner,2179,Manual,2014,15.16,118.35,250,Sept,2015,75,3.0,Ahmedabad,
+Kia,Sonet HTX Turbo iMT,Comprehensive,Petrol,5,"7,000",GJ01,First Owner,998,Manual,2021,18.2,118.36,172,Dec,2021,20,10.5,Ahmedabad,16
+Honda,Jazz V CVT,Comprehensive,Petrol,5,"18,000",GJ01,First Owner,1199,Automatic,2019,18.2,88.7,110,Oct,2019,40,7.75,Ahmedabad,15
+Hyundai,Santro Xing GL,Third Party insurance,Petrol,5,"72,000",GJ01,First Owner,1086,Manual,2012,,62,96.1,Apr,2012,75,2.25,Ahmedabad,13
+Hyundai,i10 Magna 1.1L,Comprehensive,Petrol,5,"62,000",GJ05,First Owner,1086,Manual,2015,19.81,68.05,99.04,Sept,2015,75,3.25,Ahmedabad,
+Honda,City ZX CVT,Comprehensive,Petrol,5,"39,000",GJ01,First Owner,1497,Automatic,2017,17.4,117.6,145,Apr,2017,60,9.5,Ahmedabad,16
+Honda,Jazz 1.2 VX i VTEC,Third Party insurance,Petrol,5,"42,257",GJ16,First Owner,1199,Manual,2017,18.7,88.7,110,Nov,2017,60,5.5,Ahmedabad,15
+Maruti,Swift LXI,Comprehensive,Petrol,5,"13,006",GJ06,First Owner,1197,Manual,2018,21.21,81.80,113,Jun,2018,50,5.5,Ahmedabad,
+Maruti,Wagon R VXI 1.2,Third Party,Petrol,5,"23,875",GJ01,First Owner,1197,Manual,2019,20.52,81.80,113,Jun,2019,40,5.25,Ahmedabad,
+Maruti,Ignis Zeta,Third Party insurance,Petrol,5,"32,080",GJ18,First Owner,1197,Manual,2020,20.89,81.80,113,Mar,2021,30,5.45,Ahmedabad,15
+Honda,Brio S MT,Third Party insurance,Petrol,5,"84,573",GJ01,First Owner,1198,Manual,2012,19.4,86.8,109,Jun,2012,75,2.9,Ahmedabad,
+Hyundai,Grand i10 Nios Sportz,Third Party insurance,Petrol,5,"41,792",GJ03,First Owner,1197,Manual,2020,20.7,81.86,113.8,Mar,2020,30,6.5,Ahmedabad,14
+Maruti,Ignis 1.2 Sigma BSIV,Third Party,Petrol,5,"47,067",GJ27,First Owner,1197,Manual,2020,20.89,81.80,113,Jun,2020,30,5.32,Ahmedabad,
+Maruti,Alto 800 LXI,Third Party,Petrol,5,"5,615",GJ01,First Owner,796,Manual,2021,22.05,47.33,69,Jun,2021,20,3.63,Ahmedabad,
+Honda,Brio V MT,Third Party insurance,Petrol,5,"59,273",GJ01,Third Owner,1198,Manual,2012,19.4,86.8,109,Nov,2012,75,2.5,Ahmedabad,14
+Renault,Triber RXZ BSIV,Third Party,Petrol,7,"85,394",GJ06,First Owner,999,Manual,2020,20,72,96,Jun,2020,30,6.03,Ahmedabad,
+Honda,Amaze S Option i-VTEC,Zero Dep,Petrol,5,"25,086",GJ01,First Owner,1198,Manual,2017,17.8,86.7,109,Jun,2017,60,5.68,Ahmedabad,
+Volkswagen,Vento 1.0 TSI Highline Plus AT,Third Party,Petrol,5,"4,150",GJ01,First Owner,999,Automatic,2022,16.35,108.62,175,Jun,2022,15,13.16,Ahmedabad,16
+Honda,Brio VX,Comprehensive,Petrol,5,"39,000",GJ01,First Owner,1198,Manual,2015,19.4,86.8,109,Feb,2015,75,4.9,Ahmedabad,14
+Maruti,Wagon R VXI,Comprehensive,Petrol,5,"63,000",GJ27,First Owner,998,Manual,2014,21.79,67.05,90,Mar,2014,75,3.51,Ahmedabad,
+Toyota,Fortuner 3.0 Diesel,Comprehensive,Diesel,7,"87,000",GJ01,First Owner,2982,Manual,2011,11.5,171,343 ,Mar,2011,75,9.25,Ahmedabad,17
+Hyundai,Santa Fe 2WD AT,Comprehensive,Diesel,7,"53,000",GJ18,Second Owner,2199,Automatic,2015,13.01,194.3,436.39,Nov,2015,75,12.0,Ahmedabad,18
+Hyundai,Creta SX Turbo,Comprehensive,Petrol,5,"16,000",GJ17,First Owner,1353,Automatic,2021,16.8,138.08,242,Oct,2021,20,16.5,Ahmedabad,R17
+Skoda,Kushaq 1.5 TSI Style 4 Airbags DSG,Comprehensive,Petrol,5,"12,000",,,1498,Automatic,2021,17.7,147.51,250,,,20,17.62,Ahmedabad,17
+Ford,Ecosport 1.5 TDCi Titanium BSIV,Third Party insurance,Diesel,5,"78,000",GJ01,First Owner,1498,Manual,2015,22.77,98.59,205,Jun,2015,75,5.9,Ahmedabad,16
+Ford,Ecosport 1.5 Diesel Titanium,Third Party insurance,Diesel,5,"27,000",GJ02,First Owner,1498,Manual,2021,21.7,98.96,215,Apr,2021,20,9.75,Ahmedabad,R16
+Maruti,Celerio ZXI MT BSIV,Comprehensive,Petrol,5,"39,292",GJ01,First Owner,998,Manual,2018,23.1,67.04,90,Jun,2018,50,4.47,Ahmedabad,
+Toyota,Glanza V CVT,Comprehensive,Petrol,5,"64,536",GJ27,First Owner,1197,Automatic,2020,19.56,81.80,113,Jul,2020,30,7.4,Ahmedabad,R16
+Maruti,Alto 800 LXI,Comprehensive,Petrol,5,"3,139",GJ06,First Owner,796,Manual,2021,22.05,47.33,69,Jun,2021,20,3.98,Ahmedabad,
+Maruti,Alto 800 LXI,Comprehensive,Petrol,5,"6,844",GJ27,First Owner,796,Manual,2021,22.05,47.33,69,Jun,2021,20,3.86,Ahmedabad,
+Honda,Brio S MT,Third Party insurance,Petrol,5,"74,848",GJ01,First Owner,1198,Manual,2012,19.4,86.8,109,Aug,2012,75,2.65,Ahmedabad,
+Hyundai,i20 Magna Optional 1.4 CRDi,Third Party insurance,Diesel,5,"73,372",GJ03,First Owner,1396,Manual,2014,21.9,88.8,219.7,Apr,2014,75,3.95,Ahmedabad,14
+Honda,City V CVT,Third Party,Petrol,5,"40,787",GJ06,First Owner,1497,Automatic,2019,17.4,117.6,145,Jun,2019,40,9.61,Ahmedabad,15
+Maruti,Alto 800 LXI,Third Party,Petrol,5,"16,465",GJ01,First Owner,796,Manual,2021,22.05,47.33,69,Jun,2021,20,3.87,Ahmedabad,
+Hyundai,Verna VTVT 1.6 E,Third Party insurance,Petrol,5,"67,539",GJ23,Second Owner,1591,Manual,2017,17.7,121.3,151,Feb,2018,60,6.95,Ahmedabad,
+Hyundai,Creta 1.6 SX Option Executive,Third Party,Petrol,5,"44,497",GJ01,First Owner,1591,Manual,2020,15.8,121.3,151,Jun,2020,30,15.77,Ahmedabad,17
+Honda,Jazz 1.2 V i VTEC,Third Party,Petrol,5,"79,901",GJ01,First Owner,1199,Manual,2017,18.7,88.7,110,Jun,2017,60,5.57,Ahmedabad,15
+Hyundai,Venue SX Turbo BSIV,Third Party,Petrol,5,"30,885",GJ01,First Owner,998,Manual,2019,18.27,118.35,171.6,Jun,2019,40,9.03,Ahmedabad,16
+Jeep,Compass 2.0 Longitude Option BSIV,Third Party insurance,Diesel,5,"65,000",GJ01,First Owner,1956,Manual,2017,17.1,170,350,Aug,2017,60,10.5,Ahmedabad,17
+Kia,Seltos HTE Diesel,Comprehensive,Diesel,5,"85,000",GJ01,First Owner,1493,Manual,2021,20.8,113.43,250,Mar,2021,20,10.95,Ahmedabad,
+Toyota,Fortuner 4X2 AT,Comprehensive,Petrol,7,"87,000",GJ01,First Owner,2694,Automatic,2014,10,163.60,245,Mar,2014,75,15.75,Ahmedabad,17
+Honda,City i DTEC V,Third Party insurance,Diesel,5,"91,000",GJ01,First Owner,1498,Manual,2014,26,98.6,200,Sept,2014,75,5.3,Ahmedabad,15
+Honda,City i-VTEC CVT ZX,Comprehensive,Petrol,5,"69,000",GJ01,First Owner,1497,Automatic,2019,18,117.6,145,Mar,2019,40,9.95,Ahmedabad,16
+Hyundai,Accent Executive CNG,Third Party insurance,CNG,5,"75,000",GJ01,First Owner,1495,Manual,2011,13.2,93.7,124.5,Aug,2011,75,2.5,Ahmedabad,13
+Hyundai,i20 Sportz 1.2,Comprehensive,Petrol,5,"62,000",GJ01,First Owner,1197,Manual,2014,18.5,82.85,113.7,Mar,2014,75,5.5,Ahmedabad,14
+Maruti,Ciaz 1.4 Delta,Third Party insurance,Petrol,5,"1,20,000",,Second Owner,1373,Manual,2018,20.73,91.1,130,Mar,2018,50,4.7,Ahmedabad,
+Honda,City i-VTEC CVT ZX,Zero Dep,Petrol,5,"46,159",GJ06,First Owner,1497,Automatic,2018,18,117.6,145,Jun,2018,50,10.58,Ahmedabad,16
+Honda,Amaze S i-VTEC,Third Party insurance,Petrol,5,"65,982",GJ05,First Owner,1198,Manual,2016,17.8,86.7,109,Mar,2016,70,4.75,Ahmedabad,
+Maruti,S-Presso VXI Plus 2019-2022,Third Party,Petrol,5,"15,389",GJ12,First Owner,998,Manual,2020,21.7,65.71,89,Jun,2020,30,4.15,Ahmedabad,
+Honda,City i-VTEC V,Third Party,Petrol,5,"67,173",GJ27,First Owner,1497,Manual,2018,17.4,117.6,145,Jun,2018,50,7.74,Ahmedabad,15
+Maruti,Celerio ZXI AT,Comprehensive,Petrol,5,"96,350",GJ27,Second Owner,998,Automatic,2017,23.1,67.04,90,Jun,2017,60,4.43,Ahmedabad,
+Maruti,Baleno Delta,Third Party,Petrol,5,"13,147",GJ18,First Owner,1197,Manual,2021,21.01,81.80,113,Jun,2021,20,7.24,Ahmedabad,
+Hyundai,Xcent 1.2 VTVT S,Comprehensive,Petrol,5,"48,651",GJ23,First Owner,1197,Manual,2018,20.14,81.86,113.75,Jun,2018,50,5.54,Ahmedabad,
+Hyundai,Santro Era,Comprehensive,Petrol,5,"22,291",GJ01,First Owner,1086,Manual,2019,20.3,68,99,Jun,2019,40,4.5,Ahmedabad,
+Maruti,Celerio X AMT ZXI Option BSIV,Third Party,Petrol,5,"57,572",GJ02,First Owner,998,Automatic,2018,21.63,67,90,Jun,2018,50,5.2,Ahmedabad,R14
+Hyundai,Grand i10 1.2 Kappa Sportz Option,Third Party,Petrol,5,"46,225",GJ01,Second Owner,1197,Manual,2018,18.9,81.86,113.75,Jun,2018,50,5.12,Ahmedabad,
+Honda,City i VTEC V,Third Party,Petrol,5,"81,904",GJ06,First Owner,1497,Manual,2017,17.8,117.3,145,Jun,2017,60,7.2,Ahmedabad,15
+Hyundai,Grand i10 1.2 Kappa Sportz BSIV,Third Party,Petrol,5,"56,421",GJ01,Second Owner,1197,Manual,2018,18.9,81.86,113.75,Jun,2018,50,5.16,Ahmedabad,
+Renault,Kiger RXZ,Third Party insurance,Petrol,5,"10,000",,First Owner,999,Manual,2022,19.17,71.01,96,Mar,2022,15,7.8,Ahmedabad,16
+MG,Hector Plus Sharp DCT,Third Party insurance,Petrol,6,"20,000",,First Owner,1451,Automatic,2021,11.67,141,250,Mar,2021,20,16.0,Ahmedabad,R18
+Maruti,Baleno Alpha Diesel,Comprehensive,Diesel,5,"46,000",GJ01,First Owner,1248,Manual,2018,27.39,74,190,Mar,2018,50,6.95,Ahmedabad,R16
+Maruti,SX4 S Cross Zeta DDiS 200 SH,Comprehensive,Diesel,5,"85,000",GJ01,First Owner,1248,Manual,2018,25.1,88.5,200,Mar,2018,50,8.75,Ahmedabad,R16
+Honda,Jazz Basic,Third Party insurance,Petrol,5,"45,000",GJ01,First Owner,1198,Manual,2009,16.7,88.8,110,Mar,2009,75,2.25,Ahmedabad,15
+Hyundai,Creta 1.6 CRDi AT SX Plus,Comprehensive,Diesel,5,"73,885",GJ01,First Owner,1582,Automatic,2015,17.01,126.2,259.9,Aug,2015,75,9.9,Ahmedabad,17
+Hyundai,Xcent 1.2 Kappa Base,Comprehensive,Petrol,5,"64,000",GJ27,First Owner,1197,Manual,2015,19.1,82,114,Mar,2015,75,4.4,Ahmedabad,
+Kia,Seltos GTX DCT,Comprehensive,Petrol,5,"25,000",GJ06,First Owner,1353,Automatic,2021,16.2,138,242,Mar,2021,20,15.95,Ahmedabad,17
+Maruti,Alto K10 VXI,Comprehensive,Petrol,5,"31,789",GJ16,First Owner,998,Manual,2018,23.95,67.05,90,Jun,2018,50,3.42,Ahmedabad,
+Maruti,Alto 800 LXI,Third Party,Petrol,5,"54,334",GJ01,First Owner,796,Manual,2019,22.05,47.33,69,Jun,2019,40,3.23,Ahmedabad,
+Renault,KWID RXL,Third Party,Petrol,5,"19,549",GJ18,First Owner,799,Manual,2019,22.25,53.26,72,Jun,2019,40,3.78,Ahmedabad,
+Honda,Jazz 1.2 V i VTEC,Third Party,Petrol,5,"69,508",GJ01,First Owner,1199,Manual,2017,18.7,88.7,110,Jun,2017,60,5.63,Ahmedabad,15
+Hyundai,EON 1.0 Era Plus,Comprehensive,Petrol,5,"80,214",GJ18,First Owner,998,Manual,2017,20.3,68.05,94.14,Jun,2017,60,3.33,Ahmedabad,
+Maruti,Alto 800 LXI,Third Party,Petrol,5,"16,327",GJ01,First Owner,796,Manual,2020,22.05,47.33,69,Jun,2020,30,3.61,Ahmedabad,
+Hyundai,i20 Sportz 1.2,Third Party,Petrol,5,"59,528",GJ01,First Owner,1197,Manual,2014,18.6,81.83,114.7,Jun,2014,75,4.2,Ahmedabad,
+Maruti,Ciaz Alpha Automatic BSIV,Third Party,Petrol,5,"57,033",GJ18,First Owner,1462,Automatic,2019,20.28,103.25,138,Jun,2019,40,8.84,Ahmedabad,16
+Maruti,Alto 800 LXI,Zero Dep,Petrol,5,"11,569",GJ03,Second Owner,796,Manual,2018,24.7,47.3,69,Jun,2018,50,3.33,Ahmedabad,
+Honda,City VX CVT,Third Party,Petrol,5,"13,069",GJ06,First Owner,1498,Automatic,2020,18.3,119.35,145,Jun,2020,30,11.93,Ahmedabad,16
+Hyundai,Verna 1.6 VTVT SX,Third Party,Petrol,5,"58,519",GJ01,First Owner,1591,Manual,2015,17.01,121.3,154.9,Jun,2015,75,6.25,Ahmedabad,16
+Hyundai,Grand i10 1.2 Kappa Sportz BSIV,Zero Dep,Petrol,5,"24,759",GJ01,First Owner,1197,Manual,2019,18.9,81.86,113.75,Jun,2019,40,5.66,Ahmedabad,
+Audi,A3 35 TDI Premium,Comprehensive,Diesel,5,"77,000",GJ01,First Owner,1968,Automatic,2017,20.38,143,320,Mar,2017,60,19.0,Ahmedabad,16
+Volkswagen,Polo 1.5 TDI Highline Plus,Comprehensive,Diesel,5,"70,000",GJ01,First Owner,1498,Manual,2018,20.14,88,230,Mar,2018,50,6.95,Ahmedabad,16
+Toyota,Fortuner 2.8 4WD AT BSIV,Comprehensive,Diesel,7,"93,000",GJ09,First Owner,2755,Automatic,2020,15.04,174.5,450,Mar,2020,30,35.75,Ahmedabad,18
+Kia,Seltos HTX IVT,Comprehensive,Petrol,5,"79,000",GJ01,First Owner,1497,Automatic,2020,,113.43,144,Feb,2020,30,14.75,Ahmedabad,17
+Mahindra,XUV500 W8 FWD,Third Party insurance,Diesel,7,"1,20,000",,Fourth Owner,2179,Manual,2012,15.1,140,330,,,75,5.0,Ahmedabad,17
+Honda,City 1.5 E MT,Third Party insurance,Petrol,5,"95,000",GJ01,First Owner,1497,Manual,2009,17,"118PS at 6,600 ",146Nm at 4800 r,May,2009,75,2.95,Ahmedabad,15
+Maruti,Baleno 1.2 CVT Zeta,Third Party insurance,Petrol,5,"88,000",GJ01,First Owner,1197,Automatic,2017,21.4,83.1,115,Apr,2017,60,6.15,Ahmedabad,16
+Tata,Zest Quadrajet 1.3 XM,Third Party insurance,Diesel,5,"1,00,000",,Second Owner,1248,Manual,2016,23,88.7,200,,,70,3.2,Ahmedabad,
+Maruti,Swift VDI,Third Party,Diesel,5,"69,605",GJ15,Second Owner,1248,Manual,2019,28.4,74,190,Jun,2019,40,6.58,Ahmedabad,
+Maruti,Baleno 1.2 Delta,Third Party,Petrol,5,"24,960",GJ01,First Owner,1197,Manual,2019,21.4,83.1,115,Jun,2019,40,6.42,Ahmedabad,
+Hyundai,Aura SX Option,Comprehensive,Petrol,5,"7,247",GJ38,First Owner,1197,Manual,2021,20.5,81.86,113.8,Jun,2021,20,7.63,Ahmedabad,15
+Honda,Jazz 1.2 V AT i VTEC,Third Party,Petrol,5,"75,611",GJ01,Second Owner,1199,Automatic,2015,19,88.7,110,Jun,2015,75,5.2,Ahmedabad,15
+Hyundai,Creta 1.6 CRDi AT SX Plus,Third Party,Diesel,5,"99,860",GJ01,First Owner,1582,Automatic,2018,17.01,126.2,259.9,Jun,2018,50,11.1,Ahmedabad,17
+Hyundai,Grand i10 1.2 Kappa Magna BSIV,Third Party,Petrol,5,"14,555",GJ01,First Owner,1197,Manual,2019,18.9,81.86,113.75,Jun,2019,40,5.63,Ahmedabad,
+Maruti,Baleno 1.2 Zeta,Third Party,Petrol,5,"34,290",GJ07,First Owner,1197,Manual,2018,21.4,83.1,115,Jun,2018,50,6.55,Ahmedabad,16
+Hyundai,Grand i10 1.2 Kappa Sportz BSIV,Third Party,Petrol,5,"79,460",GJ27,First Owner,1197,Manual,2019,18.9,81.86,113.75,Jun,2019,40,5.56,Ahmedabad,
+Hyundai,Grand i10 Sportz,Third Party,Petrol,5,"59,817",GJ01,First Owner,1197,Manual,2016,18.9,82,114,Jun,2016,70,5.3,Ahmedabad,
+Maruti,Baleno 1.2 Delta,Third Party,Petrol,5,"48,340",GJ06,First Owner,1197,Manual,2017,21.4,83.1,115,Jun,2017,60,5.28,Ahmedabad,
+Volkswagen,Vento 1.5 TDI Highline AT,Third Party insurance,Diesel,5,"1,21,869",GJ01,First Owner,1498,Automatic,2017,22.15,108.6,250,Oct,2017,60,5.95,Ahmedabad,15
+Maruti,Alto 800 VXI,Third Party,Petrol,5,"33,949",GJ02,First Owner,796,Manual,2021,22.05,47.33,69,Jun,2021,20,3.95,Ahmedabad,
+Ford,Ecosport 1.5 Petrol Titanium BSIV,Third Party insurance,Petrol,5,"60,000",GJ06,First Owner,1497,Manual,2018,17,121.31,150,May,2018,50,7.75,Ahmedabad,16
+Volkswagen,Polo 1.5 TDI Trendline,Third Party insurance,Diesel,5,"36,000",GJ01,First Owner,1498,Manual,2015,20.14,88.8,230,Aug,2015,75,4.95,Ahmedabad,
+Audi,Q3 2.0 TDI WCI,Third Party insurance,Diesel,5,"72,000",GJ06,First Owner,1968,Automatic,2014,15.73,174.33,380,Jan,2014,75,14.0,Ahmedabad,16
+Audi,A4 2.0 TDI Premium Plus,Third Party insurance,Diesel,5,"1,22,000",GJ01,First Owner,1968,Automatic,2013,17.11,174.33,380,Mar,2013,75,13.0,Ahmedabad,17
+Hyundai,Accent GLE,Comprehensive,Petrol,5,"57,000",GJ01,First Owner,1495,Manual,2011,13.2,,12,Nov,2011,75,2.25,Ahmedabad,13
+Ford,Ecosport 1.5 Diesel Titanium,Comprehensive,Diesel,5,"62,000",GJ01,First Owner,1498,Manual,2015,21.7,98.96,215,Oct,2015,75,5.9,Ahmedabad,R16
+Maruti,SX4 S Cross Alpha DDiS 200 SH,Available,Diesel,5,"1,10,000",,First Owner,1248,Manual,2018,25.1,88.5,200,,,50,7.5,Ahmedabad,R16
+Maruti,Alto 800 VXI Plus,Third Party insurance,Petrol,5,"70,000",,First Owner,796,Manual,2020,22.05,47.33,69,,,30,3.49,Ahmedabad,
+Hyundai,i10 Sportz 1.1L,Third Party,Petrol,5,"50,004",GJ05,First Owner,1086,Manual,2015,19.81,68.05,99.04,Jun,2015,75,3.79,Ahmedabad,
+Skoda,Rapid 1.6 MPI Elegance,Third Party insurance,Petrol,5,"87,094",GJ05,First Owner,1598,Manual,2013,15,103.5,153,Oct,2013,75,3.65,Ahmedabad,15
+Maruti,Alto 800 VXI,Comprehensive,Petrol,5,"13,541",GJ27,First Owner,796,Manual,2020,22.05,47.33,69,Jun,2020,30,3.83,Ahmedabad,
+Maruti,Baleno Zeta CVT,Third Party,Petrol,5,"36,848",GJ01,First Owner,1197,Automatic,2021,19.56,81.80,113,Jun,2021,20,8.13,Ahmedabad,R16
+Honda,City Edge Edition SV,Third Party,Petrol,5,"76,040",GJ06,Second Owner,1497,Manual,2018,17.4,117.3,145,Jun,2018,50,6.88,Ahmedabad,
+Hyundai,Aura SX Option,Comprehensive,Petrol,5,"30,109",GJ01,First Owner,1197,Manual,2020,20.5,81.86,113.8,Jun,2020,30,7.69,Ahmedabad,15
+Maruti,Alto 800 LXI,Third Party,Petrol,5,"18,132",GJ02,First Owner,796,Manual,2020,22.05,47.33,69,Jun,2020,30,3.64,Ahmedabad,
+Hyundai,Santro Era Executive BSIV,Third Party,Petrol,5,"18,024",GJ10,First Owner,1086,Manual,2019,20.3,68,99,Jun,2019,40,4.1,Ahmedabad,
+Maruti,Ignis 1.2 Delta BSIV,Third Party,Petrol,5,"13,351",GJ06,First Owner,1197,Manual,2018,20.89,81.80,113,Jun,2018,50,4.82,Ahmedabad,
+Maruti,Alto 800 VXI,Third Party,Petrol,5,"10,575",GJ18,First Owner,796,Manual,2021,22.05,47.33,69,Jun,2021,20,4.04,Ahmedabad,
+Maruti,Swift VXI,Zero Dep,Petrol,5,"51,848",GJ01,First Owner,1197,Manual,2017,21.21,81.80,113,Jun,2017,60,5.43,Ahmedabad,
+Maruti,Alto 800 LXI BSIV,Zero Dep,Petrol,5,"23,132",GJ03,First Owner,796,Manual,2019,24.7,47.3,69,Jun,2019,40,3.4,Ahmedabad,
+Hyundai,Verna 1.4 CRDi,Third Party insurance,Diesel,5,"70,000",,First Owner,1396,Manual,2015,24.8,88.7,219.7,,,75,5.0,Ahmedabad,15
+Toyota,Urban cruiser High,Third Party insurance,Petrol,5,"15,000",,First Owner,1462,Manual,2021,17.03,103.26,138,,,20,9.11,Ahmedabad,16
+Chevrolet,Captiva LTZ VCDi,Available,Diesel,7,"1,20,000",N/A,Second Owner,1991,Automatic,2009,12.5,147.9,320,,,75,3.2,Ahmedabad,17
+Honda,City 1.5 E MT,Third Party insurance,Petrol,5,"1,20,000",,Second Owner,1497,Manual,2008,17,"118PS at 6,600 ",146Nm at 4800 r,,,75,1.5,Ahmedabad,15
+Maruti,Ertiga VXI,Comprehensive,Petrol,7,"66,000",GJ01,First Owner,1462,Manual,2015,19.01,103.26,138,Feb,2015,75,6.9,Ahmedabad,
+Volkswagen,Vento 1.5 TDI Highline AT,Comprehensive,Diesel,5,"69,000",GJ18,Second Owner,1498,Automatic,2015,22.15,108.6,250,Mar,2015,75,5.25,Ahmedabad,15
+Mahindra,Ssangyong Rexton RX7,Comprehensive,Diesel,7,"91,000",GJ01,Second Owner,2696,Automatic,2014,11.18,184,402,Jul,2014,75,6.9,Ahmedabad,16
+Hyundai,Grand i10 Magna,Comprehensive,Petrol,5,"77,000",GJ18,First Owner,1197,Manual,2016,18.9,82,114,Feb,2016,70,5.11,Ahmedabad,
+Toyota,Etios Liva G,Third Party insurance,Petrol,5,"84,313",GJ01,Second Owner,1197,Manual,2011,18.3,,,Sept,2011,75,2.6,Ahmedabad,14
+Skoda,Kushaq 1.0 TSI Style AT,Zero Dep,Petrol,5,"14,232",GJ27,First Owner,999,Automatic,2021,17.2,113.98,178,Jun,2021,20,14.42,Ahmedabad,17
+Maruti,Swift VXI Optional,Comprehensive,Petrol,5,"74,132",GJ06,First Owner,1197,Manual,2017,20.4,81.80,113,Jun,2017,60,5.06,Ahmedabad,
+Maruti,Celerio ZXI,Third Party,Petrol,5,"31,960",GJ08,First Owner,998,Manual,2020,21.63,67.05,90,Jun,2020,30,5.4,Ahmedabad,
+Hyundai,Tucson 2.0 Dual VTVT 2WD AT GL,Third Party,Petrol,5,"52,845",GJ01,First Owner,1999,Automatic,2017,12.95,152.88,192.21,Jun,2017,60,12.81,Ahmedabad,18
+Honda,City i VTEC V,Third Party,Petrol,5,"85,802",GJ01,Second Owner,1497,Manual,2015,17.4,117.3,145,Jun,2015,75,6.0,Ahmedabad,15
+Maruti,Ritz LXi,Comprehensive,Petrol,5,"53,736",GJ01,Second Owner,1197,Manual,2014,18.5,85.80,114,Oct,2014,75,3.2,Ahmedabad,
+Maruti,Baleno Delta,Third Party,Petrol,5,"41,880",GJ01,First Owner,1197,Manual,2019,21.01,81.80,113,Jun,2019,40,5.93,Ahmedabad,
+Maruti,Baleno Delta,Third Party,Petrol,5,"16,957",GJ01,Second Owner,1197,Manual,2019,21.01,81.80,113,Jun,2019,40,6.53,Ahmedabad,
+Maruti,S-Presso VXI Plus 2019-2022,Third Party,Petrol,5,"16,447",GJ12,First Owner,998,Manual,2019,21.7,65.71,89,Jun,2019,40,4.35,Ahmedabad,
+Hyundai,i20 1.2 Spotz,Comprehensive,Petrol,5,"55,718",GJ01,First Owner,1197,Manual,2018,18.6,81.83,114.7,Jun,2018,50,6.16,Ahmedabad,
+Mahindra,XUV500 AT W10 AWD,Third Party,Diesel,7,"79,105",GJ23,Second Owner,2179,Automatic,2017,16,140,330,Jun,2017,60,11.23,Ahmedabad,17
+Maruti,Alto K10 VXI AMT,Comprehensive,Petrol,5,"26,000",GJ07,First Owner,998,Automatic,2018,23.95,67.05,90,Feb,2018,50,4.25,Ahmedabad,
+Mercedes-Benz,GL-Class 350 CDI Luxury,Comprehensive,Diesel,7,"62,000",GJ01,First Owner,2987,Automatic,2013,12,224,510,Feb,2013,75,25.0,Ahmedabad,19
+Mahindra,KUV 100 NXT D75 K8 Dual Tone,Third Party insurance,Diesel,6,"50,000",,First Owner,1198,Manual,2017,25.32,77,190,,,60,3.7,Ahmedabad,15
+Hyundai,i10 Magna,Comprehensive,Petrol,5,"60,000",GJ01,First Owner,1197,Manual,2010,20.36,78.9,111.7,Feb,2010,75,2.61,Ahmedabad,13
+Tata,Nano XTA,Comprehensive,Petrol,4,"42,000",GJ15,First Owner,624,Automatic,2016,21.9,37.48,51,Feb,2016,70,2.0,Ahmedabad,
+Maruti,Alto 800 LXI,Third Party insurance,Petrol,5,"1,20,000",,First Owner,796,Manual,2014,22.74,47.3,69,,,75,2.15,Ahmedabad,
+Audi,A6 2.0 TDI Technology,Third Party insurance,Diesel,5,"90,000",,Fourth Owner,1968,Automatic,2013,17.68,174.33,380,,,75,11.0,Ahmedabad,17
+Maruti,Celerio VXI MT BSIV,Third Party insurance,Petrol,5,"40,000",,First Owner,998,Manual,2019,23.1,67.04,90,,,40,4.2,Ahmedabad,
+Maruti,Celerio ZXI,Third Party,Petrol,5,"37,471",GJ30,First Owner,998,Manual,2020,21.63,67.05,90,Jun,2020,30,5.2,Ahmedabad,
+Honda,City V MT,Third Party,Petrol,5,"15,501",GJ27,First Owner,1498,Manual,2022,18.6,119.35,145,Jun,2022,15,10.48,Ahmedabad,15
+Ford,Ecosport 1.5 Diesel Titanium BSIV,Third Party insurance,Diesel,5,"1,02,534",GJ05,First Owner,1498,Manual,2017,23,98.96,205,Mar,2017,60,6.98,Ahmedabad,16
+Maruti,Alto 800 LXI,Third Party,Petrol,5,"35,821",GJ18,First Owner,796,Manual,2021,22.05,47.33,69,Jun,2021,20,3.81,Ahmedabad,
+Maruti,Celerio ZXI MT BSIV,Third Party,Petrol,5,"35,761",GJ19,First Owner,998,Manual,2019,23.1,67.04,90,Jun,2019,40,4.78,Ahmedabad,
+Maruti,Baleno 1.2 Zeta,Zero Dep,Petrol,5,"30,083",GJ01,First Owner,1197,Manual,2018,21.4,83.1,115,Jun,2018,50,6.51,Ahmedabad,16
+Maruti,Baleno Zeta,Comprehensive,Petrol,5,"1,955",GJ01,First Owner,1197,Manual,2021,21.01,81.80,113,Jun,2021,20,7.51,Ahmedabad,R16
+Maruti,Celerio VXI MT BSIV,Third Party,Petrol,5,"77,233",GJ01,First Owner,998,Manual,2018,23.1,67.04,90,Jun,2018,50,4.45,Ahmedabad,
+Hyundai,Venue SX Sport iMT,Third Party,Petrol,5,"34,011",GJ01,First Owner,998,Manual,2020,18,118.35,171.6,Jun,2020,30,9.64,Ahmedabad,
+Honda,Jazz V,Zero Dep,Petrol,5,"39,182",GJ27,First Owner,1199,Manual,2018,18.2,88.7,110,Jun,2018,50,6.57,Ahmedabad,15
+Hyundai,i20 Petrol Asta,Zero Dep,Petrol,5,"66,608",GJ01,Second Owner,1197,Manual,2018,18.6,81.86,114.73,Jun,2018,50,7.3,Ahmedabad,15
+Maruti,S-Presso VXI Plus 2019-2022,Third Party,Petrol,5,"16,833",GJ06,First Owner,998,Manual,2020,21.7,65.71,89,Jun,2020,30,4.49,Ahmedabad,
+Hyundai,Accent Executive,Comprehensive,Petrol,5,"70,000",GJ01,First Owner,1495,Manual,2010,16.36,93.7,124.6,Feb,2010,75,2.41,Ahmedabad,13
+Nissan,Sunny XL,Comprehensive,Petrol,5,"68,000",GJ01,First Owner,1498,Manual,2012,16.95,97.6,134,Feb,2012,75,3.25,Ahmedabad,
+Maruti,Alto 800 LXI,Comprehensive,Petrol,5,"71,000",GJ18,First Owner,796,Manual,2015,22.74,47.3,69,Feb,2015,75,2.7,Ahmedabad,
+Hyundai,i10 Magna,Comprehensive,Petrol,5,"60,000",GJ01,First Owner,1197,Manual,2012,20.36,78.9,111.7,Feb,2012,75,3.0,Ahmedabad,13
+Hyundai,i20 Sportz 1.4 CRDi,Comprehensive,Diesel,5,"65,000",GJ01,First Owner,1396,Manual,2013,21.9,88.76,219.6,Feb,2013,75,4.41,Ahmedabad,14
+Renault,KWID 1.0 AMT RXL,Comprehensive,Petrol,5,"52,000",GJ03,First Owner,999,Automatic,2018,24.04,67,91,Feb,2018,50,3.25,Ahmedabad,
+Tata,Nano XTA,Comprehensive,Petrol,4,"26,000",GJ01,First Owner,624,Automatic,2016,21.9,37.48,51,Feb,2016,70,2.25,Ahmedabad,
+Hyundai,Grand i10 1.2 CRDi Sportz,Comprehensive,Diesel,5,"73,000",GJ01,First Owner,1186,Manual,2018,24,73.97,190.24,Feb,2018,50,5.25,Ahmedabad,
+Maruti,Alto 800 LXI,Third Party,Petrol,5,"27,061",GJ23,First Owner,796,Manual,2018,24.7,47.3,69,Jun,2018,50,3.26,Ahmedabad,
+Hyundai,Grand i10 1.2 Kappa Magna BSIV,Comprehensive,Petrol,5,"37,199",GJ16,Second Owner,1197,Manual,2018,18.9,81.86,113.75,Jun,2018,50,5.5,Ahmedabad,
+Maruti,Alto 800 VXI,Comprehensive,Petrol,5,"24,368",GJ01,First Owner,796,Manual,2021,22.05,47.33,69,Jun,2021,20,4.05,Ahmedabad,
+Maruti,Alto 800 LXI,Third Party,Petrol,5,"51,530",GJ18,First Owner,796,Manual,2018,24.7,47.3,69,Jun,2018,50,3.31,Ahmedabad,
+Maruti,Alto K10 VXI,Third Party,Petrol,5,"17,357",GJ10,First Owner,998,Manual,2018,23.95,67.05,90,Jun,2018,50,3.91,Ahmedabad,
+Maruti,Alto 800 LXI CNG,Third Party,CNG,5,"75,079",GJ09,First Owner,796,Manual,2019,33,47.3,69,Jun,2019,40,3.99,Ahmedabad,
+Hyundai,i10 Magna,Third Party,Petrol,5,"29,814",GJ05,First Owner,1197,Manual,2013,20.36,78.9,111.7,Jun,2013,75,3.3,Ahmedabad,13
+Maruti,SX4 S Cross Zeta DDiS 200 SH,Comprehensive,Diesel,5,"1,44,156",GJ18,First Owner,1248,Manual,2017,25.1,88.5,200,Aug,2017,60,6.4,Ahmedabad,R16
+Maruti,Baleno Alpha CVT,Third Party,Petrol,5,"23,276",GJ01,First Owner,1197,Automatic,2020,19.56,81.80,113,Jun,2020,30,8.69,Ahmedabad,R16
+Hyundai,Grand i10 Sportz,Comprehensive,Petrol,5,"35,399",GJ01,First Owner,1197,Manual,2014,18.9,82,114,Jun,2014,75,4.4,Ahmedabad,
+Tata,Nexon XZ 2020-2022,Comprehensive,Petrol,5,"28,687",GJ32,First Owner,1199,Manual,2021,17.57,118.36,170,Jun,2021,20,9.0,Ahmedabad,
+Maruti,Wagon R ZXI 1.2,Third Party,Petrol,5,"79,893",GJ27,First Owner,1197,Manual,2019,20.52,81.80,113,Jun,2019,40,5.21,Ahmedabad,
+Hyundai,Grand i10 1.2 Kappa Magna BSIV,Third Party insurance,Petrol,5,"35,000",,First Owner,1197,Manual,2017,18.9,81.86,113.75,,,60,5.5,Ahmedabad,
+Mahindra,Bolero ZLX,Comprehensive,Diesel,7,"95,000",GJ16,First Owner,2523,Manual,2017,15.96,62.1,195,Aug,2017,60,7.2,Ahmedabad,
+Tata,Harrier XT plus Dark Edition,Comprehensive,Diesel,5,"50,000",GJ38,First Owner,1956,Manual,2022,16.35,167.67,350,Apr,2022,15,17.9,Ahmedabad,17
+Ford,Figo Petrol LXI,Third Party insurance,Petrol,5,"1,20,000",,Second Owner,1196,Manual,2010,15.6,70,102,,,75,1.2,Ahmedabad,14
+Mahindra,Xylo E4,Third Party insurance,Diesel,7,"1,10,000",,Third Owner,2498,Manual,2010,14,112bhp at 3800 ,260 Nm at 1800-2200 r,,,75,2.5,Ahmedabad,15
+Mercedes-Benz,GL-Class 350 CDI Luxury,Comprehensive,Diesel,7,"63,000",GJ01,Second Owner,2987,Automatic,2012,12,224,510,May,2012,75,19.0,Ahmedabad,19
+Maruti,Ciaz VXi,Third Party,Petrol,5,"40,000",,Second Owner,1373,Manual,2016,20.73,91.1,130,,,70,6.5,Ahmedabad,
+Maruti,SX4 S Cross DDiS 320 Alpha,Comprehensive,Diesel,5,"64,000",GJ36,First Owner,1598,Manual,2016,22.7,118,320,Feb,2016,70,5.95,Ahmedabad,16
+Hyundai,Creta 1.6 SX Option,Third Party insurance,Petrol,5,"1,26,056",GJ32,First Owner,1591,Manual,2019,15.8,121.3,151,May,2019,40,10.95,Ahmedabad,17
+Maruti,Vitara Brezza LXI,Third Party,Petrol,5,"38,425",GJ01,First Owner,1462,Manual,2020,17.03,103.26,138,Jun,2020,30,8.07,Ahmedabad,
+Maruti,Ignis 1.2 Alpha BSIV,Zero Dep,Petrol,5,"58,409",GJ06,Second Owner,1197,Manual,2017,20.89,81.80,113,Jun,2017,60,4.47,Ahmedabad,15
+Maruti,Alto K10 VXI,Third Party,Petrol,5,"34,017",GJ38,First Owner,998,Manual,2018,23.95,67.05,90,Jun,2018,50,3.74,Ahmedabad,
+Maruti,Swift LXI,Comprehensive,Petrol,5,"13,006",GJ06,First Owner,1197,Manual,2018,21.21,81.80,113,Jun,2018,50,5.5,Ahmedabad,
+Maruti,Wagon R VXI BS IV,Third Party,Petrol,5,"25,533",GJ01,First Owner,998,Manual,2018,20.51,67.04,90,Jun,2018,50,4.53,Ahmedabad,
+Hyundai,Santro Sportz BSIV,Third Party,Petrol,5,"8,451",GJ05,First Owner,1086,Manual,2019,20.3,68,99,Jun,2019,40,4.83,Ahmedabad,
+Maruti,Swift Dzire VXI,Comprehensive,Petrol,5,"45,488",GJ06,First Owner,1197,Manual,2020,22.41,88.50,113,Jun,2020,30,7.02,Ahmedabad,
+Maruti,Swift VXI,Third Party,Petrol,5,"81,772",GJ06,Second Owner,1197,Manual,2013,18.6,85.8,114,Jun,2013,75,3.88,Ahmedabad,14
+Maruti,SX4 S Cross Delta,Third Party,Petrol,5,"30,203",GJ06,First Owner,1462,Manual,2020,18.55,103.25,138,Jun,2020,30,9.32,Ahmedabad,16
+Volkswagen,Vento 1.5 TDI Highline,Third Party insurance,Diesel,5,"1,47,098",GJ01,First Owner,1498,Manual,2016,22.27,108.6,250,Mar,2017,70,5.4,Ahmedabad,15
+Maruti,S-Presso VXI Opt 2019-2022,Comprehensive,Petrol,5,"5,562",GJ17,First Owner,998,Manual,2022,21.7,67.05,90,Jun,2022,15,4.86,Ahmedabad,
+Renault,Fluence Diesel E4,Third Party insurance,Diesel,5,"2,30,000",,Fourth Owner,1461,Manual,2012,21.8,78,240 ,,,75,3.5,Ahmedabad,16
+Hyundai,Creta 1.6 CRDi AT SX Plus,Third Party insurance,Diesel,5,"70,000",,Second Owner,1582,Automatic,2016,17.01,126.2,259.9,,,70,10.99,Ahmedabad,17
+Kia,Seltos GTX Plus Diesel AT,Comprehensive,Diesel,5,"42,000",GJ38,First Owner,1493,Automatic,2020,18,113.43,250,Sept,2020,30,16.0,Ahmedabad,17
+Honda,City S,Third Party insurance,Petrol,5,"48,000",GJ17,First Owner,1497,Manual,2012,16.8,116.4,146,Oct,2012,75,4.0,Ahmedabad,15
+Honda,City S,Third Party insurance,Petrol,5,"60,000",GJ01,First Owner,1497,Manual,2013,16.8,116.4,146,Jan,2013,75,4.25,Ahmedabad,15
+Renault,KWID RXL,Third Party insurance,Petrol,5,"80,000",,First Owner,799,Manual,2017,25.17,53.3,72,,,60,2.5,Ahmedabad,
+Volkswagen,Vento 1.6 Highline BSIV,Third Party insurance,Petrol,5,"60,000",,First Owner,1598,Manual,2020,16.09,103.2,153,,,30,7.3,Ahmedabad,15
+Honda,City i VTEC V,Third Party insurance,Petrol,5,"60,000",,Second Owner,1497,Manual,2017,17.8,117.3,145,,,60,7.5,Ahmedabad,15
+Honda,Jazz 1.2 V AT i VTEC,Zero Dep,Petrol,5,"94,414",GJ01,First Owner,1199,Automatic,2017,19,88.7,110,Jun,2017,60,6.04,Ahmedabad,15
+Hyundai,Verna 1.6 SX VTVT AT,Third Party insurance,Petrol,5,"1,48,442",GJ01,Second Owner,1591,Automatic,2014,15.74,121.3,154.9,May,2014,75,4.48,Ahmedabad,16
+Hyundai,i10 Magna,Third Party,Petrol,5,"39,117",GJ06,First Owner,1197,Manual,2013,20.36,78.9,111.7,Jun,2013,75,3.3,Ahmedabad,13
+Hyundai,i20 Sportz Plus BSIV,Zero Dep,Petrol,5,"61,247",GJ18,First Owner,1197,Manual,2019,18.6,81.86,117,Jun,2019,40,6.89,Ahmedabad,15
+Honda,Amaze S Option i-VTEC,Zero Dep,Petrol,5,"25,086",GJ01,First Owner,1198,Manual,2017,17.8,86.7,109,Jun,2017,60,5.68,Ahmedabad,
+Hyundai,Xcent 1.2 Kappa SX Option,Third Party insurance,Petrol,5,"76,823",GJ01,Second Owner,1197,Manual,2015,19.1,82,114,Apr,2015,75,4.7,Ahmedabad,15
+Honda,Jazz V,Third Party,Petrol,5,"56,679",GJ01,First Owner,1199,Manual,2018,18.2,88.7,110,Jun,2018,50,5.96,Ahmedabad,15
+Hyundai,i20 Sportz 1.2,Third Party,Petrol,5,"61,841",GJ23,Second Owner,1197,Manual,2016,18.6,81.83,114.7,Jun,2016,70,5.42,Ahmedabad,
+Hyundai,i20 Sportz Plus,Third Party,Petrol,5,"47,465",GJ01,Second Owner,1197,Manual,2020,18.6,81.86,117,Jun,2020,30,6.95,Ahmedabad,15
+Maruti,SX4 S Cross DDiS 200 Alpha,Third Party insurance,Diesel,5,"1,25,184",GJ01,First Owner,1248,Manual,2016,23.65,88.5,200,Aug,2016,70,6.5,Ahmedabad,16
+Ford,Freestyle Titanium Petrol BSIV,Third Party,Petrol,5,"49,358",GJ15,First Owner,1194,Manual,2018,19,94.68,120,Jun,2018,50,5.7,Ahmedabad,15
+Maruti,Ciaz 1.3 Alpha,Third Party,Diesel,5,"79,265",GJ01,First Owner,1248,Manual,2017,28.09,88.5,200,Jun,2017,60,7.27,Ahmedabad,16
+Mahindra,Bolero DI - AC BS III,Third Party insurance,Diesel,9,"1,90,000",N/A,Second Owner,2523,Manual,2014,15.96,63,180,,,75,5.7,Ahmedabad,
+Renault,KWID RXL,Available,Petrol,5,"30,000",,First Owner,799,Manual,2018,25.17,53.3,72,,,50,2.8,Ahmedabad,
+Maruti,Swift Dzire VXI,Third Party insurance,Petrol,5,"50,000",,First Owner,1197,Manual,2020,22.41,88.50,113,,,30,6.0,Ahmedabad,
+Mahindra,XUV500 W11 Option AWD,Third Party insurance,Diesel,7,"30,000",,First Owner,2179,Manual,2019,15.1,155,360,,,40,15.0,Ahmedabad,17
+Maruti,Wagon R LXI Minor,Third Party insurance,Petrol,5,"80,000",,First Owner,1061,Manual,2008,18.9,67,84,,,75,1.25,Ahmedabad,13
+Mahindra,Bolero DI - AC BS III,Third Party insurance,Diesel,9,"1,00,000",,Second Owner,2523,Manual,2012,15.96,63,180,,,75,3.45,Ahmedabad,
+Hyundai,Creta 1.6 CRDi AT S Plus,Comprehensive,Diesel,5,"61,000",GJ02,First Owner,1582,Automatic,2018,17.01,126.2,259.9,Feb,2018,50,9.95,Ahmedabad,16
+Tata,Indigo Marina LS,Third Party insurance,Diesel,5,"90,000",,First Owner,1405,Manual,2012,16.1,,13,,,75,1.6,Ahmedabad,14
+Honda,Amaze S i-VTEC,Third Party,Petrol,5,"41,267",GJ01,First Owner,1198,Manual,2018,17.8,86.7,109,Jun,2018,50,6.58,Ahmedabad,
+Maruti,Baleno Delta,Third Party,Petrol,5,"16,534",GJ01,Second Owner,1197,Manual,2019,21.01,81.80,113,Jun,2019,40,6.07,Ahmedabad,
+Maruti,Ciaz Alpha Automatic BSIV,Third Party,Petrol,5,"57,033",GJ18,First Owner,1462,Automatic,2019,20.28,103.25,138,Jun,2019,40,8.84,Ahmedabad,16
+Tata,Harrier XZA Plus Dark Edition AT 2020-2022,Third Party,Diesel,5,"35,580",GJ06,First Owner,1956,Automatic,2020,14.6,167.67,350,Jun,2020,30,19.72,Ahmedabad,R18
+Maruti,Alto 800 LXI,Comprehensive,Petrol,5,"59,449",GJ01,Second Owner,796,Manual,2018,24.7,47.3,69,Jun,2018,50,3.2,Ahmedabad,
+Hyundai,i20 Asta 1.2,Third Party,Petrol,5,"51,930",GJ27,First Owner,1197,Manual,2017,18.6,81.83,114.7,Jun,2017,60,6.71,Ahmedabad,16
+Jeep,Compass 2.0 Longitude BSIV,Third Party,Diesel,5,"88,971",GJ06,Second Owner,1956,Manual,2018,17.1,170,350,Jun,2018,50,10.55,Ahmedabad,17
+Maruti,Baleno 1.2 Delta,Comprehensive,Petrol,5,"67,445",GJ01,First Owner,1197,Manual,2017,21.4,83.1,115,Jun,2017,60,5.5,Ahmedabad,
+Maruti,Swift VXI,Third Party,Petrol,5,"67,067",GJ01,First Owner,1197,Manual,2013,18.6,85.8,114,Jun,2013,75,4.03,Ahmedabad,14
+Hyundai,Venue SX Turbo,Third Party,Petrol,5,"45,562",GJ21,First Owner,998,Manual,2021,18.27,118.35,172,Jun,2021,20,10.58,Ahmedabad,
+Maruti,Ciaz 1.4 Alpha,Third Party insurance,Petrol,5,"1,08,454",GJ27,First Owner,1373,Manual,2018,20.73,91.1,130,Aug,2018,50,6.7,Ahmedabad,16
+Mahindra,XUV500 W7,Third Party,Diesel,7,"22,550",GJ01,First Owner,2179,Manual,2021,15.1,152.87,360,Jun,2021,20,14.42,Ahmedabad,
+Toyota,Fortuner 2.8 2WD MT,Comprehensive,Diesel,7,"65,000",GJ01,First Owner,2755,Manual,2017,14.24,174.5,420,Jul,2017,60,25.9,Ahmedabad,17
+Hyundai,Aura SX Plus AMT,Comprehensive,Petrol,5,"22,000",GJ06,First Owner,1197,Automatic,2020,20.1,81.86,113.8,Feb,2020,30,7.75,Ahmedabad,15
+Maruti,Alto K10 VXI,Third Party insurance,Petrol,5,"40,000",,First Owner,998,Manual,2015,23.95,67.05,90,,,75,2.4,Ahmedabad,
+Mahindra,Verito 1.5 D6 BSIII,Third Party insurance,Diesel,5,"1,80,000",,First Owner,1461,Manual,2013,20.8,65,160,,,75,2.1,Ahmedabad,14
+Ford,Ikon 1.3 Flair Josh 100,Third Party insurance,Petrol,5,"35,000",N/A,First Owner,1299,Manual,2008,13.8,,10,,,75,1.5,Ahmedabad,13
+Maruti,Swift Dzire VDI,Third Party insurance,Diesel,5,"1,20,000",,First Owner,1248,Manual,2014,23.4,74,190,,,75,3.35,Ahmedabad,14
+Nissan,Micra XL,Third Party insurance,Petrol,5,"1,10,000",,Second Owner,1198,Manual,2016,18.44,75,104,,,70,2.85,Ahmedabad,
+Tata,Indica Quadrajet VX,Third Party insurance,Diesel,5,"1,52,000",,First Owner,1248,Manual,2012,22.3,74,190,,,75,1.7,Ahmedabad,14
+Hyundai,Grand i10 1.2 Kappa Sportz BSIV,Comprehensive,Petrol,5,"39,573",GJ01,Second Owner,1197,Manual,2019,18.9,81.86,113.75,Jun,2019,40,5.28,Ahmedabad,
+Hyundai,i20 Magna Optional 1.2,Third Party,Petrol,5,"86,710",GJ01,First Owner,1197,Manual,2012,18.5,82.9,113.8,Jun,2012,75,3.49,Ahmedabad,14
+Hyundai,EON Era Plus,Third Party,Petrol,5,"23,531",GJ06,Second Owner,814,Manual,2016,21.1,55.2,74.5,Jun,2016,70,2.97,Ahmedabad,
+Hyundai,Grand i10 1.2 CRDi Sportz Option,Third Party,Diesel,5,"82,934",GJ01,First Owner,1186,Manual,2017,24,73.97,190.24,Jun,2017,60,5.53,Ahmedabad,
+Hyundai,Grand i10 Nios Sportz,Third Party,Petrol,5,"11,072",GJ05,Second Owner,1197,Manual,2019,20.7,81.86,113.8,Jun,2019,40,6.24,Ahmedabad,14
+Volkswagen,Vento 1.5 TDI Highline AT,Third Party insurance,Diesel,5,"1,48,439",GJ01,First Owner,1498,Automatic,2016,22.15,108.6,250,Dec,2016,70,5.98,Ahmedabad,15
+Maruti,Ciaz Delta,Third Party,Petrol,5,"24,297",GJ27,First Owner,1462,Manual,2020,20.65,103.25,138,Jun,2020,30,8.07,Ahmedabad,15
+Hyundai,Grand i10 1.2 Kappa Magna BSIV,Third Party,Petrol,5,"20,823",GJ01,First Owner,1197,Manual,2019,18.9,81.86,113.75,Jun,2019,40,5.29,Ahmedabad,
+Hyundai,Grand i10 Sportz,Comprehensive,Petrol,5,"60,987",GJ05,First Owner,1197,Manual,2015,18.9,82,114,Jun,2015,75,4.57,Ahmedabad,
+Maruti,Baleno 1.2 Delta,Third Party,Petrol,5,"39,961",GJ01,First Owner,1197,Manual,2016,21.4,83.1,115,Jun,2016,70,5.35,Ahmedabad,
+Ford,Ecosport 1.5 Petrol Titanium Plus AT BSIV,Third Party,Petrol,5,"39,427",GJ01,Third Owner,1497,Automatic,2018,14.8,121.36,150,Jun,2018,50,7.78,Ahmedabad,16
+Honda,Amaze VX CVT Diesel BSIV,Comprehensive,Diesel,5,"63,490",GJ01,First Owner,1498,Automatic,2019,23.8,78.9,200,Jun,2019,40,8.15,Ahmedabad,14
+Hyundai,i10 Era,Third Party insurance,Petrol,5,"1,10,000",,Third Owner,1086,Manual,2010,19.81,68.05,99.04,,,75,1.5,Ahmedabad,
+Hyundai,Verna 1.6 CRDi SX,Third Party insurance,Diesel,5,"70,000",N/A,Second Owner,1582,Manual,2016,23.9,126.2,259.9,,,70,5.8,Ahmedabad,16
+Hyundai,Grand i10 Nios AMT Magna,Available,Petrol,5,"5,000",N/A,First Owner,1197,Automatic,2022,20.7,81.86,113.8,,,15,6.73,Ahmedabad,
+Mahindra,Bolero Pik Up Extra Long FB 1.7T,Third Party insurance,Diesel,2,"1,00,000",,First Owner,2523,Manual,2019,,75.09,200,,,40,7.0,Ahmedabad,
+Nissan,Micra XV CVT,Third Party insurance,Petrol,5,"90,000",,Second Owner,1198,Automatic,2014,19.34,76,104,,,75,2.99,Ahmedabad,15
+Maruti,Wagon R CNG LXI BSIV,Third Party insurance,CNG,5,"70,000",,First Owner,998,Manual,2019,33.54,67.04,90,,,40,5.0,Ahmedabad,
+Hyundai,Santro AT CNG,Third Party insurance,CNG,5,"80,000",,Second Owner,999,Manual,2002,,,,,,75,0.5,Ahmedabad,13
+Maruti,Eeco 5 Seater AC BSIV,Third Party insurance,Petrol,5,"20,000",,First Owner,1196,Manual,2020,15.37,73,101,,,30,4.15,Ahmedabad,
+Honda,Amaze S Petrol BSIV,Third Party,Petrol,5,"53,458",GJ01,First Owner,1199,Manual,2019,19.5,88.76,110,Jun,2019,40,6.3,Ahmedabad,
+Tata,New Safari XZA Plus (O) Dark Edition AT,Third Party,Diesel,7,"14,909",GJ06,First Owner,1956,Automatic,2022,14.08,167.67,350,Jun,2022,15,20.87,Ahmedabad,18
+Maruti,Alto 800 LXI BSIV,Third Party,Petrol,5,"41,297",GJ35,First Owner,796,Manual,2019,24.7,47.3,69,Jun,2019,40,3.35,Ahmedabad,
+Maruti,Baleno Alpha CVT,Third Party,Petrol,5,"23,703",GJ16,Second Owner,1197,Automatic,2021,19.56,81.80,113,Jun,2021,20,9.19,Ahmedabad,R16
+Maruti,Swift Dzire VXI,Zero Dep,Petrol,5,"17,028",GJ12,Second Owner,1197,Manual,2021,22.41,88.50,113,Jun,2021,20,7.15,Ahmedabad,
+Hyundai,Grand i10 1.2 Kappa Magna BSIV,Third Party,Petrol,5,"29,499",GJ01,First Owner,1197,Manual,2019,18.9,81.86,113.75,Jun,2019,40,5.42,Ahmedabad,
+Maruti,Alto 800 LXI,Zero Dep,Petrol,5,"63,322",GJ38,First Owner,796,Manual,2019,22.05,47.33,69,Jun,2019,40,3.55,Ahmedabad,
+Maruti,Swift Dzire VXI 1.2,Third Party,Petrol,5,"50,304",GJ01,Second Owner,1197,Manual,2018,21.21,81.80,113,Jun,2018,50,6.36,Ahmedabad,
+Hyundai,Grand i10 Magna,Third Party,Petrol,5,"16,317",GJ06,Second Owner,1197,Manual,2017,18.9,81.86,113.75,Jun,2017,60,4.78,Ahmedabad,
+Hyundai,Grand i10 1.2 Kappa Sportz BSIV,Third Party,Petrol,5,"5,43,000",GJ27,First Owner,1197,Manual,2017,18.9,81.86,113.75,Jun,2017,60,5.43,Ahmedabad,
+Hyundai,Grand i10 Nios Sportz,Comprehensive,Petrol,5,"55,152",GJ18,First Owner,1197,Manual,2020,20.7,81.86,113.8,Jun,2020,30,6.18,Ahmedabad,14
+Maruti,Baleno 1.2 Delta,Third Party,Petrol,5,"93,944",GJ18,First Owner,1197,Manual,2017,21.4,83.1,115,Jun,2017,60,5.09,Ahmedabad,
+Tata,Tiago XZA Plus AMT,Third Party insurance,Petrol,5,"50,000",,First Owner,1199,Automatic,2021,19,84.82,113,,,20,5.6,Ahmedabad,15
+Maruti,Baleno Zeta,Not Available,Petrol,5,"28,789",GJ18,First Owner,1197,Manual,2021,21.01,81.80,113,May,2021,20,7.0,Ahmedabad,R16
+Maruti,Celerio VXI,Third Party insurance,Petrol,5,"60,000",,Second Owner,998,Manual,2017,23.1,67.04,90,,,60,4.0,Ahmedabad,
+Hyundai,Grand i10 1.2 CRDi Magna,Not Available,Diesel,5,"1,05,005",GJ01,Second Owner,1186,Manual,2017,24,73.97,190.24,Aug,2017,60,3.1,Ahmedabad,
+Hyundai,Elantra CRDi SX AT,Third Party insurance,Diesel,5,"80,000",,Fourth Owner,1582,Automatic,2013,19.5,126.24,259.87,,,75,4.8,Ahmedabad,16
+Hyundai,Verna 1.6 SX,Third Party,Diesel,5,"1,08,143",GJ01,First Owner,1582,Manual,2014,22.32,126.32,259.8,Feb,2015,75,5.0,Ahmedabad,16
+Tata,Harrier XZ Dark Edition BSIV,Third Party insurance,Diesel,5,"13,800",,First Owner,1956,Manual,2019,17,138.1,350,,,40,16.0,Ahmedabad,17
+Tata,Punch Creative IRA,Third Party insurance,Petrol,5,"10,000",,Second Owner,1199,Manual,2021,20.09,117.74,115,,,20,8.51,Ahmedabad,16
+Maruti,Baleno 1.2 Delta,Third Party,Petrol,5,"71,737",GJ01,First Owner,1197,Manual,2017,21.4,83.1,115,Jun,2017,60,5.35,Ahmedabad,
+Hyundai,Santro Sportz BSIV,Zero Dep,Petrol,5,"63,845",GJ06,First Owner,1086,Manual,2019,20.3,68,99,Jun,2019,40,4.86,Ahmedabad,
+Ford,Ecosport 1.5 Diesel Titanium,Third Party,Diesel,5,"72,853",GJ27,First Owner,1498,Manual,2020,21.7,98.96,215,Jun,2020,30,8.86,Ahmedabad,R16
+Maruti,Alto 800 LXI,Third Party,Petrol,5,"72,430",GJ08,First Owner,796,Manual,2016,22.74,47.3,69,Jun,2016,70,2.92,Ahmedabad,
+Toyota,Glanza G CVT,Comprehensive,Petrol,5,"8,947",GJ01,First Owner,1197,Automatic,2021,19.56,81.80,113,Jun,2021,20,8.11,Ahmedabad,R16
+Maruti,Swift VXI,Zero Dep,Petrol,5,"84,075",GJ01,Second Owner,1197,Manual,2012,18.6,85.8,114,Jun,2012,75,3.46,Ahmedabad,14
+Honda,Amaze S i-Vtech,Third Party,Petrol,5,"62,634",GJ23,Second Owner,1198,Manual,2014,18,86.7,109,Jun,2014,75,4.69,Ahmedabad,
+Maruti,Wagon R AMT VXI,Third Party,Petrol,5,"51,236",GJ06,First Owner,998,Automatic,2018,20.51,67,90,Jun,2018,50,4.66,Ahmedabad,
+Maruti,Alto 800 VXI,Third Party,Petrol,5,"83,080",GJ01,First Owner,796,Manual,2017,24.7,47.3,69,Jun,2017,60,3.18,Ahmedabad,
+Hyundai,i20 Sportz 1.2,Zero Dep,Petrol,5,"91,531",GJ01,First Owner,1197,Manual,2017,18.6,81.83,114.7,Jun,2017,60,5.54,Ahmedabad,
+Tata,New Safari XTA Plus Dark Edition,Third Party,Diesel,7,"19,600",GJ01,First Owner,1956,Automatic,2022,14.08,167.67,350,Jun,2022,15,19.37,Ahmedabad,18
+Maruti,Baleno 1.2 Delta,Third Party,Petrol,5,"5,79,000",GJ27,First Owner,1197,Manual,2019,21.4,83.1,115,Jun,2019,40,5.79,Ahmedabad,
+Tata,Sumo Gold EX,Third Party insurance,Diesel,7,"40,000",,First Owner,2956,Manual,2016,15.3,83.83,250,,,70,5.2,Ahmedabad,
+Hyundai,EON Magna Plus,Third Party insurance,Petrol,5,"15,000",,First Owner,814,Manual,2017,21.1,55.2,74.5,,,60,2.8,Ahmedabad,
+Hyundai,Santro Xing XL eRLX Euro III,Available,Petrol,5,"1,00,000",,First Owner,1086,Manual,2005,17,,,,,75,0.75,Ahmedabad,13
+Chevrolet,Enjoy TCDi LS 7 Seater,Third Party insurance,Diesel,7,"1,00,000",,Second Owner,1248,Manual,2013,18.2,73.8,172.5 ,,,75,2.15,Ahmedabad,
+Maruti,Swift ZXI,Third Party insurance,Petrol,5,"25,000",N/A,First Owner,1197,Manual,2018,21.21,81.80,113,,,50,5.9,Ahmedabad,R15
+Maruti,Swift ZXI,Third Party insurance,Petrol,5,"25,000",N/A,First Owner,1197,Manual,2018,22,81.80,113,,,50,5.8,Ahmedabad,15
+Tata,Indigo CR4,Third Party insurance,Diesel,5,"1,91,000",,First Owner,1396,Manual,2012,23.57,70,140,,,75,1.45,Ahmedabad,14
+Mahindra,Scorpio S3 7 Seater,Third Party insurance,Diesel,7,"1,24,000",,First Owner,2523,Manual,2019,15.4,75,200,,,40,8.5,Ahmedabad,
+Toyota,Yaris VX CVT BSIV,Third Party,Petrol,5,"51,630",GJ06,Second Owner,1496,Automatic,2018,17.8,105.5,140,Jun,2018,50,8.5,Ahmedabad,15
+Hyundai,Grand i10 Sportz,Third Party,Petrol,5,"60,565",GJ18,First Owner,1197,Manual,2016,18.9,82,114,Jun,2016,70,4.6,Ahmedabad,
+Maruti,Swift Dzire ZXi,Third Party,Petrol,5,"46,280",GJ01,First Owner,1298,Manual,2012,17.5,85.8,114,Jun,2012,75,4.34,Ahmedabad,14
+Maruti,Ignis 1.2 Delta BSIV,Third Party,Petrol,5,"62,321",GJ18,Second Owner,1197,Manual,2017,20.89,81.80,113,Jun,2017,60,4.64,Ahmedabad,
+Hyundai,Creta 1.6 VTVT AT SX Plus,Comprehensive,Petrol,5,"79,448",GJ01,First Owner,1591,Automatic,2017,13,121.3,151,Jun,2017,60,10.22,Ahmedabad,17
+Maruti,Swift ZXI Plus DT,Third Party,Petrol,5,"12,879",GJ01,First Owner,1197,Manual,2022,22.38,88.50,113,Jun,2022,15,8.15,Ahmedabad,15
+Maruti,Wagon R LXI BS IV,Comprehensive,Petrol,5,"76,686",GJ23,First Owner,998,Manual,2012,18.9,67.1,90,Jun,2012,75,3.16,Ahmedabad,13
+Honda,Amaze S i-VTEC,Comprehensive,Petrol,5,"72,578",GJ01,First Owner,1198,Manual,2018,17.8,86.7,109,Jun,2018,50,6.14,Ahmedabad,
+Ford,Ecosport 1.5 Diesel Titanium BSIV,Third Party,Diesel,5,"88,807",GJ06,First Owner,1498,Manual,2017,23,98.96,205,Jun,2017,60,6.77,Ahmedabad,16
+Hyundai,Aura SX Plus AMT Diesel,Third Party,Diesel,5,"31,781",GJ01,First Owner,1186,Automatic,2020,25.4,73.97,190,Jun,2020,30,9.39,Ahmedabad,R15
+Toyota,Glanza G,Third Party,Petrol,5,"13,502",GJ02,First Owner,1197,Manual,2021,21.01,81.80,113,Jun,2021,20,7.08,Ahmedabad,R16
+Ford,Freestyle Titanium,Third Party,Petrol,5,"33,059",GJ01,First Owner,1194,Manual,2020,18.5,94.93,119,Jun,2020,30,6.53,Ahmedabad,R15
+Maruti,Wagon R LXI Minor,Third Party insurance,Petrol,5,"70,000",,First Owner,1061,Manual,2009,18.9,67,84,,,75,1.21,Ahmedabad,13
+Mahindra,XUV500 AT W10 FWD,Third Party insurance,Diesel,7,"70,000",,Second Owner,2179,Automatic,2016,16,140,330,,,70,7.5,Ahmedabad,17
+Maruti,Wagon R LXI Minor,Third Party insurance,Petrol,5,"25,000",,First Owner,1061,Manual,2008,18.9,67,84,,,75,1.56,Ahmedabad,13
+Hyundai,i10 Magna 1.1L,Third Party insurance,Petrol,5,"32,000",N/A,First Owner,1086,Manual,2011,19.81,68.05,99.04,,,75,2.5,Ahmedabad,
+Honda,City i DTEC VX,Third Party insurance,Diesel,5,"1,10,000",,Second Owner,1498,Manual,2014,25.1,98.6,200,,,75,5.3,Ahmedabad,15
+Hyundai,Creta 1.6 CRDi SX Option,Comprehensive,Diesel,5,"51,001",GJ01,First Owner,1582,Manual,2017,19.67,126.2,259.9,Mar,2017,60,10.75,Ahmedabad,17
+Honda,Jazz V CVT,Comprehensive,Petrol,5,"40,000",GJ01,First Owner,1199,Automatic,2016,17.1,88.50,110,May,2016,70,6.25,Ahmedabad,15
+Toyota,Corolla Altis 1.8 G CNG,Third Party insurance,CNG,5,"1,20,000",,Third Owner,1798,Manual,2010,14.53,138,173,,,75,2.45,Ahmedabad,15
+Maruti,Swift VXI,Third Party,Petrol,5,"52,836",GJ17,First Owner,1197,Manual,2019,21.21,81.80,113,Jun,2019,40,5.88,Ahmedabad,
+Hyundai,i20 Sportz Plus BSIV,Comprehensive,Petrol,5,"82,587",GJ01,First Owner,1197,Manual,2019,18.6,81.86,117,Jun,2019,40,6.84,Ahmedabad,15
+Maruti,Swift VXI,Third Party,Petrol,5,"42,269",GJ01,Second Owner,1197,Manual,2019,21.21,81.80,113,Jun,2019,40,5.88,Ahmedabad,
+Maruti,Wagon R VXI BS IV,Third Party,Petrol,5,"84,082",GJ01,First Owner,998,Manual,2018,20.51,67.04,90,Jun,2018,50,4.21,Ahmedabad,
+Maruti,Swift VXI,Third Party,Petrol,5,"54,232",GJ08,First Owner,1197,Manual,2020,21.21,81.80,113,Jun,2020,30,6.22,Ahmedabad,
+Maruti,Swift VXI,Third Party,Petrol,5,"49,667",GJ01,First Owner,1197,Manual,2018,21.21,81.80,113,Jun,2018,50,6.04,Ahmedabad,
+Maruti,Swift VXI,Third Party,Petrol,5,"93,000",GJ01,First Owner,1197,Manual,2015,21.21,81.80,113,Jun,2015,75,4.27,Ahmedabad,
+Maruti,Swift VXI,Third Party,Petrol,5,"57,573",GJ01,First Owner,1197,Manual,2017,21.21,81.80,113,Jun,2017,60,5.27,Ahmedabad,
+Hyundai,i20 Magna,Third Party,Petrol,5,"54,397",GJ06,Second Owner,1197,Manual,2013,18.5,82.85,113.7,Jun,2013,75,3.77,Ahmedabad,14
+Hyundai,Grand i10 Asta,Third Party,Petrol,5,"80,147",GJ01,First Owner,1197,Manual,2016,18.9,82,114,Jun,2016,70,5.22,Ahmedabad,14
+Ford,Ecosport 1.5 Petrol Titanium Plus AT BSIV,Third Party,Petrol,5,"28,569",GJ01,Second Owner,1497,Automatic,2019,14.8,121.36,150,Jun,2019,40,8.76,Ahmedabad,16
+Maruti,Swift VXI,Third Party,Petrol,5,"61,393",GJ20,First Owner,1197,Manual,2020,21.21,81.80,113,Jun,2020,30,6.14,Ahmedabad,
+Kia,Seltos HTK G,Third Party insurance,Petrol,5,"1,20,000",,First Owner,1497,Manual,2020,16.8,113.43,144,,,30,9.0,Ahmedabad,
+Hyundai,Aura SX Plus AMT,Third Party insurance,Petrol,5,"10,000",,Third Owner,1197,Automatic,2020,20.1,81.86,113.8,,,30,7.15,Ahmedabad,15
+Ford,Ecosport 1.5 Ti VCT MT Trend,Available,Petrol,5,"1,10,000",,Third Owner,1499,Manual,2013,15.8,110,140,,,75,3.75,Ahmedabad,
+Toyota,Innova 2.5 G (Diesel) 8 Seater,Third Party insurance,Diesel,8,"80,000",,Second Owner,2494,Manual,2012,12.99,100,200,,,75,5.7,Ahmedabad,15
+Maruti,Wagon R LXI Minor,Third Party insurance,Petrol,5,"35,000",,Second Owner,1061,Manual,2010,18.9,67,84,,,75,1.8,Ahmedabad,13
+Toyota,Etios Liva G,Third Party insurance,Petrol,5,"90,000",,Fourth Owner,1197,Manual,2014,17.71,78.9,104,,,75,2.0,Ahmedabad,14
+Renault,Fluence Diesel E4,Third Party insurance,Diesel,5,"2,30,000",,Fourth Owner,1461,Manual,2012,21.8,78,240 ,,,75,3.95,Ahmedabad,16
+Tata,Tiago XZ,Third Party insurance,Petrol,5,"10,000",,First Owner,1199,Manual,2020,23.84,83.83,114,,,30,5.5,Ahmedabad,
+Maruti,Swift VXI,Third Party,Petrol,5,"92,020",GJ27,First Owner,1197,Manual,2017,21.21,81.80,113,Jun,2017,60,5.04,Ahmedabad,
+Hyundai,Xcent 1.2 Kappa S,Third Party,Petrol,5,"91,877",GJ01,First Owner,1197,Manual,2016,19.1,82,114,Jun,2016,70,4.96,Ahmedabad,
+Tata,Tiago XZ,Zero Dep,Petrol,5,"51,283",GJ01,First Owner,1199,Manual,2021,20.09,84.82,113,Jun,2021,20,6.22,Ahmedabad,
+Hyundai,Grand i10 Sportz,Third Party,Petrol,5,"96,729",GJ06,First Owner,1197,Manual,2015,18.9,82,114,Jun,2015,75,4.52,Ahmedabad,
+Hyundai,Creta 1.6 VTVT AT SX Plus,Comprehensive,Petrol,5,"48,840",GJ36,Second Owner,1591,Automatic,2016,13,121.3,151,Jun,2016,70,9.9,Ahmedabad,17
+Hyundai,Grand i10 Asta,Zero Dep,Petrol,5,"82,060",GJ01,First Owner,1197,Manual,2014,18.9,82,114,Jun,2014,75,4.52,Ahmedabad,14
+Hyundai,Santro Sportz,Comprehensive,Petrol,5,"13,001",GJ23,First Owner,1086,Manual,2020,20.3,68.05,99,Jun,2020,30,4.98,Ahmedabad,
+Honda,Amaze S i-VTEC,Zero Dep,Petrol,5,"71,328",GJ01,First Owner,1198,Manual,2016,17.8,86.7,109,Jun,2016,70,5.3,Ahmedabad,
+Hyundai,Grand i10 Nios Magna,Comprehensive,Petrol,5,"96,786",GJ02,First Owner,1197,Manual,2020,20.7,81.86,113.8,Jun,2020,30,6.0,Ahmedabad,
+Maruti,Swift VXI,Third Party,Petrol,5,"69,678",GJ23,First Owner,1197,Manual,2017,21.21,81.80,113,Jun,2017,60,5.22,Ahmedabad,
+Maruti,Baleno 1.2 Zeta,Third Party,Petrol,5,"96,788",GJ01,First Owner,1197,Manual,2018,21.4,83.1,115,Jun,2018,50,5.71,Ahmedabad,16
+Maruti,Baleno 1.2 Delta,Third Party,Petrol,5,"97,824",GJ01,First Owner,1197,Manual,2016,21.4,83.1,115,Jun,2016,70,5.03,Ahmedabad,
+Hyundai,i10 Magna,Third Party insurance,Petrol,5,"1,10,000",,Third Owner,1197,Manual,2011,20.36,78.9,111.7,,,75,2.0,Ahmedabad,13
+Maruti,Swift Dzire AMT VDI,Third Party insurance,Diesel,5,"80,000",,First Owner,1248,Automatic,2018,28.4,74.02,190,,,50,5.4,Ahmedabad,
+Maruti,Alto LXi,Third Party insurance,Petrol,5,"50,000",N/A,First Owner,796,Manual,2009,19.7,46.3,62,,,75,1.5,Ahmedabad,12
+Volkswagen,Polo Diesel Comfortline 1.2L,N/a,Diesel,5,"50,000",,Second Owner,1199,Manual,2013,22.07,73.9,180,,,75,2.6,Ahmedabad,15
+Hyundai,Verna VTVT 1.6 SX,Third Party insurance,Petrol,5,"30,000",,First Owner,1591,Manual,2017,17,121.3,151,,,60,7.11,Ahmedabad,16
+Maruti,Swift ZXI Plus,Third Party insurance,Petrol,5,"40,000",,First Owner,1197,Manual,2020,21.21,81.80,113,,,30,7.5,Ahmedabad,R15
+Maruti,Swift Dzire VDI,Third Party insurance,Diesel,5,"1,20,000",,Third Owner,1248,Manual,2016,26.59,74,190,,,70,4.5,Ahmedabad,
+Audi,A4 35 TDI Premium Plus,Third Party insurance,Diesel,5,"80,000",N/A,Second Owner,1968,Automatic,2017,18.25,187.74,400,,,60,23.5,Ahmedabad,17
+Hyundai,Grand i10 1.2 Kappa Magna BSIV,Third Party,Petrol,5,"27,993",GJ01,Second Owner,1197,Manual,2017,18.9,81.86,113.75,Jun,2017,60,5.11,Ahmedabad,
+Nissan,Micra Active XV,Third Party,Petrol,5,"3,60,000",GJ06,First Owner,1198,Manual,2017,19.69,67.04,104,Jun,2017,60,3.6,Ahmedabad,
+Maruti,Swift VXI,Zero Dep,Petrol,5,"41,467",GJ01,First Owner,1197,Manual,2020,21.21,81.80,113,Jun,2020,30,6.48,Ahmedabad,
+Hyundai,Grand i10 Asta Option,Comprehensive,Petrol,5,"60,596",GJ01,First Owner,1197,Manual,2014,18.9,82,114,Jun,2014,75,4.4,Ahmedabad,14
+Hyundai,Grand i10 Sportz,Comprehensive,Petrol,5,"90,764",GJ35,Second Owner,1197,Manual,2016,18.9,82,114,Jun,2016,70,4.87,Ahmedabad,
+Maruti,SX4 S Cross Alpha,Comprehensive,Petrol,5,"23,294",GJ06,First Owner,1462,Manual,2020,18.55,103.25,138,Jun,2020,30,10.65,Ahmedabad,16
+Maruti,Wagon R VXI BS IV,Comprehensive,Petrol,5,"97,759",GJ18,First Owner,998,Manual,2016,20.51,67.04,90,Jun,2016,70,4.12,Ahmedabad,
+Honda,Brio S MT,Third Party,Petrol,5,"99,009",GJ01,Second Owner,1198,Manual,2013,19.4,86.8,109,Jun,2013,75,3.07,Ahmedabad,
+Maruti,Wagon R VXI BS IV,Comprehensive,Petrol,5,"94,072",GJ13,Second Owner,998,Manual,2016,20.51,67.04,90,Jun,2016,70,3.92,Ahmedabad,
+Maruti,Ciaz Alpha Automatic BSIV,Third Party,Petrol,5,"49,775",GJ06,First Owner,1462,Automatic,2019,20.28,103.25,138,Jun,2019,40,10.03,Ahmedabad,16
+Maruti,Wagon R ZXI 1.2,Third Party,Petrol,5,"93,116",GJ08,First Owner,1197,Manual,2019,20.52,81.80,113,Jun,2019,40,5.18,Ahmedabad,
+Maruti,Swift ZXI Plus DT,Third Party,Petrol,5,"37,186",GJ27,First Owner,1197,Manual,2021,22.38,88.50,113,Jun,2021,20,8.5,Ahmedabad,15
+Hyundai,Santro Xing XG,Third Party,Petrol,5,"1,40,000",,Second Owner,1086,Manual,2004,17,,,,,75,0.9,Ahmedabad,13
+Maruti,Eeco CNG 5 Seater AC,Third Party insurance,CNG,5,"51,000",N/A,First Owner,1196,Manual,2021,20.88 ,61.68,85,,,20,5.5,Ahmedabad,
+Mahindra,Bolero Plus - AC BSIII,Third Party insurance,Diesel,9,"1,00,000",,Second Owner,2523,Manual,2013,15.96,63,180,,,75,4.0,Ahmedabad,
+Tata,Indica Quadrajet VX,Third Party insurance,Diesel,5,"1,50,000",,Fourth Owner,1248,Manual,2013,22.3,74,190,,,75,0.9,Ahmedabad,14
+Honda,Brio V AT,Third Party insurance,Petrol,5,"30,000",,Second Owner,1198,Automatic,2013,18.4,86.8,109,,,75,4.0,Ahmedabad,14
+Maruti,Wagon R LXI,Third Party insurance,Petrol,5,"53,000",,Third Owner,998,Manual,2005,18.9,67.1,90,,,75,0.9,Ahmedabad,13
+Maruti,Baleno 1.2 Delta,Third Party insurance,Petrol,5,"20,000",,First Owner,1197,Manual,2018,21.4,83.1,115,,,50,6.0,Ahmedabad,
+Maruti,Swift Dzire VDI,Third Party insurance,Diesel,5,"60,000",,First Owner,1248,Manual,2014,23.4,74,190,,,75,5.5,Ahmedabad,14
+Maruti,Swift ZXI BSIV,Third Party,Petrol,5,"51,322",GJ06,First Owner,1197,Manual,2017,22,81.80,113,Jun,2017,60,6.05,Ahmedabad,15
+Ford,Figo Titanium Blu BSIV,Third Party,Petrol,5,"38,748",GJ03,First Owner,1194,Manual,2019,20.4,94.93,120,Jun,2019,40,5.86,Ahmedabad,15
+Maruti,Baleno 1.2 Alpha,Third Party,Petrol,5,"89,011",GJ06,Second Owner,1197,Manual,2017,21.4,83.1,115,Jun,2017,60,6.1,Ahmedabad,16
+Hyundai,Grand i10 Asta,Comprehensive,Petrol,5,"88,128",GJ01,Second Owner,1197,Manual,2013,18.9,82,114,Jun,2013,75,4.22,Ahmedabad,14
+MG,Hector Sharp Diesel MT BSIV,Third Party,Diesel,5,"92,886",GJ27,First Owner,1956,Manual,2019,17.41,167.68,350,Jun,2019,40,14.46,Ahmedabad,R17
+Hyundai,Santro Magna BSIV,Third Party,Petrol,5,"27,043",GJ01,First Owner,1086,Manual,2018,20.3,68,99,Jun,2018,50,4.61,Ahmedabad,
+Maruti,Swift Dzire AMT ZXI Plus,Comprehensive,Petrol,5,"53,341",GJ27,Second Owner,1197,Automatic,2017,21.21,81.80,113,Jun,2017,60,6.56,Ahmedabad,15
+Maruti,Swift VXI,Third Party,Petrol,5,"64,845",GJ27,First Owner,1197,Manual,2021,22.38,88.50,113,Jun,2021,20,6.77,Ahmedabad,
+Hyundai,Xcent 1.2 VTVT SX,Zero Dep,Petrol,5,"50,737",GJ01,Second Owner,1197,Manual,2018,20.14,81.86,113.75,Jun,2018,50,5.46,Ahmedabad,14
+Maruti,Ciaz VXi Plus,Comprehensive,Petrol,5,"74,970",GJ01,Second Owner,1373,Manual,2014,20.73,91.1,130,Jun,2014,75,5.52,Ahmedabad,
+Maruti,SX4 S Cross Alpha,Comprehensive,Petrol,5,"55,177",GJ08,First Owner,1462,Manual,2020,18.55,103.25,138,Jun,2020,30,10.62,Ahmedabad,16
+Tata,Nexon XM Diesel S,Zero Dep,Diesel,5,"28,907",GJ38,First Owner,1497,Manual,2021,23.22,113.42,260,Jun,2021,20,9.57,Ahmedabad,
+Hyundai,i10 Magna 1.2 iTech SE,Third Party insurance,Petrol,5,"70,000",,Second Owner,1197,Manual,2012,20.36,78.9,111.7,,,75,2.1,Ahmedabad,13
+Maruti,Wagon R VXI BS IV,Third Party,Petrol,5,"96,000",,Third Owner,998,Manual,2015,20.51,67.04,90,,,75,2.55,Ahmedabad,
+Datsun,RediGO S,Individual,Petrol,5,"55,000",,First Owner,799,Manual,2017,22.7,53.64,72,,,60,1.75,Ahmedabad,
+Hyundai,Verna 1.6 SX,N/a,Diesel,5,"1,00,000",,Fourth Owner,1582,Manual,2014,22.32,126.32,259.8,,,75,3.5,Ahmedabad,16
+Maruti,Ciaz VDi Plus SHVS,Third Party insurance,Diesel,5,"1,10,000",,First Owner,1248,Manual,2016,28.09,88.5,200,,,70,5.2,Ahmedabad,
+Hyundai,Xcent 1.2 CRDi E Plus,Third Party insurance,Diesel,5,"1,20,000",,Second Owner,1186,Manual,2017,25.4,73.97,190.24,,,60,3.3,Ahmedabad,
+Maruti,Celerio X VXI BSIV,Third Party insurance,Petrol,5,"80,000",N/A,First Owner,998,Manual,2017,21.63,67,90,,,60,4.25,Ahmedabad,
+Tata,New Safari XZ Plus,Third Party insurance,Diesel,7,"37,000",N/A,First Owner,1956,Manual,2021,16.14,167.67,350,,,20,20.5,Ahmedabad,18
+Maruti,Ciaz Delta BSIV,Third Party,Petrol,5,"41,382",GJ18,First Owner,1462,Manual,2018,21.56,103.25,138,Jun,2018,50,6.99,Ahmedabad,15
+Nissan,Micra XV CVT,Third Party,Petrol,5,"65,712",GJ05,First Owner,1198,Automatic,2018,19.15,75.94,104,Jun,2018,50,5.4,Ahmedabad,15
+Hyundai,Xcent 1.2 VTVT SX,Zero Dep,Petrol,5,"41,016",GJ38,Second Owner,1197,Manual,2018,20.14,81.86,113.75,Jun,2018,50,5.56,Ahmedabad,14
+Hyundai,Elantra 2.0 SX Option AT,Third Party,Petrol,5,"83,023",GJ01,Second Owner,1999,Automatic,2018,14.62,149.92,192.2,Jun,2018,50,15.06,Ahmedabad,16
+Hyundai,Elantra 2.0 SX Option,Third Party,Petrol,5,"84,491",GJ38,First Owner,1999,Manual,2017,14.59,149.92,192.2,Jun,2017,60,9.88,Ahmedabad,16
+Maruti,Wagon R AMT VXI,Zero Dep,Petrol,5,"71,639",GJ27,First Owner,998,Automatic,2018,20.51,67,90,Jun,2018,50,4.97,Ahmedabad,
+Hyundai,Grand i10 Magna,Third Party,Petrol,5,"97,604",GJ06,First Owner,1197,Manual,2017,18.9,81.86,113.75,Jun,2017,60,4.54,Ahmedabad,
+Maruti,Ciaz Alpha Diesel,Third Party,Diesel,5,"43,621",GJ06,Second Owner,1248,Manual,2018,28.09,88.50,200,Jun,2018,50,7.88,Ahmedabad,16
+Honda,WR-V i-VTEC VX,Third Party,Petrol,5,"89,242",GJ18,First Owner,1199,Manual,2018,17.5,88.7,110,Jun,2018,50,7.44,Ahmedabad,16
+Toyota,Corolla Altis VL AT,Comprehensive,Petrol,5,"96,007",GJ01,Third Owner,1798,Automatic,2017,14.28,138.03,173,Jun,2017,60,10.57,Ahmedabad,16
+Maruti,Ciaz Delta BSIV,Third Party,Petrol,5,"59,816",GJ01,First Owner,1462,Manual,2018,21.56,103.25,138,Jun,2018,50,7.35,Ahmedabad,15
+Volkswagen,Vento 1.0 TSI Comfortline,Comprehensive,Petrol,5,"69,364",GJ24,First Owner,999,Manual,2020,17.69,108.62,175,Jun,2020,30,8.73,Ahmedabad,R15
+Maruti,Wagon R ZXI 1.2,Third Party insurance,Petrol,5,"47,586",,First Owner,1197,Manual,2019,20.52,81.80,113,,,40,5.2,Ahmedabad,
+Maruti,Zen Estilo LXI BS IV,Third Party insurance,Petrol,5,"90,000",,Third Owner,998,Manual,2012,19,67.1,90,,,75,2.0,Ahmedabad,13
+Hyundai,i10 Magna,Third Party insurance,Petrol,5,"80,000",,Third Owner,1197,Manual,2009,20.36,78.9,111.7,,,75,1.8,Ahmedabad,13
+Maruti,Swift Dzire ZDI,Third Party insurance,Diesel,5,"1,63,000",,First Owner,1248,Manual,2013,23.4,74,190,,,75,3.81,Ahmedabad,15
+Audi,A3 35 TDI Premium Plus,Third Party insurance,Diesel,5,"50,000",,First Owner,1968,Automatic,2014,20.38,143,320,,,75,17.5,Ahmedabad,17
+Mahindra,Quanto C8,Third Party insurance,Diesel,7,"70,000",,Second Owner,1493,Manual,2014,17.21,100,240,,,75,3.5,Ahmedabad,15
+Volkswagen,Vento 1.6 Highline,Comprehensive,Petrol,5,"38,199",GJ01,First Owner,1598,Manual,2013,15.04,103.2,153,May,2013,75,4.25,Ahmedabad,15
+Honda,Amaze S,Third Party insurance,Petrol,5,"15,000",N/A,First Owner,1199,Manual,2022,18.6,88.50,110,,,15,6.97,Ahmedabad,
+Maruti,Ignis 1.2 Alpha BSIV,Third Party,Petrol,5,"84,496",GJ13,First Owner,1197,Manual,2017,20.89,81.80,113,Jun,2017,60,5.05,Ahmedabad,15
+Kia,Sonet HTX Turbo iMT,Third Party,Petrol,5,"20,724",GJ01,First Owner,998,Manual,2021,18.2,118.36,172,Jun,2021,20,10.22,Ahmedabad,16
+Hyundai,Venue S,Third Party,Petrol,5,"26,909",GJ27,First Owner,1197,Manual,2022,,81.80,113.8,Jun,2022,15,8.74,Ahmedabad,
+Maruti,Celerio VXI CNG,Zero Dep,CNG,5,"25,295",GJ27,First Owner,998,Manual,2020,30.47 ,58.33,78,Jun,2020,30,5.45,Ahmedabad,
+Maruti,Alto 800 LXI,Third Party insurance,Petrol,5,"8,863",GJ38,First Owner,796,Manual,2020,22.05,47.33,69,Dec,2020,30,3.3,Ahmedabad,
+Mahindra,Thar LX 4-Str Hard Top AT,Third Party,Petrol,4,"3,624",GJ03,First Owner,1997,Automatic,2021,,150,320,Jun,2021,20,14.92,Ahmedabad,18
+Tata,Punch Creative AMT DT,Comprehensive,Petrol,5,"7,892",GJ01,First Owner,1199,Automatic,2022,18.8,117.74,115,Jun,2022,15,9.2,Ahmedabad,16
+Hyundai,i20 Petrol CVT Asta,Third Party insurance,Petrol,5,"19,100",GJ06,First Owner,1197,Automatic,2018,17.4,81.86,114.73,Jun,2018,50,6.95,Ahmedabad,15
+Mahindra,Thar LX 4-Str Hard Top AT,Zero Dep,Petrol,4,"10,684",GJ01,First Owner,1997,Automatic,2021,,150,320,Jun,2021,20,14.8,Ahmedabad,18
+Hyundai,Grand i10 1.2 Kappa Magna BSIV,Comprehensive,Petrol,5,"19,070",GJ01,First Owner,1197,Manual,2018,18.9,81.86,113.75,Jun,2018,50,5.38,Ahmedabad,
+Maruti,Swift VXI,Third Party,Petrol,5,"25,275",GJ27,First Owner,1197,Manual,2020,21.21,81.80,113,Jun,2020,30,6.59,Ahmedabad,
+Volkswagen,Taigun 1.0 TSI Highline AT,Comprehensive,Petrol,5,"6,606",GJ01,First Owner,999,Automatic,2022,18.41,113.98,178,Jun,2022,15,14.19,Ahmedabad,16
+Datsun,GO T BSIV,Third Party insurance,Petrol,5,"30,000",,First Owner,1198,Manual,2017,20.63,67,104,,,60,3.0,Ahmedabad,
+Hyundai,i10 Era,Third Party insurance,Petrol,5,"15,000",,Second Owner,1086,Manual,2012,19.81,68.05,99.04,,,75,2.9,Ahmedabad,
+Hyundai,Verna SX Opt AT Diesel,Third Party insurance,Diesel,5,"75,000",,First Owner,1493,Automatic,2020,21.3,113.45,250,,,30,10.5,Ahmedabad,16
+Hyundai,Santro Sportz BSIV,Third Party insurance,Petrol,5,"70,000",,Second Owner,1086,Manual,2019,20.3,68,99,,,40,4.25,Ahmedabad,
+Maruti,Baleno 1.2 Delta,Available,Petrol,5,"20,000",,First Owner,1197,Manual,2018,21.4,83.1,115,,,50,4.6,Ahmedabad,
+Maruti,Alto 800 VXI,Third Party insurance,Petrol,5,"40,000",,Second Owner,796,Manual,2019,24.7,47.3,69,,,40,2.7,Ahmedabad,
+Mahindra,TUV 300 T10,Available,Diesel,7,"1,20,000",,First Owner,1493,Manual,2018,18.49,100,240,,,50,7.5,Ahmedabad,15
+Maruti,Alto 800 LXI,Third Party insurance,Petrol,5,"70,000",,Second Owner,796,Manual,2015,22.74,47.3,69,,,75,2.2,Ahmedabad,
+Mahindra,Thar LX 4-Str Hard Top AT,Third Party,Petrol,4,"5,633",GJ23,First Owner,1997,Automatic,2021,,150,320,Jun,2021,20,15.48,Ahmedabad,18
+Hyundai,Grand i10 Nios AMT Sportz,Third Party,Petrol,5,"12,953",GJ01,First Owner,1197,Automatic,2020,20.7,81.86,113.8,Jun,2020,30,7.18,Ahmedabad,14
+Maruti,Swift Dzire VXI,Comprehensive,Petrol,5,"28,698",GJ27,First Owner,1197,Manual,2016,20.85,83.14,115,Jun,2016,70,5.02,Ahmedabad,
+Hyundai,Grand i10 Nios AMT Sportz,Third Party,Petrol,5,"4,699",GJ06,Second Owner,1197,Automatic,2020,20.7,81.86,113.8,Jun,2020,30,7.26,Ahmedabad,14
+Maruti,Alto 800 LXI,Comprehensive,Petrol,5,"10,923",GJ01,First Owner,796,Manual,2018,24.7,47.3,69,Jun,2018,50,3.25,Ahmedabad,
+Renault,Kiger RXZ,Zero Dep,Petrol,5,"4,044",GJ06,First Owner,999,Manual,2022,19.17,71.01,96,Jun,2022,15,8.36,Ahmedabad,16
+Maruti,Baleno 1.2 Delta,Third Party,Petrol,5,"19,509",GJ01,First Owner,1197,Manual,2018,21.4,83.1,115,Jun,2018,50,6.08,Ahmedabad,
+Maruti,Alto 800 LXI,Third Party,Petrol,5,"27,008",GJ10,Second Owner,796,Manual,2012,22.74,47.3,69,Jun,2012,75,2.17,Ahmedabad,
+Tata,Tiago XT Option,Zero Dep,Petrol,5,"8,419",GJ01,First Owner,1199,Manual,2021,19.01,84.82,113,Jun,2021,20,5.98,Ahmedabad,
+Skoda,Kushaq 1.0 TSI Ambition AT,Third Party,Petrol,5,"8,798",GJ14,First Owner,999,Automatic,2021,17.2,113.98,178,Jun,2021,20,13.72,Ahmedabad,16
+Maruti,Celerio ZXI Plus,Third Party,Petrol,5,"3,276",GJ06,First Owner,998,Manual,2021,24.97,65.71,89,Jun,2021,20,5.98,Ahmedabad,15
+Maruti,Swift Dzire VXI,Third Party,Petrol,5,"8,407",GJ01,First Owner,1197,Manual,2020,22.41,88.50,113,Jun,2020,30,7.01,Ahmedabad,
+Maruti,Eeco 5 Seater AC 2020-2022,Third Party insurance,Petrol,5,"3,600",,First Owner,1196,Manual,2021,16.11,72.41,98,,,20,4.6,Ahmedabad,
+Hyundai,i10 Sportz,Third Party insurance,Petrol,5,"60,000",,Second Owner,1197,Manual,2011,20.36,78.9,111.8,,,75,2.0,Ahmedabad,13
+Maruti,Alto 800 LXI,Third Party insurance,Petrol,5,"60,000",N/A,First Owner,796,Manual,2015,22.74,47.3,69,,,75,2.5,Ahmedabad,
+Mahindra,XUV300 W6 AMT Diesel Sunroof,Individual,Diesel,5,"25,000",,First Owner,1497,Automatic,2021,20,115,300,,,20,10.5,Ahmedabad,
+Maruti,Swift VDI,Third Party insurance,Diesel,5,"1,00,000",,Second Owner,1248,Manual,2013,22.9,74,190,,,75,3.8,Ahmedabad,14
+Tata,Zest Revotron 1.2T XE,Third Party insurance,Petrol,5,"1,20,000",,Second Owner,1193,Manual,2014,17.57,88.7,140,,,75,2.0,Ahmedabad,
+Mahindra,Bolero DI 4WD NON AC,Third Party insurance,Diesel,8,"1,20,000",N/A,First Owner,2523,Manual,2013,13.6,63,180,,,75,4.0,Ahmedabad,15
+Renault,KWID RXT,Third Party insurance,Petrol,5,"65,000",N/A,Second Owner,799,Manual,2016,25.17,53.3,72,,,70,2.6,Ahmedabad,
+Honda,Amaze S i-Vtech,Third Party,Petrol,5,"59,373",GJ01,First Owner,1198,Manual,2013,18,86.7,109,Jun,2013,75,4.02,Ahmedabad,
+MG,Hector Sharp DCT,Third Party,Petrol,5,"31,921",GJ06,First Owner,1451,Automatic,2020,13.96,141,250,Jun,2020,30,15.05,Ahmedabad,R17
+Renault,KWID 1.0 Neotech,Third Party,Petrol,5,"25,938",GJ38,First Owner,999,Manual,2020,21.74,67,91,Jun,2020,30,4.29,Ahmedabad,
+Hyundai,Grand i10 1.2 Kappa Sportz BSIV,Third Party insurance,Petrol,5,"24,657",GJ05,First Owner,1197,Manual,2019,18.9,81.86,113.75,Oct,2019,40,5.7,Ahmedabad,
+MG,Hector Sharp DCT,Third Party,Petrol,5,"27,743",GJ05,First Owner,1451,Automatic,2020,13.96,141,250,Jun,2020,30,15.05,Ahmedabad,R17
+Maruti,Alto 800 LXI,Third Party,Petrol,5,"20,240",GJ01,First Owner,796,Manual,2018,24.7,47.3,69,Jun,2018,50,3.15,Ahmedabad,
+Maruti,Wagon R LXI,Third Party,Petrol,5,"10,843",GJ01,First Owner,998,Manual,2019,21.79,67.05,90,Jun,2019,40,4.99,Ahmedabad,
+Maruti,Alto 800 LXI,Third Party,Petrol,5,"5,861",GJ23,First Owner,796,Manual,2021,22.05,47.33,69,Jun,2021,20,3.86,Ahmedabad,
+Hyundai,i20 Asta Turbo iMT,Third Party insurance,Petrol,5,"26,595",GJ01,First Owner,998,Manual,2020,20,118.36,171.62,Jun,2021,30,7.95,Ahmedabad,16
+Honda,City i-VTEC VX,Third Party,Petrol,5,"16,559",GJ01,First Owner,1497,Manual,2017,17.4,117.6,145,Jun,2017,60,8.71,Ahmedabad,16
+Hyundai,Santro Sportz BSIV,Comprehensive,Petrol,5,"13,339",GJ06,First Owner,1086,Manual,2019,20.3,68,99,Jun,2019,40,4.86,Ahmedabad,
+Renault,Kiger RXL AMT,Comprehensive,Petrol,5,"17,596",GJ27,First Owner,999,Automatic,2021,19.03,71.01,96,Jul,2021,20,6.6,Ahmedabad,
+Mahindra,Bolero Power Plus SLE,Third Party insurance,Diesel,7,"1,20,000",,First Owner,1493,Manual,2018,16.5,70,195,,,50,6.5,Ahmedabad,
+Maruti,Ciaz 1.4 Alpha,Third Party insurance,Petrol,5,"35,000",,Second Owner,1373,Manual,2015,20.73,91.1,130,,,75,6.5,Ahmedabad,16
+Hyundai,Santro Xing XL AT eRLX Euro II,Third Party insurance,Petrol,5,"70,000",,Second Owner,1086,Automatic,2007,17,,,,,75,1.5,Ahmedabad,13
+Tata,Altroz XZ Diesel,Third Party insurance,Diesel,5,"80,000",,First Owner,1497,Manual,2020,23.64,88.77,200,,,30,8.0,Ahmedabad,16
+Honda,Jazz ZX CVT,Comprehensive,Petrol,5,"15,553",GJ18,First Owner,1199,Automatic,2021,17.1,88.50,110,Aug,2021,20,11.25,Ahmedabad,15
+Maruti,Wagon R Stingray LXI,Third Party insurance,Petrol,5,"80,000",,Second Owner,998,Manual,2014,20.51,67.04,90,,,75,3.35,Ahmedabad,
+Hyundai,i20 Sportz,Third Party insurance,Petrol,5,"11,000",,First Owner,1197,Manual,2022,21,81.80,114.74,,,15,7.8,Ahmedabad,
+Honda,City E,Third Party,Petrol,5,"90,000",,Fourth Owner,1497,Manual,2012,16.8,116.3,146,,,75,2.45,Ahmedabad,15
+Hyundai,i20 Sportz,Third Party,Petrol,5,"12,402",GJ38,Second Owner,1197,Manual,2021,21,81.80,114.74,Jun,2021,20,7.42,Ahmedabad,
+Hyundai,Grand i10 1.2 Kappa Magna BSIV,Third Party,Petrol,5,"22,506",GJ18,First Owner,1197,Manual,2019,18.9,81.86,113.75,Jun,2019,40,5.44,Ahmedabad,
+Hyundai,Grand i10 Nios AMT Magna,Third Party,Petrol,5,"30,347",GJ18,First Owner,1197,Automatic,2020,20.7,81.86,113.8,Jun,2020,30,6.49,Ahmedabad,
+Hyundai,Grand i10 Magna,Third Party,Petrol,5,"28,279",GJ31,Second Owner,1197,Manual,2017,18.9,81.86,113.75,Jun,2017,60,4.92,Ahmedabad,
+Maruti,Alto 800 LXI,Comprehensive,Petrol,5,"12,198",GJ27,First Owner,796,Manual,2021,22.05,47.33,69,Jun,2021,20,3.8,Ahmedabad,
+Hyundai,Verna 1.6 VTVT AT SX,Comprehensive,Petrol,5,"49,719",GJ01,First Owner,1591,Automatic,2016,17.01,121.3,154.9,Jun,2016,70,6.4,Ahmedabad,16
+Tata,Harrier XZA Plus Dark Edition AT,Third Party,Diesel,5,"34,360",GJ18,First Owner,1956,Automatic,2022,14.6,167.67,350,Jun,2022,15,20.43,Ahmedabad,18
+Hyundai,Creta SX,Zero Dep,Petrol,5,"6,169",GJ01,First Owner,1497,Manual,2020,,113.18,143.8,Jun,2020,30,13.95,Ahmedabad,17
+Maruti,Baleno Zeta CVT,Comprehensive,Petrol,5,"18,226",GJ06,First Owner,1197,Automatic,2021,19.56,81.80,113,Jun,2021,20,8.15,Ahmedabad,R16
+Mahindra,Thar LX 4-Str Convert Top AT,Third Party,Petrol,4,"5,717",GJ01,First Owner,1997,Automatic,2021,15.2,150,320,Jun,2021,20,15.21,Ahmedabad,18
+Honda,City i-VTEC CVT ZX,Third Party,Petrol,5,"42,205",GJ06,First Owner,1497,Automatic,2018,18,117.6,145,Jun,2018,50,11.29,Ahmedabad,16
+Honda,City i-VTEC CVT V,Comprehensive,Petrol,5,"95,052",GJ05,First Owner,1497,Automatic,2017,18,117.6,145,Aug,2017,60,6.95,Ahmedabad,15
+Maruti,Swift Dzire VXI,Third Party insurance,Petrol,5,"15,000",,First Owner,1197,Manual,2021,22.41,88.50,113,,,20,6.5,Ahmedabad,
+Hyundai,Accent Executive CNG,Third Party insurance,CNG,5,"1,00,000",,Third Owner,1495,Manual,2011,13.2,93.7,124.5,,,75,1.2,Ahmedabad,13
+Maruti,Ertiga LXI Option,Third Party insurance,Petrol,7,"1,30,000",N/A,Second Owner,1373,Manual,2018,17.5,91.1,130,,,50,6.6,Ahmedabad,
+Toyota,Urban cruiser High AT,Third Party insurance,Petrol,5,"5,000",,First Owner,1462,Automatic,2022,18.76,103.26,138,,,15,11.0,Ahmedabad,16
+Maruti,Baleno Delta,Third Party,Petrol,5,"20,000",,First Owner,1197,Manual,2020,21.01,81.80,113,,,30,6.5,Ahmedabad,
+Fiat,Avventura MULTIJET Emotion,Third Party insurance,Diesel,5,"30,000",N/A,First Owner,1248,Manual,2016,20.5,91.72,209,,,70,4.36,Ahmedabad,16
+Tata,Indigo LS (TDI) BS III,Third Party insurance,Diesel,5,"60,000",,First Owner,1396,Manual,2010,19.09,69,135,,,75,1.1,Ahmedabad,14
+Honda,City i VTEC CVT SV,Third Party insurance,Petrol,5,"45,000",N/A,Second Owner,1497,Automatic,2014,18,117.3,145,,,75,5.5,Ahmedabad,
+Maruti,Wagon R Stingray VXI,Third Party insurance,Petrol,5,"59,275",GJ05,First Owner,998,Manual,2013,20.51,67.04,90,Jan,2014,75,3.25,Ahmedabad,14
+Honda,City V MT,Third Party insurance,Petrol,5,"71,882",GJ01,Third Owner,1497,Manual,2010,16.8,116.3,146,Mar,2010,75,3.3,Ahmedabad,15
+Maruti,Swift Dzire VDI,Comprehensive,Diesel,5,"91,687",GJ27,First Owner,1248,Manual,2014,23.4,74,190,Oct,2014,75,4.35,Ahmedabad,14
+Hyundai,i20 Sportz Plus,Third Party insurance,Petrol,5,"75,317",GJ27,First Owner,1197,Manual,2020,18.6,81.86,117,Mar,2020,30,6.95,Ahmedabad,15
+Maruti,Alto 800 LXI,Comprehensive,Petrol,5,"44,572",GJ03,First Owner,796,Manual,2018,24.7,47.3,69,Jun,2018,50,3.25,Ahmedabad,
+Hyundai,i20 Magna Optional 1.2,Third Party,Petrol,5,"74,594",GJ06,Second Owner,1197,Manual,2013,18.5,82.9,113.8,Jun,2013,75,3.59,Ahmedabad,14
+Honda,City 1.5 S MT,Third Party,Petrol,5,"97,128",GJ01,First Owner,1497,Manual,2011,17,"118PS at 6,600 ",146Nm at 4800 r,Jun,2011,75,3.44,Ahmedabad,15
+Tata,New Safari XZA Plus AT Dark Edition,Third Party,Diesel,7,"7,087",GJ01,First Owner,1956,Automatic,2022,14.08,167.67,350,Jun,2022,15,21.1,Ahmedabad,18
+Honda,City V AT,Third Party insurance,Petrol,5,"1,15,567",GJ06,First Owner,1497,Automatic,2011,15.6,116.3,146,Aug,2011,75,3.85,Ahmedabad,15
+Honda,Amaze S Petrol BSIV,Third Party,Petrol,5,"10,579",GJ01,First Owner,1199,Manual,2019,19.5,88.76,110,Jun,2019,40,6.75,Ahmedabad,
+Honda,City i-VTEC CVT ZX,Zero Dep,Petrol,5,"75,083",GJ01,First Owner,1497,Automatic,2017,18,117.6,145,Jun,2017,60,8.56,Ahmedabad,16
+MG,Hector Sharp Diesel MT BSIV,Third Party,Diesel,5,"40,491",GJ38,First Owner,1956,Manual,2019,17.41,167.68,350,Jun,2019,40,14.93,Ahmedabad,R17
+Fiat,Avventura Power Up 1.3 Emotion,Third Party insurance,Diesel,5,"50,000",,First Owner,1248,Manual,2016,20.5,91.72,209,,,70,4.0,Ahmedabad,16
+Mahindra,Bolero Plus AC,Third Party insurance,Diesel,9,"1,20,000",,Second Owner,2523,Manual,2014,15.96,62.1,195,,,75,5.7,Ahmedabad,
+Hyundai,Accent Executive CNG,Third Party insurance,CNG,5,"80,000",,Third Owner,1495,Manual,2012,13.2,93.7,124.5,,,75,2.5,Ahmedabad,13
+Hyundai,Santro Xing GL Plus,Third Party insurance,Petrol,5,"60,000",,Second Owner,1086,Manual,2011,17.92,62.1,96.1,,,75,2.4,Ahmedabad,13
+Hyundai,EON Era Plus,Third Party insurance,Petrol,5,"90,000",,First Owner,814,Manual,2015,21.1,55.2,74.5,,,75,2.0,Ahmedabad,
+Hyundai,Xcent 1.2 Kappa S,Third Party insurance,Petrol,5,"35,000",,First Owner,1197,Manual,2014,19.1,82,114,,,75,4.5,Ahmedabad,
+Hyundai,Verna VTVT 1.6 SX,Third Party insurance,Petrol,5,"1,20,000",,First Owner,1591,Manual,2017,17,121.3,151,,,60,8.0,Ahmedabad,16
+Maruti,Alto LXi,Third Party insurance,Petrol,5,"70,000",,Second Owner,796,Manual,2009,19.7,46.3,62,,,75,1.3,Ahmedabad,12
+Ford,Freestyle Titanium Petrol BSIV,Third Party,Petrol,5,"28,541",GJ04,First Owner,1194,Manual,2018,19,94.68,120,Jun,2018,50,5.48,Ahmedabad,15
+Hyundai,i20 Magna Optional 1.2,Comprehensive,Petrol,5,"51,013",GJ01,First Owner,1197,Manual,2013,18.5,82.9,113.8,Jun,2013,75,3.91,Ahmedabad,14
+Honda,Amaze SX i VTEC,Third Party insurance,Petrol,5,"85,880",GJ03,First Owner,1198,Manual,2016,17.8,86.7,109,Feb,2017,70,5.2,Ahmedabad,
+Maruti,Wagon R CNG LXI,Third Party,CNG,5,"47,526",GJ23,First Owner,998,Manual,2021,32.52,58.33,78,Jun,2021,20,5.59,Ahmedabad,
+Hyundai,Grand i10 Magna,Third Party,Petrol,5,"27,092",GJ01,First Owner,1197,Manual,2017,18.9,81.86,113.75,Jun,2017,60,4.99,Ahmedabad,
+Volkswagen,Vento 1.5 TDI Highline AT,Third Party insurance,Diesel,5,"1,03,331",GJ01,First Owner,1498,Automatic,2016,22.15,108.6,250,Aug,2016,70,6.5,Ahmedabad,15
+Maruti,Wagon R LXI CNG,Comprehensive,CNG,5,"53,078",GJ01,First Owner,998,Manual,2012,26.2,58.2,77,Jun,2012,75,3.09,Ahmedabad,13
+Hyundai,Santro Asta BSIV,Third Party insurance,Petrol,5,"23,085",GJ27,Second Owner,1086,Manual,2018,20.3,68,99,Nov,2018,50,4.25,Ahmedabad,
+Maruti,Alto 800 LXI,Third Party,Petrol,5,"58,642",MH15,First Owner,796,Manual,2014,22.74,47.3,69,Jun,2014,75,2.48,Ahmedabad,
+Honda,Amaze S i-VTEC,Third Party,Petrol,5,"45,309",GJ27,First Owner,1198,Manual,2018,17.8,86.7,109,Jun,2018,50,6.03,Ahmedabad,
+Mahindra,XUV500 W11 Option AT,Third Party,Diesel,7,"13,413",GJ01,First Owner,2179,Automatic,2021,15.1,152.87,360,Jun,2021,20,19.25,Ahmedabad,R18
+Honda,City i DTec VX Option,Third Party insurance,Diesel,5,"1,36,225",GJ01,First Owner,1498,Manual,2016,26,98.6,200,Oct,2016,70,6.4,Ahmedabad,15
+Honda,City 1.5 S MT,Comprehensive,Petrol,5,"99,129",GJ1K,First Owner,1497,Manual,2010,17,"118PS at 6,600 ",146Nm at 4800 r,Sept,2010,75,3.15,Ahmedabad,15
+MG,Hector Sharp Diesel MT BSIV,Third Party,Diesel,5,"55,484",GJ03,Second Owner,1956,Manual,2019,17.41,167.68,350,Jun,2019,40,14.12,Ahmedabad,R17
+Renault,Triber RXZ,Comprehensive,Petrol,7,"2,089",GJ06,First Owner,999,Manual,2022,20,71.01,96,Jun,2022,15,8.27,Ahmedabad,
+Maruti,Wagon R LXI CNG,Comprehensive,CNG,5,"51,288",GJ06,First Owner,998,Manual,2018,26.6,58.16,77,Jun,2018,50,4.69,Ahmedabad,
+Hyundai,Venue SX Plus Turbo DCT BSIV,Comprehensive,Petrol,5,"39,360",GJ38,First Owner,998,Automatic,2019,18.15,118.35,171.6,Jun,2019,40,10.4,Ahmedabad,16
+Maruti,S-Presso VXI CNG 2019-2020,Third Party,CNG,4,"34,395",GJ06,First Owner,998,Manual,2021,31.2,58.33,78,Jun,2021,20,5.08,Ahmedabad,
+Tata,Altroz XZA Plus Dark Edition DCT,Zero Dep,Petrol,5,"5,735",GJ01,First Owner,1199,Automatic,2022,18.5,86.83,113,Jun,2022,15,9.66,Ahmedabad,16
+Maruti,Ertiga VXI,Third Party,Petrol,7,"53,564",GJ01,First Owner,1373,Manual,2014,16.02,93.7,130,Jun,2014,75,6.43,Ahmedabad,
+Maruti,Wagon R CNG LXI,Zero Dep,CNG,5,"39,994",GJ34,First Owner,998,Manual,2021,32.52,58.33,78,Jun,2021,20,5.66,Ahmedabad,
+Maruti,Wagon R AMT VXI,Third Party,Petrol,5,"40,222",GJ01,First Owner,998,Automatic,2018,20.51,67,90,Jun,2018,50,4.68,Ahmedabad,
+Tata,Harrier XM,Third Party,Diesel,5,"31,140",GJ03,First Owner,1956,Manual,2021,16.35,167.67,350,Jun,2021,20,15.36,Ahmedabad,
+Maruti,Ciaz Sigma,Third Party,Petrol,5,"14,936",GJ38,First Owner,1462,Manual,2021,20.65,103.25,138,Jun,2021,20,7.92,Ahmedabad,
+Maruti,SX4 S Cross Alpha AT,Third Party,Petrol,5,"36,374",GJ27,First Owner,1462,Automatic,2020,18.43,103.25,138,Jun,2020,30,10.93,Ahmedabad,16
+Hyundai,Accent GLE,Third Party insurance,Petrol,5,"1,32,492",GJ01,First Owner,1495,Manual,2009,13.2,,12,Mar,2009,75,1.75,Ahmedabad,13
+Toyota,Etios Liva V,Comprehensive,Petrol,5,"67,491",GJ01,First Owner,1197,Manual,2011,17.71,78.9,104,Sept,2011,75,2.49,Ahmedabad,
+Hyundai,i10 Sportz 1.2,Comprehensive,Petrol,5,"78,070",GJ01,Third Owner,1197,Manual,2010,20.36,78.9,111.8,Aug,2010,75,1.85,Ahmedabad,13
+Hyundai,Verna Transform SX VTVT,Third Party insurance,Petrol,5,"30,200",GJ09,First Owner,1599,Manual,2021,16.2,103.2 PS at 5500 ,14.9 KGM at 3000 R,Feb,2021,20,10.75,Ahmedabad,14
+Hyundai,i20 Magna 1.4 CRDi,Third Party,Diesel,5,"49,000",GJ01,First Owner,1396,Manual,2016,22.54,88.73,219.7,Feb,2017,70,6.75,Ahmedabad,
+Maruti,Baleno Alpha,Comprehensive,Petrol,5,"11,892",GJ27,First Owner,1197,Manual,2022,22.35,88.50,113,Apr,2022,15,9.6,Ahmedabad,16
+Tata,Punch Creative AMT,Zero Dep,Petrol,5,"13,000",GJ01,First Owner,1199,Automatic,2021,18.8,117.74,115,Mar,2022,20,8.25,Ahmedabad,16
+Mercedes-Benz,M-Class ML 250 CDI,Not Available,Diesel,5,"1,38,961",GJ01,First Owner,2143,Automatic,2015,15.26,203.2,500,Aug,2015,75,23.0,Ahmedabad,18
+Hyundai,i20 Sportz,Comprehensive,Petrol,5,"36,933",GJ24,First Owner,1197,Manual,2021,21,81.80,114.74,Jun,2021,20,7.94,Ahmedabad,
+Toyota,Yaris J CVT BSIV,Third Party,Petrol,5,"64,508",GJ01,First Owner,1496,Automatic,2018,17.8,105.5,140,Jun,2018,50,8.55,Ahmedabad,
+Maruti,Swift Dzire VDI,Comprehensive,Diesel,5,"83,633",GJ03,First Owner,1248,Manual,2018,28.4,74.02,190,Jun,2018,50,6.88,Ahmedabad,
+Tata,Nexon XM Diesel,Third Party,Diesel,5,"20,691",GJ01,First Owner,1497,Manual,2021,23.22,113.42,260,Jun,2021,20,10.07,Ahmedabad,
+Hyundai,i20 Asta Option 1.4 CRDi,Third Party,Diesel,5,"96,280",GJ18,Second Owner,1396,Manual,2017,22.54,88.73,219.7,Jun,2017,60,6.55,Ahmedabad,16
+Maruti,Wagon R VXI BS IV,Third Party,Petrol,5,"65,119",GJ07,First Owner,998,Manual,2016,20.51,67.04,90,Jun,2016,70,3.99,Ahmedabad,
+Skoda,Rapid 1.6 MPI AT Style BSIV,Third Party,Petrol,5,"35,788",GJ06,First Owner,1598,Automatic,2017,14.84,103.2,153,Jun,2017,60,8.42,Ahmedabad,16
+Hyundai,Santro Xing GL Plus,Third Party,Petrol,5,"53,039",GJ01,First Owner,1086,Manual,2013,17.92,62.1,96.1,Jun,2013,75,2.83,Ahmedabad,13
+Tata,Nexon XZ Plus,Third Party,Petrol,5,"42,656",GJ01,First Owner,1199,Manual,2020,17.33,118.35,170,Jun,2020,30,8.68,Ahmedabad,16
+Maruti,Ciaz Alpha BSIV,Comprehensive,Petrol,5,"36,378",GJ06,First Owner,1462,Manual,2018,21.56,103.25,138,Jun,2018,50,8.61,Ahmedabad,16
+Hyundai,Venue SX Plus Turbo DCT BSIV,Zero Dep,Petrol,5,"82,200",GJ38,First Owner,998,Automatic,2019,18.15,118.35,171.6,Jun,2019,40,9.93,Ahmedabad,16
+Maruti,SX4 S Cross Alpha,Zero Dep,Petrol,5,"5,940",GJ03,First Owner,1462,Manual,2020,18.55,103.25,138,Jun,2020,30,10.22,Ahmedabad,16
+Honda,Amaze i-VTEC Privilege Edition,Comprehensive,Petrol,5,"53,900",GJ01,First Owner,1198,Manual,2019,17.8,86.7,109,Apr,2019,40,6.95,Ahmedabad,
+Hyundai,Grand i10 Nios Sportz,Comprehensive,Petrol,5,"11,000",GJ01,First Owner,1197,Manual,2022,20.7,81.86,113.8,Mar,2022,15,7.2,Ahmedabad,14
+Tata,Harrier XZA Plus AT,Comprehensive,Diesel,5,"11,452",GJ01,First Owner,1956,Automatic,2022,14.6,167.67,350,Feb,2022,15,22.51,Ahmedabad,17
+Maruti,Swift VDI,Comprehensive,Diesel,5,"40,000",GJ27,First Owner,1248,Manual,2014,28.4,74,190,Mar,2014,75,5.25,Ahmedabad,
+Maruti,Swift VXI,Third Party,Petrol,5,"25,608",GJ27,First Owner,1197,Manual,2022,22.38,88.50,113,Mar,2022,15,6.0,Ahmedabad,
+Maruti,Vitara Brezza ZDi,Comprehensive,Diesel,5,"60,680",GJ01,First Owner,1248,Manual,2019,24.3,88.5,200,Oct,2019,40,9.5,Ahmedabad,16
+Maruti,Wagon R VXI,Comprehensive,Petrol,5,"39,842",GJ01,First Owner,998,Manual,2016,21.79,67.05,90,May,2016,70,4.1,Ahmedabad,
+Mahindra,XUV500 W11 AT BSIV,Comprehensive,Diesel,7,"31,245",GJ06,First Owner,2179,Automatic,2018,15.1,152.87,360,May,2018,50,15.0,Ahmedabad,17
+Ford,Endeavour Titanium 4X2,Third Party,Diesel,7,"94,702",GJ02,First Owner,2198,Manual,2019,14.2,158.2,385,Jun,2019,40,22.3,Ahmedabad,18
+Nissan,Micra Active XL,Comprehensive,Petrol,5,"98,545",GJ01,First Owner,1198,Manual,2018,18.97,67.04,104,Jun,2018,50,3.5,Ahmedabad,
+Hyundai,i20 Asta Option 1.2,Zero Dep,Petrol,5,"86,990",GJ01,First Owner,1197,Manual,2017,18.6,81.83,114.7,Jun,2017,60,6.81,Ahmedabad,16
+Maruti,Ciaz 1.4 Zeta,Third Party,Petrol,5,"62,882",GJ01,First Owner,1373,Manual,2017,20.73,91.1,130,Jun,2017,60,6.9,Ahmedabad,15
+Kia,Seltos HTK G,Third Party,Petrol,5,"33,155",GJ01,First Owner,1497,Manual,2020,16.8,113.43,144,Jun,2020,30,10.4,Ahmedabad,
+Maruti,Swift Dzire VXI 1.2,Comprehensive,Petrol,5,"58,240",GJ01,First Owner,1197,Manual,2019,21.21,81.80,113,Jun,2019,40,5.99,Ahmedabad,
+Maruti,Wagon R LXI BS IV,Third Party insurance,Petrol,5,"39,412",GJ01,First Owner,998,Manual,2013,18.9,67.1,90,Mar,2013,75,2.7,Ahmedabad,13
+Hyundai,i10 Magna,Comprehensive,Petrol,5,"79,399",GJ01,First Owner,1197,Manual,2013,20.36,78.9,111.7,Mar,2013,75,2.82,Ahmedabad,13
+Hyundai,i20 1.2 Magna,Third Party insurance,Petrol,5,"1,04,413",GJ01,Second Owner,1197,Manual,2011,18.5,80 PS at 5200 ,"11.4 kgm at 4,000 r",Feb,2012,75,2.65,Ahmedabad,14
+Maruti,Wagon R LXI BS IV,Comprehensive,Petrol,5,"77,627",GJ01,First Owner,998,Manual,2013,18.9,67.1,90,Oct,2013,75,2.7,Ahmedabad,13
+Nissan,Micra Active XL Petrol,Third Party insurance,Petrol,5,"55,259",GJ06,First Owner,1198,Manual,2016,19.49,67.04,104,Jul,2016,70,2.98,Ahmedabad,
+Mahindra,Thar LX 4-Str Hard Top Diesel AT,Third Party,Diesel,4,"9,297",GJ03,First Owner,2184,Automatic,2022,,130,300,Jun,2022,15,16.64,Ahmedabad,18
+Maruti,Ertiga SHVS VDI Limited Edition,Third Party insurance,Diesel,7,"93,000",GJ01,First Owner,1248,Manual,2016,24.52,88.5,200,Aug,2016,70,6.3,Ahmedabad,
+Hyundai,EON D Lite Plus,Third Party insurance,Petrol,5,"46,000",GJ27,Second Owner,814,Manual,2014,21.1,55.2,74.5,Feb,2015,75,1.9,Ahmedabad,
+Hyundai,Santro Xing GL Plus,Third Party insurance,Petrol,5,"68,000",GJ21,First Owner,1086,Manual,2010,17.92,62.1,96.1,Mar,2011,75,1.65,Ahmedabad,13
+Maruti,Celerio VXI AT,Comprehensive,Petrol,5,"90,000",GJ05,Third Owner,998,Automatic,2016,23.1,67.04,90,Mar,2016,70,3.61,Ahmedabad,
+Volkswagen,Jetta 2.0L TDI Highline,Comprehensive,Diesel,5,"1,07,000",GJ01,First Owner,1968,Manual,2013,19.33,138.03,320,Mar,2013,75,6.5,Ahmedabad,16
+Kia,Sonet 1.5 HTX Diesel AT,Comprehensive,Diesel,5,"23,349",GJ01,First Owner,1493,Automatic,2022,,113.43,250,Nov,2022,15,13.51,Ahmedabad,16
+Mercedes-Benz,GLE 250d,Comprehensive,Diesel,5,"60,000",GJ01,First Owner,2143,Automatic,2018,17.9,201.15,500,Jul,2018,50,51.0,Ahmedabad,19
+Honda,City i-VTEC CVT V,Comprehensive,Petrol,5,"28,000",GJ01,First Owner,1497,Automatic,2019,18,117.6,145,Feb,2019,40,9.9,Ahmedabad,15
+Hyundai,Verna 1.6 VTVT SX,Third Party insurance,Petrol,5,"60,236",GJ01,Second Owner,1591,Manual,2016,17.01,121.3,154.9,Jun,2016,70,5.95,Ahmedabad,16
+Skoda,Rapid 1.5 TDI AT Ambition BSIV,Third Party,Diesel,5,"38,249",GJ01,First Owner,1498,Automatic,2019,21.72,108.6,250,Jun,2019,40,10.48,Ahmedabad,15
+Maruti,Alto 800 LXI,Third Party,Petrol,5,"32,230",GJ02,First Owner,796,Manual,2018,24.7,47.3,69,Jun,2018,50,3.0,Ahmedabad,
+Ford,Ecosport 1.5 Petrol Titanium Plus AT BSIV,Zero Dep,Petrol,5,"73,482",GJ18,First Owner,1497,Automatic,2018,14.8,121.36,150,Jun,2018,50,7.71,Ahmedabad,16
+Jeep,Compass 2.0 Limited,Third Party,Diesel,5,"1,49,014",GJ05,First Owner,1956,Manual,2017,17.1,170,350,Jun,2017,60,8.97,Ahmedabad,17
+Hyundai,i20 Sportz 1.4 CRDi,Third Party,Diesel,5,"84,171",GJ18,Second Owner,1396,Manual,2017,22.54,88.73,219.7,Jun,2017,60,5.48,Ahmedabad,
+Tata,Altroz XT,Third Party,Petrol,5,"19,115",GJ06,First Owner,1199,Manual,2021,19.33,86.83,113,Jun,2022,20,7.36,Ahmedabad,
+Toyota,Yaris V CVT BSIV,Third Party,Petrol,5,"32,431",GJ01,First Owner,1496,Automatic,2018,17.8,105.5,140,Jun,2018,50,9.52,Ahmedabad,15
+Skoda,Rapid 1.5 TDI AT Ambition Plus,Comprehensive,Diesel,5,"70,352",GJ01,Second Owner,1498,Automatic,2015,21.66,103.6,250,Jun,2015,75,4.9,Ahmedabad,15
+Tata,Punch Creative AMT DT,Third Party,Petrol,5,"3,332",GJ19,First Owner,1199,Automatic,2022,18.8,117.74,115,Jun,2022,15,9.52,Ahmedabad,16
+Tata,Tiago XZA Plus AMT,Third Party insurance,Petrol,5,"14,330",GJ21,First Owner,1199,Automatic,2021,19,84.82,113,Feb,2021,20,6.4,Ahmedabad,15
+Hyundai,Creta 1.6 CRDi SX,Comprehensive,Diesel,5,"49,526",GJ01,First Owner,1582,Manual,2017,19.67,126.2,259.9,Jun,2017,60,10.48,Ahmedabad,16
+Maruti,Swift VDI BSIV,Third Party,Diesel,5,"89,123",GJ01,First Owner,1248,Manual,2010,17.8,,,Oct,2010,75,2.51,Ahmedabad,15
+Hyundai,EON Era Plus,Not Available,Petrol,5,"71,240",GJ01,Third Owner,814,Manual,2012,21.1,55.2,74.5,Jan,2013,75,1.65,Ahmedabad,
+Maruti,Wagon R VXI 1.2,Not Available,Petrol,5,"13,378",GJ01,First Owner,1197,Manual,2020,20.52,81.80,113,Nov,2020,30,5.0,Ahmedabad,
+Hyundai,Grand i10 1.2 Kappa Sportz Option,Third Party,Petrol,5,"50,328",GJ27,First Owner,1197,Manual,2017,18.9,81.86,113.75,Aug,2017,60,4.5,Ahmedabad,
+Maruti,Ignis 1.2 Zeta BSIV,Zero Dep,Petrol,5,"22,954",UP78,First Owner,1197,Manual,2017,20.89,81.80,113,Jan,2018,60,4.5,Ahmedabad,15
+Tata,Tiago 1.2 Revotron XZ,Zero Dep,Petrol,5,"16,715",GJ01,First Owner,1199,Manual,2019,23.84,84,114,Dec,2019,40,5.25,Ahmedabad,14
+Hyundai,i10 Magna 1.1L,Not Available,Petrol,5,"1,08,012",GJ01,First Owner,1086,Manual,2016,19.81,68.05,99.04,Oct,2016,70,3.0,Ahmedabad,
+Maruti,Ertiga ZXI AT,Third Party,Petrol,7,"72,449",GJ27,Second Owner,1462,Automatic,2020,17.99,103.26,138,Jul,2020,30,9.5,Ahmedabad,R15
+Maruti,Zen Estilo VXI BSIV,Third Party,Petrol,5,"81,462",DL3C,First Owner,998,Manual,2010,19,67.1,90,Jun,2010,75,1.63,Ahmedabad,13
+Maruti,Eeco 7 Seater Standard BSIV,Third Party,Petrol,7,"89,668",GJ01,First Owner,1196,Manual,2018,15.37,73,101,Jun,2018,50,4.36,Ahmedabad,
+Maruti,Eeco 5 Seater AC 2020-2022,Third Party,Petrol,5,"33,114",GJ23,First Owner,1196,Manual,2020,16.11,72.41,98,Jun,2020,30,5.01,Ahmedabad,
+Maruti,Eeco 5 Seater AC 2020-2022,Third Party,Petrol,5,"9,116",GJ16,First Owner,1196,Manual,2021,16.11,72.41,98,Jun,2021,20,5.07,Ahmedabad,
+Maruti,Eeco CNG 5 Seater AC,Zero Dep,CNG,5,"4,838",GJ06,First Owner,1196,Manual,2022,20.88 ,61.68,85,Jun,2022,15,5.92,Ahmedabad,
+Maruti,Eeco 5 Seater AC 2020-2022,Comprehensive,Petrol,5,"27,464",GJ35,First Owner,1196,Manual,2020,16.11,72.41,98,Jun,2020,30,4.93,Ahmedabad,
+Maruti,Eeco 5 Seater AC,Third Party,Petrol,5,"12,305",GJ27,First Owner,1197,Manual,2021,19.71,79.65,104.4,Jun,2021,20,5.04,Ahmedabad,
+Hyundai,Alcazar Signature Diesel AT,Comprehensive,Diesel,6,"31,008",GJ23,First Owner,1493,Automatic,2021,18.1,113.42,250,Jun,2021,20,20.27,Ahmedabad,18
+Maruti,Swift VXI,Comprehensive,Petrol,5,"20,965",GJ01,First Owner,1197,Manual,2017,21.21,81.80,113,Jun,2017,60,5.49,Ahmedabad,
+Hyundai,Grand i10 Asta,Third Party,Petrol,5,"31,319",GJ01,First Owner,1197,Manual,2014,18.9,82,114,Jun,2014,75,4.49,Ahmedabad,14
+Tata,Nexon XZ Plus S 2020-2022,Third Party,Petrol,5,"4,871",GJ01,First Owner,1199,Manual,2021,17.57,118.36,170,Jun,2021,20,10.84,Ahmedabad,16
+Tata,Nexon XMA AMT S,Third Party,Petrol,5,"3,65,43,654",GJ38,First Owner,1199,Automatic,2021,17.05,118.35,170,Jun,2021,20,10.19,Ahmedabad,
+Toyota,Innova 2.5 Z Diesel 7 Seater BS IV,Comprehensive,Diesel,7,"99,000",GJ04,First Owner,2494,Manual,2014,12.99,100.6,200,Mar,2014,75,9.75,Ahmedabad,15
+Hyundai,i20 Asta Option,Comprehensive,Petrol,5,"13,000",GJ01,First Owner,1197,Manual,2017,18.6,81.86,117,Sept,2017,60,7.25,Ahmedabad,16
+Fiat,Punto 1.3 Emotion,Comprehensive,Diesel,5,"60,000",GJ01,First Owner,1248,Manual,2014,20.3,75,197,Jul,2014,75,2.25,Ahmedabad,15
+Maruti,Ignis Sigma,Third Party,Petrol,5,"27,000",GJ06,First Owner,1197,Manual,2021,20.89,81.80,113,Sept,2021,20,5.5,Ahmedabad,
+Maruti,S-Presso VXI Opt CNG,Not Available,CNG,4,"31,100",MH47,First Owner,998,Manual,2020,,58.33,78,Jul,2020,30,4.4,Ahmedabad,
+Skoda,New Laura Ambition 2.0 TDI CR MT,Not Available,Diesel,5,"1,39,317",GJ01,Third Owner,1968,Manual,2013,20,108.5,250,Jan,2013,75,4.34,Ahmedabad,16
+Mahindra,XUV300 W6,Third Party,Petrol,5,"12,024",GJ01,First Owner,1197,Manual,2020,17,108.6,200,Jul,2020,30,7.4,Ahmedabad,
+Honda,City 1.5 S MT,Not Available,Petrol,5,"1,08,235",GJ01,Second Owner,1497,Manual,2010,17,"118PS at 6,600 ",146Nm at 4800 r,Dec,2010,75,3.0,Ahmedabad,15
+Maruti,Swift VXI,Zero Dep,Petrol,5,"20,701",GJ06,First Owner,1197,Manual,2018,21.21,81.80,113,Jun,2018,50,6.08,Ahmedabad,
+Hyundai,Grand i10 Sportz,Third Party,Petrol,5,"60,729",GJ01,Second Owner,1197,Manual,2015,18.9,82,114,Jun,2015,75,4.6,Ahmedabad,
+Maruti,Swift Dzire VXI,Comprehensive,Petrol,5,"60,932",GJ06,Second Owner,1197,Manual,2017,20.85,83.14,115,Jun,2017,60,6.38,Ahmedabad,
+Hyundai,i20 1.2 Magna Opt,Third Party,Petrol,5,"78,296",GJ01,Second Owner,1197,Manual,2012,17,80 PS at 5200 ,"11.4 kgm at 4,000 r",Jun,2012,75,3.47,Ahmedabad,14
+Volkswagen,Vento 1.6 Highline,Comprehensive,Petrol,5,"65,197",GJ06,First Owner,1598,Manual,2015,15.04,103.2,153,Jun,2015,75,6.37,Ahmedabad,15
+Maruti,Ciaz Alpha,Third Party,Petrol,5,"86,023",GJ23,First Owner,1462,Manual,2020,20.65,103.25,138,Jun,2020,30,8.7,Ahmedabad,16
+Maruti,Celerio ZXI MT BSIV,Third Party,Petrol,5,"16,866",GJ06,First Owner,998,Manual,2018,23.1,67.04,90,Jun,2018,50,4.69,Ahmedabad,
+Hyundai,Grand i10 1.2 Kappa Sportz Option,Third Party,Petrol,5,"38,641",GJ01,First Owner,1197,Manual,2017,18.9,81.86,113.75,Jun,2017,60,4.71,Ahmedabad,
+Maruti,Eeco 5 Seater AC 2020-2022,Third Party,Petrol,5,"11,969",GJ01,First Owner,1196,Manual,2021,16.11,72.41,98,Jun,2021,20,5.54,Ahmedabad,
+Hyundai,Verna VTVT 1.6 SX,Not Available,Petrol,5,"40,499",GJ27,First Owner,1591,Manual,2019,17,121.3,151,Feb,2019,40,8.81,Ahmedabad,16
+Ford,Aspire 1.2 Ti-VCT Trend,Not Available,Petrol,5,"44,960",GJ01,Second Owner,1196,Manual,2017,18.16,86.8,112,May,2018,60,3.5,Ahmedabad,
+Volkswagen,Vento Petrol Highline,Comprehensive,Petrol,5,"1,26,748",GJ01,Third Owner,1598,Manual,2011,15.04,103.6,153,Apr,2011,75,2.0,Ahmedabad,15
+Maruti,Baleno Zeta,Third Party,Petrol,5,"8,796",GJ27,First Owner,1197,Manual,2021,21.01,81.80,113,Jul,2021,20,7.0,Ahmedabad,R16
+Hyundai,Verna VTVT 1.6 SX,Comprehensive,Petrol,5,"20,200",GJ01,Second Owner,1591,Manual,2019,17,121.3,151,Mar,2019,40,8.21,Ahmedabad,16
+Maruti,Eeco 5 Seater AC,Comprehensive,Petrol,5,"14,522",GJ18,First Owner,1197,Manual,2022,19.71,79.65,104.4,Mar,2022,15,6.0,Ahmedabad,
+Nissan,Magnite XE,Third Party,Petrol,5,"1,993",GJ38,First Owner,999,Manual,2022,18.75,71.02,96,Nov,2022,15,5.4,Ahmedabad,
+Maruti,Baleno Alpha,Not Available,Petrol,5,"12,520",GJ01,First Owner,1197,Manual,2022,21.01,81.80,113,May,2022,15,9.25,Ahmedabad,R16
+Maruti,Swift LXI Option,Comprehensive,Petrol,5,"65,000",GJ01,Second Owner,1197,Manual,2016,20.4,81.80,113,Aug,2016,70,4.51,Ahmedabad,
+Toyota,Innova Crysta 2.4 GX AT,Comprehensive,Diesel,7,"1,36,000",GJ06,Second Owner,2393,Automatic,2017,13.68,147.51,360,Mar,2017,60,16.5,Ahmedabad,16
+Maruti,Eeco 5 Seater AC BSIV,Third Party,Petrol,5,"55,104",GJ24,First Owner,1196,Manual,2017,15.37,73,101,Sept,2017,60,4.0,Ahmedabad,
+Land,Rover Discovery Sport TD4 HSE Luxury,Not Available,Diesel,7,"73,617",GJ01,First Owner,1999,Automatic,2019,12.97,177,430,Jan,2020,40,41.03,Ahmedabad,18
+Tata,Punch Adventure,Third Party,Petrol,5,"9,272",GJ01,First Owner,1199,Manual,2022,20.09,117.74,115,Apr,2022,15,7.0,Ahmedabad,
+Maruti,Alto 800 LXI,Comprehensive,Petrol,5,"1,02,475",GJ11,Second Owner,796,Manual,2016,22.74,47.3,69,May,2016,70,1.95,Ahmedabad,
+Kia,Sonet 1.5 HTX Diesel,Not Available,Diesel,5,"2,730",GJ01,First Owner,1493,Manual,2022,,98.63,240,Jan,2023,15,12.5,Ahmedabad,16
+Mercedes-Benz,C-Class 220 CDI AT,Comprehensive,Diesel,5,"70,800",GJ01,First Owner,2143,Automatic,2011,14.84,170,400,Mar,2011,75,11.5,Ahmedabad,16
+Nissan,Micra Active XV Petrol,Third Party insurance,Petrol,5,"51,000",GJ05,First Owner,1198,Manual,2017,19.49,67.04,104,Dec,2017,60,2.65,Ahmedabad,
+Honda,Brio S MT,Comprehensive,Petrol,5,"75,000",GJ27,Second Owner,1198,Manual,2012,19.4,86.8,109,Mar,2012,75,2.9,Ahmedabad,
+Maruti,Wagon R CNG LXI,Third Party,CNG,5,"42,471",GJ01,Second Owner,998,Manual,2021,32.52,58.33,78,Mar,2021,20,5.0,Ahmedabad,
+Volkswagen,Virtus Topline,Third Party,Petrol,5,"11,149",GJ02,First Owner,999,Manual,2022,19.4,113.98,178,Sept,2022,15,15.0,Ahmedabad,16
+Toyota,Innova 2.5 GX (Diesel) 7 Seater,Not Available,Diesel,7,"2,00,984",GJ01,First Owner,2494,Manual,2013,12.99,100,200,Jun,2013,75,6.29,Ahmedabad,15
+Maruti,Wagon R LXI Minor,Not Available,Petrol,5,"1,12,678",GJ01,Second Owner,1061,Manual,2009,18.9,67,84,Nov,2009,75,1.19,Ahmedabad,13
+Hyundai,Creta SX Opt IVT,Zero Dep,Petrol,5,"8,242",GJ01,First Owner,1497,Automatic,2022,,113.18,143.8,Jul,2022,15,17.53,Ahmedabad,17
+Hyundai,Creta 1.6 VTVT AT SX Plus,Not Available,Petrol,5,"97,399",GJ01,First Owner,1591,Automatic,2017,13,121.3,151,May,2017,60,8.0,Ahmedabad,17
+Tata,Nexon 1.5 Revotorq XZ Plus,Not Available,Diesel,5,"88,495",GJ01,Second Owner,1497,Manual,2017,21.5,108.5,260,Jan,2018,60,6.0,Ahmedabad,16
+Tata,Tiago XZA Plus AMT,Third Party,Petrol,5,"21,000",GJ01,First Owner,1199,Automatic,2021,19,84.82,113,Sept,2021,20,6.8,Ahmedabad,15
+Maruti,Swift Dzire LDI,Third Party,Diesel,5,"75,214",GJ01,Second Owner,1248,Manual,2016,23.4,74,190,Oct,2016,70,4.0,Ahmedabad,14
+Hyundai,Creta 1.6 CRDi AT SX Plus,Comprehensive,Diesel,5,"98,000",GJ01,First Owner,1582,Automatic,2016,17.01,126.2,259.9,Sept,2016,70,9.75,Ahmedabad,17
+Skoda,Octavia Laurin and Klement,Comprehensive,Petrol,5,400,,,1984,Automatic,2022,15.81,187.74,320,,,15,31.0,Ahmedabad,17
+Hyundai,Tucson 2.0 e-VGT 4WD AT GLS,Comprehensive,Diesel,5,"92,000",GJ18,First Owner,1995,Automatic,2018,16.38,182.46,400.11,Oct,2018,50,15.5,Ahmedabad,18
+Hyundai,Grand i10 Nios Sportz CNG,Comprehensive,CNG,5,"23,626",GJ13,First Owner,1197,Manual,2022,,68.05,95.2,Oct,2022,15,7.9,Ahmedabad,13
+Maruti,Eeco 5 Seater AC 2020-2022,Third Party,Petrol,5,"6,154",GJ01,First Owner,1196,Manual,2022,16.11,72.41,98,Nov,2022,15,5.0,Ahmedabad,
+Maruti,Vitara Brezza VDi,Third Party insurance,Diesel,5,"58,109",GJ18,First Owner,1248,Manual,2017,24.3,88.5,200,Feb,2017,60,7.5,Ahmedabad,
+Jeep,Compass 2.0 Limited Plus BSIV,Zero Dep,Diesel,5,"99,118",GJ01,First Owner,1956,Manual,2019,17.1,170.63,350,Apr,2019,40,12.5,Ahmedabad,18
+Audi,A4 2.0 TDI Premium Sport Limited Edition,Not Available,Diesel,5,"63,335",GJ01,First Owner,1968,Automatic,2012,17.11,174.33,380,Mar,2012,75,11.89,Ahmedabad,17
+Mercedes-Benz,E-Class E250 CDI,Comprehensive,Diesel,5,"93,000",GJ03,First Owner,2143,Automatic,2014,13,204,500,Feb,2014,75,15.75,Ahmedabad,18
+Volkswagen,Polo 1.2 MPI Comfortline,Third Party,Petrol,5,"1,11,431",GJ01,First Owner,1198,Manual,2014,16.47,74,110,Jan,2015,75,3.0,Ahmedabad,
+Hyundai,Santro Sportz BSIV,Zero Dep,Petrol,5,"21,840",GJ01,First Owner,1086,Manual,2019,20.3,68,99,Jan,2020,40,4.5,Ahmedabad,
+Honda,City i DTec V,Third Party,Diesel,5,"85,932",GJ01,First Owner,1498,Manual,2017,26,98.6,200,May,2018,60,7.5,Ahmedabad,15
+Maruti,Ciaz Delta Automatic BSIV,Zero Dep,Petrol,5,"31,316",GJ12,First Owner,1462,Automatic,2020,20.28,103.25,138,Feb,2021,30,10.0,Ahmedabad,15
+Hyundai,Xcent 1.2 CRDi SX,Not Available,Diesel,5,"82,887",GJ38,Second Owner,1186,Manual,2018,25.4,73.97,190.25,Aug,2018,50,5.07,Ahmedabad,14
+Hyundai,Verna SX,Not Available,Petrol,5,"8,727",GJ27,First Owner,1497,Manual,2020,17.7,113.18,143.8,Dec,2020,30,10.5,Ahmedabad,16
+Hyundai,Santro Sportz SE AMT BSIV,Not Available,Petrol,5,"34,605",GJ38,First Owner,1086,Automatic,2019,20.3,68,99,Feb,2020,40,5.22,Ahmedabad,
+Maruti,Alto 800 LXI,Not Available,Petrol,5,"57,861",GJ01,First Owner,796,Manual,2014,22.74,47.3,69,Jul,2014,75,2.2,Ahmedabad,
+Hyundai,Creta 1.6 VTVT AT SX Plus,Third Party insurance,Petrol,5,"78,000",GJ18,First Owner,1591,Automatic,2016,13,121.3,151,Oct,2016,70,9.5,Ahmedabad,17
+Kia,Seltos GTX Plus,Zero Dep,Petrol,5,"22,980",GJ01,First Owner,1353,Manual,2019,16.5,138.08,242,Jan,2020,40,15.0,Ahmedabad,17
+Maruti,Swift Dzire VDI,Not Available,Diesel,5,"1,37,593",GJ01,Second Owner,1248,Manual,2014,23.4,74,190,Jan,2015,75,4.2,Ahmedabad,14
+Honda,City 1.5 S MT,Third Party,Petrol,5,"65,705",GJ01,Second Owner,1497,Manual,2011,17,"118PS at 6,600 ",146Nm at 4800 r,Sept,2011,75,3.17,Ahmedabad,15
+Skoda,Kushaq 1.0 TSI Ambition,Third Party,Petrol,5,"28,121",GJ38,First Owner,999,Manual,2021,19.2,113.98,178,Mar,2022,20,12.0,Ahmedabad,16
+Tata,Tiago XZA Plus AMT,Third Party insurance,Petrol,5,"14,000",GJ01,First Owner,1199,Automatic,2021,19,84.82,113,Sept,2021,20,6.8,Ahmedabad,15
+Maruti,Swift Dzire VDi,Third Party,Diesel,5,"1,59,382",GJ01,Third Owner,1248,Manual,2010,19.3,73.9,190,May,2010,75,2.1,Ahmedabad,14
+Maruti,Alto 800 LXI,Not Available,Petrol,5,"23,667",GJ01,First Owner,796,Manual,2014,22.74,47.3,69,Jul,2014,75,2.2,Ahmedabad,
+Maruti,Ciaz 1.4 Sigma,Not Available,Petrol,5,"39,573",GJ01,First Owner,1373,Manual,2018,20.73,91.1,130,Jun,2018,50,6.83,Ahmedabad,
+Chevrolet,Beat Diesel LT,Third Party,Diesel,5,"84,926",GJ01,Third Owner,936,Manual,2012,25.44,57.6,150,Aug,2012,75,1.4,Ahmedabad,14
+Maruti,Baleno 1.2 Delta,Zero Dep,Petrol,5,"1,18,332",GJ01,First Owner,1197,Manual,2018,21.4,83.1,115,Jun,2018,50,5.0,Ahmedabad,
+Mahindra,XUV500 W8 2WD,Not Available,Diesel,7,"1,20,284",GJ27,First Owner,2179,Manual,2014,15.1,140,330,Jul,2014,75,5.4,Ahmedabad,17
+Maruti,Eeco 5 Seater AC BSIV,Third Party,Petrol,5,"96,957",GJ27,First Owner,1196,Manual,2014,15.37,73,101,Dec,2014,75,2.7,Ahmedabad,
+Maruti,Swift VXI Glory Limited Edition,Not Available,Petrol,5,"21,567",GJ01,First Owner,1197,Manual,2017,20.4,83.11,115,Oct,2017,60,5.0,Ahmedabad,
+Kia,Seltos GTK,Comprehensive,Petrol,5,"77,000",GJ01,First Owner,1353,Manual,2019,16.1,138,242,Sept,2019,40,11.5,Ahmedabad,17
+Volkswagen,Ameo 1.5 TDI Highline AT,Comprehensive,Diesel,5,"76,000",GJ18,First Owner,1498,Automatic,2017,22,108.495,250,Apr,2017,60,6.25,Ahmedabad,15
+Hyundai,i20 Magna 1.2,Comprehensive,Petrol,5,"77,408",GJ01,First Owner,1197,Manual,2016,18.6,81.83,114.7,Mar,2016,70,4.7,Ahmedabad,
+Hyundai,Verna SX Opt,Not Available,Petrol,5,"9,668",GJ27,First Owner,1497,Manual,2022,17.7,113.18,143.8,Dec,2022,15,13.0,Ahmedabad,16
+Tata,Indica Terra 1.2 Safire,Third Party,Petrol,5,"1,21,866",GJ04,Second Owner,1172,Manual,2010,15.8,65,96 ,Dec,2010,75,1.0,Ahmedabad,13
+Hyundai,Grand i10 CRDi Sportz,Not Available,Diesel,5,"40,246",GJ38,First Owner,1120,Manual,2017,24,70,160,Oct,2017,60,4.2,Ahmedabad,
+Toyota,Fortuner Legender 4x2 AT,Comprehensive,Diesel,7,"21,256",GJ18,First Owner,2755,Automatic,2022,,201.15,500,Aug,2022,15,46.75,Ahmedabad,18
+Toyota,Corolla Altis G AT,Comprehensive,Petrol,5,"72,159",GJ01,First Owner,1798,Automatic,2014,14.28,138.03,173,Aug,2014,75,8.85,Ahmedabad,15
+Maruti,Swift ZDi,Comprehensive,Diesel,5,"84,173",GJ01,First Owner,1248,Manual,2012,22.9,74,190,Apr,2012,75,4.75,Ahmedabad,15
+Maruti,Baleno Delta,Third Party,Petrol,5,"22,413",GJ01,First Owner,1197,Manual,2020,21.01,81.80,113,Aug,2020,30,5.8,Ahmedabad,
+Maruti,S-Presso VXI Plus 2019-2022,Comprehensive,Petrol,5,"41,370",GJ24,First Owner,998,Manual,2020,21.7,65.71,89,Jun,2020,30,4.8,Ahmedabad,
+MG,Astor Sharp,Not Available,Petrol,5,"1,569",GJ01,First Owner,1498,Manual,2022,15.43,108.49,144,Feb,2023,15,15.0,Ahmedabad,17
+Maruti,Ciaz VXi Plus,Comprehensive,Petrol,5,"77,876",GJ01,First Owner,1373,Manual,2015,20.73,91.1,130,Jun,2015,75,6.15,Ahmedabad,
+Ford,Endeavour Titanium Plus 4X2 AT,Comprehensive,Diesel,7,"74,988",GJ03,First Owner,1996,Automatic,2021,13.9,167.62,420,Jul,2021,20,33.0,Ahmedabad,18
+Hyundai,Verna 1.6 VTVT AT SX,Comprehensive,Petrol,5,"43,002",GJ01,First Owner,1591,Automatic,2016,17.01,121.3,154.9,Feb,2016,70,6.75,Ahmedabad,16
+Maruti,Ciaz VXi Plus,Comprehensive,Petrol,5,"90,000",GJ06,First Owner,1373,Manual,2015,20.73,91.1,130,Feb,2015,75,5.5,Ahmedabad,
+Honda,City ZX CVT,Comprehensive,Petrol,5,"41,169",GJ03,First Owner,1498,Automatic,2020,18.3,119.35,145,Oct,2020,30,12.75,Ahmedabad,16
+Hyundai,i10 Magna 1.1L,Comprehensive,Petrol,5,"30,869",GJ01,First Owner,1086,Manual,2013,19.81,68.05,99.04,Jan,2013,75,3.2,Ahmedabad,
+Hyundai,Creta 1.6 SX Diesel,Comprehensive,Diesel,5,"60,353",GJ01,First Owner,1582,Manual,2019,20.5,126.2,259.87,May,2019,40,12.25,Ahmedabad,17
+Hyundai,Creta 1.6 SX Option,Comprehensive,Petrol,5,"53,862",GJ01,First Owner,1591,Manual,2019,15.8,121.3,151,May,2019,40,14.25,Ahmedabad,17
+Hyundai,Creta 1.6 VTVT S,Comprehensive,Petrol,5,"41,266",GJ01,First Owner,1591,Manual,2016,15.29,121.3,151,Jul,2016,70,8.75,Ahmedabad,
+Porsche,Cayenne Diesel,Comprehensive,Diesel,5,"1,01,995",GJ23,First Owner,2967,Automatic,2013,15.15,240,550,Mar,2013,75,32.75,Ahmedabad,18
+Land,Rover Discovery Sport TD4 HSE Luxury,Third Party insurance,Diesel,7,"55,000",GJ18,First Owner,1999,Automatic,2019,12.97,177,430,Jan,2019,40,44.0,Ahmedabad,18
+Honda,Amaze S Diesel,Comprehensive,Diesel,5,"58,000",GJ06,First Owner,1498,Manual,2016,24.7,98.63,200,Feb,2016,70,5.5,Ahmedabad,
+Ford,Ecosport 1.5 DV5 MT Titanium,Not Available,Diesel,5,"1,29,831",GJ27,First Owner,1498,Manual,2015,22.7,89.84,204,Dec,2015,75,5.0,Ahmedabad,16
+Tata,Punch Pure,Comprehensive,Petrol,5,"5,892",GJ01,First Owner,1199,Manual,2022,20.09,117.74,115,Mar,2022,15,7.9,Ahmedabad,
+Maruti,Wagon R LXI CNG,Not Available,CNG,5,"79,111",GJ01,Second Owner,998,Manual,2017,26.6,58.16,77,Apr,2017,60,3.48,Ahmedabad,
+Honda,City E,Comprehensive,Petrol,5,"94,924",GJ01,First Owner,1497,Manual,2012,16.8,116.3,146,Oct,2012,75,3.25,Ahmedabad,15
+Hyundai,Grand i10 1.2 Kappa Sportz Dual Tone,Zero Dep,Petrol,5,"34,701",GJ27,First Owner,1197,Manual,2018,18.9,81.86,113.75,Mar,2018,50,5.5,Ahmedabad,
+Hyundai,Xcent 1.1 CRDi Base,Third Party,Diesel,5,"75,018",GJ27,First Owner,1120,Manual,2017,24.4,71,180.4,Jun,2017,60,3.75,Ahmedabad,
+Maruti,SX4 S Cross DDiS 320 Delta,Third Party,Diesel,5,"1,04,062",UP14,First Owner,1598,Manual,2015,22.7,118,320,Feb,2016,75,4.5,Ahmedabad,
+Tata,New Safari DICOR 2.2 VX 4x2 BS IV,Not Available,Diesel,7,"82,757",GJ08,Second Owner,2179,Manual,2011,13.93,138.1,320,Apr,2011,75,2.2,Ahmedabad,16
+Honda,City i-DTEC VX,Not Available,Diesel,5,"69,525",GJ01,First Owner,1498,Manual,2018,25.6,97.9,200,Jan,2019,50,9.5,Ahmedabad,16
+Hyundai,Grand i10 CRDi Magna,Third Party,Diesel,5,"46,464",GJ01,Second Owner,1120,Manual,2017,24,70,160,Aug,2017,60,4.5,Ahmedabad,
+Hyundai,EON Magna Plus,Third Party,Petrol,5,"51,492",GJ01,First Owner,814,Manual,2014,21.1,55.2,74.5,Apr,2014,75,2.13,Ahmedabad,
+Honda,City i-VTEC V,Comprehensive,Petrol,5,"4,000",GJ18,First Owner,1497,Manual,2022,17.4,117.6,145,Dec,2022,15,10.6,Ahmedabad,15
+Ford,Figo Diesel EXI,Not Available,Diesel,5,"1,01,860",GJ01,First Owner,1399,Manual,2012,20,68,160,Oct,2012,75,1.75,Ahmedabad,
+Volvo,XC40 D4 R-Design,Comprehensive,Diesel,5,"67,000",GJ18,First Owner,1969,Automatic,2019,18,190,400,Aug,2019,40,33.0,Ahmedabad,18
+Maruti,Celerio VXI AT,Not Available,Petrol,5,"96,502",GJ01,Third Owner,998,Automatic,2014,23.1,67.04,90,Jan,2015,75,2.5,Ahmedabad,
+Honda,City i-DTEC V,Comprehensive,Diesel,5,"85,000",GJ01,First Owner,1498,Manual,2019,25.6,97.9,200,Feb,2019,40,9.75,Ahmedabad,15
+Honda,WR-V VX Diesel,Comprehensive,Diesel,5,"35,000",GJ01,First Owner,1498,Manual,2021,23.7,97.89,200,Jun,2021,20,10.75,Ahmedabad,16
+Maruti,Swift Dzire VDI,Third Party,Diesel,5,"1,23,344",GJ01,Second Owner,1248,Manual,2016,26.59,74,190,Dec,2016,70,4.5,Ahmedabad,
+Volkswagen,Polo GT TSI,Comprehensive,Petrol,5,"65,691",GJ36,First Owner,1197,Automatic,2019,17.21,103.5,175,Apr,2019,40,8.25,Ahmedabad,16
+Kia,Carnival Limousine,Comprehensive,Diesel,7,"70,708",GJ01,First Owner,2199,Automatic,2020,14.11,197.26,440,Aug,2020,30,28.5,Ahmedabad,18
+Honda,Brio VX AT,Third Party insurance,Petrol,5,"40,585",GJ01,First Owner,1198,Automatic,2015,16.5,86.8,109,Mar,2015,75,4.5,Ahmedabad,14
+Maruti,Swift Dzire ZXI,Comprehensive,Petrol,5,"65,317",GJ03,Second Owner,1197,Manual,2013,22.41,88.50,113,Apr,2013,75,4.4,Ahmedabad,15
+Maruti,Alto 800 LXI,Zero Dep,Petrol,5,"38,258",GJ38,First Owner,796,Manual,2018,24.7,47.3,69,Mar,2018,50,3.0,Ahmedabad,
+Renault,Scala Diesel RxL,Third Party insurance,Diesel,5,"67,000",GJ01,First Owner,1461,Manual,2013,21.64,84.8,200,May,2013,75,2.7,Ahmedabad,15
+Honda,Amaze S i-Dtech,Not Available,Diesel,5,"91,712",GJ01,Third Owner,1498,Manual,2013,25.8,98.6,200,Aug,2013,75,2.5,Ahmedabad,
+Ford,Aspire 1.2 Ti-VCT Titanium,Not Available,Petrol,5,"48,086",GJ18,Second Owner,1196,Manual,2018,18.16,86.8,112,Mar,2018,50,4.12,Ahmedabad,14
+Nissan,Sunny Diesel XE,Not Available,Diesel,5,"95,338",GJ18,Second Owner,1461,Manual,2016,22.71,84.8,200,Jun,2016,70,3.08,Ahmedabad,
+Chevrolet,Beat LT,Not Available,Petrol,5,"45,635",GJ01,Second Owner,1199,Manual,2010,18.6,79.4,108,Oct,2010,75,1.4,Ahmedabad,14
+Hyundai,Grand i10 Sportz,Third Party,Petrol,5,"73,062",GJ01,First Owner,1197,Manual,2015,18.9,82,114,Jan,2016,75,4.0,Ahmedabad,
+Tata,Altroz XE,Third Party,Petrol,5,"25,083",GJ06,First Owner,1199,Manual,2021,19.33,86.83,113,Feb,2021,20,5.7,Ahmedabad,
+Kia,Sonet GTX Plus Turbo iMT,Third Party,Petrol,5,"18,859",GJ01,First Owner,998,Manual,2021,18.2,118.36,172,Apr,2021,20,10.0,Ahmedabad,16
+Hyundai,Creta 1.6 CRDi SX,Third Party insurance,Diesel,5,"1,50,000",GJ01,First Owner,1582,Manual,2016,19.67,126.2,259.9,Jun,2016,70,8.5,Ahmedabad,16
+Hyundai,Verna 1.6 SX CRDi (O),Comprehensive,Diesel,5,"56,000",GJ01,First Owner,1582,Manual,2015,22.32,126.32,259.8,Jun,2015,75,6.9,Ahmedabad,16
+Honda,WR-V i-VTEC S,Comprehensive,Petrol,5,"43,000",GJ01,First Owner,1199,Manual,2017,17.5,88.7,110,Jul,2017,60,6.4,Ahmedabad,16
+Maruti,Ertiga VXI,Not Available,Petrol,7,"66,437",GJ01,First Owner,1373,Manual,2015,16.02,93.7,130,Jun,2015,75,5.0,Ahmedabad,
+Audi,A6 2.7 TDI,Not Available,Diesel,5,"97,759",GJ01,Fourth Owner,2698,Automatic,2010,12.4,17,38,Sept,2010,75,7.24,Ahmedabad,17
+Maruti,Swift Dzire 1.2 Vxi BSIV,Not Available,Petrol,5,"1,16,166",GJ27,First Owner,1197,Manual,2011,17.5,85.8,114,Dec,2011,75,2.5,Ahmedabad,14
+Tata,Tigor 1.05 Revotorq XT,Not Available,Diesel,5,"45,534",GJ38,Second Owner,1047,Manual,2018,24.7,69,140,Feb,2018,50,4.5,Ahmedabad,
+Hyundai,Grand i10 Magna,Not Available,Petrol,5,"44,918",GJ01,First Owner,1197,Manual,2015,18.9,82,114,Apr,2015,75,3.7,Ahmedabad,
+Datsun,GO Plus T BSIV,Not Available,Petrol,7,"99,638",GJ01,First Owner,1198,Manual,2016,19.44,67,104,Apr,2016,70,2.2,Ahmedabad,
+Toyota,Innova 2.5 VX 8 STR BSIV,Not Available,Diesel,8,"2,83,629",GJ01,First Owner,2494,Manual,2012,12.8,,20,May,2012,75,6.0,Ahmedabad,15
+Honda,WR-V SV,Third Party,Petrol,5,"18,560",GJ01,First Owner,1199,Manual,2021,16.5,88.50,110,Apr,2021,20,8.71,Ahmedabad,16
+Hyundai,Grand i10 Magna,Third Party,Petrol,5,"76,480",GJ01,First Owner,1197,Manual,2017,18.9,82,114,Oct,2017,60,5.0,Ahmedabad,
+Maruti,Eeco 7 Seater Standard BSIV,Third Party,Petrol,7,"70,006",GJ27,Second Owner,1196,Manual,2012,15.37,73,101,Feb,2013,75,3.0,Ahmedabad,
+Hyundai,i20 1.4 Magna Opt Diesel,Not Available,Diesel,5,"1,59,799",GJ01,First Owner,1396,Manual,2012,21.9,90PS at 4000,22.4 kgm at 1750-2750r,Feb,2013,75,2.2,Ahmedabad,14
+Hyundai,Verna 1.6 EX VTVT,Comprehensive,Petrol,5,"71,000",GJ01,First Owner,1591,Manual,2013,17.01,121.3,154.9,Jan,2013,75,4.5,Ahmedabad,16
+Skoda,Fabia 1.2 MPI Ambiente Petrol,Third Party,Petrol,5,"82,320",MH12,Second Owner,1198,Manual,2010,17.5,75 bhp at 5400 ,110 Nm at 3750 r,May,2010,75,1.51,Ahmedabad,14
+Maruti,SX4 S Cross Alpha DDiS 200 SH,Third Party,Diesel,5,"1,11,988",GJ18,First Owner,1248,Manual,2018,25.1,88.5,200,Mar,2018,50,7.5,Ahmedabad,R16
+Hyundai,Creta EX,Not Available,Petrol,5,"7,123",GJ02,First Owner,1497,Manual,2022,,113.18,143.8,Oct,2022,15,11.0,Ahmedabad,
+Tata,Manza Aura (ABS) Quadrajet BS IV,Third Party,Diesel,5,"2,31,200",GJ17,First Owner,1248,Manual,2012,21.12,88.8,200,Mar,2012,75,1.5,Ahmedabad,15
+Maruti,Alto K10 VXI,Third Party,Petrol,5,"45,792",GJ01,First Owner,998,Manual,2017,23.95,67.05,90,Oct,2017,60,3.7,Ahmedabad,
+Hyundai,i10 Era,Third Party,Petrol,5,"43,525",GJ01,First Owner,1086,Manual,2012,19.81,68.05,99.04,Feb,2012,75,2.5,Ahmedabad,
+Chevrolet,Sail 1.2 LS,Third Party,Petrol,5,"92,424",GJ01,First Owner,1199,Manual,2014,18.2,82.4,108.5,Nov,2014,75,1.95,Ahmedabad,
+Volkswagen,Tiguan Allspace 4Motion,Comprehensive,Petrol,7,"67,000",GJ04,First Owner,1984,Automatic,2020,17.01,187.74,320,Oct,2020,30,23.0,Ahmedabad,R18
+Maruti,Swift VXI,Third Party,Petrol,5,"35,703",GJ01,First Owner,1197,Manual,2018,22,81.80,113,Apr,2019,50,6.0,Ahmedabad,
+Hyundai,Verna 1.6 VTVT SX Option,Zero Dep,Petrol,5,"51,604",GJ01,First Owner,1591,Manual,2017,17.01,121.3,154.9,Sept,2017,60,8.2,Ahmedabad,16
+Hyundai,Creta 1.6 E Plus,Comprehensive,Petrol,5,"95,000",GJ38,First Owner,1591,Manual,2017,15.8,121.3,151,Feb,2017,60,9.25,Ahmedabad,
+Maruti,Eeco 5 Seater AC CNG,Third Party,CNG,5,"6,644",GJ01,First Owner,1197,Manual,2022,26.78 ,70.67,95,Jan,2023,15,6.5,Ahmedabad,
+Maruti,Celerio ZXI,Zero Dep,Petrol,5,"19,473",GJ27,First Owner,998,Manual,2020,21.63,67.05,90,Oct,2020,30,5.0,Ahmedabad,
+Honda,Jazz ZX CVT,Zero Dep,Petrol,5,"18,634",GJ18,First Owner,1199,Automatic,2021,17.1,88.50,110,May,2021,20,9.0,Ahmedabad,15
+Maruti,SX4 S Cross DDiS 200 Alpha,Third Party,Diesel,5,"1,14,419",GJ01,First Owner,1248,Manual,2015,23.65,88.5,200,Nov,2015,75,4.75,Ahmedabad,16
+Maruti,Eeco 5 Seater AC BSIV,Third Party,Petrol,5,"21,389",GJ01,First Owner,1196,Manual,2014,15.37,73,101,Jan,2015,75,3.25,Ahmedabad,
+Nissan,Micra XL,Third Party,Petrol,5,"38,638",GJ01,First Owner,1198,Manual,2013,18.44,75,104,Aug,2013,75,2.0,Ahmedabad,
+Hyundai,Grand i10 1.2 CRDi Magna,Third Party,Diesel,5,"90,564",GJ01,First Owner,1186,Manual,2018,24,73.97,190.24,May,2018,50,3.8,Ahmedabad,
+Renault,Duster 85PS Diesel RxL,Not Available,Diesel,5,"1,54,367",GJ27,Second Owner,1461,Manual,2013,20.45,83.8,200,Mar,2013,75,4.0,Ahmedabad,16
+Chevrolet,Beat Diesel LT,Not Available,Diesel,5,"65,014",GJ27,Second Owner,936,Manual,2013,25.44,57.6,150,Aug,2013,75,1.49,Ahmedabad,14
+Maruti,Ignis 1.2 Delta BSIV,Third Party,Petrol,5,"37,959",GJ13,First Owner,1197,Manual,2017,20.89,81.80,113,Jan,2018,60,4.2,Ahmedabad,
+Maruti,Ertiga VXI,Third Party,Petrol,7,"23,483",GJ27,First Owner,1373,Manual,2014,16.02,93.7,130,Jun,2014,75,6.0,Ahmedabad,
+Hyundai,i10 Magna 1.1L,Not Available,Petrol,5,"75,239",GJ01,Second Owner,1086,Manual,2012,19.81,68.05,99.04,Aug,2012,75,2.25,Ahmedabad,
+Ford,Ecosport 1.5 Diesel Titanium,Comprehensive,Diesel,5,"43,000",GJ01,First Owner,1498,Manual,2020,21.7,98.96,215,Nov,2020,30,9.5,Ahmedabad,R16
+Hyundai,Xcent 1.2 Kappa S,Third Party,Petrol,5,"97,923",GJ01,Second Owner,1197,Manual,2015,19.1,82,114,Jul,2015,75,3.5,Ahmedabad,
+Hyundai,i10 Sportz AT,Third Party,Petrol,5,"68,000",GJ01,Second Owner,1197,Automatic,2011,16.95,78.9,111.8,Dec,2011,75,2.5,Ahmedabad,13
+BMW,X1 sDrive 20d xLine,Comprehensive,Diesel,5,"37,000",GJ06,First Owner,1995,Automatic,2020,20.68,188,400,Jan,2020,30,32.0,Ahmedabad,17
+Ford,Aspire 1.5 TDCi Trend,Third Party,Diesel,5,"55,000",GJ38,First Owner,1498,Manual,2017,25.83,99,215,Oct,2017,60,4.9,Ahmedabad,
+Maruti,Ciaz S 1.4,Zero Dep,Petrol,5,"46,517",GJ01,First Owner,1373,Manual,2018,28.09,91.1,130,Feb,2019,50,7.25,Ahmedabad,16
+Maruti,Swift Dzire VDI,Third Party,Diesel,5,"1,23,181",GJ01,First Owner,1248,Manual,2013,23.4,74,190,Nov,2013,75,3.2,Ahmedabad,14
+Mahindra,TUV 300 T8,Third Party insurance,Diesel,7,"55,000",GJ01,First Owner,1493,Manual,2017,18.49,100,240,Apr,2017,60,7.25,Ahmedabad,15
+Chevrolet,Spark 1.0 LS,Not Available,Petrol,5,"80,855",GJ01,Second Owner,995,Manual,2012,18,62,90.3,May,2013,75,0.87774,Ahmedabad,13
+Hyundai,i20 Asta,Zero Dep,Petrol,5,"5,566",GJ27,First Owner,1197,Manual,2021,21,81.80,114.74,Sept,2021,20,7.5,Ahmedabad,16
+Mahindra,XUV700 AX5 AT,Third Party,Petrol,5,"1,513",GJ01,First Owner,1999,Automatic,2022,,197.13,380,Nov,2022,15,18.91,Ahmedabad,17
+Hyundai,Creta 1.6 CRDi SX Plus Dual Tone,Comprehensive,Diesel,5,"85,000",GJ01,First Owner,1582,Manual,2017,19.67,126.2,259.9,Feb,2017,60,9.9,Ahmedabad,17
+Honda,Amaze VX,Comprehensive,Petrol,5,"21,242",GJ05,First Owner,1199,Manual,2022,18.6,88.50,110,Feb,2022,15,8.5,Ahmedabad,15
+Maruti,Swift Dzire VDi,Third Party,Diesel,5,"1,02,079",GJ01,First Owner,1248,Manual,2009,19.3,73.9,190,Oct,2009,75,1.95,Ahmedabad,14
+Renault,KWID 1.0 RXT Optional,Third Party,Petrol,5,"47,452",GJ01,First Owner,999,Manual,2018,23.01,67,91,Aug,2018,50,2.9,Ahmedabad,
+Tata,Nexon 1.2 Revotron XMA,Not Available,Petrol,5,"30,038",GJ01,Second Owner,1198,Automatic,2019,17,108.5,170,Jan,2020,40,8.0,Ahmedabad,
+Hyundai,Venue SX Plus Turbo DCT,Not Available,Petrol,5,"29,688",GJ27,First Owner,998,Automatic,2020,18.15,118.35,172,Mar,2020,30,9.5,Ahmedabad,R16
+Honda,Amaze S,Third Party,Petrol,5,"7,283",GJ01,First Owner,1199,Manual,2022,18.6,88.50,110,Nov,2022,15,7.0,Ahmedabad,
+Volkswagen,Jetta 2.0L TDI Comfortline,Comprehensive,Diesel,5,"81,000",GJ01,First Owner,1968,Manual,2012,19.33,138.1,320,Nov,2012,75,5.25,Ahmedabad,16
+Hyundai,Accent Executive,Not Available,Petrol,5,"40,857",GJ01,First Owner,1495,Manual,2012,16.36,93.7,124.6,Nov,2012,75,2.28,Ahmedabad,13
+Maruti,Ciaz 1.4 AT Zeta,Zero Dep,Petrol,5,"66,148",GJ01,First Owner,1373,Automatic,2017,19.12,91.1,130,Jul,2017,60,6.0,Ahmedabad,15
+Tata,Manza Aura (ABS) Quadrajet BS IV,Not Available,Diesel,5,"88,771",GJ01,Second Owner,1248,Manual,2010,21.12,88.8,200,Apr,2010,75,2.0,Ahmedabad,15
+Hyundai,i20 Sportz 1.4 CRDi,Comprehensive,Diesel,5,"82,000",GJ01,First Owner,1396,Manual,2014,22.54,88.73,219.7,Apr,2014,75,4.8,Ahmedabad,
+Hyundai,Creta 1.6 VTVT AT SX Plus,Third Party,Petrol,5,"1,05,546",GJ01,First Owner,1591,Automatic,2017,13,121.3,151,Dec,2017,60,8.0,Ahmedabad,17
+Nissan,Magnite XL,Third Party,Petrol,5,"7,071",GJ01,First Owner,999,Manual,2022,18.75,71.02,96,Mar,2022,15,5.5,Ahmedabad,
+Maruti,Wagon R Stingray VXI,Third Party,Petrol,5,"96,174",GJ01,First Owner,998,Manual,2016,20.51,67.04,90,Oct,2016,70,3.3,Ahmedabad,14
+Skoda,Octavia 1.4 TSI MT Ambition,Not Available,Petrol,5,"1,03,110",GJ32,First Owner,1395,Manual,2016,16.7,148,250,Apr,2016,70,5.58,Ahmedabad,16
+Audi,A4 35 TDI Premium Sport,Comprehensive,Diesel,5,"34,569",GJ01,First Owner,1968,Automatic,2015,17.11,174.33,380,Dec,2015,75,18.75,Ahmedabad,17
+Hyundai,i20 Magna,Comprehensive,Petrol,5,"47,110",GJ18,First Owner,1197,Manual,2021,18.5,80 PS at 5200 ,"11.4 kgm at 4,000 r",Jan,2021,20,5.75,Ahmedabad,14
+Mercedes-Benz,E-Class E 220 CDI Avantgarde,Not Available,Diesel,5,"99,479",GJ01,Second Owner,2148,Automatic,2013,10,170,400,Apr,2013,75,12.05,Ahmedabad,17
+Maruti,Swift Dzire VDi,Not Available,Diesel,5,"1,51,959",GJ01,First Owner,1248,Manual,2009,19.3,73.9,190,Oct,2009,75,2.0,Ahmedabad,14
+Mahindra,KUV 100 mFALCON G80 K4 Plus,Comprehensive,Petrol,6,"55,000",GJ01,First Owner,1198,Manual,2017,18.15,82,115,Nov,2017,60,3.75,Ahmedabad,
+Chevrolet,Beat Diesel PS,Comprehensive,Diesel,5,"68,000",GJ1K,First Owner,936,Manual,2012,25.44,57.6,150,Dec,2012,75,2.0,Ahmedabad,14
+Chevrolet,Cruze LTZ,Not Available,Diesel,5,"96,927",GJ01,Second Owner,1991,Manual,2010,18.3,147.9,327,Oct,2010,75,2.6,Ahmedabad,16
+Tata,Tiago XT,Not Available,Petrol,5,"22,689",GJ13,First Owner,1199,Manual,2021,19.01,84.82,113,May,2021,20,4.5,Ahmedabad,
+Maruti,Wagon R VXI BS IV,Not Available,Petrol,5,"78,058",GJ01,First Owner,998,Manual,2015,20.51,67.04,90,Jul,2015,75,2.83,Ahmedabad,
+Mahindra,KUV 100 mFALCON G80 K6 5str,Third Party,Petrol,5,"59,139",GJ01,First Owner,1198,Manual,2016,18.15,82,115,Mar,2016,70,2.8,Ahmedabad,
+Mahindra,KUV 100 NXT Trip,Third Party,CNG,6,"71,381",GJ38,First Owner,1198,Manual,2018,18.15,82,115,Jul,2018,50,3.69,Ahmedabad,
+Hyundai,i10 Magna 1.1L,Not Available,Petrol,5,"40,610",GJ01,Second Owner,1086,Manual,2011,19.81,68.05,99.04,Dec,2011,75,2.5,Ahmedabad,
+Hyundai,Santro Magna Corp Edition,Third Party,Petrol,5,"39,854",GJ01,First Owner,1086,Manual,2020,20.3,68.07,99.07,Feb,2021,30,5.0,Ahmedabad,
+Renault,Duster 85PS Diesel RxL,Not Available,Diesel,5,"1,30,651",GJ27,First Owner,1461,Manual,2014,20.45,83.8,200,Mar,2015,75,4.5,Ahmedabad,16
+Hyundai,Grand i10 Sportz,Third Party,Petrol,5,"89,706",GJ27,First Owner,1197,Manual,2016,18.9,82,114,Oct,2016,70,4.75,Ahmedabad,
+Maruti,Wagon R LXI Minor,Third Party,Petrol,5,"1,11,506",GJ04,Third Owner,1061,Manual,2010,18.9,67,84,Jul,2010,75,1.19,Ahmedabad,13
+Toyota,Innova 2.5 GX (Diesel) 8 Seater BS IV,Not Available,Diesel,8,"1,99,364",GJ03,First Owner,2494,Manual,2014,12.99,100.6,200,Feb,2015,75,7.5,Ahmedabad,
+Honda,WR-V i-DTEC VX,Not Available,Diesel,5,"28,213",GJ01,First Owner,1498,Manual,2018,25.5,98.6,200,May,2018,50,7.92,Ahmedabad,16
+Maruti,Ertiga ZXI AT,Comprehensive,Petrol,7,"15,000",GJ18,First Owner,1462,Automatic,2021,17.99,103.26,138,Apr,2021,20,11.5,Ahmedabad,R15
+Mahindra,Thar LX 4-Str Hard Top Diesel AT,Comprehensive,Diesel,4,"51,902",GJ01,First Owner,2184,Automatic,2021,,130,300,Jun,2021,20,15.0,Ahmedabad,18
+Hyundai,i10 Magna 1.1,Third Party insurance,Petrol,5,"90,000",GJ1K,First Owner,1086,Manual,2009,19.81,68.05,99.04,Jun,2009,75,2.11,Ahmedabad,
+Nissan,Sunny XE,Comprehensive,Petrol,5,"73,000",GJ01,First Owner,1498,Manual,2011,16.95,97.7,134,Feb,2011,75,2.7,Ahmedabad,14
+Volkswagen,Jetta 1.4 TSI Comfortline,Comprehensive,Petrol,5,"80,000",GJ01,First Owner,1390,Manual,2013,14.69,120.33,200,Jun,2013,75,4.75,Ahmedabad,16
+Volvo,S60 D4 KINETIC,Comprehensive,Diesel,5,"98,000",GJ18,First Owner,1969,Automatic,2017,27.03,190,400,Nov,2017,60,17.5,Ahmedabad,17
+Jeep,Compass 2.0 Longitude Option,Comprehensive,Diesel,5,"65,000",GJ01,First Owner,1956,Manual,2017,17.1,170,350,Sept,2017,60,8.9,Ahmedabad,17
+Honda,City 1.5 S MT,Comprehensive,Petrol,5,"66,000",GJ01,Second Owner,1497,Manual,2009,17,"118PS at 6,600 ",146Nm at 4800 r,Jul,2009,75,3.11,Ahmedabad,15
+Honda,Brio EX MT,Third Party insurance,Petrol,5,"74,000",GJ01,First Owner,1198,Manual,2013,19.4,86.8,109,Mar,2013,75,3.11,Ahmedabad,
+Honda,Amaze E i-Vtech,Third Party insurance,Petrol,5,"67,000",GJ01,First Owner,1198,Manual,2014,18,86.7,109,Jul,2014,75,4.4,Ahmedabad,
+Honda,Jazz VX,Third Party insurance,Petrol,5,"43,000",GJ01,First Owner,1199,Manual,2015,18.2,88.7,110,Sept,2015,75,5.21,Ahmedabad,15
+Hyundai,Verna VTVT 1.6 SX,Comprehensive,Petrol,5,"73,000",GJ38,First Owner,1591,Manual,2018,17,121.3,151,Feb,2018,50,8.6,Ahmedabad,16
+Hyundai,Grand i10 1.2 Kappa Sportz Option AT,Third Party insurance,Petrol,5,"73,000",GJ01,First Owner,1197,Automatic,2017,18.9,81.86,113.75,Jun,2017,60,4.75,Ahmedabad,14
+Maruti,Ciaz ZXi Plus,Third Party,Petrol,5,"72,993",GJ01,First Owner,1373,Manual,2015,20.73,91.1,130,Aug,2015,75,4.5,Ahmedabad,16
+Hyundai,Creta 1.6 SX Automatic Diesel,Third Party insurance,Diesel,5,"60,000",GJ08,First Owner,1582,Automatic,2019,17.6,126.2,259.87,Feb,2019,40,13.25,Ahmedabad,17
+Hyundai,Xcent Prime T Plus CNG,Third Party,CNG,5,"1,55,865",GJ27,First Owner,1197,Manual,2017,,65.39,97.96,Feb,2018,60,3.0,Ahmedabad,
+Maruti,Baleno Delta,Comprehensive,Petrol,5,"41,000",GJ27,First Owner,1197,Manual,2019,21.01,81.80,113,Jun,2019,40,6.4,Ahmedabad,
+Maruti,Baleno Zeta CVT,Comprehensive,Petrol,5,"17,000",GJ01,First Owner,1197,Automatic,2019,19.56,81.80,113,Jul,2019,40,7.5,Ahmedabad,R16
+Maruti,Wagon R VXI,Comprehensive,Petrol,5,"43,000",GJ01,First Owner,998,Manual,2013,21.79,67.05,90,Jul,2013,75,3.3,Ahmedabad,
+Maruti,Ignis Zeta AMT,Comprehensive,Petrol,5,"60,000",GJ01,First Owner,1197,Automatic,2019,20.89,81.80,113,Jun,2019,40,5.51,Ahmedabad,15
+Maruti,Ciaz ZDi Plus SHVS,Comprehensive,Diesel,5,"68,000",GJ18,First Owner,1248,Manual,2016,28.09,88.5,200,Aug,2016,70,6.5,Ahmedabad,16
+Maruti,Alto 800 LXI,Comprehensive,Petrol,5,"11,000",GJ01,First Owner,796,Manual,2019,22.05,47.33,69,May,2019,40,3.25,Ahmedabad,
+Maruti,Alto 800 LXI,Comprehensive,Petrol,5,"19,000",GJ01,First Owner,796,Manual,2017,22.05,47.33,69,Nov,2017,60,3.25,Ahmedabad,
+Toyota,Innova 2.5 GX (Diesel) 7 Seater,Not Available,Diesel,7,"1,23,919",GJ01,First Owner,2494,Manual,2014,12.99,100.6,200,Sept,2014,75,6.5,Ahmedabad,
+Hyundai,Xcent 1.2 Kappa S,Comprehensive,Petrol,5,"38,773",GJ01,First Owner,1197,Manual,2016,19.1,82,114,Jan,2017,70,4.4,Ahmedabad,
+Mahindra,XUV500 W11 BSIV,Not Available,Diesel,7,"68,381",GJ01,First Owner,2179,Manual,2018,15.1,152.87,360,Jun,2018,50,13.0,Ahmedabad,17
+Maruti,Swift Dzire 1.2 Vxi BSIV,Not Available,Petrol,5,"89,713",GJ01,Third Owner,1197,Manual,2011,17.5,85.8,114,Apr,2011,75,2.2,Ahmedabad,14
+Ford,Ecosport 1.5 DV5 MT Trend,Not Available,Diesel,5,"79,093",GJ01,Second Owner,1498,Manual,2013,22.7,89.84,204,Jan,2014,75,4.0,Ahmedabad,
+Hyundai,i20 1.2 Sportz,Comprehensive,Petrol,5,"48,000",GJ01,First Owner,1197,Manual,2010,17,80 PS at 5200 ,"11.4 kgm at 4,000 r",Feb,2010,75,3.25,Ahmedabad,14
+Honda,City i-VTEC VX,Zero Dep,Petrol,5,"18,339",GJ01,First Owner,1497,Manual,2018,17.4,117.6,145,May,2018,50,8.0,Ahmedabad,16
+Maruti,Ertiga VDI,Third Party,Diesel,7,"2,49,779",GJ15,First Owner,1248,Manual,2013,20.77,88.76,200,Jan,2014,75,3.5,Ahmedabad,
+Hyundai,Santro Xing GLS,Not Available,Petrol,5,"94,407",GJ01,Third Owner,1086,Manual,2010,17.92,62.1,96.1,Aug,2010,75,1.14,Ahmedabad,13
+Honda,City i VTEC CVT SV,Third Party insurance,Petrol,5,"60,000",GJ01,First Owner,1497,Automatic,2015,18,117.3,145,Jul,2015,75,6.5,Ahmedabad,
+Hyundai,i10 Era 1.1 iTech SE,Third Party insurance,Petrol,5,"71,000",GJ01,First Owner,1086,Manual,2013,19.81,68.05,99.04,Sept,2013,75,3.25,Ahmedabad,13
+Hyundai,i20 1.2 Sportz Option,Third Party,Petrol,5,"1,59,115",GJ05,Second Owner,1197,Manual,2011,17,80 PS at 5200 ,"11.4 kgm at 4,000 r",Jun,2011,75,2.25,Ahmedabad,14
+Honda,Amaze E i-Dtech,Third Party,Diesel,5,"61,930",GJ01,Second Owner,1498,Manual,2015,25.8,98.6,200,Sept,2015,75,3.5,Ahmedabad,
+Mercedes-Benz,E-Class Exclusive E 220 d BSIV,Comprehensive,Diesel,5,"69,000",GJ01,First Owner,1950,Automatic,2018,16.1,191.7,400,Feb,2018,50,43.5,Ahmedabad,17
+Tata,Harrier XMA AT,Comprehensive,Diesel,5,"33,000",GJ06,First Owner,1956,Automatic,2020,14.6,167.67,350,Sept,2020,30,15.5,Ahmedabad,
+Ford,Figo Diesel EXI,Not Available,Diesel,5,"1,02,185",GJ27,First Owner,1399,Manual,2012,20,68,160,Jan,2013,75,1.5,Ahmedabad,
+Tata,Nexon XZ Plus (O),Third Party,Petrol,5,"51,852",GJ31,First Owner,1199,Manual,2020,17.57,118.36,170,Aug,2020,30,8.5,Ahmedabad,16
+Honda,City V MT,Third Party,Petrol,5,"1,59,763",GJ01,First Owner,1497,Manual,2013,16.8,116.3,146,Apr,2013,75,3.0,Ahmedabad,15
+Mercedes-Benz,C-Class C 220d Avantgarde Edition C,Comprehensive,Diesel,5,"90,000",GJ27,First Owner,2143,Automatic,2018,19.27,167.62,400,Oct,2018,50,32.0,Ahmedabad,17
+Mahindra,KUV 100 mFALCON D75 K6,Third Party,Diesel,6,"69,761",GJ01,First Owner,1198,Manual,2016,25.32,77,190,Oct,2016,70,3.0,Ahmedabad,
+Hyundai,i10 Magna,Comprehensive,Petrol,5,"70,000",GJ02,First Owner,1197,Manual,2012,20.36,78.9,111.7,Feb,2012,75,2.8,Ahmedabad,13
+Hyundai,i20 1.2 Sportz,Third Party,Petrol,5,"87,341",GJ01,First Owner,1197,Manual,2011,17,80 PS at 5200 ,"11.4 kgm at 4,000 r",Feb,2011,75,2.53,Ahmedabad,14
+Hyundai,Verna 1.6 CRDi EX MT,Third Party,Diesel,5,"1,49,836",GJ01,First Owner,1582,Manual,2012,22.32,126.3,259.9,Jun,2012,75,3.25,Ahmedabad,15
+Tata,Tiago 1.2 Revotron XZ,Third Party,Petrol,5,"73,230",GJ01,Second Owner,1199,Manual,2016,23.84,84,114,Jun,2016,70,4.0,Ahmedabad,14
+Mitsubishi,Pajero Sport 4X2 AT,Not Available,Diesel,7,"1,09,706",GJ36,Second Owner,2477,Automatic,2015,13.5,175.56,350,Dec,2015,75,10.5,Ahmedabad,17
+Datsun,GO Plus T BSIV,Not Available,Petrol,7,"53,608",GJ01,Second Owner,1198,Manual,2016,19.44,67,104,Jan,2017,70,2.35,Ahmedabad,
+Maruti,Vitara Brezza VDi,Third Party insurance,Diesel,5,"24,000",GJ27,First Owner,1248,Manual,2016,24.3,88.5,200,Jan,2016,70,7.75,Ahmedabad,
+Maruti,Baleno Delta,Third Party,Petrol,5,"71,211",GJ04,First Owner,1197,Manual,2020,21.01,81.80,113,Mar,2020,30,5.5,Ahmedabad,
+Audi,A4 2.0 TDI,Third Party insurance,Diesel,5,"47,000",GJ01,First Owner,1968,Automatic,2011,16.55,147.51,320,Jan,2011,75,9.95,Ahmedabad,16
+Mahindra,XUV500 W10 AWD,Third Party insurance,Diesel,7,"64,000",GJ27,First Owner,2179,Manual,2017,16,140,330,Feb,2017,60,10.0,Ahmedabad,17
+Fiat,Punto 1.3 Active,Third Party insurance,Diesel,5,"78,000",GJ01,First Owner,1248,Manual,2014,20.3,75,197,Jan,2014,75,2.5,Ahmedabad,14
+Volkswagen,Polo Petrol Trendline 1.2L,Third Party insurance,Petrol,5,"67,000",GJ01,First Owner,1198,Manual,2011,16.47,73.9,110,Jun,2011,75,2.7,Ahmedabad,14
+Honda,Jazz 1.2 SV i VTEC,Third Party insurance,Petrol,5,"42,000",GJ01,First Owner,1199,Manual,2017,18.7,88.7,110,Jun,2017,60,4.8,Ahmedabad,
+Volkswagen,Polo Petrol Highline 1.2L,Third Party,Petrol,5,"63,655",CH01,First Owner,1198,Manual,2010,16.47,73.9,110,Jul,2010,75,2.3,Ahmedabad,15
+Hyundai,i20 Sportz Plus CVT BSIV,Not Available,Petrol,5,"38,987",GJ18,First Owner,1197,Automatic,2019,17.4,81.86,117,Apr,2019,40,6.5,Ahmedabad,15
+Hyundai,Xcent 1.1 CRDi SX Option,Not Available,Diesel,5,"1,46,273",GJ01,Third Owner,1120,Manual,2014,24.4,71,180.4,Apr,2014,75,2.76,Ahmedabad,15
+Tata,Altroz XT,Third Party,Petrol,5,"27,605",MP07,First Owner,1199,Manual,2020,19.33,86.83,113,Feb,2020,30,7.0,Ahmedabad,
+Maruti,Swift VXI,Zero Dep,Petrol,5,"1,41,630",GJ01,First Owner,1197,Manual,2015,21.21,81.80,113,Jul,2015,75,3.42,Ahmedabad,
+Nissan,Terrano XE 85 PS,Third Party,Diesel,5,"80,320",GJ01,First Owner,1461,Manual,2016,20.45,83.8,200,May,2016,70,4.5,Ahmedabad,
+Mahindra,Thar LX 4-Str Hard Top AT,Zero Dep,Petrol,4,"29,000",GJ18,First Owner,1997,Automatic,2021,,150,320,Nov,2021,20,14.9,Ahmedabad,18
+Toyota,Innova 2.5 VX (Diesel) 7 Seater,Comprehensive,Diesel,7,"65,000",GJ01,First Owner,2494,Manual,2014,12.99,100.6,200,Aug,2014,75,9.9,Ahmedabad,15
+Mahindra,XUV300 W8 Option,Not Available,Petrol,5,"4,119",GJ38,First Owner,1197,Manual,2022,16.82,108.62,200,Nov,2022,15,11.54,Ahmedabad,16
+Honda,Amaze S i-Dtech,Zero Dep,Diesel,5,"54,000",GJ01,First Owner,1498,Manual,2014,25.8,98.6,200,May,2015,75,4.75,Ahmedabad,
+Honda,Civic 1.8 V MT,Comprehensive,Petrol,5,"82,468",GJ01,Third Owner,1799,Manual,2009,13.5,130,172,Mar,2010,75,1.98,Ahmedabad,15
+Mahindra,Xylo H8 ABS,Third Party insurance,Diesel,8,"55,000",GJ01,First Owner,2179,Manual,2015,14.02,118.3,280,Apr,2015,75,5.75,Ahmedabad,
+Maruti,Wagon R VXI BS IV,Third Party,Petrol,5,"50,143",GJ01,First Owner,998,Manual,2013,20.51,67.04,90,Jan,2014,75,2.5,Ahmedabad,
+MG,Astor Sharp,Zero Dep,Petrol,5,"2,780",GJ01,First Owner,1498,Manual,2022,15.43,108.49,144,Jun,2022,15,13.5,Ahmedabad,17
+Datsun,RediGO T Option,Third Party insurance,Petrol,5,"57,000",GJ01,First Owner,799,Manual,2018,22.7,53.64,72,Jan,2019,50,2.9,Ahmedabad,
+Maruti,Wagon R LXI Minor,Third Party,Petrol,5,"1,41,626",GJ01,Fourth Owner,1061,Manual,2009,18.9,67,84,May,2009,75,0.86758,Ahmedabad,13
+Volkswagen,T-Roc TSI,Zero Dep,Petrol,5,"58,188",GJ02,First Owner,1498,Automatic,2019,18.4,147.94,250,Oct,2020,40,15.0,Ahmedabad,R17
+Mahindra,Scorpio LX,Third Party,Diesel,9,"1,12,295",GJ01,First Owner,2179,Manual,2009,12.05,120,290,Jul,2009,75,3.0,Ahmedabad,16
+Maruti,Zen Estilo 1.1 VXI BSIII,Third Party,Petrol,5,"51,826",MH43,First Owner,1061,Manual,2008,18.2,64,84,Nov,2008,75,1.53,Ahmedabad,13
+Maruti,Celerio VDi,Third Party,Diesel,5,"94,197",GJ01,First Owner,793,Manual,2016,27.62,47,125,Feb,2017,70,3.18,Ahmedabad,
+Nissan,Micra XL Option CVT,Third Party,Petrol,5,"38,544",GJ27,First Owner,1198,Automatic,2018,19.15,75.94,104,May,2019,50,5.0,Ahmedabad,
+Hyundai,Verna 1.6 CRDI SX Option,Comprehensive,Diesel,5,"27,000",GJ01,First Owner,1582,Manual,2017,23.9,126.2,259.9,Feb,2017,60,9.95,Ahmedabad,16
+Chevrolet,Spark 1.0 LS,Not Available,Petrol,5,"41,050",GJ01,Third Owner,995,Manual,2009,18,62,90.3,Mar,2009,75,0.7,Ahmedabad,13
+Maruti,Wagon R LXI BS IV,Not Available,Petrol,5,"1,00,111",GJ01,Second Owner,998,Manual,2011,18.9,67.1,90,Nov,2011,75,1.39,Ahmedabad,13
+Honda,City V MT,Third Party,Petrol,5,"86,849",GJ01,Second Owner,1497,Manual,2011,16.8,116.3,146,Mar,2011,75,3.0,Ahmedabad,15
+Mahindra,XUV500 W10 2WD,Third Party,Diesel,7,"50,441",MH12,Second Owner,2179,Manual,2017,16,140,330,May,2017,60,12.0,Ahmedabad,17
+Chevrolet,Spark 1.0 PS,Not Available,Petrol,5,"63,042",GJ12,Second Owner,995,Manual,2010,16,63,90.3,Jan,2011,75,0.80506,Ahmedabad,13
+Maruti,Alto 800 LXI,Third Party,Petrol,5,"22,995",GJ18,First Owner,796,Manual,2020,22.05,47.33,69,Nov,2020,30,3.0,Ahmedabad,
+Mercedes-Benz,C-Class C300 Cabriolet,Zero Dep,Petrol,4,"6,668",GJ01,Second Owner,1991,Automatic,2019,9.6,345.98,370,Aug,2020,40,60.0,Ahmedabad,17
+Mahindra,XUV500 W10 2WD,Not Available,Diesel,7,"90,315",GJ01,Second Owner,2179,Manual,2015,16,140,330,Jul,2015,75,7.0,Ahmedabad,17
+Hyundai,i10 Magna,Comprehensive,Petrol,5,"20,743",GJ01,First Owner,1197,Manual,2011,20.36,78.9,111.7,May,2011,75,2.2,Ahmedabad,13
+Renault,KWID 1.0 RXT Opt,Third Party,Petrol,5,"11,000",GJ21,First Owner,999,Manual,2020,21.74,67,91,Jun,2020,30,4.75,Ahmedabad,
+Maruti,Swift LXI BSIV,Third Party,Petrol,5,"48,885",GJ12,First Owner,1197,Manual,2016,22,81.80,113,Aug,2016,70,4.0,Ahmedabad,
+BMW,X3 xDrive20d Expedition,Third Party insurance,Diesel,5,"1,06,000",GJ36,First Owner,1995,Automatic,2016,18.56,190,400,Jan,2016,70,22.0,Ahmedabad,17
+Hyundai,Xcent 1.2 Kappa S,Third Party insurance,Petrol,5,"83,000",GJ01,First Owner,1197,Manual,2016,19.1,82,114,Feb,2016,70,4.75,Ahmedabad,
+Hyundai,Xcent 1.2 Kappa S,Third Party insurance,Petrol,5,"75,000",GJ01,First Owner,1197,Manual,2015,19.1,82,114,Jan,2015,75,4.65,Ahmedabad,
+Hyundai,Xcent 1.2 VTVT S,Third Party insurance,Petrol,5,"27,000",GJ27,First Owner,1197,Manual,2019,20.14,81.86,113.75,Jan,2019,40,6.25,Ahmedabad,
+Maruti,Swift LXi BSIV,Third Party insurance,Petrol,5,"65,000",GJ01,First Owner,1197,Manual,2009,16.1,8,113,Jan,2009,75,2.25,Ahmedabad,14
+Maruti,Wagon R LXI CNG,Not Available,CNG,5,"1,10,817",GJ01,First Owner,998,Manual,2010,26.2,58.2,77,Oct,2010,75,1.7,Ahmedabad,13
+Maruti,Eeco 5 Seater AC BSIV,Not Available,Petrol,5,"84,871",GJ18,Second Owner,1196,Manual,2015,15.37,73,101,Jan,2016,75,3.0,Ahmedabad,
+Hyundai,i10 Sportz 1.1L,Comprehensive,Petrol,5,"34,937",GJ27,First Owner,1086,Manual,2014,19.81,68.05,99.04,Jan,2015,75,3.41,Ahmedabad,
+Maruti,Swift Dzire VDI,Third Party,Diesel,5,"1,07,016",GJ01,First Owner,1248,Manual,2013,23.4,74,190,Mar,2014,75,3.6,Ahmedabad,14
+Volkswagen,Polo 1.2 MPI Trendline,Third Party,Petrol,5,"1,23,290",GJ06,First Owner,1198,Manual,2017,18.78,74,110,May,2017,60,3.57,Ahmedabad,
+Mercedes-Benz,B Class B180 CDI,Third Party insurance,Diesel,5,"72,000",GJ06,Second Owner,2143,Automatic,2013,14.8,120.7,200,Jan,2014,75,7.5,Ahmedabad,16
+Hyundai,i10 Magna,Third Party insurance,Petrol,5,"78,000",GJ18,Second Owner,1197,Manual,2011,20.36,78.9,111.7,Nov,2011,75,2.25,Ahmedabad,13
+Maruti,Swift LXi BSIV,Third Party,Petrol,5,"42,000",GJ01,First Owner,1197,Manual,2010,16.1,8,113,Oct,2010,75,2.2,Ahmedabad,14
+Ford,Ecosport 1.5 TDCi Titanium BSIV,Not Available,Diesel,5,"1,37,230",GJ27,First Owner,1498,Manual,2016,22.77,98.59,205,Oct,2016,70,5.0,Ahmedabad,16
+Hyundai,Creta 1.6 SX Automatic,Third Party,Petrol,5,"31,671",GJ01,First Owner,1591,Automatic,2018,14.8,121.3,151,Oct,2018,50,10.0,Ahmedabad,17
+Hyundai,i20 Asta 1.4 CRDi,Not Available,Diesel,5,"1,28,120",GJ01,First Owner,1396,Manual,2016,22.54,88.73,219.7,Jun,2016,70,5.8,Ahmedabad,16
+Honda,City 1.5 S AT,Third Party,Petrol,5,"1,04,638",GJ01,Third Owner,1497,Automatic,2009,16.8,"118PS at 6,600 ",146Nm at 4800 r,Jun,2009,75,2.42,Ahmedabad,15
+Hyundai,Grand i10 CRDi Asta Option,Not Available,Diesel,5,"83,926",GJ11,Second Owner,1120,Manual,2016,24,70,160,Jul,2016,70,4.41,Ahmedabad,14
+Maruti,Wagon R VXI,Zero Dep,Petrol,5,"5,766",GJ27,First Owner,998,Manual,2022,21.79,67.05,90,Jul,2022,15,6.2,Ahmedabad,
+Honda,Amaze V CVT Diesel,Comprehensive,Diesel,5,"62,000",GJ01,Second Owner,1498,Automatic,2018,21,78.9,160,Feb,2018,50,9.75,Ahmedabad,R15
+Maruti,Vitara Brezza VXI,Third Party,Petrol,5,"4,789",GJ01,First Owner,1462,Manual,2022,17.03,103.26,138,Jun,2022,15,8.5,Ahmedabad,
+Maruti,Wagon R LXI BS IV,Third Party,Petrol,5,"45,632",GJ01,First Owner,998,Manual,2012,18.9,67.1,90,Oct,2012,75,2.36,Ahmedabad,13
+Honda,Jazz 1.2 E i VTEC,Third Party,Petrol,5,"25,006",GJ01,Second Owner,1199,Manual,2015,18.7,88.7,110,Jan,2016,75,4.5,Ahmedabad,
+Honda,City 1.5 S MT,Comprehensive,Petrol,5,"68,000",GJ01,First Owner,1497,Manual,2009,17,"118PS at 6,600 ",146Nm at 4800 r,Feb,2009,75,3.25,Ahmedabad,15
+Hyundai,i20 Active 1.4 SX,Comprehensive,Diesel,5,"67,000",GJ01,First Owner,1396,Manual,2016,21.19,88.73,220,Feb,2016,70,6.11,Ahmedabad,16
+Renault,Lodgy Stepway 110PS RXZ 7S,Comprehensive,Diesel,7,"80,000",GJ01,First Owner,1461,Manual,2016,19.98,108.5,245,Feb,2016,70,5.51,Ahmedabad,15
+Hyundai,Creta 1.6 SX Automatic Diesel,Comprehensive,Diesel,5,"93,000",GJ02,First Owner,1582,Automatic,2018,17.6,126.2,259.87,Feb,2018,50,12.51,Ahmedabad,17
+Tata,Nano CNG XM,Comprehensive,CNG,4,"41,000",GJ01,First Owner,624,Manual,2016,36,37.48,51,Feb,2016,70,1.71,Ahmedabad,
+Maruti,Swift VDI,Comprehensive,Diesel,5,"61,000",GJ01,First Owner,1248,Manual,2012,22.9,74,190,Feb,2012,75,4.4,Ahmedabad,14
+Renault,Lodgy Stepway Edition 8 Seater,Comprehensive,Diesel,8,"61,000",GJ01,First Owner,1461,Manual,2018,19.98,108.5,245,Feb,2018,50,5.9,Ahmedabad,15
+Toyota,Glanza G,Comprehensive,Petrol,5,"70,000",GJ01,First Owner,1197,Manual,2021,21.01,81.80,113,Feb,2021,20,7.25,Ahmedabad,R16
+Hyundai,Grand i10 Sportz,Third Party,Petrol,5,"55,267",GJ01,Third Owner,1197,Manual,2017,18.9,82,114,Dec,2017,60,4.0,Ahmedabad,
+Maruti,Swift Dzire 1.2 ZXi BSIV,Third Party,Petrol,5,"17,481",GJ01,First Owner,1197,Manual,2011,17.5,85.8,114,Feb,2011,75,3.5,Ahmedabad,14
+Hyundai,Creta SX Diesel AT,Zero Dep,Diesel,5,"34,711",GJ27,First Owner,1493,Automatic,2020,18.5,113.42,250,Oct,2020,30,16.0,Ahmedabad,R17
+Hyundai,i20 1.4 Magna Executive,Third Party,Diesel,5,"50,476",GJ27,First Owner,1396,Manual,2017,22.54,88.73,219.7,Aug,2017,60,5.61,Ahmedabad,
+Mercedes-Benz,C-Class C 220 CDI Avantgarde,Third Party,Diesel,5,"80,396",GJ03,Second Owner,2143,Automatic,2014,19.27,170,400,May,2014,75,13.73,Ahmedabad,17
+Audi,A6 2.7 TDI,Not Available,Diesel,5,"1,53,814",GJ01,Second Owner,2698,Automatic,2011,12.4,17,38,Jun,2011,75,6.5,Ahmedabad,17
+Hyundai,Grand i10 Magna,Not Available,Petrol,5,"46,547",GJ01,Second Owner,1197,Manual,2015,18.9,82,114,Mar,2015,75,3.68,Ahmedabad,
+Honda,Jazz VX CVT,Comprehensive,Petrol,5,"29,000",GJ38,First Owner,1199,Automatic,2018,18.2,88.7,110,Feb,2018,50,7.51,Ahmedabad,15
+Hyundai,i20 Magna Optional 1.4 CRDi,Not Available,Diesel,5,"79,926",GJ01,First Owner,1396,Manual,2014,21.9,88.8,219.7,Mar,2014,75,3.87,Ahmedabad,14
+Maruti,Ciaz ZXi,Third Party,Petrol,5,"71,109",GJ01,First Owner,1373,Manual,2016,20.73,91.1,130,Sept,2016,70,5.0,Ahmedabad,15
+Mahindra,XUV500 AT W10 FWD,Not Available,Diesel,7,"65,328",GJ01,First Owner,2179,Automatic,2016,16,140,330,Mar,2016,70,11.0,Ahmedabad,17
+Honda,City i VTEC V,Not Available,Petrol,5,"1,10,775",GJ05,Second Owner,1497,Manual,2015,17.4,117.3,145,Jan,2016,75,5.0,Ahmedabad,15
+Hyundai,i20 Asta Option 1.2,Not Available,Petrol,5,"59,828",GJ05,Second Owner,1197,Manual,2016,18.6,81.83,114.7,Feb,2017,70,5.46,Ahmedabad,16
+Maruti,Ciaz Delta 1.5,Comprehensive,Diesel,5,"62,000",GJ27,First Owner,1498,Manual,2018,26.32,93.87,225,May,2018,50,7.8,Ahmedabad,15
+Kia,Seltos GTX Plus Diesel AT,Comprehensive,Diesel,5,"59,001",GJ01,First Owner,1493,Automatic,2020,18,113.43,250,Mar,2020,30,17.5,Ahmedabad,17
+Hyundai,i10 Era 1.1 iTech SE,Third Party,Petrol,5,"1,44,854",GJ01,Second Owner,1086,Manual,2010,19.81,68.05,99.04,Apr,2010,75,1.42,Ahmedabad,13
+Maruti,Wagon R LXI Minor Duo LPG,Third Party,LPG,5,"73,083",GJ11,Second Owner,1061,Manual,2010,,67,84,Jan,2011,75,1.36,Ahmedabad,14
+MG,Hector Sharp Diesel MT BSIV,Comprehensive,Diesel,5,"69,000",GJ01,First Owner,1956,Manual,2021,17.41,167.68,350,Feb,2021,20,16.5,Ahmedabad,R17
+Volkswagen,Vento 1.5 TDI Highline AT,Comprehensive,Diesel,5,"1,10,000",GJ01,First Owner,1498,Automatic,2017,22.15,108.6,250,Feb,2017,60,7.1,Ahmedabad,15
+Toyota,Fortuner 2.8 4WD AT,Comprehensive,Diesel,7,"56,984",GJ01,First Owner,2755,Automatic,2018,15.04,174.5,450,Apr,2018,50,30.5,Ahmedabad,18
+Hyundai,Alcazar Signature Dual Tone Diesel AT,Comprehensive,Diesel,6,"18,413",GJ18,First Owner,1493,Automatic,2022,18.1,113.42,250,May,2022,15,20.9,Ahmedabad,18
+Jeep,Compass 1.4 Limited Plus,Comprehensive,Petrol,5,"68,000",GJ01,First Owner,1368,Automatic,2019,14.1,160.77,250,Mar,2019,40,15.5,Ahmedabad,18
+Honda,City i DTEC SV,Not Available,Diesel,5,"91,431",GJ01,Second Owner,1498,Manual,2014,26,98.6,200,Feb,2014,75,4.2,Ahmedabad,
+Chevrolet,Spark 1.0,Third Party,Petrol,5,"86,538",GJ06,First Owner,995,Manual,2010,18,62,90.3,Oct,2010,75,0.75215,Ahmedabad,13
+BMW,3 Series 320d Luxury Line,Third Party insurance,Diesel,5,"99,000",GJ01,First Owner,1995,Automatic,2015,18.88,184,380,Feb,2015,75,13.5,Ahmedabad,17
+Toyota,Innova Crysta 2.4 GX MT 8S BSIV,Comprehensive,Diesel,8,"55,000",GJ01,First Owner,2393,Manual,2019,13.68,147.8,343,Apr,2019,40,18.0,Ahmedabad,16
+Hyundai,i10 Magna 1.1L,Third Party,Petrol,5,"49,068",GJ01,Second Owner,1086,Manual,2016,19.81,68.05,99.04,Feb,2017,70,3.5,Ahmedabad,
+Toyota,Etios Liva G,Comprehensive,Petrol,5,"65,000",GJ01,First Owner,1197,Manual,2011,18.3,,,Aug,2011,75,2.5,Ahmedabad,14
+BMW,X1 sDrive 20d xLine,Third Party insurance,Diesel,5,"40,000",GJ07,First Owner,1995,Automatic,2019,20.68,188,400,Sept,2019,40,30.0,Ahmedabad,17
+Ford,Ecosport 1.5 Diesel Titanium BSIV,Third Party,Diesel,5,"29,454",KA51,First Owner,1498,Manual,2018,23,98.96,205,Feb,2018,50,9.0,Ahmedabad,16
+Maruti,Ertiga VXI,Third Party,Petrol,7,"92,447",RJ22,First Owner,1462,Manual,2021,19.01,103.26,138,Nov,2021,20,9.0,Ahmedabad,
+Renault,KWID RXL,Third Party insurance,Petrol,5,"47,000",GJ17,First Owner,799,Manual,2018,25.17,53.3,72,Apr,2018,50,2.75,Ahmedabad,
+Hyundai,i20 1.2 Spotz,Third Party insurance,Petrol,5,"48,000",GJ01,First Owner,1197,Manual,2018,18.6,81.83,114.7,Feb,2018,50,5.8,Ahmedabad,
+Hyundai,i20 Magna Optional 1.2,Third Party insurance,Petrol,5,"23,000",GJ01,First Owner,1197,Manual,2014,18.5,82.9,113.8,May,2014,75,4.5,Ahmedabad,14
+Hyundai,Grand i10 Asta Option AT,Comprehensive,Petrol,5,"30,000",GJ01,First Owner,1197,Automatic,2016,18.9,82,114,Nov,2016,70,5.35,Ahmedabad,14
+Hyundai,Grand i10 1.2 Kappa Era,Third Party insurance,Petrol,5,"45,000",GJ01,First Owner,1197,Manual,2019,17,81.86,113.75,Mar,2019,40,4.45,Ahmedabad,
+Hyundai,EON D Lite,Third Party insurance,Petrol,5,"60,000",GJ07,Second Owner,814,Manual,2012,21.1,55.2,74.5,Mar,2012,75,1.75,Ahmedabad,
+Hyundai,Santro LE,Third Party,Petrol,5,"44,000",GJ01,First Owner,999,Manual,2002,,,,Jun,2002,75,0.9,Ahmedabad,13
+Chevrolet,Spark 1.0 PS,Not Available,Petrol,5,"85,031",GJ06,Second Owner,995,Manual,2010,16,63,90.3,Feb,2010,75,0.76781,Ahmedabad,13
+Hyundai,Xcent 1.2 Kappa S,Not Available,Petrol,5,"66,637",GJ06,Third Owner,1197,Manual,2015,19.1,82,114,Apr,2015,75,3.31,Ahmedabad,
+Tata,Tigor XZ Plus,Not Available,Petrol,5,"75,285",GJ18,First Owner,1199,Manual,2019,20.3,83.81,114,Jan,2020,40,5.0,Ahmedabad,15
+Volkswagen,Tiguan 2.0 TDI Highline,Comprehensive,Diesel,5,"67,000",GJ02,First Owner,1968,Automatic,2017,16.65,141,340,Feb,2017,60,20.5,Ahmedabad,18
+Maruti,SX4 Vxi BSIV,Comprehensive,Petrol,5,"75,888",GJ18,First Owner,1586,Manual,2011,15.5,103.3,145,Feb,2011,75,2.71,Ahmedabad,15
+Kia,Seltos GTX Plus AT D,Comprehensive,Diesel,5,"81,000",GJ18,First Owner,1493,Automatic,2021,18,113.43,250,Feb,2021,20,17.75,Ahmedabad,17
+Maruti,SX4 S Cross Delta DDiS 200 SH,Comprehensive,Diesel,5,"61,555",GJ06,First Owner,1248,Manual,2018,25.1,88.5,200,Feb,2018,50,8.5,Ahmedabad,
+Jeep,Compass 2.0 Longitude,Comprehensive,Diesel,5,"58,000",GJ01,First Owner,1956,Manual,2017,17.1,173,350,Feb,2017,60,10.9,Ahmedabad,17
+Hyundai,i10 Magna 1.1 iTech SE,Third Party,Petrol,5,"94,401",GJ01,Second Owner,1086,Manual,2012,19.81,68.05,99.04,Aug,2012,75,2.1,Ahmedabad,
+Datsun,GO T BSIV,Third Party,Petrol,5,"1,20,324",GJ01,First Owner,1198,Manual,2017,20.63,67,104,Aug,2017,60,2.0,Ahmedabad,
+Honda,City i VTEC V,Comprehensive,Petrol,5,"77,000",GJ01,First Owner,1497,Manual,2015,17.8,117.3,145,Feb,2015,75,6.31,Ahmedabad,15
+Hyundai,Grand i10 Magna,Comprehensive,Petrol,5,"56,000",GJ01,First Owner,1197,Manual,2017,18.9,82,114,Feb,2017,60,4.9,Ahmedabad,
+Honda,City i DTEC V,Not Available,Diesel,5,"1,01,517",GJ01,First Owner,1498,Manual,2015,26,98.6,200,Dec,2015,75,6.2,Ahmedabad,15
+Maruti,Swift Dzire VXI 1.2,Not Available,Petrol,5,"55,976",GJ01,Second Owner,1197,Manual,2017,21.21,81.80,113,Sept,2017,60,5.5,Ahmedabad,
+Hyundai,i10 Magna 1.1,Third Party,Petrol,5,"1,37,086",GJ01,Fourth Owner,1086,Manual,2008,19.81,68.05,99.04,Jul,2008,75,1.3,Ahmedabad,
+Mahindra,XUV500 W6 2WD,Not Available,Diesel,7,"1,01,753",GJ01,Third Owner,2179,Manual,2013,15.1,140,330,Apr,2013,75,4.5,Ahmedabad,
+Ford,Figo 1.5P Titanium AT,Third Party,Petrol,5,"51,904",GJ01,Second Owner,1499,Automatic,2015,17.01,110.4,136,May,2016,75,3.19,Ahmedabad,14
+Honda,Jazz 1.2 VX i VTEC,Third Party,Petrol,5,"71,779",GJ01,First Owner,1199,Manual,2015,18.7,88.7,110,Dec,2015,75,5.0,Ahmedabad,15
+Maruti,Baleno Zeta,Not Available,Petrol,5,"14,633",GJ27,Second Owner,1197,Manual,2021,21.01,81.80,113,Aug,2021,20,7.5,Ahmedabad,R16
+Maruti,Swift Dzire VDI,Comprehensive,Diesel,5,"92,313",GJ01,Second Owner,1248,Manual,2013,23.4,74,190,Dec,2013,75,3.36,Ahmedabad,14
+Hyundai,Verna 1.6 SX,Comprehensive,Diesel,5,"83,000",GJ01,First Owner,1582,Manual,2013,22.32,126.32,259.8,Jul,2013,75,5.11,Ahmedabad,16
+Maruti,Vitara Brezza ZDi Plus,Third Party insurance,Diesel,5,"54,000",GJ02,First Owner,1248,Manual,2019,24.3,88.5,200,Apr,2019,40,9.75,Ahmedabad,16
+Audi,Q3 35 TDI Quattro Premium Plus,Comprehensive,Diesel,5,"87,000",GJ01,First Owner,1968,Automatic,2014,15.17,181,380,Feb,2014,75,15.75,Ahmedabad,18
+Tata,Indigo LS (TDI) BS III,Not Available,Diesel,5,"1,42,952",RJ12,First Owner,1396,Manual,2009,19.09,69,135,May,2009,75,0.8,Ahmedabad,14
+Tata,Nexon 1.5 Revotorq XT,Third Party,Diesel,5,"72,056",GJ01,First Owner,1497,Manual,2019,21.5,108.5,260,Jan,2020,40,7.0,Ahmedabad,
+Kia,Seltos GTX Plus Diesel AT,Third Party,Diesel,5,"76,760",GJ15,First Owner,1493,Automatic,2020,18,113.43,250,Oct,2020,30,15.5,Ahmedabad,17
+Kia,Seltos HTX G,Not Available,Petrol,5,"86,217",GJ01,First Owner,1497,Manual,2019,16.8,113.43,144,Oct,2019,40,9.0,Ahmedabad,17
+Toyota,Corolla Altis GL,Third Party,Petrol,5,"87,322",GJ01,Second Owner,1798,Manual,2011,14.53,138.1,173,Feb,2012,75,3.55,Ahmedabad,15
+Hyundai,Verna 1.6 CRDI SX Option,Third Party insurance,Diesel,5,"72,000",GJ01,Second Owner,1582,Manual,2016,23.9,126.2,259.9,May,2016,70,5.8,Ahmedabad,16
+Hyundai,Verna 1.6 SX,Third Party,Diesel,5,"97,800",GJ01,Second Owner,1582,Manual,2015,22.32,126.32,259.8,Jan,2016,75,5.0,Ahmedabad,16
+Hyundai,Santro Xing GL Plus,Third Party,Petrol,5,"72,193",GJ13,First Owner,1086,Manual,2012,17.92,62.1,96.1,Apr,2012,75,1.99,Ahmedabad,13
+Maruti,Baleno 1.2 Zeta,Third Party,Petrol,5,"67,878",GJ27,First Owner,1197,Manual,2016,21.4,83.1,115,Jul,2016,70,5.0,Ahmedabad,16
+Datsun,RediGO 1.0 T Option,Third Party insurance,Petrol,5,"29,000",GJ05,First Owner,999,Manual,2017,22.5,67,91,Feb,2017,60,2.75,Ahmedabad,
+Honda,City i VTEC SV,Third Party insurance,Petrol,5,"65,000",GJ01,Second Owner,1497,Manual,2014,17.4,117.3,145,Jul,2014,75,5.35,Ahmedabad,
+Jeep,Compass 2.0 Limited Opt Diesel,Third Party,Diesel,5,"55,660",GJ01,First Owner,1956,Manual,2021,17.1,167.67,350,Mar,2021,20,21.33,Ahmedabad,18
+Maruti,Baleno 1.2 Delta,Third Party,Petrol,5,"24,161",MH46,First Owner,1197,Manual,2016,21.4,83.1,115,Feb,2016,70,5.0,Ahmedabad,
+Hyundai,i20 1.2 Asta Option,Not Available,Petrol,5,"18,922",GJ18,First Owner,1197,Manual,2018,18.6,81.83,114.7,Apr,2018,50,7.5,Ahmedabad,16
+Mercedes-Benz,C-Class C 250d Avantgarde Edition C,Not Available,Diesel,5,"27,061",GJ01,First Owner,2143,Automatic,2017,19.71,201.15,500,Jun,2018,60,32.0,Ahmedabad,17
+Maruti,Celerio ZXI AMT BSIV,Third Party,Petrol,5,"63,269",GJ01,First Owner,998,Automatic,2018,23.1,67.04,90,Nov,2018,50,4.6,Ahmedabad,
+Ford,Figo Petrol ZXI,Not Available,Petrol,5,"80,172",GJ01,Second Owner,1196,Manual,2010,15.6,70,102,Aug,2010,75,1.51,Ahmedabad,14
+Honda,Brio S MT,Not Available,Petrol,5,"30,850",GJ01,First Owner,1198,Manual,2012,19.4,86.8,109,Mar,2012,75,3.0,Ahmedabad,
+Hyundai,i20 Asta,Third Party,Petrol,5,"67,189",GJ01,First Owner,1197,Manual,2009,17,80 PS at 5200 ,"11.4 kgm at 4,000 r",Jan,2010,75,2.5,Ahmedabad,14
+Maruti,Swift VDI,Third Party,Diesel,5,"1,12,864",GJ01,First Owner,1248,Manual,2012,22.9,74,190,Jul,2012,75,3.25,Ahmedabad,14
+Maruti,Swift LXi BSIV,Not Available,Petrol,5,"59,283",TN20,Third Owner,1197,Manual,2010,16.1,8,113,Feb,2010,75,2.5,Ahmedabad,14
+Hyundai,Xcent 1.2 VTVT SX,Not Available,Petrol,5,"99,956",GJ06,First Owner,1197,Manual,2017,20.14,81.86,113.75,Nov,2017,60,4.48,Ahmedabad,14
+Tata,New Safari XZA AT,Third Party,Diesel,7,"25,143",GJ01,First Owner,1956,Automatic,2021,14.08,167.67,350,Jun,2021,20,20.0,Ahmedabad,18
+Renault,Triber RXL BSIV,Not Available,Petrol,7,"27,688",GJ23,First Owner,999,Manual,2019,20,72,96,Nov,2019,40,4.5,Ahmedabad,
+Maruti,SX4 ZDI,Not Available,Diesel,5,"1,72,606",GJ14,Third Owner,1248,Manual,2012,21.5,88.8,200 ,Mar,2012,75,2.0,Ahmedabad,16
+Honda,Amaze VX Petrol BSIV,Not Available,Petrol,5,"61,199",GJ01,Second Owner,1199,Manual,2019,19.5,88.76,110,May,2019,40,6.0,Ahmedabad,14
+Tata,Nano LX,Not Available,Petrol,4,"56,335",GJ12,Second Owner,624,Manual,2013,25.4,37.48,51,Dec,2014,75,0.5251,Ahmedabad,
+Honda,City i VTEC CVT VX,Comprehensive,Petrol,5,"1,03,789",GJ01,First Owner,1497,Automatic,2014,18,117.3,145,Dec,2014,75,5.24,Ahmedabad,15
+Hyundai,EON Era,Third Party,Petrol,5,"19,554",GJ05,First Owner,814,Manual,2014,21.1,55.2,74.5,Jun,2014,75,2.44,Ahmedabad,12
+Hyundai,EON Magna Plus,Not Available,Petrol,5,"43,424",GJ01,Third Owner,814,Manual,2014,21.1,55.2,74.5,Oct,2014,75,2.0,Ahmedabad,
+Hyundai,Santro Xing GL,Not Available,Petrol,5,"98,855",GJ01,First Owner,1086,Manual,2011,,62,96.1,Jul,2011,75,1.8,Ahmedabad,13
+Ford,Aspire 1.2 Ti-VCT Titanium Plus,Third Party,Petrol,5,"55,275",GJ17,Third Owner,1196,Manual,2017,18.16,86.8,112,Jun,2017,60,4.33,Ahmedabad,14
+Honda,Amaze EX i-Dtech,Not Available,Diesel,5,"1,08,944",GJ01,First Owner,1498,Manual,2013,25.8,98.6,200,Aug,2013,75,2.86,Ahmedabad,
+Hyundai,Verna 1.6 EX VTVT,Not Available,Petrol,5,"54,114",GJ01,Second Owner,1591,Manual,2013,17.01,121.3,154.9,Sept,2013,75,4.5,Ahmedabad,16
+Chevrolet,Beat Diesel LS,Not Available,Diesel,5,"1,28,240",GJ01,First Owner,936,Manual,2012,25.44,57.6,150,Jan,2013,75,1.22,Ahmedabad,14
+Maruti,Alto 800 LXI,Third Party,Petrol,5,"18,562",GJ27,First Owner,796,Manual,2017,24.7,47.3,69,Jun,2017,60,3.0,Ahmedabad,
+Maruti,Vitara Brezza ZXI Plus,Third Party insurance,Petrol,5,"39,988",GJ13,First Owner,1462,Manual,2021,17.03,103.26,138,Jun,2021,20,9.5,Ahmedabad,R16
+Maruti,Baleno 1.2 Delta,Zero Dep,Petrol,5,"24,435",GJ18,First Owner,1197,Manual,2018,21.4,83.1,115,Apr,2018,50,6.0,Ahmedabad,
+Hyundai,Verna 1.6 SX CRDI (O) AT,Comprehensive,Diesel,5,"63,002",GJ01,First Owner,1582,Automatic,2011,22.32,126.32,259.8,Feb,2011,75,4.25,Ahmedabad,16
+Mahindra,XUV300 W8 Option AMT,Zero Dep,Petrol,5,"11,785",GJ01,First Owner,1197,Automatic,2022,16.5,108.62,200,Mar,2022,15,10.71,Ahmedabad,16
+Maruti,Ritz VDi,Third Party,Diesel,5,"1,83,755",GJ23,Second Owner,1248,Manual,2009,21.1,73.9,113,Sept,2009,75,1.67,Ahmedabad,14
+Maruti,Wagon R VXI Minor,Third Party,Petrol,5,"1,28,753",GJ01,First Owner,1061,Manual,2008,18.9,67,84,Feb,2008,75,1.0,Ahmedabad,14
+Hyundai,Grand i10 1.2 Kappa Magna BSIV,Zero Dep,Petrol,5,"31,234",GJ03,First Owner,1197,Manual,2018,18.9,81.86,113.75,Nov,2018,50,5.0,Ahmedabad,
+Hyundai,i20 Asta 1.4 CRDi (Diesel),Third Party,Diesel,5,"1,00,955",GJ01,Third Owner,1396,Manual,2009,23,90PS at 4000,22.4 kgm at 1750-2750r,Aug,2009,75,2.06,Ahmedabad,14
+Maruti,Wagon R LXI BS IV,Third Party,Petrol,5,"73,767",GJ01,First Owner,998,Manual,2013,20.51,67.04,90,Feb,2014,75,2.15,Ahmedabad,
+Tata,Indica Aura 1.3 Quadrajet (ABS),Third Party,Diesel,5,"64,840",GJ01,First Owner,1248,Manual,2011,18,75 PS at 4000 ,190 Nm at 1750 r,Jul,2011,75,1.76,Ahmedabad,14
+Datsun,GO T BSIV,Not Available,Petrol,5,"58,054",GJ27,Second Owner,1198,Manual,2014,20.63,67,104,Mar,2015,75,1.5,Ahmedabad,
+Mahindra,Ssangyong Rexton RX7,Not Available,Diesel,7,"1,04,211",GJ01,Second Owner,2696,Automatic,2013,11.18,184,402,Aug,2013,75,4.7,Ahmedabad,16
+Mahindra,XUV500 W7,Comprehensive,Diesel,7,"40,000",GJ23,Second Owner,2179,Manual,2020,15.1,152.87,360,Jan,2020,30,12.75,Ahmedabad,
+Hyundai,Xcent 1.2 Kappa S,Comprehensive,Petrol,5,"49,226",GJ01,First Owner,1197,Manual,2014,19.1,82,114,Jul,2014,75,4.5,Ahmedabad,
+Renault,Lodgy 85PS RxL,Not Available,Diesel,8,"78,716",GJ01,First Owner,1461,Manual,2016,21.04,83.8,200,Aug,2016,70,4.5,Ahmedabad,
+Honda,Jazz VX CVT,Zero Dep,Petrol,5,"20,000",GJ01,First Owner,1199,Automatic,2019,18.2,88.7,110,Jun,2019,40,8.25,Ahmedabad,15
+Hyundai,EON 1.0 Era Plus,Comprehensive,Petrol,5,"65,000",GJ01,First Owner,998,Manual,2014,20.3,68.05,94.14,Aug,2014,75,2.75,Ahmedabad,
+Mahindra,Quanto C4,Not Available,Diesel,7,"1,11,897",GJ01,Second Owner,1493,Manual,2012,17.21,100,240,Nov,2012,75,2.0,Ahmedabad,
+Ford,Aspire 1.2 Ti-VCT Titanium,Third Party,Petrol,5,"50,198",GJ27,First Owner,1196,Manual,2016,18.16,86.8,112,Jul,2017,70,3.5,Ahmedabad,14
+BMW,5 Series 520d Luxury Line,Not Available,Diesel,5,"1,35,314",GJ01,Second Owner,1995,Automatic,2013,18.12,190,400,May,2013,75,12.05,Ahmedabad,18
+Maruti,Vitara Brezza ZDi Plus Dual Tone,Third Party,Diesel,5,"1,76,485",GJ27,First Owner,1248,Manual,2017,24.3,88.5,200,Apr,2017,60,6.3,Ahmedabad,16
+Audi,A3 35 TDI Premium,Not Available,Diesel,5,"94,536",GJ02,Second Owner,1968,Automatic,2015,20.38,143,320,Jul,2015,75,12.0,Ahmedabad,16
+Mahindra,Scorpio S6 Plus 7 Seater,Not Available,Diesel,7,"1,94,667",GJ01,First Owner,2179,Manual,2015,15.4,120,280,Jul,2015,75,6.0,Ahmedabad,
+Chevrolet,Sail 1.2 LS ABS,Not Available,Petrol,5,"81,245",GJ05,Second Owner,1199,Manual,2013,18.2,82.4,108.5,Aug,2013,75,2.0,Ahmedabad,
+MG,Hector Sharp Diesel MT,Comprehensive,Diesel,5,"29,315",GJ01,First Owner,1956,Manual,2019,,167.68,350,Dec,2019,40,15.5,Ahmedabad,18
+BMW,X1 sDrive20d,Third Party,Diesel,5,"67,730",GJ01,First Owner,1995,Automatic,2012,17.05,184,380,Mar,2013,75,8.71,Ahmedabad,17
+Hyundai,Venue SX Plus Turbo DCT,Zero Dep,Petrol,5,"39,041",GJ16,First Owner,998,Automatic,2021,18.15,118.35,172,Dec,2021,20,12.0,Ahmedabad,R16
+Honda,City 1.5 V AT,Third Party,Petrol,5,"20,500",GJ01,First Owner,1497,Automatic,2009,16.8,"118PS at 6,600 ",146Nm at 4800 r,Nov,2009,75,3.2,Ahmedabad,15
+Skoda,Superb Style 1.8 TSI AT,Comprehensive,Petrol,5,"53,000",GJ01,First Owner,1798,Automatic,2018,14.67,177.46,250,May,2018,50,19.5,Ahmedabad,17
+Fiat,Grande Punto Active (Diesel),Comprehensive,Diesel,5,"91,390",GJ27,First Owner,1248,Manual,2014,20.3,75,197,Aug,2014,75,2.14,Ahmedabad,14
+Toyota,Innova 2.5 G (Diesel) 7 Seater BS IV,Not Available,Diesel,7,"94,992",GJ18,Second Owner,2494,Manual,2013,12.99,100,200,Jul,2013,75,6.25,Ahmedabad,15
+Hyundai,Grand i10 Magna,Comprehensive,Petrol,5,"29,000",GJ01,First Owner,1197,Manual,2015,18.9,82,114,Mar,2015,75,4.5,Ahmedabad,
+Hyundai,Creta 1.6 SX Automatic Diesel,Not Available,Diesel,5,"43,834",GJ01,First Owner,1582,Automatic,2018,17.6,126.2,259.87,Jul,2018,50,12.5,Ahmedabad,17
+Honda,City i DTEC VX,Not Available,Diesel,5,"1,31,004",GJ01,First Owner,1498,Manual,2014,25.1,98.6,200,Jul,2014,75,4.79,Ahmedabad,15
+Hyundai,Santro Xing GL,Third Party,Petrol,5,"1,02,476",GJ01,First Owner,1086,Manual,2009,,62,96.1,Jun,2009,75,1.05,Ahmedabad,13
+Toyota,Innova 2.5 GX (Diesel) 8 Seater BS IV,Not Available,Diesel,8,"1,47,883",GJ27,First Owner,2494,Manual,2014,12.99,100.6,200,Jan,2015,75,7.5,Ahmedabad,
+Mahindra,XUV500 W8 2WD,Not Available,Diesel,7,"1,20,025",GJ01,Second Owner,2179,Manual,2014,15.1,140,330,Mar,2014,75,5.0,Ahmedabad,17
+Tata,Indigo LX BSIV,Third Party,Diesel,5,"1,26,325",GJ18,Second Owner,1396,Manual,2014,23.03,69,140,Mar,2015,75,1.31,Ahmedabad,14
+Maruti,Ciaz VDi Plus SHVS,Third Party,Diesel,5,"1,64,412",GJ27,First Owner,1248,Manual,2016,28.09,88.5,200,Aug,2016,70,5.0,Ahmedabad,
+Maruti,Alto 800 LXI,Third Party,Petrol,5,"63,414",GJ01,First Owner,796,Manual,2014,22.74,47.3,69,Dec,2014,75,1.8,Ahmedabad,
+Mercedes-Benz,GLS 350d 4MATIC,Third Party,Diesel,7,"59,600",GJ01,First Owner,2987,Automatic,2016,11,258,620,Aug,2016,70,49.42,Ahmedabad,20
+Maruti,Swift VXI,Third Party,Petrol,5,"29,894",GJ27,First Owner,1197,Manual,2021,21.21,81.80,113,Jun,2021,20,6.0,Ahmedabad,
+Renault,Duster 85PS Diesel RxZ,Third Party,Diesel,5,"63,666",GJ27,First Owner,1461,Manual,2016,19.87,83.8,200,May,2016,70,5.5,Ahmedabad,16
+Honda,City 1.5 V MT,Not Available,Petrol,5,"72,464",GJ01,Third Owner,1497,Manual,2010,17,"118PS at 6,600 ",146Nm at 4800 r,Dec,2010,75,2.5,Ahmedabad,15
+Maruti,Ciaz VDi Plus SHVS,Not Available,Diesel,5,"1,06,834",GJ01,Second Owner,1248,Manual,2015,28.09,88.5,200,Oct,2015,75,4.7,Ahmedabad,
+Skoda,Fabia 1.2 MPI Ambition Plus,Third Party,Petrol,5,"72,733",GJ01,First Owner,1198,Manual,2012,16.25,75,110,Nov,2012,75,1.6,Ahmedabad,14
+Mahindra,XUV700 AX7 Diesel AT,Comprehensive,Diesel,7,"26,077",GJ18,First Owner,2198,Automatic,2022,,182.38,450,Mar,2022,15,24.5,Ahmedabad,18
+Maruti,800 Std BSIII,Not Available,Petrol,4,"83,805",GJ01,Fourth Owner,796,Manual,2009,16.1,37,59,Mar,2009,75,0.56608,Ahmedabad,12
+Hyundai,Santro Xing GLS,Third Party,Petrol,5,"83,232",GJ01,First Owner,1086,Manual,2013,17.92,62.1,96.1,Mar,2013,75,2.5,Ahmedabad,13
+Renault,Duster 110PS Diesel RxL,Comprehensive,Diesel,5,"66,000",GJ01,Second Owner,1461,Manual,2014,19.01,108.45,248,Jul,2014,75,5.35,Ahmedabad,16
+Mahindra,Xylo E6,Not Available,Diesel,7,"1,06,673",GJ01,First Owner,2498,Manual,2011,14,112bhp at 3800 ,260 Nm at 1800-2200 r,Mar,2011,75,2.45,Ahmedabad,15
+Renault,Duster 110PS Diesel RXZ Optional with Nav,Third Party,Diesel,5,"1,41,582",GJ27,First Owner,1461,Manual,2013,19.01,108.45,248,May,2013,75,3.75,Ahmedabad,16
+Hyundai,i20 Sportz 1.4 CRDi,Not Available,Diesel,5,"82,187",GJ01,First Owner,1396,Manual,2014,21.9,88.76,219.6,Apr,2014,75,4.2,Ahmedabad,14
+Maruti,Swift VDI BSIV,Third Party,Diesel,5,"1,14,895",GJ01,Second Owner,1248,Manual,2014,25.2,74,190,Jun,2014,75,3.5,Ahmedabad,
+Maruti,Swift Dzire LXI 1.2,Third Party,Petrol,5,"45,945",GJ27,First Owner,1197,Manual,2020,21.21,81.80,113,Nov,2020,30,5.5,Ahmedabad,
+Maruti,Celerio VXI,Third Party,Petrol,5,"37,322",GJ27,First Owner,998,Manual,2015,23.1,67.04,90,Sept,2015,75,3.58,Ahmedabad,
+Hyundai,Santro Sportz BSIV,Zero Dep,Petrol,5,"25,670",UP65,First Owner,1086,Manual,2018,20.3,68,99,Mar,2019,50,4.04,Ahmedabad,
+Ford,Figo Diesel ZXI,Third Party insurance,Diesel,5,"67,000",GJ01,First Owner,1399,Manual,2012,20,68,160,May,2012,75,2.25,Ahmedabad,14
+Maruti,Alto LXi BSIII,Comprehensive,Petrol,5,"37,719",GJ01,Second Owner,796,Manual,2009,19.7,46.3,62,Nov,2009,75,0.99,Ahmedabad,12
+Hyundai,i20 Sportz IVT,Third Party,Petrol,5,"25,152",GJ01,First Owner,1197,Automatic,2020,19.65,86.76,114.74,Dec,2020,30,7.5,Ahmedabad,
+Hyundai,i10 Magna 1.1L,Not Available,Petrol,5,"47,166",GJ01,First Owner,1086,Manual,2011,19.81,68.05,99.04,Jan,2012,75,2.5,Ahmedabad,
+Hyundai,i20 1.2 Magna Executive,Third Party,Petrol,5,"75,435",GJ01,First Owner,1197,Manual,2018,18.6,81.83,114.7,Nov,2018,50,5.2,Ahmedabad,
+Honda,CR-V 2.4L 4WD AT,Third Party,Petrol,5,"47,867",GJ01,First Owner,2354,Automatic,2014,12,187.4,226,Mar,2014,75,10.35,Ahmedabad,17
+Chevrolet,Cruze LT,Not Available,Diesel,5,"70,574",GJ01,Second Owner,1991,Manual,2011,18.3,147.9,327,Feb,2011,75,3.0,Ahmedabad,16
+Maruti,Vitara Brezza VXI,Zero Dep,Petrol,5,"14,166",GJ01,First Owner,1462,Manual,2021,17.03,103.26,138,Aug,2021,20,7.8,Ahmedabad,
+Hyundai,Grand i10 Sportz,Third Party,Petrol,5,"40,941",GJ05,Third Owner,1197,Manual,2016,18.9,82,114,Oct,2016,70,4.3,Ahmedabad,
+Maruti,Baleno 1.2 Zeta,Third Party,Petrol,5,"30,091",GJ01,First Owner,1197,Manual,2018,21.4,83.1,115,Jan,2019,50,5.8,Ahmedabad,16
+Honda,Brio S MT,Third Party,Petrol,5,"33,912",GJ01,Second Owner,1198,Manual,2013,19.4,86.8,109,Mar,2013,75,2.85,Ahmedabad,
+Tata,Tiago 1.2 Revotron XZA,Third Party,Petrol,5,"44,710",GJ38,First Owner,1199,Automatic,2018,23.84,83.83,114,Feb,2018,50,4.0,Ahmedabad,14
+Hyundai,Elantra CRDi S,Zero Dep,Diesel,5,"1,39,689",GJ01,First Owner,1582,Manual,2013,22.7,126.24,259.87,Sept,2013,75,5.07,Ahmedabad,16
+Mahindra,KUV 100 NXT G80 K2,Not Available,Petrol,6,"44,506",GJ01,Second Owner,1198,Manual,2017,18.15,82,115,Jan,2018,60,3.5,Ahmedabad,
+Maruti,Zen Estilo LXI Green (CNG),Comprehensive,CNG,5,"45,022",GJ01,Second Owner,998,Manual,2010,26.3,67.1,90,Dec,2010,75,1.4,Ahmedabad,13
+Maruti,Ciaz S 1.3,Third Party,Diesel,5,"87,129",GJ01,First Owner,1248,Manual,2018,28.09,88.5,200,Jul,2018,50,7.19,Ahmedabad,16
+Tata,Tiago XZ Plus,Zero Dep,Petrol,5,"1,920",GJ01,First Owner,1199,Manual,2022,19.01,84.82,113,Nov,2022,15,6.0,Ahmedabad,15
+Maruti,Ciaz VDi Plus SHVS,Not Available,Diesel,5,"85,999",GJ01,Second Owner,1248,Manual,2016,28.09,88.5,200,Dec,2016,70,6.0,Ahmedabad,
+Toyota,Etios GD,Third Party,Diesel,5,"2,05,665",GJ01,First Owner,1364,Manual,2012,23.59,,,Mar,2012,75,2.4,Ahmedabad,15
+Maruti,Alto 800 LXI,Not Available,Petrol,5,"12,451",GJ02,First Owner,796,Manual,2017,24.7,47.3,69,Nov,2017,60,3.0,Ahmedabad,
+Maruti,Baleno 1.2 Alpha,Not Available,Petrol,5,"39,261",GJ27,First Owner,1197,Manual,2018,21.4,83.1,115,Jul,2018,50,6.0,Ahmedabad,16
+Honda,Mobilio S i-VTEC,Comprehensive,Petrol,7,"81,667",GJ01,First Owner,1497,Manual,2014,17.3,117.3,145,Nov,2014,75,4.5,Ahmedabad,
+Datsun,GO T Option Petrol,Comprehensive,Petrol,5,"83,549",GJ15,First Owner,1198,Manual,2018,19.83,67,104,Sept,2019,50,2.44,Ahmedabad,14
+Tata,Harrier XZA Plus Dual Tone AT,Zero Dep,Diesel,5,"18,339",GJ03,First Owner,1956,Automatic,2021,14.6,167.67,350,Jun,2021,20,20.0,Ahmedabad,17
+Maruti,Alto LX,Not Available,Petrol,5,"37,012",RJ20,First Owner,796,Manual,2009,19.7,46.3,62,Jan,2009,75,1.1,Ahmedabad,12
+Hyundai,Verna 1.6 SX,Comprehensive,Diesel,5,"84,931",GJ01,Second Owner,1582,Manual,2012,22.32,126.32,259.8,Mar,2012,75,4.0,Ahmedabad,16
+Hyundai,Xcent 1.1 CRDi S,Third Party,Diesel,5,"77,194",GJ27,Second Owner,1120,Manual,2015,24.4,71,180.4,Apr,2015,75,3.5,Ahmedabad,
+Maruti,Ciaz ZDi,Not Available,Diesel,5,"1,14,361",GJ01,First Owner,1248,Manual,2015,26.21,88.5,200,Mar,2015,75,4.5,Ahmedabad,15
+Hyundai,i20 1.2 Magna,Not Available,Petrol,5,"53,727",GJ01,Second Owner,1197,Manual,2011,18.5,80 PS at 5200 ,"11.4 kgm at 4,000 r",Feb,2011,75,2.3,Ahmedabad,14
+Ford,Ecosport 1.5 Petrol Titanium Plus AT,Third Party,Petrol,5,"14,600",GJ27,First Owner,1496,Automatic,2021,14.7,120.69,149,Jul,2021,20,9.0,Ahmedabad,R16
+Hyundai,Verna 1.6 SX,Comprehensive,Diesel,5,"55,000",GJ27,First Owner,1582,Manual,2013,22.32,126.32,259.8,Apr,2013,75,5.11,Ahmedabad,16
+Maruti,Swift ZDI,Not Available,Diesel,5,"54,479",GJ01,First Owner,1248,Manual,2019,28.4,74,190,Nov,2019,40,6.19,Ahmedabad,15
+Hyundai,Accent GLE,Not Available,Petrol,5,"1,20,804",GJ01,Second Owner,1495,Manual,2010,13.2,,12,Jul,2010,75,1.24,Ahmedabad,13
+Hyundai,Creta E,Not Available,Petrol,5,"26,815",GJ27,First Owner,1497,Manual,2021,16.8,113.18,143.8,May,2021,20,10.0,Ahmedabad,
+Ford,Figo Petrol EXI,Third Party,Petrol,5,"84,392",GJ01,Second Owner,1196,Manual,2011,15.6,70,102,Mar,2011,75,1.5,Ahmedabad,14
+Tata,Tigor XZ Plus,Not Available,Petrol,5,"11,039",GJ27,First Owner,1199,Manual,2021,19.28,84.82,113,Apr,2021,20,6.0,Ahmedabad,15
+Tata,Indica eV2 LS,Not Available,Diesel,5,"89,989",GJ18,First Owner,1396,Manual,2013,25,69,140,Oct,2013,75,1.0,Ahmedabad,
+Mahindra,XUV500 W7 BSIV,Not Available,Diesel,7,"45,885",GJ01,Second Owner,2179,Manual,2019,15.1,152.87,360,Sept,2019,40,11.0,Ahmedabad,
+Honda,City V AT,Not Available,Petrol,5,"57,950",GJ21,Third Owner,1497,Automatic,2012,15.6,116.3,146,Jan,2012,75,4.0,Ahmedabad,15
+Skoda,Rapid 1.6 TDI Ambition,Third Party,Diesel,5,"52,254",GJ01,First Owner,1598,Manual,2014,20.5,103.5,250,Aug,2014,75,4.5,Ahmedabad,14
+Maruti,Celerio ZXI MT BSIV,Not Available,Petrol,5,"41,328",RJ42,Third Owner,998,Manual,2019,23.1,67.04,90,Apr,2019,40,5.0,Ahmedabad,
+Kia,Seltos HTK Plus AT D,Comprehensive,Diesel,5,"58,918",GJ13,First Owner,1493,Automatic,2021,17.8,113.42,250,Aug,2021,20,14.0,Ahmedabad,R16
+Maruti,Alto 800 LXI,Third Party,Petrol,5,"25,007",GJ01,First Owner,796,Manual,2019,22.05,47.33,69,Apr,2019,40,3.4,Ahmedabad,
+Maruti,Swift Lxi BSIII,Not Available,Petrol,5,"97,074",GJ05,First Owner,1298,Manual,2010,16.1,8,11,Jul,2010,75,2.6,Ahmedabad,14
+Maruti,Baleno 1.2 Delta,Not Available,Petrol,5,"48,346",GJ06,First Owner,1197,Manual,2017,21.4,83.1,115,Mar,2017,60,5.5,Ahmedabad,
+Hyundai,Grand i10 Nios AMT Sportz,Third Party,Petrol,5,"4,483",GJ01,First Owner,1197,Automatic,2021,20.7,81.86,113.8,Jul,2021,20,7.0,Ahmedabad,14
+Mahindra,KUV 100 mFALCON D75 K8,Comprehensive,Diesel,6,"69,000",GJ01,First Owner,1198,Manual,2016,25.32,77,190,Feb,2016,70,3.75,Ahmedabad,14
+Volkswagen,Polo 1.2 MPI Comfortline,Third Party insurance,Petrol,5,"67,000",GJ27,First Owner,1198,Manual,2015,16.47,74,110,Mar,2015,75,4.5,Ahmedabad,
+Honda,City i-DTEC VX,Third Party insurance,Diesel,5,"54,000",GJ38,First Owner,1498,Manual,2019,25.6,97.9,200,Mar,2019,40,9.9,Ahmedabad,16
+Hyundai,Grand i10 1.2 CRDi Sportz Option,Not Available,Diesel,5,"79,937",GJ01,First Owner,1186,Manual,2017,24,73.97,190.24,Dec,2017,60,4.75,Ahmedabad,
+Maruti,Wagon R LXI BS IV,Comprehensive,Petrol,5,"13,373",GJ01,First Owner,998,Manual,2013,20.51,67.04,90,Apr,2013,75,2.5,Ahmedabad,
+Maruti,Wagon R VXI BS IV,Not Available,Petrol,5,"38,026",BR01,First Owner,998,Manual,2012,18.9,67.1,90,Aug,2012,75,2.9,Ahmedabad,14
+Toyota,Fortuner 2.8 2WD AT BSIV,Zero Dep,Diesel,7,"56,808",GJ01,First Owner,2755,Automatic,2018,12.9,174.5,450,Apr,2018,50,28.0,Ahmedabad,17
+Maruti,Wagon R AMT VXI,Not Available,Petrol,5,"38,437",GJ01,Second Owner,998,Automatic,2016,20.51,67,90,Mar,2016,70,3.5,Ahmedabad,
+Renault,Kiger RXT AMT,Third Party,Petrol,5,631,GJ08,First Owner,999,Automatic,2022,19.03,71.01,96,Jan,2023,15,8.5,Ahmedabad,
+Hyundai,Xcent 1.2 VTVT E Plus,Third Party,Petrol,5,"69,781",GJ01,Second Owner,1197,Manual,2018,20.14,81.86,113.75,Jun,2018,50,4.65,Ahmedabad,
+Maruti,Eeco 7 Seater Standard BSIV,Not Available,Petrol,7,"84,476",GJ27,Third Owner,1196,Manual,2013,15.37,73,101,Apr,2013,75,2.0,Ahmedabad,
+Maruti,Swift AMT VXI,Third Party,Petrol,5,"49,971",GJ07,Second Owner,1197,Automatic,2018,22,81.80,113,Aug,2018,50,5.5,Ahmedabad,
+Volkswagen,Jetta 2.0L TDI Comfortline,Not Available,Diesel,5,"84,074",GJ06,Second Owner,1968,Manual,2014,19.33,138.03,320,Dec,2014,75,6.08,Ahmedabad,16
+Maruti,Baleno 1.2 Delta,Third Party,Petrol,5,"49,654",GJ01,First Owner,1197,Manual,2017,21.4,83.1,115,Feb,2017,60,5.0,Ahmedabad,
+Nissan,Terrano XV Premium 110 PS,Third Party,Diesel,5,"98,192",GJ27,Third Owner,1461,Manual,2013,19.01,108.5,248,Nov,2013,75,2.9,Ahmedabad,16
+Hyundai,Verna 1.6 CRDI,Not Available,Diesel,5,"1,63,105",GJ01,First Owner,1582,Manual,2011,22.32,126.3,259.9,Aug,2011,75,3.0,Ahmedabad,15
+Hyundai,Creta 1.6 SX Automatic,Third Party,Petrol,5,"51,800",GJ01,First Owner,1591,Automatic,2019,14.8,121.3,151,Feb,2020,40,13.0,Ahmedabad,17
+Honda,City i VTEC V,Third Party,Petrol,5,"32,291",GJ01,First Owner,1497,Manual,2016,17.8,117.3,145,Jan,2016,70,7.0,Ahmedabad,15
+BMW,5 Series 520d,Comprehensive,Diesel,5,"1,66,242",GJ01,First Owner,1995,Automatic,2009,18.48,,35,Mar,2009,75,6.0,Ahmedabad,17
+Maruti,SX4 S Cross DDiS 200 Delta,Comprehensive,Diesel,5,"78,000",GJ01,First Owner,1248,Manual,2016,23.65,88.5,200,Apr,2016,70,7.25,Ahmedabad,
+Honda,WR-V i-DTEC VX,Not Available,Diesel,5,"43,741",GJ27,Second Owner,1498,Manual,2017,25.5,98.6,200,Apr,2017,60,6.5,Ahmedabad,16
+Hyundai,i10 Magna 1.1L,Not Available,Petrol,5,"71,394",GJ01,First Owner,1086,Manual,2013,19.81,68.05,99.04,Mar,2013,75,3.0,Ahmedabad,
+Hyundai,EON Era Plus,Third Party,Petrol,5,"66,450",GJ27,First Owner,814,Manual,2014,21.1,55.2,74.5,Jul,2014,75,2.3,Ahmedabad,
+Toyota,Innova 2.5 GX (Diesel) 8 Seater,Third Party,Diesel,8,"2,03,490",GJ27,Third Owner,2494,Manual,2013,12.99,100,200,Feb,2013,75,5.65,Ahmedabad,15
+Chevrolet,Beat PS,Comprehensive,Petrol,5,"34,990",GJ01,First Owner,1199,Manual,2011,18.6,79.4,108,Nov,2011,75,1.41,Ahmedabad,14
+Maruti,Ritz VXI,Third Party,Petrol,5,"1,05,538",GJ01,Second Owner,1197,Manual,2011,21.1,85.80,114,Mar,2011,75,1.8,Ahmedabad,14
+Honda,City V MT,Third Party,Petrol,5,"8,965",GJ27,First Owner,1498,Manual,2022,18.6,119.35,145,Jul,2022,15,11.0,Ahmedabad,15
+Honda,City i VTEC CVT SV,Zero Dep,Petrol,5,"72,000",GJ01,First Owner,1497,Automatic,2015,18,117.3,145,Jan,2016,75,6.9,Ahmedabad,
+MG,Hector Sharp Diesel MT,Zero Dep,Diesel,5,"29,842",GJ27,First Owner,1956,Manual,2020,17.41,167.68,350,Jul,2020,30,15.0,Ahmedabad,R17
+Hyundai,i20 Sportz 1.4 CRDi,Not Available,Diesel,5,"86,982",GJ27,First Owner,1396,Manual,2015,22.54,88.73,219.7,Nov,2016,75,5.0,Ahmedabad,
+MG,Hector Sharp DCT,Zero Dep,Petrol,5,"32,733",GJ12,First Owner,1451,Automatic,2020,13.96,141,250,Jul,2020,30,18.25,Ahmedabad,R17
+Volvo,S60 D4 Momentum BSIV,Not Available,Diesel,5,"59,218",GJ05,Second Owner,1969,Automatic,2017,27.03,190,400,May,2017,60,15.0,Ahmedabad,18
+Audi,Q3 S,Not Available,Diesel,5,"1,36,324",GJ01,First Owner,1968,Manual,2015,17.32,138.13,320,Feb,2017,75,12.0,Ahmedabad,16
+Mahindra,Bolero Plus AC,Not Available,Diesel,9,"20,932",GJ27,First Owner,2523,Manual,2017,15.96,62.1,195,Sept,2017,60,7.0,Ahmedabad,
+Maruti,Swift Dzire VXi AT,Not Available,Petrol,5,"91,769",GJ01,First Owner,1197,Automatic,2012,17.4,85.8,114,Mar,2012,75,3.0,Ahmedabad,14
+Hyundai,Elantra 2.0 SX Option,Third Party,Petrol,5,"74,627",GJ01,Second Owner,1999,Manual,2017,14.59,149.92,192.2,Apr,2017,60,8.66,Ahmedabad,16
+Hyundai,i20 1.2 Magna Executive,Not Available,Petrol,5,"75,742",GJ01,First Owner,1197,Manual,2017,18.6,81.83,114.7,Jan,2018,60,5.35,Ahmedabad,
+Maruti,Ciaz VDi Plus,Not Available,Diesel,5,"1,34,737",MH02,First Owner,1248,Manual,2015,26.21,88.5,200,Jan,2016,75,5.23,Ahmedabad,
+Tata,Tigor XZA Plus AMT,Third Party,Petrol,5,"16,816",GJ27,First Owner,1199,Automatic,2021,19.6,84.82,113,Nov,2021,20,6.0,Ahmedabad,15
+Ford,Ecosport 1.5 DV5 MT Trend,Not Available,Diesel,5,"95,594",GJ27,Third Owner,1498,Manual,2013,22.7,89.84,204,Jan,2014,75,3.62,Ahmedabad,
+Ford,Fiesta 1.4 Duratec EXI,Third Party,Petrol,5,"1,22,238",GJ06,Second Owner,1388,Manual,2007,16.6,,16,Mar,2007,75,1.03,Ahmedabad,14
+Mahindra,XUV300 W8 Option AMT,Third Party,Petrol,5,"19,722",GJ27,First Owner,1197,Automatic,2022,16.5,108.62,200,Feb,2022,15,11.5,Ahmedabad,16
+Maruti,Baleno 1.2 Delta,Not Available,Petrol,5,"1,00,853",GJ27,First Owner,1197,Manual,2018,21.4,83.1,115,Mar,2018,50,5.0,Ahmedabad,
+MG,Hector Sharp Diesel MT BSIV,Zero Dep,Diesel,5,"74,845",GJ01,First Owner,1956,Manual,2019,17.41,167.68,350,Jan,2020,40,14.75,Ahmedabad,R17
+Honda,City i DTEC VX,Not Available,Diesel,5,"28,451",GJ01,First Owner,1498,Manual,2015,25.1,98.6,200,Apr,2015,75,7.0,Ahmedabad,15
+Maruti,Baleno Delta,Not Available,Petrol,5,"30,324",GJ01,First Owner,1197,Manual,2019,21.01,81.80,113,Apr,2019,40,6.0,Ahmedabad,
+Maruti,Vitara Brezza ZDi Plus,Third Party,Diesel,5,"75,433",MH04,Second Owner,1248,Manual,2016,24.3,88.5,200,Jan,2017,70,7.68,Ahmedabad,16
+Maruti,A-Star Vxi,Comprehensive,Petrol,5,"98,826",GJ01,Third Owner,998,Manual,2010,19,66.1,90,Dec,2010,75,1.39,Ahmedabad,13
+Maruti,SX4 S Cross DDiS 200 Zeta,Third Party,Diesel,5,"1,60,859",GJ16,Second Owner,1248,Manual,2017,23.65,88.5,200,Apr,2017,60,5.25,Ahmedabad,16
+Hyundai,Venue SX iMT,Not Available,Petrol,5,"20,465",GJ27,First Owner,998,Manual,2021,18,118.35,171.6,Jun,2021,20,9.0,Ahmedabad,
+Maruti,Baleno Delta CVT,Zero Dep,Petrol,5,"39,000",GJ06,Second Owner,1197,Automatic,2019,19.56,81.80,113,Aug,2019,40,6.9,Ahmedabad,
+Tata,Harrier XZ BSIV,Zero Dep,Diesel,5,"51,000",GJ06,First Owner,1956,Manual,2019,17,138.1,350,Jun,2019,40,15.5,Ahmedabad,17
+Honda,Brio S Option MT,Not Available,Petrol,5,"65,865",GJ27,First Owner,1198,Manual,2012,18.4,86.8,109,Mar,2012,75,2.39,Ahmedabad,14
+Nissan,Micra Active XV,Not Available,Petrol,5,"59,445",GJ27,First Owner,1198,Manual,2014,19.69,67.04,104,Sept,2014,75,3.2,Ahmedabad,
+Nissan,Micra Diesel XV Premium,Third Party,Diesel,5,"46,744",GJ01,Second Owner,1461,Manual,2012,23.08,63.1,160,Mar,2012,75,2.44,Ahmedabad,15
+Maruti,Wagon R VXI,Zero Dep,Petrol,5,"1,772",GJ35,First Owner,998,Manual,2022,21.79,67.05,90,Sept,2022,15,5.0,Ahmedabad,
+Maruti,Wagon R VXI BS IV,Third Party,Petrol,5,"59,467",GJ11,First Owner,998,Manual,2018,20.51,67.04,90,Apr,2018,50,4.0,Ahmedabad,
+Toyota,Etios Liva G,Not Available,Petrol,5,"11,017",GJ01,First Owner,1197,Manual,2012,18.3,,,Dec,2012,75,3.0,Ahmedabad,14
+Hyundai,Xcent 1.2 Kappa S,Not Available,Petrol,5,"33,192",GJ01,First Owner,1197,Manual,2016,19.1,82,114,Feb,2017,70,5.0,Ahmedabad,
+Honda,Jazz 1.2 V AT i VTEC,Third Party,Petrol,5,"31,238",GJ01,First Owner,1199,Automatic,2017,19,88.7,110,Sept,2017,60,7.0,Ahmedabad,15
+Maruti,Alto LXi BSIII,Comprehensive,Petrol,5,"1,33,653",GJ01,First Owner,796,Manual,2009,19.7,46.3,62,Oct,2009,75,0.9,Ahmedabad,12
+Hyundai,i20 Sportz 1.2,Third Party,Petrol,5,"21,413",GJ27,First Owner,1197,Manual,2016,18.6,81.83,114.7,May,2016,70,5.5,Ahmedabad,
+Hyundai,i20 Asta 1.4 CRDi,Not Available,Diesel,5,"1,66,118",GJ01,Second Owner,1396,Manual,2014,22.54,88.73,219.7,Oct,2014,75,3.84,Ahmedabad,16
+Ford,Figo Diesel ZXI,Comprehensive,Diesel,5,"1,13,381",MH03,Second Owner,1399,Manual,2012,20,68,160,Sept,2012,75,1.97,Ahmedabad,14
+Maruti,Wagon R LXI BS IV,Comprehensive,Petrol,5,"1,44,968",GJ01,Second Owner,998,Manual,2011,18.9,67.1,90,Feb,2012,75,1.39,Ahmedabad,13
+Maruti,Wagon R LXI BS IV,Third Party,Petrol,5,"60,262",GJ27,Second Owner,998,Manual,2012,18.9,67.1,90,Aug,2012,75,2.2,Ahmedabad,13
+Honda,Brio V AT,Third Party,Petrol,5,"56,341",GJ01,First Owner,1198,Automatic,2013,18.4,86.8,109,Apr,2013,75,3.23,Ahmedabad,14
+Ford,Figo 1.2P Titanium MT,Third Party,Petrol,5,"30,837",GJ01,First Owner,1196,Manual,2019,18.16,86.8,112,Apr,2019,40,5.03,Ahmedabad,14
+Mahindra,Thar CRDe,Zero Dep,Diesel,6,"77,096",GJ27,Second Owner,2498,Manual,2016,16.55,105,247,Oct,2017,70,7.0,Ahmedabad,
+Maruti,Alto K10 VXI,Not Available,Petrol,5,"23,022",GJ27,First Owner,998,Manual,2017,23.95,67.05,90,Oct,2017,60,3.0,Ahmedabad,
+Mahindra,Scorpio VLX 2WD AIRBAG BSIII,Not Available,Diesel,8,"1,36,428",GJ09,Second Owner,2179,Manual,2013,12.05,120,290,Mar,2013,75,5.0,Ahmedabad,16
+Honda,Amaze S i-VTEC,Not Available,Petrol,5,"34,721",GJ01,First Owner,1198,Manual,2017,17.8,86.7,109,Mar,2017,60,5.5,Ahmedabad,
+Maruti,Baleno 1.2 Zeta,Third Party,Petrol,5,"57,175",GJ01,First Owner,1197,Manual,2017,21.4,83.1,115,Apr,2017,60,6.3,Ahmedabad,16
+Maruti,Wagon R LXI BS IV,Third Party,Petrol,5,"72,445",GJ18,First Owner,998,Manual,2011,18.9,67.1,90,Apr,2012,75,1.95,Ahmedabad,13
+Maruti,Wagon R LXI Minor,Not Available,Petrol,5,"1,08,480",GJ01,First Owner,1061,Manual,2007,18.9,67,84,Jan,2008,75,1.0,Ahmedabad,13
+Maruti,Swift Dzire LDI,Third Party,Diesel,5,"1,09,189",DL13,First Owner,1248,Manual,2013,23.4,74,190,Feb,2013,75,2.5,Ahmedabad,14
+Hyundai,Alcazar Platinum 7-Seater Diesel,Third Party,Diesel,7,"37,931",GJ27,First Owner,1493,Manual,2022,20.4,113.42,250,Mar,2022,15,19.0,Ahmedabad,18
+Hyundai,i20 Sportz 1.2,Not Available,Petrol,5,"1,14,214",MH02,Second Owner,1197,Manual,2013,18.5,82.85,113.7,Mar,2013,75,3.2,Ahmedabad,14
+Datsun,GO T Option Petrol,Third Party insurance,Petrol,5,"30,000",GJ05,First Owner,1198,Manual,2014,19.83,67,104,Dec,2014,75,1.65,Ahmedabad,14
+Datsun,RediGO AMT 1.0 T Option,Not Available,Petrol,5,"8,854",GJ01,First Owner,999,Automatic,2019,22.5,67,91,Jul,2019,40,3.5,Ahmedabad,
+Maruti,Baleno 1.3 Zeta,Third Party,Diesel,5,"1,14,131",GJ01,First Owner,1248,Manual,2017,27.39,74,190,Aug,2017,60,5.0,Ahmedabad,16
+Hyundai,Grand i10 1.2 Kappa Magna BSIV,Not Available,Petrol,5,"78,287",GJ27,First Owner,1197,Manual,2019,18.9,81.86,113.75,Oct,2019,40,5.0,Ahmedabad,
+Tata,Altroz XT,Third Party,Petrol,5,"7,022",GJ27,First Owner,1199,Manual,2022,19.33,86.83,113,Sept,2022,15,8.0,Ahmedabad,
+Hyundai,Xcent 1.2 Kappa Base,Third Party,Petrol,5,"77,253",GJ01,First Owner,1197,Manual,2014,19.1,82,114,Oct,2014,75,3.25,Ahmedabad,
+Maruti,Baleno 1.2 Delta,Not Available,Petrol,5,"41,547",GJ27,First Owner,1197,Manual,2017,21.4,83.1,115,Mar,2017,60,6.5,Ahmedabad,
+Maruti,Baleno 1.3 Zeta,Third Party,Diesel,5,"83,276",GJ07,First Owner,1248,Manual,2017,27.39,74,190,Nov,2017,60,5.78,Ahmedabad,16
+Mercedes-Benz,C-Class 200 K AT,Not Available,Petrol,5,"79,427",GJ01,Second Owner,1796,Automatic,2005,11.7,,24,Nov,2005,75,2.0,Ahmedabad,16
+Hyundai,Grand i10 Magna,Third Party insurance,Petrol,5,"48,834",GJ27,First Owner,1197,Manual,2017,18.9,82,114,Aug,2017,60,5.15,Ahmedabad,
+Volkswagen,Polo 1.0 TSI Highline Plus,Zero Dep,Petrol,5,"39,281",GJ09,First Owner,999,Manual,2020,18.24,108.62,175,Oct,2020,30,7.5,Ahmedabad,R16
+Honda,City i VTEC SV,Zero Dep,Petrol,5,"75,185",GJ27,First Owner,1497,Manual,2017,17.8,117.3,145,Apr,2017,60,8.0,Ahmedabad,
+Maruti,S-Presso VXi Plus,Comprehensive,Petrol,5,"12,672",GJ01,First Owner,998,Manual,2020,24.76,65.71,89,Jun,2020,30,4.25,Ahmedabad,
+Hyundai,Getz 1.1 GVS,Not Available,Petrol,5,"64,642",GJ01,Second Owner,1086,Manual,2008,15,6,10,Oct,2008,75,1.43,Ahmedabad,13
+Mahindra,XUV700 AX7 Diesel,Zero Dep,Diesel,7,"2,347",GJ01,First Owner,2198,Manual,2022,,182.38,420,Jan,2023,15,20.0,Ahmedabad,18
+Ford,Ecosport 1.5 Ti VCT MT Ambiente,Comprehensive,Petrol,5,"1,25,662",GJ06,First Owner,1499,Manual,2015,15.8,110,140,May,2015,75,3.75,Ahmedabad,
+Hyundai,i10 Era,Third Party,Petrol,5,"77,500",GJ01,Third Owner,1086,Manual,2011,19.81,68.05,99.04,Sept,2011,75,2.0,Ahmedabad,
+Honda,City 1.5 E MT,Third Party,Petrol,5,"85,682",GJ01,Second Owner,1497,Manual,2009,17,"118PS at 6,600 ",146Nm at 4800 r,Apr,2009,75,1.95,Ahmedabad,15
+Hyundai,Elantra SX,Third Party,Petrol,5,"59,799",GJ01,Second Owner,1797,Manual,2014,16.3,147.5,177.5,Nov,2014,75,5.0,Ahmedabad,16
+Chevrolet,Spark 1.0 LT,Not Available,Petrol,5,"77,633",GJ01,Second Owner,995,Manual,2011,18,62,90.3,May,2011,75,1.5,Ahmedabad,13
+Maruti,Alto LXi,Third Party,Petrol,5,"87,314",GJ02,Second Owner,796,Manual,2010,19.7,46.3,62,Jun,2010,75,1.07,Ahmedabad,12
+Renault,Pulse RxL,Not Available,Diesel,5,"71,207",GJ01,First Owner,1461,Manual,2014,23.08,63.12,160,Jan,2015,75,4.0,Ahmedabad,14
+Volkswagen,Polo Diesel Comfortline 1.2L,Not Available,Diesel,5,"1,15,973",GJ01,First Owner,1199,Manual,2012,22.07,73.9,180,May,2012,75,3.0,Ahmedabad,15
+Audi,A6 2.0 TDI Premium Plus,Third Party,Diesel,5,"1,07,785",GJ38,Third Owner,1968,Automatic,2012,17.68,174.33,380,Jun,2012,75,10.5,Ahmedabad,17
+BMW,3 Series 320d Prestige,Not Available,Diesel,5,"43,205",GJ01,First Owner,1995,Automatic,2014,18.88,184,380,Oct,2014,75,12.0,Ahmedabad,16
+Hyundai,i10 Era,Third Party,Petrol,5,"49,302",GJ01,First Owner,1086,Manual,2012,19.81,68.05,99.04,May,2012,75,2.0,Ahmedabad,
+Audi,Q3 35 TDI Quattro Premium Plus,Not Available,Diesel,5,"31,685",GJ01,First Owner,1968,Automatic,2018,15.17,181,380,Mar,2019,50,27.0,Ahmedabad,18
+Hyundai,Verna 1.6 SX,Not Available,Diesel,5,"99,930",GJ01,First Owner,1582,Manual,2012,22.32,126.32,259.8,Oct,2012,75,3.5,Ahmedabad,16
+Maruti,Ciaz 1.4 AT Delta,Third Party,Petrol,5,"82,900",GJ27,First Owner,1373,Automatic,2018,19.12,91.1,130,Aug,2018,50,8.0,Ahmedabad,
+Mahindra,XUV500 W8 2WD,Comprehensive,Diesel,7,"1,09,668",GJ01,First Owner,2179,Manual,2012,15.1,140,330,Jun,2012,75,5.0,Ahmedabad,17
+Hyundai,Grand i10 CRDi Sportz Celebration Edition,Not Available,Diesel,5,"1,21,279",GJ36,First Owner,1120,Manual,2016,24,70,160,Nov,2016,70,4.2,Ahmedabad,
+Jeep,Compass 2.0 Longitude Option BSIV,Not Available,Diesel,5,"63,951",GJ27,Second Owner,1956,Manual,2017,17.1,170,350,Nov,2017,60,10.1,Ahmedabad,17
+Maruti,Eeco 5 Seater AC 2020-2022,Zero Dep,Petrol,5,"53,363",GJ27,First Owner,1196,Manual,2020,16.11,72.41,98,Mar,2020,30,4.7,Ahmedabad,
+Honda,Brio S MT,Third Party,Petrol,5,"68,417",GJ01,First Owner,1198,Manual,2012,19.4,86.8,109,Mar,2012,75,2.5,Ahmedabad,
+Maruti,Baleno 1.2 CVT Alpha,Comprehensive,Petrol,5,"16,000",GJ01,First Owner,1197,Automatic,2017,21.4,83.1,115,Dec,2017,60,7.75,Ahmedabad,16
+MG,Hector Sharp DCT,Zero Dep,Petrol,5,"33,000",GJ01,First Owner,1451,Automatic,2021,13.96,141,250,Apr,2021,20,16.9,Ahmedabad,R17
+Toyota,Innova 2.5 VX (Diesel) 8 Seater,Not Available,Diesel,8,"1,28,746",GJ01,First Owner,2494,Manual,2012,12.99,100,200,May,2012,75,7.5,Ahmedabad,15
+Hyundai,i20 1.4 CRDi Sportz,Third Party,Diesel,5,"1,28,090",GJ14,First Owner,1396,Manual,2011,23,90PS at 4000,22.4 kgm at 1750-2750r,Aug,2011,75,3.0,Ahmedabad,14
+Hyundai,Verna 1.6 SX,Third Party,Diesel,5,"2,03,413",GJ18,Second Owner,1582,Manual,2012,22.32,126.32,259.8,May,2012,75,2.8,Ahmedabad,16
+Maruti,Ertiga ZXI AT,Third Party,Petrol,7,"32,473",GJ01,First Owner,1462,Automatic,2019,17.99,103.26,138,Feb,2020,40,11.0,Ahmedabad,R15
+Honda,City i DTEC V,Not Available,Diesel,5,"1,09,839",GJ01,First Owner,1498,Manual,2015,26,98.6,200,Feb,2015,75,5.5,Ahmedabad,15
+Maruti,Zen Estilo LXI BS IV,Third Party,Petrol,5,"74,985",GJ06,Second Owner,998,Manual,2012,19,67.1,90,Mar,2012,75,1.4,Ahmedabad,13
+Honda,City i DTEC VX,Not Available,Diesel,5,"1,75,528",GJ27,First Owner,1498,Manual,2015,25.1,98.6,200,Jan,2015,75,5.5,Ahmedabad,15
+Hyundai,Grand i10 Magna,Not Available,Petrol,5,"33,989",GJ03,First Owner,1197,Manual,2017,18.9,82,114,Jul,2017,60,4.6,Ahmedabad,
+Mercedes-Benz,C-Class C 220 CDI Grand Edition,Not Available,Diesel,5,"81,605",GJ01,First Owner,2143,Automatic,2014,11.78,167.62,400,Oct,2014,75,11.0,Ahmedabad,16
+Hyundai,i10 Sportz,Not Available,Petrol,5,"1,17,268",GJ01,Second Owner,1197,Manual,2009,20.36,78.9,111.8,Oct,2009,75,2.0,Ahmedabad,13
+Maruti,Swift VDI,Not Available,Diesel,5,"1,07,527",GJ01,Third Owner,1248,Manual,2012,22.9,74,190,May,2013,75,2.6,Ahmedabad,14
+Datsun,GO T BSIV,Not Available,Petrol,5,"75,826",GJ01,First Owner,1198,Manual,2014,20.63,67,104,Jan,2015,75,2.2,Ahmedabad,
+Maruti,Wagon R LXI Minor,Comprehensive,Petrol,5,"1,29,382",GJ01,First Owner,1061,Manual,2009,18.9,67,84,Nov,2009,75,1.2,Ahmedabad,13
+Honda,City 1.5 E MT,Not Available,Petrol,5,"76,436",GJ01,Second Owner,1497,Manual,2010,17,"118PS at 6,600 ",146Nm at 4800 r,May,2010,75,2.5,Ahmedabad,15
+Maruti,Vitara Brezza VDi,Zero Dep,Diesel,5,"1,22,645",GJ27,First Owner,1248,Manual,2017,24.3,88.5,200,May,2017,60,6.0,Ahmedabad,
+Ford,Aspire 1.2 Ti-VCT Trend,Comprehensive,Petrol,5,"53,548",GJ01,First Owner,1196,Manual,2015,18.16,86.8,112,Nov,2015,75,3.8,Ahmedabad,
+Maruti,Swift 1.3 VXi,Third Party,Petrol,5,"31,556",GJ08,Fifth Owner,1298,Manual,2007,16.1,8,11,Nov,2007,75,9.0,Ahmedabad,14
+Maruti,Wagon R LXI Minor,Not Available,Petrol,5,"1,23,473",DL5C,Second Owner,1061,Manual,2007,18.9,67,84,Sept,2007,75,1.0,Ahmedabad,13
+Fiat,Linea T Jet,Third Party,Petrol,5,"48,392",GJ01,Second Owner,1368,Manual,2011,14.6,112,207,Oct,2012,75,1.5,Ahmedabad,16
+Maruti,Swift Dzire VDi,Comprehensive,Diesel,5,"92,348",GJ01,First Owner,1248,Manual,2009,19.3,73.9,190,Oct,2009,75,2.3,Ahmedabad,14
+Ford,Aspire 1.2 Ti-VCT Titanium,Not Available,Petrol,5,"53,373",GJ38,First Owner,1196,Manual,2017,18.16,86.8,112,Apr,2018,60,3.5,Ahmedabad,14
+Hyundai,Xcent 1.2 Kappa S,Not Available,Petrol,5,"76,194",GJ03,First Owner,1197,Manual,2016,19.1,82,114,Jul,2016,70,5.0,Ahmedabad,
+Hyundai,Santro Xing GLS,Third Party,Petrol,5,"78,074",GJ01,Third Owner,1086,Manual,2010,17.92,62.1,96.1,Jul,2010,75,1.5,Ahmedabad,13
+Hyundai,Santro Xing GL,Not Available,Petrol,5,"1,46,347",GJ03,Third Owner,1086,Manual,2007,,62,96.1,Sept,2007,75,0.9,Ahmedabad,13
+Honda,Amaze E Petrol BSIV,Zero Dep,Petrol,5,"29,461",GJ01,First Owner,1199,Manual,2019,19.5,88.76,110,Jan,2020,40,5.5,Ahmedabad,
+Hyundai,Santro Xing GLS AT,Third Party,Petrol,5,"77,846",DL1C,Third Owner,1086,Automatic,2008,17.8,,9,Jul,2008,75,1.2,Ahmedabad,13
+Audi,Q3 30 TDI,Third Party,Diesel,5,"66,259",GJ01,First Owner,1968,Manual,2015,17.32,138.13,320,Jan,2016,75,9.0,Ahmedabad,16
+Hyundai,i10 Era,Not Available,Petrol,5,"1,02,237",GJ01,First Owner,1086,Manual,2013,19.81,68.05,99.04,Aug,2013,75,2.5,Ahmedabad,
+Honda,City i VTEC VX,Not Available,Petrol,5,"16,563",GJ01,First Owner,1497,Manual,2017,17.8,117.3,145,Jul,2017,60,8.0,Ahmedabad,15
+Hyundai,Grand i10 Sportz,Third Party,Petrol,5,"21,515",GJ01,Second Owner,1197,Manual,2014,18.9,82,114,Apr,2014,75,3.4,Ahmedabad,
+Honda,City i DTec SV,Not Available,Diesel,5,"1,51,181",GJ01,First Owner,1498,Manual,2016,26,98.6,200,Dec,2016,70,5.0,Ahmedabad,
+Maruti,Swift ZXI BSIII,Not Available,Petrol,5,"51,115",GJ03,Second Owner,1298,Manual,2006,16.1,8,11,Feb,2006,75,1.2,Ahmedabad,14
+Maruti,Ciaz 1.4 AT Alpha,Third Party,Petrol,5,"56,823",GJ01,First Owner,1373,Automatic,2017,19.12,91.1,130,Oct,2017,60,6.5,Ahmedabad,16
+Maruti,Alto 800 LXI,Third Party,Petrol,5,"14,566",GJ01,First Owner,796,Manual,2021,22.05,47.33,69,Jun,2021,20,3.1,Ahmedabad,
+Hyundai,Santro Xing GL Plus,Zero Dep,Petrol,5,"37,450",GJ01,First Owner,1086,Manual,2014,17.92,62.1,96.1,Dec,2014,75,3.0,Ahmedabad,13
+Nissan,Terrano XV Premium 110 PS,Zero Dep,Diesel,5,"1,67,263",GJ01,First Owner,1461,Manual,2013,19.01,108.5,248,Dec,2013,75,3.0,Ahmedabad,16
+Mercedes-Benz,B Class B180 CDI,Third Party,Diesel,5,"68,815",GJ01,Third Owner,2143,Automatic,2014,14.8,120.7,200,Jul,2015,75,8.0,Ahmedabad,16
+Hyundai,i10 Magna 1.1L,Not Available,Petrol,5,"46,977",GJ27,First Owner,1086,Manual,2014,19.81,68.05,99.04,Aug,2014,75,3.0,Ahmedabad,
+Maruti,Wagon R LXI Minor Duo LPG,Not Available,LPG,5,"1,41,994",GJ01,First Owner,1061,Manual,2007,,67,84,Mar,2007,75,0.8,Ahmedabad,14
+Hyundai,Santro Xing GL,Not Available,Petrol,5,"1,13,145",GJ01,Second Owner,1086,Manual,2009,,62,96.1,Aug,2009,75,1.0,Ahmedabad,13
+Honda,Jazz 1.2 VX i VTEC,Comprehensive,Petrol,5,"84,067",RJ14,Second Owner,1199,Manual,2016,18.7,88.7,110,Mar,2016,70,4.5,Ahmedabad,15
+Maruti,Alto K10 VXI Optional,Not Available,Petrol,5,"59,028",GJ14,Second Owner,998,Manual,2019,23.95,67.05,90,Apr,2019,40,3.3,Ahmedabad,
+Hyundai,Grand i10 1.2 Kappa Sportz BSIV,Third Party,Petrol,5,"11,818",GJ01,First Owner,1197,Manual,2019,18.9,81.86,113.75,Jul,2019,40,5.5,Ahmedabad,
+Renault,Scala Diesel RxL,Not Available,Diesel,5,"81,516",GJ16,First Owner,1461,Manual,2013,21.64,84.8,200,Jun,2013,75,2.0,Ahmedabad,15
+Mercedes-Benz,C-Class C 200 CGI Avantgarde,Third Party,Petrol,5,"1,39,585",GJ05,Second Owner,1796,Automatic,2011,11.74,186,285,Jan,2012,75,6.0,Ahmedabad,17
+Renault,KWID RXT,Not Available,Petrol,5,"50,296",GJ27,Second Owner,799,Manual,2016,25.17,53.3,72,Apr,2016,70,2.5,Ahmedabad,
+Mahindra,XUV500 W10 2WD,Not Available,Diesel,7,"1,12,358",GJ01,First Owner,2179,Manual,2016,16,140,330,May,2016,70,6.8,Ahmedabad,17
+Maruti,S-Presso VXI 2019-2022,Third Party,Petrol,5,"43,062",GJ18,First Owner,998,Manual,2020,21.7,65.71,89,Jul,2020,30,4.5,Ahmedabad,
+Renault,KWID RXL,Not Available,Petrol,5,"23,176",MP09,First Owner,799,Manual,2019,25.17,53.3,72,Mar,2019,40,2.9,Ahmedabad,
+Toyota,Yaris V CVT BSIV,Not Available,Petrol,5,"37,987",GJ27,First Owner,1496,Automatic,2018,17.8,105.5,140,Apr,2019,50,6.0,Ahmedabad,15
+Kia,Seltos HTK G,Third Party,Petrol,5,"1,24,960",GJ24,First Owner,1497,Manual,2020,16.8,113.43,144,Jul,2020,30,9.0,Ahmedabad,
+Maruti,Swift VDI,Third Party,Diesel,5,"92,326",GJ01,First Owner,1248,Manual,2013,22.9,74,190,Oct,2013,75,4.25,Ahmedabad,14
+Volkswagen,Vento Diesel Highline,Not Available,Diesel,5,"88,721",GJ01,Second Owner,1598,Manual,2011,20.54,103.6,250,Mar,2011,75,2.3,Ahmedabad,15
+Honda,City i DTEC V,Not Available,Diesel,5,"83,020",GJ01,First Owner,1498,Manual,2014,26,98.6,200,Dec,2014,75,5.0,Ahmedabad,15
+Skoda,Slavia 1.0 TSI Ambition,Third Party,Petrol,5,"8,671",GJ18,First Owner,999,Manual,2022,19.47,113.98,178,Jan,2023,15,12.0,Ahmedabad,16
+Hyundai,i20 1.2 Magna Executive,Third Party,Petrol,5,"94,723",GJ09,First Owner,1197,Manual,2018,18.6,81.83,114.7,Nov,2018,50,6.5,Ahmedabad,
+Hyundai,Santro Xing GL,Third Party insurance,Petrol,5,"70,000",GJ01,First Owner,1086,Manual,2011,,62,96.1,Aug,2011,75,2.4,Ahmedabad,13
+Maruti,Vitara Brezza ZDi Plus,Third Party,Diesel,5,"1,21,254",GJ01,First Owner,1248,Manual,2017,24.3,88.5,200,Mar,2017,60,7.5,Ahmedabad,16
+Honda,Jazz Select Edition,Comprehensive,Petrol,,"1,37,947",GJ01,First Owner,1198,Manual,2012,16.7,,,Nov,2012,75,2.5,Ahmedabad,
+Honda,City i VTEC CVT VX,Third Party,Petrol,5,"68,366",GJ01,First Owner,1497,Automatic,2016,18,117.3,145,Jan,2017,70,7.0,Ahmedabad,15
+Mercedes-Benz,E-Class E250 CDI Avantgarde,Comprehensive,Diesel,5,"1,14,428",GJ27,Second Owner,2143,Automatic,2011,14.21,203,500,Apr,2012,75,9.0,Ahmedabad,17
+Toyota,Fortuner 4X4 Diesel AT,Comprehensive,Diesel,7,"33,906",GJ18,First Owner,2755,Automatic,2021,,201.15,500,Feb,2021,20,41.0,Ahmedabad,18
+Hyundai,i10 Magna 1.1L,Third Party,Petrol,5,"1,28,453",GJ03,First Owner,1086,Manual,2011,19.81,68.05,99.04,Mar,2011,75,1.8,Ahmedabad,
+Kia,Sonet HTX DCT,Third Party,Petrol,5,"10,076",GJ01,First Owner,998,Automatic,2022,18.2,118.36,172,Aug,2022,15,12.5,Ahmedabad,16
+Toyota,Innova Crysta 2.4 VX MT BSIV,Not Available,Diesel,7,"1,41,824",GJ27,First Owner,2393,Manual,2017,13.68,147.8,343,Jan,2018,60,15.0,Ahmedabad,16
+Hyundai,Accent Executive,Not Available,Petrol,5,"85,885",GJ01,First Owner,1495,Manual,2011,16.36,93.7,124.6,Nov,2011,75,2.8,Ahmedabad,13
+Maruti,Baleno Zeta,Third Party,Petrol,5,"18,046",GJ01,First Owner,1197,Manual,2020,21.01,81.80,113,May,2021,30,7.5,Ahmedabad,R16
+Hyundai,i20 Sportz 1.4 CRDi,Third Party,Diesel,5,"61,661",GJ01,Second Owner,1396,Manual,2013,21.9,88.76,219.6,Feb,2014,75,4.0,Ahmedabad,14
+Jaguar,XF 2.0 Diesel Portfolio,Third Party,Diesel,5,"67,485",GJ38,Second Owner,1999,Automatic,2017,19.33,177,430,Jan,2018,60,30.0,Ahmedabad,20
+Hyundai,EON Era Plus,Third Party,Petrol,5,"49,780",GJ27,First Owner,814,Manual,2013,21.1,55.2,74.5,Feb,2013,75,1.9,Ahmedabad,
+Maruti,Alto K10 VXI AMT,Comprehensive,Petrol,5,"26,070",GJ01,First Owner,998,Automatic,2015,23.95,67.05,90,Jan,2016,75,3.5,Ahmedabad,
+Ford,Ecosport 1.5 Diesel Titanium Plus BSIV,Third Party,Diesel,5,"46,279",GJ06,First Owner,1498,Manual,2018,23,98.96,205,Oct,2018,50,7.0,Ahmedabad,16
+Honda,City V MT,Not Available,Petrol,5,"73,742",GJ01,First Owner,1497,Manual,2013,16.8,116.3,146,Jul,2013,75,5.0,Ahmedabad,15
+Honda,City S,Not Available,Petrol,5,"71,199",GJ01,First Owner,1497,Manual,2011,16.8,116.4,146,Oct,2011,75,2.85,Ahmedabad,15
+Honda,Jazz Basic,Not Available,Petrol,5,"78,216",GJ01,Fourth Owner,1198,Manual,2009,16.7,88.8,110,Sept,2009,75,2.11,Ahmedabad,15
+Honda,City S,Third Party,Petrol,5,"93,430",GJ01,First Owner,1497,Manual,2013,16.8,116.4,146,May,2013,75,4.5,Ahmedabad,15
+Maruti,Ciaz VDi Plus,Zero Dep,Diesel,5,"50,453",GJ27,First Owner,1248,Manual,2015,26.21,88.5,200,Jul,2015,75,5.5,Ahmedabad,
+Hyundai,Venue SX Diesel,Third Party,Diesel,5,"37,084",GJ27,First Owner,1493,Manual,2020,23.7,98.6,240.26,Dec,2020,30,11.0,Ahmedabad,
+Tata,Nano Twist XTA,Third Party,Petrol,4,"43,384",GJ01,Third Owner,624,Automatic,2015,25.4,37.5,51,Nov,2015,75,1.0,Ahmedabad,
+Maruti,Eeco 5 Seater AC BSIV,Third Party,Petrol,5,"67,424",GJ01,Second Owner,1196,Manual,2014,15.37,73,101,Jul,2014,75,4.0,Ahmedabad,
+Ford,Ecosport 1.5 DV5 MT Titanium Optional,Third Party,Diesel,5,"1,27,892",GJ06,Third Owner,1498,Manual,2013,22.7,89.84,204,Jul,2013,75,4.0,Ahmedabad,16
+Hyundai,Venue SX Opt iMT,Third Party,Petrol,5,"8,165",GJ01,First Owner,998,Manual,2021,18,118.35,171.6,Jan,2022,20,11.0,Ahmedabad,16
+MG,Astor Super EX,Not Available,Petrol,5,"5,101",GJ01,First Owner,1498,Manual,2022,,108.49,144,Nov,2022,15,11.0,Ahmedabad,17
+BMW,5 Series 520d Sedan,Third Party,Diesel,5,"1,38,722",GJ01,Second Owner,1995,Automatic,2012,18.48,,35,Aug,2012,75,10.0,Ahmedabad,17
+Hyundai,Sonata CRDi M/T,Not Available,Diesel,5,"1,05,583",GJ01,Fourth Owner,1991,Manual,2010,11.8,150 ps 3850 ,32.1 k,Jun,2010,75,3.06,Ahmedabad,16
+Hyundai,Creta 1.6 SX Option,Not Available,Petrol,5,"41,446",GJ38,First Owner,1591,Manual,2019,15.8,121.3,151,Jan,2019,40,11.5,Ahmedabad,17
+Hyundai,EON Era Plus,Comprehensive,Petrol,5,"28,329",GJ01,First Owner,814,Manual,2015,21.1,55.2,74.5,Jan,2016,75,3.5,Ahmedabad,
+BMW,3 Series 320d Prestige,Zero Dep,Diesel,5,"77,980",GJ18,Second Owner,1995,Automatic,2015,18.88,184,380,Aug,2015,75,15.0,Ahmedabad,16
+Tata,Nano Twist XTA,Not Available,Petrol,4,"49,995",GJ01,First Owner,624,Automatic,2015,25.4,37.5,51,Jan,2016,75,1.8,Ahmedabad,
+Hyundai,i10 Magna,Third Party insurance,Petrol,5,"64,000",GJ01,Second Owner,1197,Manual,2011,20.36,78.9,111.7,Nov,2011,75,2.1,Ahmedabad,13
+Ford,Ecosport 1.5 Diesel Ambiente BSIV,Not Available,Diesel,5,"52,997",GJ18,First Owner,1498,Manual,2019,23,98.96,205,Jul,2019,40,7.2,Ahmedabad,
+Renault,Captur 1.5 Diesel RXT,Zero Dep,Diesel,5,"70,854",GJ37,First Owner,1461,Manual,2017,20.37,108.45,240,Apr,2018,60,8.1,Ahmedabad,R17
+Maruti,Swift Dzire VXI 1.2,Not Available,Petrol,5,"32,614",GJ01,First Owner,1197,Manual,2020,21.21,81.80,113,Jul,2020,30,7.0,Ahmedabad,
+Maruti,Eeco 5 Seater AC BSIV,Not Available,Petrol,5,"1,46,049",GJ01,First Owner,1196,Manual,2015,15.37,73,101,Feb,2015,75,3.5,Ahmedabad,
+Tata,Altroz XE,Third Party,Petrol,5,"22,419",GJ01,First Owner,1199,Manual,2020,19.33,86.83,113,Jan,2021,30,5.0,Ahmedabad,
+Datsun,RediGO 1.0 S,Third Party,Petrol,5,"3,558",GJ01,First Owner,999,Manual,2017,22.5,67,91,May,2018,60,2.9,Ahmedabad,
+Honda,Mobilio S i-DTEC,Third Party,Diesel,7,"78,424",GJ01,First Owner,1498,Manual,2015,24.2,98.6,200,Aug,2016,75,5.0,Ahmedabad,
+Chevrolet,Enjoy TCDi LS 8 Seater,Third Party,Diesel,8,"72,968",GJ01,First Owner,1248,Manual,2014,18.2,73.8,172.5 ,Apr,2015,75,2.85,Ahmedabad,
+Maruti,Swift VDI,Not Available,Diesel,5,"1,88,993",GJ01,Third Owner,1248,Manual,2011,22.9,74,190,Feb,2011,75,1.8,Ahmedabad,14
+Maruti,Wagon R LXI Minor,Not Available,Petrol,5,"62,850",GJ01,Second Owner,1061,Manual,2010,18.9,67,84,Feb,2010,75,2.0,Ahmedabad,13
