@@ -7,6 +7,180 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Home Page</h1>
+    <h1>Home Page</h1> 
+    <!-- 
+        Brand
+        Insurance 
+        Fuel Type
+        Seats
+        Kms Driven
+        Ownership
+        Engine Displacement
+        Transmission
+        Mileage
+        Maxpower
+        Wheel Size
+        Registration Month
+        Registration Year
+        City
+    -->
+
+    <form action="{{ url_for('predict')}}" method="post">
+        <div class="brand">
+            <label for="Brand">Select a Brand:</label>
+            <select id="Brand" name="Brand" required>
+                <option value="" disabled selected> </option>
+                <option value="Maruti">Maruti</option>
+                <option value="Hyundai">Hyundai</option>
+                <option value="Honda">Honda</option>
+                <option value="Tata">Tata</option>
+                <option value="Mahindra">Mahindra</option>
+                <option value="Toyota">Toyota</option>
+                <option value="Renault">Renault</option>
+                <option value="Ford">Ford</option>
+                <option value="Volkswagen">Volkswagen</option>
+                <option value="Mercedes-Benz">Mercedes-Benz</option>
+                <option value="Skoda">Skoda</option>
+                <option value="BMW">BMW</option>
+                <option value="Others">Others</option>
+            </select>
+        </div>
+
+        <br />
+        <div class="insurance">
+            <label for="Insurance Validity">Insurance Type: </label>
+            <select id="Insurance Validity" name="Insurance Validity" required>
+                <option value="" disabled selected> </option>
+                <option value="Third Party">Third Party</option>
+                <option value="Comprehensive">Comprehensive</option>
+                <option value="Not Available">Not Available</option>
+                <option value="Others">Others</option>
+            </select>
+        </div>
+        <br>
+
+        <div class="fuel">
+            <label for="Fuel Type">Fuel Type: </label>
+            <select name="Fuel Type" id="Fuel Type" required>
+                <option value="" disabled selected> </option>
+                <option value="Petrol"> Petrol </option>
+                <option value="Diesel"> Diesel </option>
+                <option value="CNG"> CNG </option>
+                <option value="Electric"> Electric </option>
+              <option value="LPG"> LPG </option>
+            </select>            
+        </div>
+        <br>
+
+        <div class="seats">
+            <label for="Seats"> Number of Seats: </label>
+            <input type="number" name="Seats" id="Seats" required>
+        </div>
+        <br>
+
+        <div class="kms">
+            <label for="Kms Driven"> Kms Driven: </label>
+            <input type="number" name="Kms Driven" id="Kms Driven" required>
+        </div>
+        <br>
+        
+        <div class="owner">
+            <label for="Ownership">Ownershipship:</label>
+            <select id="Ownership" name="Ownership" required>
+                <option value="" disabled selected> </option>
+                <option value="First Owner">First Owner</option>
+                <option value="Second Owner">Second Owner</option>
+                <option value="Third or More Owners">Three or More Owners</option>
+            </select>
+        </div>
+        <br>
+
+        <div class="engine">
+            <label for="Engine Displacement"> Engine Displacement (in cc): </label>
+            <input type="number" name="Engine Displacement" id="Engine Displacement" required>
+        </div>
+        <br>
+        
+        <div class="transmission">
+            <label for="Transmission">Transmission:</label>
+            <select id="Transmission" name="Transmission" required>
+                <option value="" disabled selected> </option>
+                <option value="Manual">Manual</option>
+                <option value="Automatic">Automatic</option>
+            </select>            
+        </div>
+        <br>
+        
+        <div class="mileage">
+            <label for="Mileage"> Mileage (in kmpl): </label>
+            <input type="number" name="Mileage" id="Mileage" step="0.01" required>
+        </div>
+        <br>
+        
+        <div class="maxpower">
+            <label for="Maxpower"> Maxpower (in bhp): </label>
+            <input type="number" name="Maxpower" id="Maxpower" step="0.01" required>
+        </div>
+        <br>
+        
+        <div class="wheel">
+            <label for="Wheel Size"> Wheel Size: </label>
+            <input type="number" name="Wheel Size" id="Wheel Size" required>
+        </div>
+        <br>
+
+        <div class="month">
+            <label for="Registration Month"> Registration Month: </label>
+            <select name="Registration Month" id="Registration Month" required>
+                <option value="" disabled selected> </option>
+                <option value="Jan">Jan</option>
+                <option value="Feb">Feb</option>
+                <option value="Mar">Mar</option>
+                <option value="Apr">Apr</option>
+                <option value="May">May</option>
+                <option value="Jun">Jun</option>
+                <option value="Jul">Jul</option>
+                <option value="Aug">Aug</option>
+                <option value="Sept">Sept</option>
+                <option value="Oct">Oct</option>
+                <option value="Nov">Nov</option>
+                <option value="Dec">Dec</option>
+            </select>
+                
+        </div>
+        <br>
+        
+        <div class="year">
+            <label for="Registration Year"> Registration Year: </label>
+            <input type="number" name="Registration Year" id="Registration Year" required>
+        </div>
+        <br>
+
+        <div class="city">
+            <label for="City">City:</label>
+            <select id="City" name="City" required>
+                <option value="" disabled selected> </option>
+                <option value="Bangalore">Bangalore</option>
+                <option value="Mumbai">Mumbai</option>
+                <option value="Delhi">Delhi</option>
+                <option value="Hyderabad">Hyderabad</option>
+                <option value="Ahmedabad">Ahmedabad</option>
+                <option value="Kolkata">Kolkata</option>
+                <option value="Jaipur">Jaipur</option>
+                <option value="Pune">Pune</option>
+                <option value="Agra">Agra</option>
+            </select>            
+        </div>
+        <br>
+
+        <br>
+        <button type="submit" class="btn"> Submit </button>
+        <!-- check the dtypes ki sabhi input and options regarding sahi hai ya nhi -->
+    </form>
+
+    <br>
+    <div>
+        {{ prediction_text }}
+    </div>
 </body>
 </html>

@@ -16,7 +16,7 @@ model = pickle.load(open('model.pkl', 'rb'))
 def home():
     return render_template('home.html')
 
-@app.route('/predict_api', methods=["POST"])
+@app.route('/predict/api', methods=["POST"])
 def predict_api():
     data = request.json['data']
     print(data)
@@ -32,6 +32,17 @@ def predict_api():
     print(output)
 
     return jsonify(output)
+
+@app.route('/predict', methods=["POST"])
+def predict():
+    data = list(request.form.values())
+    data = np.array(data).reshape(1,-1)
+    output = model.predict(data)
+    output = float(output)
+    output = round(output, 5)
+
+    return render_template('home.html', prediction_text = f'The car price predicted is around {output}')
+
 
 if __name__ == "__main__":
     app.run(debug=True)
