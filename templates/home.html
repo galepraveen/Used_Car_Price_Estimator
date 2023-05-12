@@ -5,29 +5,15 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="../assets/css/bootstrap.min.css">
+    <script src="../assets/js/bootstrap.min.js" defer></script>
 </head>
 <body>
-    <h1>Home Page</h1> 
-    <!-- 
-        Brand
-        Insurance 
-        Fuel Type
-        Seats
-        Kms Driven
-        Ownership
-        Engine Displacement
-        Transmission
-        Mileage
-        Maxpower
-        Wheel Size
-        Registration Month
-        Registration Year
-        City
-    -->
+    <h1>Home Pages</h1>
 
     <form action="{{ url_for('predict')}}" method="post">
         <div class="brand">
-            <label for="Brand">Select a Brand:</label>
+            <label for="Brand">Brand:</label>
             <select id="Brand" name="Brand" required>
                 <option value="" disabled selected> </option>
                 <option value="Maruti">Maruti</option>
@@ -44,6 +30,12 @@
                 <option value="BMW">BMW</option>
                 <option value="Others">Others</option>
             </select>
+        </div>
+        <br>
+
+        <div class="model">
+            <label for="Model"> Model: </label>
+            <input type="text" name="Model" id="Model">
         </div>
 
         <br />
@@ -174,13 +166,14 @@
         <br>
 
         <br>
-        <button type="submit" class="btn"> Submit </button>
-        <!-- check the dtypes ki sabhi input and options regarding sahi hai ya nhi -->
+        <button type="submit" class="btn btn-primary"> Submit </button>
     </form>
 
     <br>
     <div>
-        {{ prediction_text }}
+        <h1>
+            {{ prediction_text }}
+        </h1>
     </div>
 </body>
 </html>

@@ -1,13 +1,11 @@
 import pickle
 from flask import Flask, request, app, jsonify, url_for, render_template
 import numpy as np
-import pandas as pd
 import warnings
-import json
 warnings.filterwarnings('ignore')
 
 # the root path from where the pickle file will start and gets all the other pages
-app = Flask(__name__)
+app = Flask(__name__, static_url_path='/assets', static_folder='assets')
 
 # Loading the model
 model = pickle.load(open('model.pkl', 'rb'))
@@ -36,7 +34,9 @@ def predict_api():
 @app.route('/predict', methods=["POST"])
 def predict():
     data = list(request.form.values())
+    data.pop(1)
     data = np.array(data).reshape(1,-1)
+    print(data)
     output = model.predict(data)
     output = float(output)
     output = round(output, 5)

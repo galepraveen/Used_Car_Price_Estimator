@@ -1,0 +1,21 @@
+*{
+    font-size: 10px;
+}
+
+.option{
+    list-style-type: none;
+    border: 1px solid black;
+    display: flex;
+    place-content: center;
+    margin: 0 auto;
+    /* max-width: 30%; */
+    /* min-width: auto; */
+}
+
+.option li{
+    margin: 1rem;
+    background: purple;
+    color: aliceblue;
+    padding: 2rem;
+    font-size: 1.6rem;
+}
