@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dummy page</title>
     <link rel="stylesheet" href="../assets/css/bootstrap.min.css">
-    <!-- <link rel="stylesheet" href="style.css"> -->   
+    <link rel="stylesheet" href="style.css">   
     <script src="../assets/js/bootstrap.min.js" defer></script>
     
 </head>
@@ -48,110 +48,161 @@
     </div>
   </nav>
 
-  <div id="carouselExampleDark" class="carousel carousel-dark slide">
-      <div class="text-center m-5">
-        <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"> Brand </button>
-        <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="1" aria-label="Slide 2"> Insurance </button>
-        <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="2" aria-label="Slide 3"> Fuel Type </button>
-        <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="3" aria-label="Slide 4"> Seats </button>
-        <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="4" aria-label="Slide 5"> Kms Driven </button>
-        <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="5" aria-label="Slide 6"> Ownership </button>
-        <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="6" aria-label="Slide 7"> Engine Displacement </button>
-        <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="7" aria-label="Slide 8"> Transmission </button>
-        <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="8" aria-label="Slide 9"> Mileage </button>
-        <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="9" aria-label="Slide 10"> Maxpower </button>
-        <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="10" aria-label="Slide 11"> Wheel Size </button>
-        <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="11" aria-label="Slide 12"> Registration Month </button>
-        <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="12" aria-label="Slide 13"> Registration Year </button>
-        <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="13" aria-label="Slide 14"> City </button>
+  <div class="form">
+    <form action="{{ url_for('predict')}}" method="post">
+      <div id="carouselExampleDark" class="carousel carousel-dark slide">
+        <div class="text-center m-5">
+          <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"> Brand </button>
+          <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="1" class="active" aria-current="true" aria-label="Slide 1"> Model </button>
+          <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="2" aria-label="Slide 2"> Insurance </button>
+          <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="3" aria-label="Slide 3"> Fuel Type </button>
+          <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="4" aria-label="Slide 4"> Seats </button>
+          <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="5" aria-label="Slide 5"> Kms Driven </button>
+          <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="6" aria-label="Slide 6"> Ownership </button>
+          <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="7" aria-label="Slide 7"> Engine Displacement </button>
+          <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="8" aria-label="Slide 8"> Transmission </button>
+          <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="9" aria-label="Slide 9"> Mileage </button>
+          <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="10" aria-label="Slide 10"> Maxpower </button>
+          <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="11" aria-label="Slide 11"> Wheel Size </button>
+          <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="12" aria-label="Slide 12"> Registration Month </button>
+          <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="13" aria-label="Slide 13"> Registration Year </button>
+          <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="14" aria-label="Slide 14"> City </button>
+        </div>
+    
+        <div class="carousel-inner">
+          <div class="carousel-item active text-center" data-bs-interval="10000">
+            <div class="">
+              <label for="Brand">Brand:</label>
+              <select id="Brand" name="Brand" required>
+                  <option value="" disabled selected> </option>
+                  <option value="Maruti">Maruti</option>
+                  <option value="Hyundai">Hyundai</option>
+                  <option value="Honda">Honda</option>
+                  <option value="Tata">Tata</option>
+                  <option value="Mahindra">Mahindra</option>
+                  <option value="Toyota">Toyota</option>
+                  <option value="Renault">Renault</option>
+                  <option value="Ford">Ford</option>
+                  <option value="Volkswagen">Volkswagen</option>
+                  <option value="Mercedes-Benz">Mercedes-Benz</option>
+                  <option value="Skoda">Skoda</option>
+                  <option value="BMW">BMW</option>
+                  <option value="Others">Others</option>
+              </select>
+            </div>
+          </div>
+          <div class="carousel-item text-center" data-bs-interval="2000">
+            <div class="">
+              <label for="Model"> Model: </label>
+              <input type="text" name="Model" id="Model">
+            </div>
+          </div>
+          <div class="carousel-item text-center">
+            <div class="">
+              <label for="Insurance Validity">Insurance Type: </label>
+              <select id="Insurance Validity" name="Insurance Validity" required>
+                  <option value="" disabled selected> </option>
+                  <option value="Third Party">Third Party</option>
+                  <option value="Comprehensive">Comprehensive</option>
+                  <option value="Not Available">Not Available</option>
+                  <option value="Others">Others</option>
+              </select>
+            </div>
+          </div>
+          <div class="carousel-item text-center">
+            <label for="Fuel Type">Fuel Type: </label>
+            <select name="Fuel Type" id="Fuel Type" required>
+                <option value="" disabled selected> </option>
+                <option value="Petrol"> Petrol </option>
+                <option value="Diesel"> Diesel </option>
+                <option value="CNG"> CNG </option>
+                <option value="Electric"> Electric </option>
+              <option value="LPG"> LPG </option>
+            </select> 
+          </div>
+          <div class="carousel-item text-center">
+            <label for="Seats"> Number of Seats: </label>
+            <input type="number" name="Seats" id="Seats" required>
+          </div>
+          <div class="carousel-item text-center">
+            <label for="Kms Driven"> Kms Driven: </label>
+            <input type="number" name="Kms Driven" id="Kms Driven" required>
+          </div>
+          <div class="carousel-item text-center">
+            <label for="Ownership">Ownership:</label>
+            <select id="Ownership" name="Ownership" required>
+                <option value="" disabled selected> </option>
+                <option value="First Owner">First Owner</option>
+                <option value="Second Owner">Second Owner</option>
+                <option value="Third or More Owners">Three or More Owners</option>
+            </select>
+          </div>
+          <div class="carousel-item text-center">
+            <label for="Engine Displacement"> Engine Displacement (in cc): </label>
+            <input type="number" name="Engine Displacement" id="Engine Displacement" required>
+          </div>
+          <div class="carousel-item text-center">
+            <label for="Transmission">Transmission:</label>
+            <select id="Transmission" name="Transmission" required>
+                <option value="" disabled selected> </option>
+                <option value="Manual">Manual</option>
+                <option value="Automatic">Automatic</option>
+            </select>
+          </div>
+          <div class="carousel-item text-center">
+            <label for="Mileage"> Mileage (in kmpl): </label>
+            <input type="number" name="Mileage" id="Mileage" step="0.01" required>
+          </div>
+          <div class="carousel-item text-center">
+            <label for="Maxpower"> Maxpower (in bhp): </label>
+            <input type="number" name="Maxpower" id="Maxpower" step="0.01" required>
+          </div>
+          <div class="carousel-item text-center">
+            <label for="Wheel Size"> Wheel Size: </label>
+            <input type="number" name="Wheel Size" id="Wheel Size" required>
+          </div>
+          <div class="carousel-item text-center">
+            <label for="Registration Month"> Registration Month: </label>
+            <select name="Registration Month" id="Registration Month" required>
+                <option value="" disabled selected> </option>
+                <option value="Jan">Jan</option>
+                <option value="Feb">Feb</option>
+                <option value="Mar">Mar</option>
+                <option value="Apr">Apr</option>
+                <option value="May">May</option>
+                <option value="Jun">Jun</option>
+                <option value="Jul">Jul</option>
+                <option value="Aug">Aug</option>
+                <option value="Sept">Sept</option>
+                <option value="Oct">Oct</option>
+                <option value="Nov">Nov</option>
+                <option value="Dec">Dec</option>
+            </select>
+          </div>
+          <div class="carousel-item text-center">
+            <label for="Registration Year"> Registration Year: </label>
+            <input type="number" name="Registration Year" id="Registration Year" required>
+          </div>
+          <div class="carousel-item text-center">
+            <label for="City">City: </label>
+            <select id="City" name="City" required>
+                <option value="" disabled selected> </option>
+                <option value="Bangalore">Bangalore</option>
+                <option value="Mumbai">Mumbai</option>
+                <option value="Delhi">Delhi</option>
+                <option value="Hyderabad">Hyderabad</option>
+                <option value="Ahmedabad">Ahmedabad</option>
+                <option value="Kolkata">Kolkata</option>
+                <option value="Jaipur">Jaipur</option>
+                <option value="Pune">Pune</option>
+                <option value="Agra">Agra</option>
+            </select>
+          </div>
+        </div>
+        
+        <button type="submit" class="btn btn-primary"> Submit </button>
       </div>
-      <div class="carousel-inner">
-        <div class="carousel-item active text-center" data-bs-interval="10000">
-          <h1> hello world 1</h1>
-          <div class="">
-            <h5>First slide label</h5>
-            <p>Some representative placeholder content for the first slide.</p>
-          </div>
-        </div>
-        <div class="carousel-item text-center" data-bs-interval="2000">
-          <h1>hello world 2</h1>
-          <div class="">
-            <h5>Second slide label</h5>
-            <p>Some representative placeholder content for the second slide.</p>
-          </div>
-        </div>
-        <div class="carousel-item text-center">
-          <h1> hello world 3</h1>
-          <div class="">
-            <h5>Third slide label</h5>
-            <p>Some representative placeholder content for the third slide.</p>
-          </div>
-        </div>
-        <div class="carousel-item text-center">
-          <h1> hello world 4</h1>
-          <div class="">
-            <h5>Fourth slide label</h5>
-            <p>Some representative placeholder content for the third slide.</p>
-          </div>
-        </div>
-        <div class="carousel-item text-center">
-          <h1> hello world 5</h1>
-          <div class="">
-            <h5>Fourth slide label</h5>
-            <p>Some representative placeholder content for the third slide.</p>
-          </div>
-        </div>
-        <div class="carousel-item text-center">
-          <h1> hello world 6</h1>
-          <div class="">
-            <h5>Fourth slide label</h5>
-            <p>Some representative placeholder content for the third slide.</p>
-          </div>
-        </div>
-        <div class="carousel-item text-center">
-          <h1> hello world 7</h1>
-          <div class="">
-            <h5>Fourth slide label</h5>
-            <p>Some representative placeholder content for the third slide.</p>
-          </div>
-        </div>
-        <div class="carousel-item text-center">
-          <h1> hello world 8</h1>
-          <div class="">
-            <h5>Fourth slide label</h5>
-            <p>Some representative placeholder content for the third slide.</p>
-          </div>
-        </div>
-        <div class="carousel-item text-center">
-          <h1> hello world 9</h1>
-          <div class="">
-            <h5>Fourth slide label</h5>
-            <p>Some representative placeholder content for the third slide.</p>
-          </div>
-        </div>
-        <div class="carousel-item text-center">
-          <h1> hello world 10</h1>
-          <div class="">
-            <h5>Fourth slide label</h5>
-            <p>Some representative placeholder content for the third slide.</p>
-          </div>
-        </div>
-        <div class="carousel-item text-center">
-          <h1> hello world 11</h1>
-          <div class="">
-            <h5>Fourth slide label</h5>
-            <p>Some representative placeholder content for the third slide.</p>
-          </div>
-        </div>
-        <div class="carousel-item text-center">
-          <h1> hello world 12</h1>
-          <div class="">
-            <h5>Fourth slide label</h5>
-            <p>Some representative placeholder content for the third slide.</p>
-          </div>
-        </div>
-      </div>
-    </div>
+    </form>
   </div>
 
       
