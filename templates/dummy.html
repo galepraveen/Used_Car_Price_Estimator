@@ -8,7 +8,6 @@
     <link rel="stylesheet" href="../assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="style.css">   
     <script src="../assets/js/bootstrap.min.js" defer></script>
-    
 </head>
 <body>
   <nav class="navbar navbar-expand-lg bg-primary" data-bs-theme="dark">
@@ -48,12 +47,78 @@
     </div>
   </nav>
 
+  <!-- <div id="carouselExample" class="carousel slide">
+    <div class="carousel-inner bg-danger py-3 w-50 mx-auto">
+      <div class="carousel-item active text-center border border-white w-50">
+        <div class="text-center">
+          <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"> Brand </button>
+          <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"> Model </button>
+          <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"> Insurance </button>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"> Model </button>
+      </div>
+      <div class="carousel-item">
+        <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"> Insurance </button>
+      </div>
+    </div>
+    <div class="buttons bg-primary">
+      <button class="carousel-control-prev w-75" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+      <button class="carousel-control-next w-75" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
+    </div>
+  </div> -->
+
+  <div id="carouselExample" class="carousel slide w-40 mx-auto mt-3 bg-success p-2">
+    <div class="carousel-inner w-75 mx-auto bg-danger p-1">
+      <div class="carousel-item active text-center">
+        <button class="mx-1 w-30"> Brand </button>
+        <button class="mx-1 w-30"> Model </button>
+        <button class="mx-1 w-30"> Insurance </button>
+      </div>
+      <div class="carousel-item text-center">
+        <button class="mx-1 w-30"> Fuel Type </button>
+        <button class="mx-1 w-30"> Seats </button>
+        <button class="mx-1 w-30"> Kms Driven </button>
+      </div>
+      <div class="carousel-item text-center">
+        <button class="mx-1 w-30"> Ownership </button>
+        <button class="mx-1 w-30"> Engin Disp. </button>
+        <button class="mx-1 w-30"> Transmission </button>
+      </div>
+      <div class="carousel-item text-center">
+        <button class="mx-1 w-30"> Mileage </button>
+        <button class="mx-1 w-30"> Max Power </button>
+        <button class="mx-1 w-30"> Wheel Size </button>
+      </div>
+      <div class="carousel-item text-center">
+        <button class="mx-1 w-30"> Reg. Month </button>
+        <button class="mx-1 w-30"> Reg. Year </button>
+        <button class="mx-1 w-30"> City </button>
+      </div>
+    </div>
+    <button class="carousel-control-prev w-25" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next w-25" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Next</span>
+    </button>
+  </div>
+
   <div class="form">
     <form action="{{ url_for('predict')}}" method="post">
       <div id="carouselExampleDark" class="carousel carousel-dark slide">
-        <div class="text-center m-5">
+        <div class="btns text-center mx-auto mt-5">
           <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"> Brand </button>
-          <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="1" class="active" aria-current="true" aria-label="Slide 1"> Model </button>
+          <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="1" class="" aria-current="true" aria-label="Slide 1"> Model </button>
           <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="2" aria-label="Slide 2"> Insurance </button>
           <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="3" aria-label="Slide 3"> Fuel Type </button>
           <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="4" aria-label="Slide 4"> Seats </button>
@@ -68,8 +133,10 @@
           <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="13" aria-label="Slide 13"> Registration Year </button>
           <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="14" aria-label="Slide 14"> City </button>
         </div>
-    
-        <div class="carousel-inner">
+
+        
+
+        <div class="carousel-inner my-5">
           <div class="carousel-item active text-center" data-bs-interval="10000">
             <div class="">
               <label for="Brand">Brand:</label>
@@ -200,11 +267,13 @@
           </div>
         </div>
         
-        <button type="submit" class="btn btn-primary"> Submit </button>
+        <div class="text-center mt-5">
+          <button type="submit" class="btn btn-primary"> Submit </button>
+        </div>
+
       </div>
     </form>
   </div>
 
-      
 </body>
 </html>
