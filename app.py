@@ -12,7 +12,7 @@ model = pickle.load(open('model.pkl', 'rb'))
 
 @app.route('/')
 def home():
-    return render_template('home.html')
+    return render_template('dummy.html')
 
 @app.route('/predict/api', methods=["POST"])
 def predict_api():
@@ -41,7 +41,7 @@ def predict():
     output = float(output)
     output = round(output, 5)
 
-    return render_template('home.html', prediction_text = f'The car price predicted is around {output}')
+    return render_template('dummy.html', prediction_text = f'The car price predicted is around {output}')
 
 
 if __name__ == "__main__":
