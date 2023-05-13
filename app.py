@@ -5,7 +5,7 @@ import warnings
 warnings.filterwarnings('ignore')
 
 # the root path from where the pickle file will start and gets all the other pages
-app = Flask(__name__, static_url_path='/assets', static_folder='assets')
+app = Flask(__name__, static_url_path='/static', static_folder='static')
 
 # Loading the model
 model = pickle.load(open('model.pkl', 'rb'))
@@ -33,8 +33,11 @@ def predict_api():
 
 @app.route('/predict', methods=["POST"])
 def predict():
+    print('\n\n')
     data = list(request.form.values())
+    print(data)
     data.pop(1)
+    print(data)
     data = np.array(data).reshape(1,-1)
     print(data)
     output = model.predict(data)

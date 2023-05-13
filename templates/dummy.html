@@ -5,9 +5,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dummy page</title>
-    <link rel="stylesheet" href="../assets/css/bootstrap.min.css">
-    <link rel="stylesheet" href="style.css">   
-    <script src="../assets/js/bootstrap.min.js" defer></script>
+    
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.min.css') }}">
+    <script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
 </head>
 <div>
   <nav class="navbar navbar-expand-lg bg-primary" data-bs-theme="dark">
@@ -55,20 +56,7 @@
           <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="1" aria-current="true" aria-label="Slide 2" class="mx-1 w-30"> Model </button>
           <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="2" aria-label="Slide 3" class="mx-1 w-30"> Insurance </button>
         </div>
-        <!-- <div class="carousel-item active text-center">
-          <div class="row">
-            <div class="col-sm-4">
-              <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="0" aria-current="true" aria-label="Slide 1" class="mx-1 w-100 mb-2 mb-sm-0">Brand</button>
-            </div>
-            <div class="col-sm-4">
-              <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="1" aria-current="true" aria-label="Slide 2" class="mx-1 w-100 mb-2 mb-sm-0">Model</button>
-            </div>
-            <div class="col-sm-4">
-              <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="2" aria-label="Slide 3" class="mx-1 w-100 mb-2 mb-sm-0">Insurance</button>
-            </div>
-          </div>
-        </div> -->
-        
+
         <div class="carousel-item text-center">
           <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="3" aria-label="Slide 4" class="mx-1 w-30"> Fuel Type </button>
           <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="4" aria-label="Slide 5" class="mx-1 w-30"> Seats </button>
@@ -112,37 +100,38 @@
                   <div class="row row-1">
                     <div class="col">
                         <div class="custom-control custom-radio iconSelect ml-2">
-                          <input type="radio" id="customRadio1" name="customRadio" value="1" class="custom-control-input hidden-radio">
+                          <input type="radio" id="customRadio1" name="customRadio" value="Maruti" class="custom-control-input hidden-radio">
                           <label class="custom-control-label" for="customRadio1">
-                            <img src="../assets/brands/maruti-suzuki.png" alt="maruti-suzuki" class="logo-1">
-                            <p> Maruti Suzuki </p>
+                            
+                            <img src="{{ url_for('static', filename='logos/maruti-suzuki.png') }}" alt="maruti-suzuki" class="logo-1">
+                            
                           </label>
                         </div>
                     </div>
                     <div class="col">
                       <div class="custom-control custom-radio iconSelect ml-2">
-                        <input type="radio" id="customRadio2" name="customRadio" value="2" class="custom-control-input hidden-radio">
+                        <input type="radio" id="customRadio2" name="customRadio" value="Hyundai" class="custom-control-input hidden-radio">
                         <label class="custom-control-label" for="customRadio2">
-                          <img src="../assets/brands/hyundai.png" alt="hyundai" class="logo-1">
-                          <p> Hyundai </p>
+                          <img src="{{ url_for('static', filename='logos/hyundai.png') }}" alt="hyundai" class="logo-1">
+                          
                         </label>
                       </div>
                     </div>
                     <div class="col">
                       <div class="custom-control custom-radio iconSelect ml-2">
-                        <input type="radio" id="customRadio3" name="customRadio" value="3" class="custom-control-input hidden-radio">
+                        <input type="radio" id="customRadio3" name="customRadio" value="Honda" class="custom-control-input hidden-radio">
                         <label class="custom-control-label" for="customRadio3">
-                          <img src="../assets/brands/honda.png" alt="honda" class="logo-1">
-                          <p> Honda </p>
+                          <img src="{{ url_for('static', filename='logos/honda.png') }}" alt="honda" class="logo-1">
+                          
                         </label>
                       </div>
                     </div>
                     <div class="col">
                       <div class="custom-control custom-radio iconSelect ml-2">
-                        <input type="radio" id="customRadio4" name="customRadio" value="4" class="custom-control-input hidden-radio">
+                        <input type="radio" id="customRadio4" name="customRadio" value="Mahindra" class="custom-control-input hidden-radio">
                         <label class="custom-control-label" for="customRadio4">
-                          <img src="../assets/brands/mahindra.png" alt="mahindra" class="logo-1">
-                          <p> Mahindra </p>
+                          <img src="{{ url_for('static', filename='logos/mahindra.png') }}" alt="mahindra" class="logo-1">
+                          
                         </label>
                       </div>
                     </div>
@@ -150,37 +139,37 @@
                   <div class="row row-2">
                     <div class="col">
                         <div class="custom-control custom-radio iconSelect mr-2">
-                          <input type="radio" id="customRadio5" name="customRadio" value="5" class="custom-control-input hidden-radio">
+                          <input type="radio" id="customRadio5" name="customRadio" value="Toyota" class="custom-control-input hidden-radio">
                           <label class="custom-control-label" for="customRadio5">
-                            <img src="../assets/brands/toyota.webp" alt="toyota" class="logo-1">
-                            <p> Toyota </p>
+                            <img src="{{ url_for('static', filename='logos/toyota.webp') }}" alt="toyota" class="logo-1">
+                            
                           </label>
                         </div>
                     </div>
                     <div class="col">
                       <div class="custom-control custom-radio iconSelect ml-2">
-                        <input type="radio" id="customRadio6" name="customRadio" value="6" class="custom-control-input hidden-radio">
+                        <input type="radio" id="customRadio6" name="customRadio" value="Tata" class="custom-control-input hidden-radio">
                         <label class="custom-control-label" for="customRadio6">
-                          <img src="../assets/brands/tata.png" alt="tata" class="logo-1">
-                          <p> Tata </p>
+                          <img src="{{ url_for('static', filename='logos/tata.png') }}" alt="tata" class="logo-1">
+                          
                         </label>
                       </div>
                     </div>
                     <div class="col">
                       <div class="custom-control custom-radio iconSelect ml-2">
-                        <input type="radio" id="customRadio7" name="customRadio" value="7" class="custom-control-input hidden-radio">
+                        <input type="radio" id="customRadio7" name="customRadio" value="Renault" class="custom-control-input hidden-radio">
                         <label class="custom-control-label" for="customRadio7">
-                          <img src="../assets/brands/renault.png" alt="renault" class="logo-1">
-                          <p> Renault </p>
+                          <img src="{{ url_for('static', filename='logos/renault.png') }}" alt="renault" class="logo-1">
+                          
                         </label>
                       </div>
                     </div>
                     <div class="col">
                       <div class="custom-control custom-radio iconSelect ml-2">
-                        <input type="radio" id="customRadio8" name="customRadio" value="8" class="custom-control-input hidden-radio">
+                        <input type="radio" id="customRadio8" name="customRadio" value="Ford" class="custom-control-input hidden-radio">
                         <label class="custom-control-label" for="customRadio8">
-                          <img src="../assets/brands/ford.png" alt="ford" class="logo-1">
-                          <p> Ford </p>
+                          <img src="{{ url_for('static', filename='logos/ford.png') }}" alt="ford" class="logo-1">
+                          
                         </label>
                       </div>
                     </div>
@@ -188,37 +177,37 @@
                   <div class="row row3">
                     <div class="col">
                         <div class="custom-control custom-radio iconSelect mr-2">
-                          <input type="radio" id="customRadio9" name="customRadio" value="9" class="custom-control-input hidden-radio">
+                          <input type="radio" id="customRadio9" name="customRadio" value="Volkswagen" class="custom-control-input hidden-radio">
                           <label class="custom-control-label" for="customRadio9">
-                            <img src="../assets/brands/volkswagen.webp" alt="volkswagen" class="logo-1">
-                            <p> Volkswagen </p>
+                            <img src="{{ url_for('static', filename='logos/volkswagen.webp') }}" alt="volkswagen" class="logo-1">
+                            
                           </label>
                         </div>
                     </div>
                     <div class="col">
                       <div class="custom-control custom-radio iconSelect ml-2">
-                        <input type="radio" id="customRadio10" name="customRadio" value="10" class="custom-control-input hidden-radio">
+                        <input type="radio" id="customRadio10" name="customRadio" value="Mercedes-Benz" class="custom-control-input hidden-radio">
                         <label class="custom-control-label" for="customRadio10">
-                          <img src="../assets/brands/mercedes-benz.png" alt="mercedes-benz" class="logo-1">
-                          <p> Mercedes Benz </p>
+                          <img src="{{ url_for('static', filename='logos/mercedes-benz.png') }}" alt="mercedes-benz" class="logo-1">
+                          
                         </label>
                       </div>
                     </div>
                     <div class="col">
                       <div class="custom-control custom-radio iconSelect ml-2">
-                        <input type="radio" id="customRadio11" name="customRadio" value="11" class="custom-control-input hidden-radio">
+                        <input type="radio" id="customRadio11" name="customRadio" value="Skoda" class="custom-control-input hidden-radio">
                         <label class="custom-control-label" for="customRadio11">
-                          <img src="../assets/brands/skoda.png" alt="skoda" class="logo-1">
-                          <p> Skoda </p>
+                          <img src=".{{ url_for('static', filename='logos/skoda.png') }}" alt="skoda" class="logo-1">
+                          
                         </label>
                       </div>
                     </div>
                     <div class="col">
                       <div class="custom-control custom-radio iconSelect ml-2">
-                        <input type="radio" id="customRadio12" name="customRadio" value="12" class="custom-control-input hidden-radio">
+                        <input type="radio" id="customRadio12" name="customRadio" value="BMW" class="custom-control-input hidden-radio">
                         <label class="custom-control-label" for="customRadio12">
-                          <img src="../assets/brands/bmw.png" alt="bmw" class="logo-1 bmw">
-                          <p> BMW </p>
+                          <img src="{{ url_for('static', filename='logos/bmw.png') }}" alt="bmw" class="logo-1 bmw">
+                          
                         </label>
                       </div>
                     </div>
@@ -227,10 +216,10 @@
                   <div class="row row-4">
                     <div class="col">
                       <div class="custom-control custom-radio iconSelect ml-2">
-                        <input type="radio" id="customRadio13" name="customRadio" value="13" class="custom-control-input hidden-radio">
+                        <input type="radio" id="customRadio13" name="customRadio" value="Others" class="custom-control-input hidden-radio">
                         <label class="custom-control-label" for="customRadio13">
-                          <img src="../assets/brands/others.png" alt="bmw" class="logo-1 others">
-                          <p> Others </p>
+                          <img src="{{ url_for('static', filename='logos/others.png') }}" alt="others" class="logo-1 others">
+                          
                         </label>
                       </div>
                     </div>
@@ -240,22 +229,64 @@
               
               </div>
             </div>
+
+            
             <div class="carousel-item text-center" data-bs-interval="2000">
               <div class="mb-3">
-                <label for="Model"> Model: </label>
-                <input type="text" name="Model" id="Model">
+                <div class="label">
+                  <label for="Model" class="mb-3">
+                    <h3> Enter Model of the Selected Brand </h3>
+                  </label>
+                </div>
+                <div class="input-group input-group-lg w-50 mx-auto">
+                  <input type="text" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-lg" name="Model" id="Model">
+                </div>
               </div>
             </div>
+            
             <div class="carousel-item text-center">
               <div class="mb-3">
-                <label for="Insurance Validity">Insurance Type: </label>
-                <select id="Insurance Validity" name="Insurance Validity" required>
-                    <option value="" disabled selected> </option>
-                    <option value="Third Party">Third Party</option>
-                    <option value="Comprehensive">Comprehensive</option>
-                    <option value="Not Available">Not Available</option>
-                    <option value="Others">Others</option>
-                </select>
+                <h3>Insurance Type: </h3>
+                <div class="container w-50 mx-auto mt-5">
+                  <div class="row">
+                    <div class="col-sm-3">
+                      <div class="custom-control custom-radio iconSelect mr-2">
+                        <input type="radio" id="radio-comprehensive" name="customRadioInsurance" value="Comprehensive" class="custom-control-input hidden-radio">
+                        <label class="custom-control-label" for="radio-comprehensive">
+                          <img src="{{ url_for('static', filename='logos/comprehensive.png') }}" alt="comprehensive" srcset="" class="insurance-logo">
+                          <p>Comprehensive</p>
+                        </label>
+                      </div>
+                    </div>
+                    <div class="col-sm-3">
+                      <div class="custom-control custom-radio iconSelect ml-2">
+                        <input type="radio" id="radio-third-party" name="customRadioInsurance" value="Third Party" class="custom-control-input hidden-radio">
+                        <label class="custom-control-label" for="radio-third-party">
+                          <img src="{{ url_for('static', filename='logos/third-party.png') }}" alt="third-party" class="insurance-logo">
+                          <p>Third Party</p>
+                        </label>
+                      </div>
+                    </div>
+                    <div class="col-sm-3">
+                      <div class="custom-control custom-radio iconSelect ml-2">
+                        <input type="radio" id="not-available-radio" name="customRadioInsurance" value="Not Available" class="custom-control-input hidden-radio">
+                        <label class="custom-control-label" for="not-available-radio">
+                          <img src="{{ url_for('static', filename='logos/no-insurance.png') }}" alt="not-available" srcset="" class="insurance-logo">
+                          <p>Not Available</p>
+                        </label>
+                      </div>
+                    </div>
+                    <div class="col-sm-3">
+                      <div class="custom-control custom-radio iconSelect ml-2">
+                        <input type="radio" id="others-radio" name="customRadioInsurance" value="Others" class="custom-control-input hidden-radio">
+                        <label class="custom-control-label" for="others-radio">
+                          <img src="{{ url_for('static', filename='logos/insurance-others.png') }}" alt="insurance-others" srcset="" class="insurance-logo">
+                          <p>Others</p>
+                        </label>
+                      </div>
+                    </div>
+                  </div>
+                </div>
               </div>
             </div>
             <div class="carousel-item text-center">
@@ -380,137 +411,10 @@
     </div>
   </main>
 
-  <!-- <div class="container text-center w-50">
-    <div class="row row-1">
-      <div class="col">
-          <div class="custom-control custom-radio iconSelect ml-2">
-            <input type="radio" id="customRadio1" name="customRadio" value="1" class="custom-control-input hidden-radio">
-            <label class="custom-control-label" for="customRadio1">
-              <img src="../assets/brands/maruti-suzuki.png" alt="maruti-suzuki" class="logo-1">
-              <p> Maruti Suzuki </p>
-            </label>
-          </div>
-      </div>
-      <div class="col">
-        <div class="custom-control custom-radio iconSelect ml-2">
-          <input type="radio" id="customRadio2" name="customRadio" value="2" class="custom-control-input hidden-radio">
-          <label class="custom-control-label" for="customRadio2">
-            <img src="../assets/brands/hyundai.png" alt="hyundai" class="logo-1">
-            <p> Hyundai </p>
-          </label>
-        </div>
-      </div>
-      <div class="col">
-        <div class="custom-control custom-radio iconSelect ml-2">
-          <input type="radio" id="customRadio3" name="customRadio" value="3" class="custom-control-input hidden-radio">
-          <label class="custom-control-label" for="customRadio3">
-            <img src="../assets/brands/honda.png" alt="honda" class="logo-1">
-            <p> Honda </p>
-          </label>
-        </div>
-      </div>
-      <div class="col">
-        <div class="custom-control custom-radio iconSelect ml-2">
-          <input type="radio" id="customRadio4" name="customRadio" value="4" class="custom-control-input hidden-radio">
-          <label class="custom-control-label" for="customRadio4">
-            <img src="../assets/brands/mahindra.png" alt="mahindra" class="logo-1">
-            <p> Mahindra </p>
-          </label>
-        </div>
-      </div>
-    </div>
-    <div class="row row-2">
-      <div class="col">
-          <div class="custom-control custom-radio iconSelect mr-2">
-            <input type="radio" id="customRadio5" name="customRadio" value="5" class="custom-control-input hidden-radio">
-            <label class="custom-control-label" for="customRadio5">
-              <img src="../assets/brands/toyota.webp" alt="toyota" class="logo-1">
-              <p> Toyota </p>
-            </label>
-          </div>
-      </div>
-      <div class="col">
-        <div class="custom-control custom-radio iconSelect ml-2">
-          <input type="radio" id="customRadio6" name="customRadio" value="6" class="custom-control-input hidden-radio">
-          <label class="custom-control-label" for="customRadio6">
-            <img src="../assets/brands/tata.png" alt="tata" class="logo-1">
-            <p> Tata </p>
-          </label>
-        </div>
-      </div>
-      <div class="col">
-        <div class="custom-control custom-radio iconSelect ml-2">
-          <input type="radio" id="customRadio7" name="customRadio" value="7" class="custom-control-input hidden-radio">
-          <label class="custom-control-label" for="customRadio7">
-            <img src="../assets/brands/renault.png" alt="renault" class="logo-1">
-            <p> Renault </p>
-          </label>
-        </div>
-      </div>
-      <div class="col">
-        <div class="custom-control custom-radio iconSelect ml-2">
-          <input type="radio" id="customRadio8" name="customRadio" value="8" class="custom-control-input hidden-radio">
-          <label class="custom-control-label" for="customRadio8">
-            <img src="../assets/brands/ford.png" alt="ford" class="logo-1">
-            <p> Ford </p>
-          </label>
-        </div>
-      </div>
-    </div>
-    <div class="row row3">
-      <div class="col">
-          <div class="custom-control custom-radio iconSelect mr-2">
-            <input type="radio" id="customRadio9" name="customRadio" value="9" class="custom-control-input hidden-radio">
-            <label class="custom-control-label" for="customRadio9">
-              <img src="../assets/brands/volkswagen.webp" alt="volkswagen" class="logo-1">
-              <p> Volkswagen </p>
-            </label>
-          </div>
-      </div>
-      <div class="col">
-        <div class="custom-control custom-radio iconSelect ml-2">
-          <input type="radio" id="customRadio10" name="customRadio" value="10" class="custom-control-input hidden-radio">
-          <label class="custom-control-label" for="customRadio10">
-            <img src="../assets/brands/mercedes-benz.png" alt="mercedes-benz" class="logo-1">
-            <p> Mercedes Benz </p>
-          </label>
-        </div>
-      </div>
-      <div class="col">
-        <div class="custom-control custom-radio iconSelect ml-2">
-          <input type="radio" id="customRadio11" name="customRadio" value="11" class="custom-control-input hidden-radio">
-          <label class="custom-control-label" for="customRadio11">
-            <img src="../assets/brands/skoda.png" alt="skoda" class="logo-1">
-            <p> Skoda </p>
-          </label>
-        </div>
-      </div>
-      <div class="col">
-        <div class="custom-control custom-radio iconSelect ml-2">
-          <input type="radio" id="customRadio12" name="customRadio" value="12" class="custom-control-input hidden-radio">
-          <label class="custom-control-label" for="customRadio12">
-            <img src="../assets/brands/bmw.png" alt="bmw" class="logo-1 bmw">
-            <p> BMW </p>
-          </label>
-        </div>
-      </div>
-    </div>
-
-    <div class="row row-4">
-      <div class="col">
-        <div class="custom-control custom-radio iconSelect ml-2">
-          <input type="radio" id="customRadio13" name="customRadio" value="13" class="custom-control-input hidden-radio">
-          <label class="custom-control-label" for="customRadio13">
-            <img src="../assets/brands/others.png" alt="bmw" class="logo-1 others">
-            <p> Others </p>
-          </label>
-        </div>
-      </div>
-    </div>
-    
-  </div> -->
-
-
+  
+  <h1>
+    {{ prediction_text }}
+  </h1>
 
 </body>
 </html>

@@ -1,3 +1,7 @@
+*{
+    box-sizing: border-box;
+}
+
 .w-35{
     width: 35%;
 }
@@ -57,3 +61,7 @@ div.row .col-md-12{
     width: 3rem;
 }
 
+.insurance-logo{
+    width: 3rem;
+    margin-top: 0.5rem;
+}
