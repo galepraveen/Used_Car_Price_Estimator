@@ -15,6 +15,45 @@
     width: 40%;
 }
 
+.logo-1{
+    width: 4rem;
+}
 
+div.row .col{
+    border: 1px solid red;
+    margin: 1rem;
+    width: 5rem;
+    height: 5rem;
+}
 
-  
+div.row .col-md-12{
+    border: 1px solid red;
+    margin: 1rem;
+    width: 5rem;
+    height: 5rem;
+}
+
+.hidden-radio{
+    display: none;
+}
+
+.custom-control-input:checked + .custom-control-label img {
+    width: 5rem;
+    background-color: rgb(114, 220, 249);
+    padding: 5px;
+    border: 1px solid black;
+    transition: all 0.2s;
+}
+
+.custom-control-input:checked + .custom-control-label img.others, .bmw {
+    width: 3.5rem;
+}
+
+.bmw{
+    width: 3rem;
+}
+
+.others{
+    width: 3rem;
+}
+

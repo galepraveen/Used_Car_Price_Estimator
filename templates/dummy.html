@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="style.css">   
     <script src="../assets/js/bootstrap.min.js" defer></script>
 </head>
-<body>
+<div>
   <nav class="navbar navbar-expand-lg bg-primary" data-bs-theme="dark">
     <div class="container-fluid">
       <a class="navbar-brand" href="#">Navbar</a>
@@ -47,7 +47,7 @@
     </div>
   </nav>
 
-  <main class="bg-success">
+  <main class="">
     <div id="carouselExample" class="carousel slide w-40 mx-auto mt-3 bg-success"  data-bs-wrap="false">
       <div class="carousel-inner w-80 mx-auto bg-danger p-1 ">
         <div class="carousel-item active text-center">
@@ -107,23 +107,137 @@
           <div class="carousel-inner my-5">
             <div class="carousel-item active text-center" data-bs-interval="10000">
               <div class="mb-3">
-                <label for="Brand">Brand:</label>
-                <select id="Brand" name="Brand" required>
-                    <option value="" disabled selected> </option>
-                    <option value="Maruti">Maruti</option>
-                    <option value="Hyundai">Hyundai</option>
-                    <option value="Honda">Honda</option>
-                    <option value="Tata">Tata</option>
-                    <option value="Mahindra">Mahindra</option>
-                    <option value="Toyota">Toyota</option>
-                    <option value="Renault">Renault</option>
-                    <option value="Ford">Ford</option>
-                    <option value="Volkswagen">Volkswagen</option>
-                    <option value="Mercedes-Benz">Mercedes-Benz</option>
-                    <option value="Skoda">Skoda</option>
-                    <option value="BMW">BMW</option>
-                    <option value="Others">Others</option>
-                </select>
+                <h2> Select a brand </h2>
+                <div class="container text-center w-50">
+                  <div class="row row-1">
+                    <div class="col">
+                        <div class="custom-control custom-radio iconSelect ml-2">
+                          <input type="radio" id="customRadio1" name="customRadio" value="1" class="custom-control-input hidden-radio">
+                          <label class="custom-control-label" for="customRadio1">
+                            <img src="../assets/brands/maruti-suzuki.png" alt="maruti-suzuki" class="logo-1">
+                            <p> Maruti Suzuki </p>
+                          </label>
+                        </div>
+                    </div>
+                    <div class="col">
+                      <div class="custom-control custom-radio iconSelect ml-2">
+                        <input type="radio" id="customRadio2" name="customRadio" value="2" class="custom-control-input hidden-radio">
+                        <label class="custom-control-label" for="customRadio2">
+                          <img src="../assets/brands/hyundai.png" alt="hyundai" class="logo-1">
+                          <p> Hyundai </p>
+                        </label>
+                      </div>
+                    </div>
+                    <div class="col">
+                      <div class="custom-control custom-radio iconSelect ml-2">
+                        <input type="radio" id="customRadio3" name="customRadio" value="3" class="custom-control-input hidden-radio">
+                        <label class="custom-control-label" for="customRadio3">
+                          <img src="../assets/brands/honda.png" alt="honda" class="logo-1">
+                          <p> Honda </p>
+                        </label>
+                      </div>
+                    </div>
+                    <div class="col">
+                      <div class="custom-control custom-radio iconSelect ml-2">
+                        <input type="radio" id="customRadio4" name="customRadio" value="4" class="custom-control-input hidden-radio">
+                        <label class="custom-control-label" for="customRadio4">
+                          <img src="../assets/brands/mahindra.png" alt="mahindra" class="logo-1">
+                          <p> Mahindra </p>
+                        </label>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="row row-2">
+                    <div class="col">
+                        <div class="custom-control custom-radio iconSelect mr-2">
+                          <input type="radio" id="customRadio5" name="customRadio" value="5" class="custom-control-input hidden-radio">
+                          <label class="custom-control-label" for="customRadio5">
+                            <img src="../assets/brands/toyota.webp" alt="toyota" class="logo-1">
+                            <p> Toyota </p>
+                          </label>
+                        </div>
+                    </div>
+                    <div class="col">
+                      <div class="custom-control custom-radio iconSelect ml-2">
+                        <input type="radio" id="customRadio6" name="customRadio" value="6" class="custom-control-input hidden-radio">
+                        <label class="custom-control-label" for="customRadio6">
+                          <img src="../assets/brands/tata.png" alt="tata" class="logo-1">
+                          <p> Tata </p>
+                        </label>
+                      </div>
+                    </div>
+                    <div class="col">
+                      <div class="custom-control custom-radio iconSelect ml-2">
+                        <input type="radio" id="customRadio7" name="customRadio" value="7" class="custom-control-input hidden-radio">
+                        <label class="custom-control-label" for="customRadio7">
+                          <img src="../assets/brands/renault.png" alt="renault" class="logo-1">
+                          <p> Renault </p>
+                        </label>
+                      </div>
+                    </div>
+                    <div class="col">
+                      <div class="custom-control custom-radio iconSelect ml-2">
+                        <input type="radio" id="customRadio8" name="customRadio" value="8" class="custom-control-input hidden-radio">
+                        <label class="custom-control-label" for="customRadio8">
+                          <img src="../assets/brands/ford.png" alt="ford" class="logo-1">
+                          <p> Ford </p>
+                        </label>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="row row3">
+                    <div class="col">
+                        <div class="custom-control custom-radio iconSelect mr-2">
+                          <input type="radio" id="customRadio9" name="customRadio" value="9" class="custom-control-input hidden-radio">
+                          <label class="custom-control-label" for="customRadio9">
+                            <img src="../assets/brands/volkswagen.webp" alt="volkswagen" class="logo-1">
+                            <p> Volkswagen </p>
+                          </label>
+                        </div>
+                    </div>
+                    <div class="col">
+                      <div class="custom-control custom-radio iconSelect ml-2">
+                        <input type="radio" id="customRadio10" name="customRadio" value="10" class="custom-control-input hidden-radio">
+                        <label class="custom-control-label" for="customRadio10">
+                          <img src="../assets/brands/mercedes-benz.png" alt="mercedes-benz" class="logo-1">
+                          <p> Mercedes Benz </p>
+                        </label>
+                      </div>
+                    </div>
+                    <div class="col">
+                      <div class="custom-control custom-radio iconSelect ml-2">
+                        <input type="radio" id="customRadio11" name="customRadio" value="11" class="custom-control-input hidden-radio">
+                        <label class="custom-control-label" for="customRadio11">
+                          <img src="../assets/brands/skoda.png" alt="skoda" class="logo-1">
+                          <p> Skoda </p>
+                        </label>
+                      </div>
+                    </div>
+                    <div class="col">
+                      <div class="custom-control custom-radio iconSelect ml-2">
+                        <input type="radio" id="customRadio12" name="customRadio" value="12" class="custom-control-input hidden-radio">
+                        <label class="custom-control-label" for="customRadio12">
+                          <img src="../assets/brands/bmw.png" alt="bmw" class="logo-1 bmw">
+                          <p> BMW </p>
+                        </label>
+                      </div>
+                    </div>
+                  </div>
+              
+                  <div class="row row-4">
+                    <div class="col">
+                      <div class="custom-control custom-radio iconSelect ml-2">
+                        <input type="radio" id="customRadio13" name="customRadio" value="13" class="custom-control-input hidden-radio">
+                        <label class="custom-control-label" for="customRadio13">
+                          <img src="../assets/brands/others.png" alt="bmw" class="logo-1 others">
+                          <p> Others </p>
+                        </label>
+                      </div>
+                    </div>
+                  </div>
+                  
+                </div>
+              
               </div>
             </div>
             <div class="carousel-item text-center" data-bs-interval="2000">
@@ -261,17 +375,142 @@
               </div>
             </div>
           </div>
-          
-          
-  
         </div>
       </form>
     </div>
   </main>
 
-  <!-- <div>
-    <h2> {{ prediction_text }} </h2>
+  <!-- <div class="container text-center w-50">
+    <div class="row row-1">
+      <div class="col">
+          <div class="custom-control custom-radio iconSelect ml-2">
+            <input type="radio" id="customRadio1" name="customRadio" value="1" class="custom-control-input hidden-radio">
+            <label class="custom-control-label" for="customRadio1">
+              <img src="../assets/brands/maruti-suzuki.png" alt="maruti-suzuki" class="logo-1">
+              <p> Maruti Suzuki </p>
+            </label>
+          </div>
+      </div>
+      <div class="col">
+        <div class="custom-control custom-radio iconSelect ml-2">
+          <input type="radio" id="customRadio2" name="customRadio" value="2" class="custom-control-input hidden-radio">
+          <label class="custom-control-label" for="customRadio2">
+            <img src="../assets/brands/hyundai.png" alt="hyundai" class="logo-1">
+            <p> Hyundai </p>
+          </label>
+        </div>
+      </div>
+      <div class="col">
+        <div class="custom-control custom-radio iconSelect ml-2">
+          <input type="radio" id="customRadio3" name="customRadio" value="3" class="custom-control-input hidden-radio">
+          <label class="custom-control-label" for="customRadio3">
+            <img src="../assets/brands/honda.png" alt="honda" class="logo-1">
+            <p> Honda </p>
+          </label>
+        </div>
+      </div>
+      <div class="col">
+        <div class="custom-control custom-radio iconSelect ml-2">
+          <input type="radio" id="customRadio4" name="customRadio" value="4" class="custom-control-input hidden-radio">
+          <label class="custom-control-label" for="customRadio4">
+            <img src="../assets/brands/mahindra.png" alt="mahindra" class="logo-1">
+            <p> Mahindra </p>
+          </label>
+        </div>
+      </div>
+    </div>
+    <div class="row row-2">
+      <div class="col">
+          <div class="custom-control custom-radio iconSelect mr-2">
+            <input type="radio" id="customRadio5" name="customRadio" value="5" class="custom-control-input hidden-radio">
+            <label class="custom-control-label" for="customRadio5">
+              <img src="../assets/brands/toyota.webp" alt="toyota" class="logo-1">
+              <p> Toyota </p>
+            </label>
+          </div>
+      </div>
+      <div class="col">
+        <div class="custom-control custom-radio iconSelect ml-2">
+          <input type="radio" id="customRadio6" name="customRadio" value="6" class="custom-control-input hidden-radio">
+          <label class="custom-control-label" for="customRadio6">
+            <img src="../assets/brands/tata.png" alt="tata" class="logo-1">
+            <p> Tata </p>
+          </label>
+        </div>
+      </div>
+      <div class="col">
+        <div class="custom-control custom-radio iconSelect ml-2">
+          <input type="radio" id="customRadio7" name="customRadio" value="7" class="custom-control-input hidden-radio">
+          <label class="custom-control-label" for="customRadio7">
+            <img src="../assets/brands/renault.png" alt="renault" class="logo-1">
+            <p> Renault </p>
+          </label>
+        </div>
+      </div>
+      <div class="col">
+        <div class="custom-control custom-radio iconSelect ml-2">
+          <input type="radio" id="customRadio8" name="customRadio" value="8" class="custom-control-input hidden-radio">
+          <label class="custom-control-label" for="customRadio8">
+            <img src="../assets/brands/ford.png" alt="ford" class="logo-1">
+            <p> Ford </p>
+          </label>
+        </div>
+      </div>
+    </div>
+    <div class="row row3">
+      <div class="col">
+          <div class="custom-control custom-radio iconSelect mr-2">
+            <input type="radio" id="customRadio9" name="customRadio" value="9" class="custom-control-input hidden-radio">
+            <label class="custom-control-label" for="customRadio9">
+              <img src="../assets/brands/volkswagen.webp" alt="volkswagen" class="logo-1">
+              <p> Volkswagen </p>
+            </label>
+          </div>
+      </div>
+      <div class="col">
+        <div class="custom-control custom-radio iconSelect ml-2">
+          <input type="radio" id="customRadio10" name="customRadio" value="10" class="custom-control-input hidden-radio">
+          <label class="custom-control-label" for="customRadio10">
+            <img src="../assets/brands/mercedes-benz.png" alt="mercedes-benz" class="logo-1">
+            <p> Mercedes Benz </p>
+          </label>
+        </div>
+      </div>
+      <div class="col">
+        <div class="custom-control custom-radio iconSelect ml-2">
+          <input type="radio" id="customRadio11" name="customRadio" value="11" class="custom-control-input hidden-radio">
+          <label class="custom-control-label" for="customRadio11">
+            <img src="../assets/brands/skoda.png" alt="skoda" class="logo-1">
+            <p> Skoda </p>
+          </label>
+        </div>
+      </div>
+      <div class="col">
+        <div class="custom-control custom-radio iconSelect ml-2">
+          <input type="radio" id="customRadio12" name="customRadio" value="12" class="custom-control-input hidden-radio">
+          <label class="custom-control-label" for="customRadio12">
+            <img src="../assets/brands/bmw.png" alt="bmw" class="logo-1 bmw">
+            <p> BMW </p>
+          </label>
+        </div>
+      </div>
+    </div>
+
+    <div class="row row-4">
+      <div class="col">
+        <div class="custom-control custom-radio iconSelect ml-2">
+          <input type="radio" id="customRadio13" name="customRadio" value="13" class="custom-control-input hidden-radio">
+          <label class="custom-control-label" for="customRadio13">
+            <img src="../assets/brands/others.png" alt="bmw" class="logo-1 others">
+            <p> Others </p>
+          </label>
+        </div>
+      </div>
+    </div>
+    
   </div> -->
+
+
 
 </body>
 </html>
