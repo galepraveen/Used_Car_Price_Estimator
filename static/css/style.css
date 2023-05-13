@@ -24,14 +24,12 @@
 }
 
 div.row .col{
-    border: 1px solid red;
     margin: 1rem;
     width: 5rem;
     height: 5rem;
 }
 
 div.row .col-md-12{
-    border: 1px solid red;
     margin: 1rem;
     width: 5rem;
     height: 5rem;
@@ -65,3 +63,46 @@ div.row .col-md-12{
     width: 3rem;
     margin-top: 0.5rem;
 }
+
+img.first-owner{
+    width: 3.25rem;
+    margin: 0.5rem 0;
+    margin-left: 0.8rem;
+}
+
+.custom-control-input:checked + .custom-control-label img.first-owner {
+    width: 3.5rem;
+}
+
+img.second-owner{
+    width: 5.7rem;
+    margin: 0.5rem 0;
+    margin-bottom: 0.65rem;
+}
+
+img.third-owner{
+    width: 5rem;
+    margin: 0.2rem 0;
+}
+
+.custom-control-input:checked + .custom-control-label img.transmission {
+    width: 3.5rem;
+}
+
+.custom-control-input:checked + .custom-control-label img.transmission {
+    width: 4rem;
+}
+
+.city{
+    width: 7.5rem;
+}
+
+
+.custom-control-input:checked + .custom-control-label img.city {
+    width: 7rem;
+}
+
+/* .ahmedabad{
+    width: 8rem;
+    margin: 0.8rem 0;
+} */
