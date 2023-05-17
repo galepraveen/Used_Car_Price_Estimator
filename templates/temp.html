@@ -367,7 +367,7 @@
             </div>
             <div class="carousel-item text-center">
               <div class="mb-3">
-                <label for="Ownership">Ownership:</label>
+                <!-- <label for="Ownership">Ownership:</label> -->
                 <select id="Ownership" name="Ownership" required>
                     <option value="" disabled selected> </option>
                     <option value="First Owner">First Owner</option>
@@ -413,34 +413,53 @@
             <div class="carousel-item text-center">
               <div class="mb-3">
                 <label for="Registration Month"> Registration Month: </label>
-                <select name="Registration Month" id="Registration Month" required>
-                    <option value="" disabled selected> </option>
-                    <option value="Jan">Jan</option>
-                    <option value="Feb">Feb</option>
-                    <option value="Mar">Mar</option>
-                    <option value="Apr">Apr</option>
-                    <option value="May">May</option>
-                    <option value="Jun">Jun</option>
-                    <option value="Jul">Jul</option>
-                    <option value="Aug">Aug</option>
-                    <option value="Sept">Sept</option>
-                    <option value="Oct">Oct</option>
-                    <option value="Nov">Nov</option>
-                    <option value="Dec">Dec</option>
-                </select>
+                <div class="row">
+                  <div class="col-md-6">
+                    <select class="custom-select custom-select-lg">
+                      <option value="" disabled selected> </option>
+                      <option value="Jan">Jan</option>
+                      <option value="Feb">Feb</option>
+                      <option value="Mar">Mar</option>
+                      <option value="Apr">Apr</option>
+                      <option value="May">May</option>
+                      <option value="Jun">Jun</option>
+                      <option value="Jul">Jul</option>
+                      <option value="Aug">Aug</option>
+                      <option value="Sept">Sept</option>
+                      <option value="Oct">Oct</option>
+                      <option value="Nov">Nov</option>
+                      <option value="Dec">Dec</option>
+                    </select>
+                  </div>
+                </div>
               </div>
             </div>
             <div class="carousel-item text-center">
               <div class="mb-3">
                 <label for="Registration Year"> Registration Year: </label>
-                <input type="number" name="Registration Year" id="Registration Year" required>
+                <select name="Registration Month" id="Registration Month" required>
+                  <option value="--Year--" disabled selected> </option>
+                  <option value="2011">2011</option>
+                  <option value="2012">2012</option>
+                  <option value="2013">2013</option>
+                  <option value="2014">2014</option>
+                  <option value="2015">2015</option>
+                  <option value="2016">2016</option>
+                  <option value="2017">2017</option>
+                  <option value="2018">2018</option>
+                  <option value="2019">2019</option>
+                  <option value="2020">2020</option>
+                  <option value="2021">2021</option>
+                  <option value="2022">2022</option>
+                </select>
               </div>
             </div>
+
             <div class="carousel-item text-center">
               <div class="mb-3">
                 <label for="City">City: </label>
                 <select id="City" name="City" required>
-                    <option value="" disabled selected> </option>
+                    <option value="--City--" disabled selected> </option>
                     <option value="Bangalore">Bangalore</option>
                     <option value="Mumbai">Mumbai</option>
                     <option value="Delhi">Delhi</option>
@@ -462,123 +481,15 @@
     </div>
   </main>
 
-  <div class="container w-50 mx-auto mt-5">
-    <div class="row">
-      <div class="col">
-        <div class="custom-control custom-radio iconSelect mr-2 d-flex justify-content-center">
-          <input type="radio" id="radio-jan" name="customRadioCity" value="Jan" class="custom-control-input hidden-radio">
-          <label class="custom-control-label" for="radio-jan">
-            <img src="../static/logos//jan.png" alt="jan" class="insurance-logo transmission">
-            <p>Jan</p>
-          </label>
-        </div>
-      </div>
-      <div class="col">
-        <div class="custom-control custom-radio iconSelect ml-2 d-flex justify-content-center">
-          <input type="radio" id="radio-feb" name="customRadioCity" value="Feb" class="custom-control-input hidden-radio">
-          <label class="custom-control-label" for="radio-feb">
-            <img src="../static/logos//feb.png" alt="feb" class="insurance-logo transmission">
-            <p>Feb</p>
-          </label>
-        </div>
-      </div>
-      <div class="col">
-        <div class="custom-control custom-radio iconSelect ml-2 d-flex justify-content-center">
-          <input type="radio" id="radio-mar" name="customRadioCity" value="Mar" class="custom-control-input hidden-radio">
-          <label class="custom-control-label" for="radio-mar">
-            <img src="../static/logos//mar.png" alt="mar" class="insurance-logo transmission">
-            <p>Mar</p>
-          </label>
-        </div>
-      </div>
-      <div class="col">
-        <div class="custom-control custom-radio iconSelect ml-2 d-flex justify-content-center">
-          <input type="radio" id="radio-apr" name="customRadioCity" value="Apr" class="custom-control-input hidden-radio">
-          <label class="custom-control-label" for="radio-apr">
-            <img src="../static/logos//apr.png" alt="apr" class="insurance-logo transmission">
-            <p>Apr</p>
-          </label>
-        </div>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col">
-        <div class="custom-control custom-radio iconSelect mr-2 d-flex justify-content-center">
-          <input type="radio" id="radio-may" name="customRadioCity" value="May" class="custom-control-input hidden-radio">
-          <label class="custom-control-label" for="radio-may">
-            <img src="../static/logos//may.png" alt="may" class="insurance-logo transmission">
-            <p>May</p>
-          </label>
-        </div>
-      </div>
-      <div class="col">
-        <div class="custom-control custom-radio iconSelect ml-2 d-flex justify-content-center">
-          <input type="radio" id="radio-june" name="customRadioCity" value="Jun" class="custom-control-input hidden-radio">
-          <label class="custom-control-label" for="radio-june">
-            <img src="../static/logos//june.png" alt="june" class="insurance-logo transmission">
-            <p>June</p>
-          </label>
-        </div>
-      </div>
-      <div class="col">
-        <div class="custom-control custom-radio iconSelect ml-2 d-flex justify-content-center">
-          <input type="radio" id="radio-july" name="customRadioCity" value="Jul" class="custom-control-input hidden-radio">
-          <label class="custom-control-label" for="radio-july">
-            <img src="../static/logos//july.png" alt="july" class="insurance-logo transmission">
-            <p>Jul</p>
-          </label>
-        </div>
-      </div>
-      <div class="col">
-        <div class="custom-control custom-radio iconSelect ml-2 d-flex justify-content-center">
-          <input type="radio" id="radio-aug" name="customRadioCity" value="Aug" class="custom-control-input hidden-radio">
-          <label class="custom-control-label" for="radio-aug">
-            <img src="../static/logos//aug.png" alt="aug" class="insurance-logo transmission">
-            <p>Aug</p>
-          </label>
-        </div>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col">
-        <div class="custom-control custom-radio iconSelect mr-2 d-flex justify-content-center">
-          <input type="radio" id="radio-sep" name="customRadioCity" value="Sep" class="custom-control-input hidden-radio">
-          <label class="custom-control-label" for="radio-sep">
-            <img src="../static/logos//sep.png" alt="sep" class="insurance-logo transmission">
-            <p>Sep</p>
-          </label>
-        </div>
-      </div>
-      <div class="col">
-        <div class="custom-control custom-radio iconSelect ml-2 d-flex justify-content-center">
-          <input type="radio" id="radio-oct" name="customRadioCity" value="Oct" class="custom-control-input hidden-radio">
-          <label class="custom-control-label" for="radio-oct">
-            <img src="../static/logos//oct.png" alt="oct" class="insurance-logo transmission">
-            <p>Oct</p>
-          </label>
-        </div>
-      </div>
-      <div class="col">
-        <div class="custom-control custom-radio iconSelect ml-2 d-flex justify-content-center">
-          <input type="radio" id="radio-nov" name="customRadioCity" value="Nov" class="custom-control-input hidden-radio">
-          <label class="custom-control-label" for="radio-nov">
-            <img src="../static/logos//nov.png" alt="nov" class="insurance-logo transmission">
-            <p>Nov</p>
-          </label>
-        </div>
-      </div>
-      <div class="col">
-        <div class="custom-control custom-radio iconSelect ml-2 d-flex justify-content-center">
-          <input type="radio" id="radio-dec" name="customRadioCity" value="Dec" class="custom-control-input hidden-radio">
-          <label class="custom-control-label" for="radio-dec">
-            <img src="../static/logos//dec.png" alt="dec" class="insurance-logo transmission">
-            <p>Dec</p>
-          </label>
-        </div>
-      </div>
-    </div>
+  <div>
+    <div class="mb-3 mx-auto text-center ">
+      <!-- <label for="Ownership">Ownership:</label> -->
+      <select id="Ownership" name="Ownership" required class="option-width">
+          <option value="" disabled selected> </option>
+          <option value="First Owner">First Owner</option>
+          <option value="Second Owner">Second Owner</option>
+          <option value="Third or More Owners">Three or More Owners</option>
+      </select>
   </div>
-    
-
 </body>
 </html>
