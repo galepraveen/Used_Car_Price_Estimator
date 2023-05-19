@@ -5,132 +5,117 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dummy page</title>
-    
-    <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.min.css') }}">
+
+    <!-- <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.min.css') }}">
     <script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
-    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}"> -->
+    
+    <link rel="stylesheet" href="../static/css/style.css">
+    <link rel="stylesheet" href="../static/css/bootstrap.min.css">
+    <script src="../static/js/bootstrap.min.js"></script>
+    <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
 </head>
-<div>
-  <nav class="navbar navbar-expand-lg bg-primary" data-bs-theme="dark">
-    <div class="container-fluid">
-      <a class="navbar-brand" href="#">Navbar</a>
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-          <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="#">Home</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">Link</a>
-          </li>
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-              Dropdown
-            </a>
-            <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="#">Action</a></li>
-              <li><a class="dropdown-item" href="#">Another action</a></li>
-              <li><hr class="dropdown-divider"></li>
-              <li><a class="dropdown-item" href="#">Something else here</a></li>
-            </ul>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link disabled">Disabled</a>
-          </li>
-        </ul>
-        <form class="d-flex" role="search">
-          <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-          <button class="btn btn-outline-success" type="submit">Search</button>
-        </form>
-      </div>
-    </div>
-  </nav>
+<body>
 
-  <main class="">
-    <div id="carouselExample" class="carousel slide w-40 mx-auto mt-3 bg-success"  data-bs-wrap="false">
-      <div class="carousel-inner w-80 mx-auto bg-danger p-1 ">
-        <div class="carousel-item active text-center">
-          <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="0" aria-current="true" aria-label="Slide 1" class="mx-1 w-30"> Brand </button>
-          <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="1" aria-current="true" aria-label="Slide 2" class="mx-1 w-30"> Model </button>
-          <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="2" aria-label="Slide 3" class="mx-1 w-30"> Insurance </button>
-        </div>
+<div class="lottie">
+  <lottie-player src="https://assets10.lottiefiles.com/packages/lf20_asjtnqce.json" speed="1" background="transparent"  style="width: 300px; height: 250px; border: 1px solid #fff"  loop autoplay></lottie-player>
+</div>
 
-        <div class="carousel-item text-center">
-          <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="3" aria-label="Slide 4" class="mx-1 w-30"> Fuel Type </button>
-          <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="4" aria-label="Slide 5" class="mx-1 w-30"> Seats </button>
-          <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="5" aria-label="Slide 6" class="mx-1 w-30"> Kms Driven </button>
+<div class="lottie pt-3">
+  <h1 class="car-city"> The Car City </h1>
+  <p class="tagline"> The Perfect Place for Used Car Price Estimation </p>
+</div>
+
+
+  <div>
+  <section class="bg">
+    <h4 class="predicted-text">
+      <span class="predicted-text-2"> {{ prediction_text }} </span>
+    </h4>
+    <main class="main-component pt-3">
+      <div id="carouselExample" class="carousel slide mx-auto mt-2 text-dark" data-bs-wrap="false">
+        <div class="carousel-inner w-80 mx-auto p-1">
+          <div class="carousel-item active text-center">
+            <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="0" aria-current="true" aria-label="Slide 1" class="mx-1 ml-5 w-30 btn-caro"> Brand </button>
+            <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="1" aria-current="true" aria-label="Slide 2" class="mx-1 w-30 btn-caro"> Model </button>
+            <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="2" aria-label="Slide 3" class="mx-1 w-30 btn-caro"> Insurance </button>
+          </div>
+  
+          <div class="carousel-item text-center">
+            <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="3" aria-label="Slide 4" class="mx-1 w-30 btn-caro"> Fuel Type </button>
+            <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="4" aria-label="Slide 5" class="mx-1 w-30 btn-caro"> Seats </button>
+            <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="5" aria-label="Slide 6" class="mx-1 w-30 btn-caro"> Kms Driven </button>
+          </div>
+          <div class="carousel-item text-center">
+            <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="6" aria-label="Slide 7" class="mx-1 w-30 btn-caro"> Ownership </button>
+            <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="7" aria-label="Slide 8" class="mx-1 w-30 btn-caro"> Engin Disp. </button>
+            <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="8" aria-label="Slide 9" class="mx-1 w-30 btn-caro"> Transmission </button>
+          </div>
+          <div class="carousel-item text-center">
+            <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="9" aria-label="Slide 10" class="mx-1 w-30 btn-caro"> Mileage </button>
+            <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="10" aria-label="Slide 11" class="mx-1 w-30 btn-caro"> Max Power </button>
+            <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="11" aria-label="Slide 12" class="mx-1 w-30 btn-caro"> Wheel Size </button>
+          </div>
+          <div class="carousel-item text-center">
+            <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="12" aria-label="Slide 13" class="mx-1 w-30 btn-caro"> Reg. Month </button>
+            <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="13" aria-label="Slide 14" class="mx-1 w-30 btn-caro"> Reg. Year </button>
+            <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="14" aria-label="Slide 15" class="mx-1 w-30 btn-caro"> City </button>
+          </div>
         </div>
-        <div class="carousel-item text-center">
-          <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="6" aria-label="Slide 7" class="mx-1 w-30"> Ownership </button>
-          <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="7" aria-label="Slide 8" class="mx-1 w-30"> Engin Disp. </button>
-          <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="8" aria-label="Slide 9" class="mx-1 w-30"> Transmission </button>
-        </div>
-        <div class="carousel-item text-center">
-          <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="9" aria-label="Slide 10" class="mx-1 w-30"> Mileage </button>
-          <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="10" aria-label="Slide 11" class="mx-1 w-30"> Max Power </button>
-          <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="11" aria-label="Slide 12" class="mx-1 w-30"> Wheel Size </button>
-        </div>
-        <div class="carousel-item text-center">
-          <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="12" aria-label="Slide 13" class="mx-1 w-30"> Reg. Month </button>
-          <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="13" aria-label="Slide 14" class="mx-1 w-30"> Reg. Year </button>
-          <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="14" aria-label="Slide 15" class="mx-1 w-30"> City </button>
-        </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Next</span>
+        </button>
       </div>
-      <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
-        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        <span class="visually-hidden">Previous</span>
-      </button>
-      <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
-        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="visually-hidden">Next</span>
-      </button>
-    </div>
-  
-    <div class="form ">
-      <form action="{{ url_for('predict')}}" method="post">
-        <div id="carouselExampleDark" class="carousel carousel-dark slide">       
-  
-            <div class="carousel-inner">
+    
+      <div class="form text-white">
+        <form action="{{ url_for('predict')}}" method="post">
+          <div id="carouselExampleDark" class="carousel carousel-dark slide">       
+    
+            <div class="carousel-inner my-5">
+
               <div class="carousel-item active text-center" data-bs-interval="10000">
                 <div class="mb-3">
                   <h2> Select a brand </h2>
-                  <div class="container text-center w-50">
+                  <div class="container text-center">
                     <div class="row row-1">
                       <div class="col">
                           <div class="custom-control custom-radio iconSelect ml-2">
-                            <input type="radio" id="customRadio1" name="customRadio" value="Maruti" class="custom-control-input hidden-radio" required>
+                            <input type="radio" id="customRadio1" name="customRadio" value="Maruti" class="custom-control-input hidden-radio">
                             <label class="custom-control-label" for="customRadio1">
                               
-                              <img src="{{ url_for('static', filename='logos/maruti-suzuki.png') }}" alt="maruti-suzuki" class="logo-1">
+                              <img src="{{ url_for('static', filename='logos/maruti-suzuki.png') }}" alt="maruti-suzuki" class="logo-1 logo-4">
                               
                             </label>
                           </div>
                       </div>
                       <div class="col">
                         <div class="custom-control custom-radio iconSelect ml-2">
-                          <input type="radio" id="customRadio2" name="customRadio" value="Hyundai" class="custom-control-input hidden-radio" required>
+                          <input type="radio" id="customRadio2" name="customRadio" value="Hyundai" class="custom-control-input hidden-radio">
                           <label class="custom-control-label" for="customRadio2">
-                            <img src="{{ url_for('static', filename='logos/hyundai.png') }}" alt="hyundai" class="logo-1">
+                            <img src="{{ url_for('static', filename='logos/hyundai.png') }}" alt="hyundai" class="logo-1 logo-5">
                             
                           </label>
                         </div>
                       </div>
                       <div class="col">
                         <div class="custom-control custom-radio iconSelect ml-2">
-                          <input type="radio" id="customRadio3" name="customRadio" value="Honda" class="custom-control-input hidden-radio" required>
+                          <input type="radio" id="customRadio3" name="customRadio" value="Honda" class="custom-control-input hidden-radio">
                           <label class="custom-control-label" for="customRadio3">
-                            <img src="{{ url_for('static', filename='logos/honda.png') }}" alt="honda" class="logo-1">
+                            <img src="{{ url_for('static', filename='logos/honda.jpg') }}" alt="honda" class="logo-1 logo-2 logo-4">
                             
                           </label>
                         </div>
                       </div>
                       <div class="col">
                         <div class="custom-control custom-radio iconSelect ml-2">
-                          <input type="radio" id="customRadio4" name="customRadio" value="Mahindra" class="custom-control-input hidden-radio" required>
+                          <input type="radio" id="customRadio4" name="customRadio" value="Mahindra" class="custom-control-input hidden-radio">
                           <label class="custom-control-label" for="customRadio4">
-                            <img src="{{ url_for('static', filename='logos/mahindra.png') }}" alt="mahindra" class="logo-1">
+                            <img src="{{ url_for('static', filename='logos/mahindra.png') }}" alt="mahindra" class="logo-1 logo-5">
                             
                           </label>
                         </div>
@@ -139,36 +124,36 @@
                     <div class="row row-2">
                       <div class="col">
                           <div class="custom-control custom-radio iconSelect mr-2">
-                            <input type="radio" id="customRadio5" name="customRadio" value="Toyota" class="custom-control-input hidden-radio" required>
+                            <input type="radio" id="customRadio5" name="customRadio" value="Toyota" class="custom-control-input hidden-radio">
                             <label class="custom-control-label" for="customRadio5">
-                              <img src="{{ url_for('static', filename='logos/toyota.webp') }}" alt="toyota" class="logo-1">
+                              <img src="{{ url_for('static', filename='logos/toyota.png') }}" alt="toyota" class="logo-1">
                               
                             </label>
                           </div>
                       </div>
                       <div class="col">
                         <div class="custom-control custom-radio iconSelect ml-2">
-                          <input type="radio" id="customRadio6" name="customRadio" value="Tata" class="custom-control-input hidden-radio" required>
+                          <input type="radio" id="customRadio6" name="customRadio" value="Tata" class="custom-control-input hidden-radio">
                           <label class="custom-control-label" for="customRadio6">
-                            <img src="{{ url_for('static', filename='logos/tata.png') }}" alt="tata" class="logo-1">
+                            <img src="{{ url_for('static', filename='logos/tata.png') }}" alt="tata" class="logo-1 logo-5">
                             
                           </label>
                         </div>
                       </div>
                       <div class="col">
                         <div class="custom-control custom-radio iconSelect ml-2">
-                          <input type="radio" id="customRadio7" name="customRadio" value="Renault" class="custom-control-input hidden-radio" required>
+                          <input type="radio" id="customRadio7" name="customRadio" value="Renault" class="custom-control-input hidden-radio">
                           <label class="custom-control-label" for="customRadio7">
-                            <img src="{{ url_for('static', filename='logos/renault.png') }}" alt="renault" class="logo-1">
+                            <img src="{{ url_for('static', filename='logos/renault.png') }}" alt="renault" class="logo-1 logo-2">
                             
                           </label>
                         </div>
                       </div>
                       <div class="col">
                         <div class="custom-control custom-radio iconSelect ml-2">
-                          <input type="radio" id="customRadio8" name="customRadio" value="Ford" class="custom-control-input hidden-radio" required>
+                          <input type="radio" id="customRadio8" name="customRadio" value="Ford" class="custom-control-input hidden-radio">
                           <label class="custom-control-label" for="customRadio8">
-                            <img src="{{ url_for('static', filename='logos/ford.png') }}" alt="ford" class="logo-1">
+                            <img src="{{ url_for('static', filename='logos/ford.png') }}" alt="ford" class="logo-1 logo-2 ford">
                             
                           </label>
                         </div>
@@ -177,16 +162,16 @@
                     <div class="row row3">
                       <div class="col">
                           <div class="custom-control custom-radio iconSelect mr-2">
-                            <input type="radio" id="customRadio9" name="customRadio" value="Volkswagen" class="custom-control-input hidden-radio" required>
+                            <input type="radio" id="customRadio9" name="customRadio" value="Volkswagen" class="custom-control-input hidden-radio">
                             <label class="custom-control-label" for="customRadio9">
-                              <img src="{{ url_for('static', filename='logos/volkswagen.webp') }}" alt="volkswagen" class="logo-1">
+                              <img src="{{ url_for('static', filename='logos/volkswagen.png') }}" alt="volkswagen" class="logo-1">
                               
                             </label>
                           </div>
                       </div>
                       <div class="col">
                         <div class="custom-control custom-radio iconSelect ml-2">
-                          <input type="radio" id="customRadio10" name="customRadio" value="Mercedes-Benz" class="custom-control-input hidden-radio" required>
+                          <input type="radio" id="customRadio10" name="customRadio" value="Mercedes-Benz" class="custom-control-input hidden-radio">
                           <label class="custom-control-label" for="customRadio10">
                             <img src="{{ url_for('static', filename='logos/mercedes-benz.png') }}" alt="mercedes-benz" class="logo-1">
                             
@@ -195,16 +180,16 @@
                       </div>
                       <div class="col">
                         <div class="custom-control custom-radio iconSelect ml-2">
-                          <input type="radio" id="customRadio11" name="customRadio" value="Skoda" class="custom-control-input hidden-radio" required>
+                          <input type="radio" id="customRadio11" name="customRadio" value="Skoda" class="custom-control-input hidden-radio">
                           <label class="custom-control-label" for="customRadio11">
-                            <img src=".{{ url_for('static', filename='logos/skoda.png') }}" alt="skoda" class="logo-1">
+                            <img src="{{ url_for('static', filename='logos/skoda.png') }}" alt="skoda" class="logo-1 logo-2 skoda">
                             
                           </label>
                         </div>
                       </div>
                       <div class="col">
                         <div class="custom-control custom-radio iconSelect ml-2">
-                          <input type="radio" id="customRadio12" name="customRadio" value="BMW" class="custom-control-input hidden-radio" required>
+                          <input type="radio" id="customRadio12" name="customRadio" value="BMW" class="custom-control-input hidden-radio">
                           <label class="custom-control-label" for="customRadio12">
                             <img src="{{ url_for('static', filename='logos/bmw.png') }}" alt="bmw" class="logo-1 bmw">
                             
@@ -216,7 +201,7 @@
                     <div class="row row-4">
                       <div class="col">
                         <div class="custom-control custom-radio iconSelect ml-2">
-                          <input type="radio" id="customRadio13" name="customRadio" value="Others" class="custom-control-input hidden-radio" required>
+                          <input type="radio" id="customRadio13" name="customRadio" value="Others" class="custom-control-input hidden-radio">
                           <label class="custom-control-label" for="customRadio13">
                             <img src="{{ url_for('static', filename='logos/others.png') }}" alt="others" class="logo-1 others">
                             <p> Others </p>
@@ -224,390 +209,392 @@
                         </div>
                       </div>
                     </div>
-                    
                   </div>
-                
                 </div>
               </div>
-            </div>
-            
-            <div class="carousel-item text-center" data-bs-interval="2000">
-              <div class="mb-3">
-                <div class="label">
-                  <label for="Model" class="mb-3">
-                    <h3> Enter Model </h3>
-                  </label>
-                </div>
-                <div class="input-group input-group-lg w-50 mx-auto">
-                  <input type="text" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-lg" name="Model" id="Model" placeholder="Enter Model of the Selected Brand">
+  
+  
+              
+              <div class="carousel-item text-center" data-bs-interval="2000">
+                <div class="mb-3">
+                  <div class="label">
+                    <label for="Model" class="mb-3">
+                      <h3> Enter Model </h3>
+                    </label>
+                  </div>
+                  <div class="input-group input-group-lg w-50 mx-auto">
+                    <input type="text" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-lg" name="Model" id="Model" placeholder="Enter Model of the Selected Brand">
+                  </div>
                 </div>
               </div>
-            </div>
-            
-            <div class="carousel-item text-center">
-              <div class="mb-3">
-                <h3>Insurance Type </h3>
-                <div class="container w-50 mx-auto mt-5">
+              
+              <div class="carousel-item text-center">
+                <div class="mb-3">
+                  <h3>Insurance Type </h3>
+                  <div class="container mx-auto mt-5">
+                    <div class="row">
+                      <div class="col-sm-3">
+                        <div class="custom-control custom-radio iconSelect mr-2">
+                          <input type="radio" id="radio-comprehensive" name="customRadioInsurance" value="Comprehensive" class="custom-control-input hidden-radio" required>
+                          <label class="custom-control-label" for="radio-comprehensive">
+                            <img src="{{ url_for('static', filename='logos/comprehensive.png') }}" alt="comprehensive" srcset="" class="insurance-logo">
+                            <p>Comprehensive</p>
+                          </label>
+                        </div>
+                      </div>
+                      <div class="col-sm-3">
+                        <div class="custom-control custom-radio iconSelect ml-2">
+                          <input type="radio" id="radio-third-party" name="customRadioInsurance" value="Third Party" class="custom-control-input hidden-radio" required>
+                          <label class="custom-control-label" for="radio-third-party">
+                            <img src="{{ url_for('static', filename='logos/third-party.png') }}" alt="third-party" class="insurance-logo">
+                            <p>Third Party</p>
+                          </label>
+                        </div>
+                      </div>
+                      <div class="col-sm-3">
+                        <div class="custom-control custom-radio iconSelect ml-2">
+                          <input type="radio" id="not-available-radio" name="customRadioInsurance" value="Not Available" class="custom-control-input hidden-radio" required>
+                          <label class="custom-control-label" for="not-available-radio">
+                            <img src="{{ url_for('static', filename='logos/no-insurance.png') }}" alt="not-available" srcset="" class="insurance-logo">
+                            <p>Not Available</p>
+                          </label>
+                        </div>
+                      </div>
+                      <div class="col-sm-3">
+                        <div class="custom-control custom-radio iconSelect ml-2">
+                          <input type="radio" id="others-radio" name="customRadioInsurance" value="Others" class="custom-control-input hidden-radio" required>
+                          <label class="custom-control-label" for="others-radio">
+                            <img src="{{ url_for('static', filename='logos/insurance-others.png') }}" alt="insurance-others" srcset="" class="insurance-logo">
+                            <p>Others</p>
+                          </label>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+  
+              <div class="carousel-item text-center">
+                <h3>Select Fuel Type</h3>
+                <div class="container mx-auto mt-5">
                   <div class="row">
-                    <div class="col-sm-3">
+                    <div class="col">
                       <div class="custom-control custom-radio iconSelect mr-2">
-                        <input type="radio" id="radio-comprehensive" name="customRadioInsurance" value="Comprehensive" class="custom-control-input hidden-radio" required>
-                        <label class="custom-control-label" for="radio-comprehensive">
-                          <img src="{{ url_for('static', filename='logos/comprehensive.png') }}" alt="comprehensive" srcset="" class="insurance-logo">
-                          <p>Comprehensive</p>
+                        <input type="radio" id="radio-petrol" name="customRadioFuel" value="Petrol" class="custom-control-input hidden-radio" required>
+                        <label class="custom-control-label" for="radio-petrol">
+                          <img src="../static/logos/petrol.png" alt="petrol" srcset="" class="fuel-logo">
+                          <p>Petrol</p>
                         </label>
                       </div>
                     </div>
-                    <div class="col-sm-3">
+                    <div class="col">
                       <div class="custom-control custom-radio iconSelect ml-2">
-                        <input type="radio" id="radio-third-party" name="customRadioInsurance" value="Third Party" class="custom-control-input hidden-radio" required>
-                        <label class="custom-control-label" for="radio-third-party">
-                          <img src="{{ url_for('static', filename='logos/third-party.png') }}" alt="third-party" class="insurance-logo">
-                          <p>Third Party</p>
+                        <input type="radio" id="radio-diesel" name="customRadioFuel" value="Diesel" class="custom-control-input hidden-radio" required>
+                        <label class="custom-control-label" for="radio-diesel">
+                          <img src="../static/logos/diesel.png" alt="diesel" class="fuel-logo">
+                          <p>Diesel</p>
                         </label>
                       </div>
                     </div>
-                    <div class="col-sm-3">
+                    <div class="col">
                       <div class="custom-control custom-radio iconSelect ml-2">
-                        <input type="radio" id="not-available-radio" name="customRadioInsurance" value="Not Available" class="custom-control-input hidden-radio" required>
-                        <label class="custom-control-label" for="not-available-radio">
-                          <img src="{{ url_for('static', filename='logos/no-insurance.png') }}" alt="not-available" srcset="" class="insurance-logo">
-                          <p>Not Available</p>
+                        <input type="radio" id="radio-cng" name="customRadioFuel" value="CNG" class="custom-control-input hidden-radio" required>
+                        <label class="custom-control-label" for="radio-cng">
+                          <img src="../static/logos/cng.png" alt="CNG" srcset="" class="fuel-logo">
+                          <p>CNG</p>
                         </label>
                       </div>
                     </div>
-                    <div class="col-sm-3">
+                    <div class="col">
                       <div class="custom-control custom-radio iconSelect ml-2">
-                        <input type="radio" id="others-radio" name="customRadioInsurance" value="Others" class="custom-control-input hidden-radio" required>
-                        <label class="custom-control-label" for="others-radio">
-                          <img src="{{ url_for('static', filename='logos/insurance-others.png') }}" alt="insurance-others" srcset="" class="insurance-logo">
-                          <p>Others</p>
+                        <input type="radio" id="radio-electric" name="customRadioFuel" value="Electric" class="custom-control-input hidden-radio" required>
+                        <label class="custom-control-label" for="radio-electric">
+                          <img src="../static/logos/electric.png" alt="Electric" srcset="" class="fuel-logo">
+                          <p>Electric</p>
+                        </label>
+                      </div>
+                    </div>
+                    <div class="col">
+                      <div class="custom-control custom-radio iconSelect ml-2">
+                        <input type="radio" id="radio-lpg" name="customRadioFuel" value="LPG" class="custom-control-input hidden-radio" required>
+                        <label class="custom-control-label" for="radio-lpg">
+                          <img src="../static/logos/lpg.png" alt="LPG" srcset="" class="fuel-logo">
+                          <p>LPG</p>
                         </label>
                       </div>
                     </div>
                   </div>
                 </div>
               </div>
-            </div>
-
-            <div class="carousel-item text-center">
-              <h3>Select Fuel Type</h3>
-              <div class="container w-50 mx-auto mt-5">
-                <div class="row">
-                  <div class="col">
-                    <div class="custom-control custom-radio iconSelect mr-2">
-                      <input type="radio" id="radio-petrol" name="customRadioFuel" value="Petrol" class="custom-control-input hidden-radio" required>
-                      <label class="custom-control-label" for="radio-petrol">
-                        <img src="{{ url_for('static', filename='logos/petrol.png') }}" alt="petrol" srcset="" class="insurance-logo">
-                        <p>Petrol</p>
-                      </label>
-                    </div>
-                  </div>
-                  <div class="col">
-                    <div class="custom-control custom-radio iconSelect ml-2">
-                      <input type="radio" id="radio-diesel" name="customRadioFuel" value="Diesel" class="custom-control-input hidden-radio" required>
-                      <label class="custom-control-label" for="radio-diesel">
-                        <img src="{{ url_for('static', filename='logos/diesel.png') }}" alt="diesel" class="insurance-logo">
-                        <p>Diesel</p>
-                      </label>
-                    </div>
-                  </div>
-                  <div class="col">
-                    <div class="custom-control custom-radio iconSelect ml-2">
-                      <input type="radio" id="radio-cng" name="customRadioFuel" value="CNG" class="custom-control-input hidden-radio" required>
-                      <label class="custom-control-label" for="radio-cng">
-                        <img src="{{ url_for('static', filename='logos/cng.png') }}" alt="CNG" srcset="" class="insurance-logo">
-                        <p>CNG</p>
-                      </label>
-                    </div>
-                  </div>
-                  <div class="col">
-                    <div class="custom-control custom-radio iconSelect ml-2">
-                      <input type="radio" id="radio-electric" name="customRadioFuel" value="Electric" class="custom-control-input hidden-radio" required>
-                      <label class="custom-control-label" for="radio-electric">
-                        <img src="{{ url_for('static', filename='logos/electric.png') }}" alt="Electric" srcset="" class="insurance-logo">
-                        <p>Electric</p>
-                      </label>
-                    </div>
-                  </div>
-                  <div class="col">
-                    <div class="custom-control custom-radio iconSelect ml-2">
-                      <input type="radio" id="radio-lpg" name="customRadioFuel" value="LPG" class="custom-control-input hidden-radio" required>
-                      <label class="custom-control-label" for="radio-lpg">
-                        <img src="{{ url_for('static', filename='logos/lpg.png') }}" alt="LPG" srcset="" class="insurance-logo">
-                        <p>LPG</p>
-                      </label>
-                    </div>
-                  </div>
+  
+               <div class="carousel-item text-center">
+                <h3 class="mb-3"> Enter Seats </h3>
+                <div class="mb-3">
+                  <label for="Seats"> Number of Seats: </label>
+                  <input type="number" name="Seats" id="Seats" required>
                 </div>
               </div>
-            </div>
-            
-            <div class="carousel-item text-center">
-              <h3 class="mb-3"> Enter Seats </h3>
-              <div class="mb-3">
-                <label for="Seats"> Number of Seats: </label>
-                <input type="number" name="Seats" id="Seats" required>
+  
+              <div class="carousel-item text-center">
+                <h3 class="mb-3">Enter Kms Driven</h3>
+                <div class="mb-3">
+                  <label for="Kms Driven"> Kms Driven: </label>
+                  <input type="number" name="Kms Driven" id="Kms Driven" required>
+                </div>
               </div>
-            </div>
-
-            <div class="carousel-item text-center">
-              <h3 class="mb-3">Enter Kms Driven</h3>
-              <div class="mb-3">
-                <label for="Kms Driven"> Kms Driven: </label>
-                <input type="number" name="Kms Driven" id="Kms Driven" required>
-              </div>
-            </div>
-
-            <div class="carousel-item text-center">
-              <h3>Select Owner Type</h3>
-              <div class="mb-3">
-                <div class="container w-50 mx-auto mt-5">
-                  <div class="row">
-                    <div class="col">
-                      <div class="custom-control custom-radio iconSelect mr-2 d-flex justify-content-center">
-                        <input type="radio" id="radio-first-owner" name="customRadioOwner" value="First Owner" class="custom-control-input hidden-radio" required>
-                        <label class="custom-control-label" for="radio-first-owner">
-                          <img src="{{ url_for('static', filename='logos/first-owner.png') }}" alt="first-owner" srcset="" class="first-owner">
-                          <p>First Owner</p>
-                        </label>
+  
+              <div class="carousel-item text-center">
+                <h3>Select Owner Type</h3>
+                <div class="mb-3">
+                  <div class="container mx-auto mt-5">
+                    <div class="row">
+                      <div class="col">
+                        <div class="custom-control custom-radio iconSelect mr-2 d-flex justify-content-center">
+                          <input type="radio" id="radio-first-owner" name="customRadioOwner" value="First Owner" class="custom-control-input hidden-radio" required>
+                          <label class="custom-control-label" for="radio-first-owner">
+                            <img src="{{ url_for('static', filename='logos/first-owner.png') }}" alt="first-owner" srcset="" class="first-owner">
+                            <p>First Owner</p>
+                          </label>
+                        </div>
                       </div>
-                    </div>
-                    <div class="col">
-                      <div class="custom-control custom-radio iconSelect ml-2 d-flex justify-content-center">
-                        <input type="radio" id="radio-second-owner" name="customRadioOwner" value="Second Owner" class="custom-control-input hidden-radio" required>
-                        <label class="custom-control-label" for="radio-second-owner">
-                          <img src="{{ url_for('static', filename='logos/second-owner.png') }}" alt="second-owner" class="second-owner">
-                          <p>Second Owner</p>
-                        </label>
+                      <div class="col">
+                        <div class="custom-control custom-radio iconSelect ml-2 d-flex justify-content-center">
+                          <input type="radio" id="radio-second-owner" name="customRadioOwner" value="Second Owner" class="custom-control-input hidden-radio" required>
+                          <label class="custom-control-label" for="radio-second-owner">
+                            <img src="{{ url_for('static', filename='logos/second-owner.png') }}" alt="second-owner" class="second-owner">
+                            <p>Second Owner</p>
+                          </label>
+                        </div>
                       </div>
-                    </div>
-                    <div class="col">
-                      <div class="custom-control custom-radio iconSelect ml-2 d-flex justify-content-center">
-                        <input type="radio" id="radio-third-owner" name="customRadioOwner" value="Third or More Owners" class="custom-control-input hidden-radio" required>
-                        <label class="custom-control-label" for="radio-third-owner">
-                          <img src="{{ url_for('static', filename='logos/third-owner.png') }}" alt="third-owner" srcset="" class="third-owner">
-                          <p>Three or More Owner</p>
-                        </label>
+                      <div class="col">
+                        <div class="custom-control custom-radio iconSelect ml-2 d-flex justify-content-center">
+                          <input type="radio" id="radio-third-owner" name="customRadioOwner" value="Third or More Owners" class="custom-control-input hidden-radio" required>
+                          <label class="custom-control-label" for="radio-third-owner">
+                            <img src="{{ url_for('static', filename='logos/third-owner.png') }}" alt="third-owner" srcset="" class="third-owner">
+                            <p>Three or More Owner</p>
+                          </label>
+                        </div>
                       </div>
                     </div>
                   </div>
                 </div>
               </div>
-            </div>
-
-            <div class="carousel-item text-center">
-              <h3 class="mb-3">Enter Engine Displacement</h3>
-              <div class="mb-3">
-                <label for="Engine Displacement"> Engine Displacement (in cc): </label>
-                <input type="number" name="Engine Displacement" id="Engine Displacement" required>
+  
+              <div class="carousel-item text-center">
+                <h3 class="mb-3">Enter Engine Displacement</h3>
+                <div class="mb-3">
+                  <label for="Engine Displacement"> Engine Displacement (in cc): </label>
+                  <input type="number" name="Engine Displacement" id="Engine Displacement" required>
+                </div>
               </div>
-            </div>
-
-            <div class="carousel-item text-center">
-              <h3> Select Transmission </h3>
-              <div class="mb-3">
-                <div class="container w-50 mx-auto mt-5">
-                  <div class="row">
-                    <div class="col">
-                      <div class="custom-control custom-radio iconSelect mr-2 d-flex justify-content-center">
-                        <input type="radio" id="radio-automatic" name="customRadioTransmission" value="Automatic" class="custom-control-input hidden-radio" required>
-                        <label class="custom-control-label" for="radio-automatic">
-                          <img src="{{ url_for('static', filename='logos/automatic.png') }}" alt="automatic" class="insurance-logo transmission">
-                          <p>Automatic</p>
-                        </label>
+  
+              <div class="carousel-item text-center">
+                <h3> Select Transmission </h3>
+                <div class="mb-3">
+                  <div class="container w-50 mx-auto mt-5">
+                    <div class="row">
+                      <div class="col">
+                        <div class="custom-control custom-radio iconSelect mr-2 d-flex justify-content-center">
+                          <input type="radio" id="radio-automatic" name="customRadioTransmission" value="Automatic" class="custom-control-input hidden-radio" required>
+                          <label class="custom-control-label" for="radio-automatic">
+                            <img src="{{ url_for('static', filename='logos/automatic.png') }}" alt="automatic" class="insurance-logo transmission">
+                            <p>Automatic</p>
+                          </label>
+                        </div>
                       </div>
-                    </div>
-                    <div class="col">
-                      <div class="custom-control custom-radio iconSelect ml-2 d-flex justify-content-center">
-                        <input type="radio" id="radio-manual" name="customRadioTransmission" value="Manual" class="custom-control-input hidden-radio" required>
-                        <label class="custom-control-label" for="radio-manual">
-                          <img src="{{ url_for('static', filename='logos/manual.png') }}" alt="manual" class="insurance-logo transmission">
-                          <p>Manual</p>
-                        </label>
+                      <div class="col">
+                        <div class="custom-control custom-radio iconSelect ml-2 d-flex justify-content-center">
+                          <input type="radio" id="radio-manual" name="customRadioTransmission" value="Manual" class="custom-control-input hidden-radio" required>
+                          <label class="custom-control-label" for="radio-manual">
+                            <img src="{{ url_for('static', filename='logos/manual.png') }}" alt="manual" class="insurance-logo transmission">
+                            <p>Manual</p>
+                          </label>
+                        </div>
                       </div>
                     </div>
                   </div>
                 </div>
               </div>
-            </div>
-
-            <div class="carousel-item text-center">
-              <h3 class="mb-3"> Enter Mileage </h3>
-              <div class="mb-3">
-                <label for="Mileage"> Mileage (in kmpl): </label>
-                <input type="number" name="Mileage" id="Mileage" step="0.01" required>
-              </div>
-            </div>
-
-            <div class="carousel-item text-center">
-              <h3 class="mb-3"> Enter Maxpower </h3>
-              <div class="mb-3">
-                <label for="Maxpower"> Maxpower (in bhp): </label>
-                <input type="number" name="Maxpower" id="Maxpower" step="0.01" required>
-              </div>
-            </div>
-
-            <div class="carousel-item text-center">
-              <h3 class="mb-3">Enter Wheel Size</h3>
-              <div class="mb-3">
-                <label for="Wheel Size"> Wheel Size: </label>
-                <input type="number" name="Wheel Size" id="Wheel Size" required>
-              </div>
-            </div>
-
-            <div class="carousel-item text-center">
-              <h3 class="mb-3"> Select Registration Month </h3>
-              <div class="">
-                <label for="Registration Month"> Registration Month: </label>                
-                <select name="Registration Month" id="Registration Month" required class="option-width">
-                    <option value="" disabled selected> </option>
-                    <option value="Jan">Jan</option>
-                    <option value="Feb">Feb</option>
-                    <option value="Mar">Mar</option>
-                    <option value="Apr">Apr</option>
-                    <option value="May">May</option>
-                    <option value="Jun">Jun</option>
-                    <option value="Jul">Jul</option>
-                    <option value="Aug">Aug</option>
-                    <option value="Sept">Sept</option>
-                    <option value="Oct">Oct</option>
-                    <option value="Nov">Nov</option>
-                    <option value="Dec">Dec</option>
-                </select>
-              </div>
-            </div>
-
-            <div class="carousel-item text-center">
-              <h3 class="mb-3"> Registration Year </h3>
-              <div class="">
-                <label for="Registration Year"> Registration Year: </label>
-                <select name="Registration Year" id="Registration Year" required class="option-width">
-                  <option value="--Year--" disabled selected> </option>
-                  <option value="2011">2011</option>
-                  <option value="2012">2012</option>
-                  <option value="2013">2013</option>
-                  <option value="2014">2014</option>
-                  <option value="2015">2015</option>
-                  <option value="2016">2016</option>
-                  <option value="2017">2017</option>
-                  <option value="2018">2018</option>
-                  <option value="2019">2019</option>
-                  <option value="2020">2020</option>
-                  <option value="2021">2021</option>
-                  <option value="2022">2022</option>
-                </select>
-              </div>
-            </div>
-
-            <div class="carousel-item text-center">
-              <h3> Select City </h3>
-              <div class="">
-                <div class="container w-50 mx-auto text-center">
-                  <div class="row">
-                    <div class="col m-5">
-                      <div class="custom-control custom-radio iconSelect mr-2 d-flex justify-content-center" required>
-                        <input type="radio" id="radio-bangalore" name="customRadioCity" value="Bangalore" class="custom-control-input hidden-radio">
-                        <label class="custom-control-label" for="radio-bangalore">
-                          <img src="{{ url_for('static', filename='logos/bangalore.png') }}" alt="bangalore" class="insurance-logo transmission city">
-                          <p>Bangalore</p>
-                        </label>
-                      </div>
-                    </div>
-                    <div class="col m-5">
-                      <div class="custom-control custom-radio iconSelect ml-2 d-flex justify-content-center" required>
-                        <input type="radio" id="radio-mumbai" name="customRadioCity" value="Mumbai" class="custom-control-input hidden-radio">
-                        <label class="custom-control-label" for="radio-mumbai">
-                          <img src="{{ url_for('static', filename='logos/mumbai.png') }}" alt="mumbai" class="insurance-logo transmission city">
-                          <p>Mumbai</p>
-                        </label>
-                      </div>
-                    </div>
-                    <div class="col m-5">
-                      <div class="custom-control custom-radio iconSelect ml-2 d-flex justify-content-center" required>
-                        <input type="radio" id="radio-ahmedabad" name="customRadioCity" value="Ahmedabad" class="custom-control-input hidden-radio">
-                        <label class="custom-control-label" for="radio-ahmedabad">
-                          <img src="{{ url_for('static', filename='logos/ahmedabad.png') }}" alt="ahmedabad" class="insurance-logo transmission city ahmedabad">
-                          <p>Ahmedabad</p>
-                        </label>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="row">
-                    <div class="col m-5">
-                      <div class="custom-control custom-radio iconSelect mr-2 d-flex justify-content-center" required>
-                        <input type="radio" id="radio-hyderabad" name="customRadioCity" value="Hyderabad" class="custom-control-input hidden-radio">
-                        <label class="custom-control-label" for="radio-hyderabad">
-                          <img src="{{ url_for('static', filename='logos/hyderabad.png') }}" alt="hyderabad" class="insurance-logo transmission city">
-                          <p>Hyderabad</p>
-                        </label>
-                      </div>
-                    </div>
-                    <div class="col m-5">
-                      <div class="custom-control custom-radio iconSelect ml-2 d-flex justify-content-center" required>
-                        <input type="radio" id="radio-delhi" name="customRadioCity" value="Delhi" class="custom-control-input hidden-radio">
-                        <label class="custom-control-label" for="radio-delhi">
-                          <img src="{{ url_for('static', filename='logos/delhi.png') }}" alt="delhi" class="insurance-logo transmission city">
-                          <p>Delhi</p>
-                        </label>
-                      </div>
-                    </div>
-                    <div class="col m-5">
-                      <div class="custom-control custom-radio iconSelect ml-2 d-flex justify-content-center" required>
-                        <input type="radio" id="radio-kolkata" name="customRadioCity" value="Kolkata" class="custom-control-input hidden-radio">
-                        <label class="custom-control-label" for="radio-kolkata">
-                          <img src="{{ url_for('static', filename='logos/kolkata.png') }}" alt="kolkata" class="insurance-logo transmission city">
-                          <p>Kolkata</p>
-                        </label>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="row">
-                    <div class="col m-5">
-                      <div class="custom-control custom-radio iconSelect mr-2 d-flex justify-content-center" required>
-                        <input type="radio" id="radio-jaipur" name="customRadioCity" value="Jaipur" class="custom-control-input hidden-radio">
-                        <label class="custom-control-label" for="radio-jaipur">
-                          <img src="{{ url_for('static', filename='logos/jaipur.png') }}" alt="jaipur" class="insurance-logo transmission city">
-                          <p>Jaipur</p>
-                        </label>
-                      </div>
-                    </div>
-                    <div class="col m-5">
-                      <div class="custom-control custom-radio iconSelect ml-2 d-flex justify-content-center" required>
-                        <input type="radio" id="radio-pune" name="customRadioCity" value="Pune" class="custom-control-input hidden-radio">
-                        <label class="custom-control-label" for="radio-pune">
-                          <img src="{{ url_for('static', filename='logos/pune.png') }}" alt="pune" class="insurance-logo transmission city">
-                          <p>Pune</p>
-                        </label>
-                      </div>
-                    </div>
-                    <div class="col m-5">
-                      <div class="custom-control custom-radio iconSelect ml-2 d-flex justify-content-center" required>
-                        <input type="radio" id="radio-agra" name="customRadioCity" value="Agra" class="custom-control-input hidden-radio">
-                        <label class="custom-control-label" for="radio-agra">
-                          <img src="{{ url_for('static', filename='logos/agra.png') }}" alt="agra" class="insurance-logo transmission city">
-                          <p>Agra</p>
-                        </label>
-                      </div>
-                    </div>
-                  </div>
+  
+              <div class="carousel-item text-center">
+                <h3 class="mb-3"> Enter Mileage </h3>
+                <div class="mb-3">
+                  <label for="Mileage"> Mileage (in kmpl): </label>
+                  <input type="number" name="Mileage" id="Mileage" step="0.01" required>
                 </div>
               </div>
-              <div class="text-center mt-5">
-                <button type="submit" class="btn btn-primary"> Submit </button>
+              
+              <div class="carousel-item text-center">
+                <h3 class="mb-3"> Enter Maxpower </h3>
+                <div class="mb-3">
+                  <label for="Maxpower"> Maxpower (in bhp): </label>
+                  <input type="number" name="Maxpower" id="Maxpower" step="0.01" required>
+                </div>
               </div>
+  
+              <div class="carousel-item text-center mt-1">
+                <h3 class="mb-3">Enter Wheel Size</h3>
+                <div class="mb-3">
+                  <label for="Wheel Size"> Wheel Size: </label>
+                  <input type="number" name="Wheel Size" id="Wheel Size" required>
+                </div>
+              </div>
+  
+              <div class="carousel-item text-center mt-1">
+                <h3 class="mb-3"> Select Registration Month </h3>
+                <div class="">
+                  <label for="Registration Month"> Registration Month: </label>                
+                  <select name="Registration Month" id="Registration Month" required class="option-width">
+                      <option value="" disabled selected> </option>
+                      <option value="Jan">Jan</option>
+                      <option value="Feb">Feb</option>
+                      <option value="Mar">Mar</option>
+                      <option value="Apr">Apr</option>
+                      <option value="May">May</option>
+                      <option value="Jun">Jun</option>
+                      <option value="Jul">Jul</option>
+                      <option value="Aug">Aug</option>
+                      <option value="Sept">Sept</option>
+                      <option value="Oct">Oct</option>
+                      <option value="Nov">Nov</option>
+                      <option value="Dec">Dec</option>
+                  </select>
+                </div>
+              </div>
+  
+              <div class="carousel-item text-center mt-1">
+                <h3 class="mb-3"> Registration Year </h3>
+                <div class="">
+                  <label for="Registration Year"> Registration Year: </label>
+                  <select name="Registration Year" id="Registration Year" required class="option-width">
+                    <option value="--Year--" disabled selected> </option>
+                    <option value="2011">2011</option>
+                    <option value="2012">2012</option>
+                    <option value="2013">2013</option>
+                    <option value="2014">2014</option>
+                    <option value="2015">2015</option>
+                    <option value="2016">2016</option>
+                    <option value="2017">2017</option>
+                    <option value="2018">2018</option>
+                    <option value="2019">2019</option>
+                    <option value="2020">2020</option>
+                    <option value="2021">2021</option>
+                    <option value="2022">2022</option>
+                  </select>
+                </div>
+              </div>
+  
+              <div class="carousel-item text-center">
+                <h3> Select City </h3>
+                <div class="">
+                  <div class="container mx-auto text-center">
+                    <div class="row">
+                      <div class="col">
+                        <div class="custom-control custom-radio iconSelect mr-2 d-flex justify-content-center" required>
+                          <input type="radio" id="radio-bangalore" name="customRadioCity" value="Bangalore" class="custom-control-input hidden-radio">
+                          <label class="custom-control-label" for="radio-bangalore">
+                            <img src="../static/logos/bangalore.png" alt="bangalore" class="insurance-logo transmission city">
+                            <p>Bangalore</p>
+                          </label>
+                        </div>
+                      </div>
+                      <div class="col">
+                        <div class="custom-control custom-radio iconSelect ml-2 d-flex justify-content-center" required>
+                          <input type="radio" id="radio-mumbai" name="customRadioCity" value="Mumbai" class="custom-control-input hidden-radio">
+                          <label class="custom-control-label" for="radio-mumbai">
+                            <img src="../static/logos/mumbai.png" alt="mumbai" class="insurance-logo transmission city">
+                            <p>Mumbai</p>
+                          </label>
+                        </div>
+                      </div>
+                      <div class="col">
+                        <div class="custom-control custom-radio iconSelect ml-2 d-flex justify-content-center" required>
+                          <input type="radio" id="radio-ahmedabad" name="customRadioCity" value="Ahmedabad" class="custom-control-input hidden-radio">
+                          <label class="custom-control-label" for="radio-ahmedabad">
+                            <img src="../static/logos/ahmedabad.png" alt="ahmedabad" class="insurance-logo transmission city ahmedabad">
+                            <p>Ahmedabad</p>
+                          </label>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="row">
+                      <div class="col">
+                        <div class="custom-control custom-radio iconSelect mr-2 d-flex justify-content-center" required>
+                          <input type="radio" id="radio-hyderabad" name="customRadioCity" value="Hyderabad" class="custom-control-input hidden-radio">
+                          <label class="custom-control-label" for="radio-hyderabad">
+                            <img src="../static/logos/hyderabad.png" alt="hyderabad" class="insurance-logo transmission city">
+                            <p>Hyderabad</p>
+                          </label>
+                        </div>
+                      </div>
+                      <div class="col">
+                        <div class="custom-control custom-radio iconSelect ml-2 d-flex justify-content-center" required>
+                          <input type="radio" id="radio-delhi" name="customRadioCity" value="Delhi" class="custom-control-input hidden-radio">
+                          <label class="custom-control-label" for="radio-delhi">
+                            <img src="../static/logos/delhi.png" alt="delhi" class="insurance-logo transmission city">
+                            <p>Delhi</p>
+                          </label>
+                        </div>
+                      </div>
+                      <div class="col">
+                        <div class="custom-control custom-radio iconSelect ml-2 d-flex justify-content-center" required>
+                          <input type="radio" id="radio-kolkata" name="customRadioCity" value="Kolkata" class="custom-control-input hidden-radio">
+                          <label class="custom-control-label" for="radio-kolkata">
+                            <img src="../static/logos/kolkata.png" alt="kolkata" class="insurance-logo transmission city">
+                            <p>Kolkata</p>
+                          </label>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="row">
+                      <div class="col">
+                        <div class="custom-control custom-radio iconSelect mr-2 d-flex justify-content-center" required>
+                          <input type="radio" id="radio-jaipur" name="customRadioCity" value="Jaipur" class="custom-control-input hidden-radio">
+                          <label class="custom-control-label" for="radio-jaipur">
+                            <img src="../static/logos/jaipur.png" alt="jaipur" class="insurance-logo transmission city">
+                            <p>Jaipur</p>
+                          </label>
+                        </div>
+                      </div>
+                      <div class="col">
+                        <div class="custom-control custom-radio iconSelect ml-2 d-flex justify-content-center" required>
+                          <input type="radio" id="radio-pune" name="customRadioCity" value="Pune" class="custom-control-input hidden-radio">
+                          <label class="custom-control-label" for="radio-pune">
+                            <img src="../static/logos/pune.png" alt="pune" class="insurance-logo transmission city">
+                            <p>Pune</p>
+                          </label>
+                        </div>
+                      </div>
+                      <div class="col">
+                        <div class="custom-control custom-radio iconSelect ml-2 d-flex justify-content-center" required>
+                          <input type="radio" id="radio-agra" name="customRadioCity" value="Agra" class="custom-control-input hidden-radio">
+                          <label class="custom-control-label" for="radio-agra">
+                            <img src="../static/logos/agra.png" alt="agra" class="insurance-logo transmission city">
+                            <p>Agra</p>
+                          </label>
+                        </div>
+                      </div>
+  
+                      <div class="text-center mt-5">
+                        <button type="submit" class="btn btn-dark"> Submit </button>
+                      </div>
+                    </div>
+                  </div>
+                  
+                </div>
+               
+              </div>
+  
+  
             </div>
-
           </div>
-        </div>
-      </form>
-    </div>
-  </main>
+        </form>
+      </div>
+    </main>
+  </section>
+  </div>
 
   
-  <h1>
-    {{ prediction_text }}
-  </h1>
 
 </body>
 </html>

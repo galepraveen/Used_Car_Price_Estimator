@@ -1,22 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Ysabeau:wght@400;700;1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Wix+Madefor+Display:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Wix+Madefor+Display:wght@500&display=swap');
+
 *{
     box-sizing: border-box;
 }
 
-main {
+.lottie{
+    display: grid;
+    justify-content: center;
+    background: #0b0b0b;
+    color: #fff;
+    text-align: center;
+    padding-top: 3rem;
+}
+
+.car-city{
+    font-weight: bold;
+}
+
+p.tagline{
+    font-family: 'Dancing Script', cursive;
+    font-size: 2rem;
+}
+
+.container-fluid{
+    display: flex;
+    justify-content: space-between;
+}
+
+h4.predicted-text{
+    position: absolute;
+    color: #fff;
+    left: 47%;
+    top: 85%;
+    font-family: 'Ysabeau', sans-serif;
+    font-size: 2rem;
+    transition: 1s;
+    font-weight: 700;
+    text-transform: capitalize;
+}
+
+.predicted-text-2{
+    font-family: 'Wix Madefor Display', sans-serif;
+    font-weight: bold;
+}
+
+section.bg {
     background-image: url('../images/bg-1.png');
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
+    padding-top: 3rem;
 }
 
-.carousel-control-prev-icon{
-    margin-right: 25px;
+main.main-component{
+    width: 35rem;
+    height: 35rem;
+    height: 90%;
+    margin-left: 3.5rem;
+    background-color: #66554e;
+    border-radius: 3rem;
+    color: white;
+    box-shadow: 7px 7px 4px rgba(0, 0, 0, 0.2);
 }
 
-.carousel-control-next-icon{
-    margin-left: 25px;
+#carouselExample{
+    border-radius: 1rem;
+    background: #251d1a;
+    
 }
-  
+
+button.btn-caro:hover{
+    background: #6a6361;
+    color: #fff;
+    transition: 0.5s;
+}
+
+button.carousel-control-prev, button.carousel-control-next{
+    width: 20px;
+}
+
+.carousel-control-prev{
+    font-size: 4rem;
+    background-color: black;
+}
 
 .w-35{
     width: 35%;
@@ -36,6 +104,32 @@ main {
 }
 
 .logo-1{
+    width: 4rem;
+    height: 3rem;
+}
+
+.logo-2{
+    width: 6rem;
+}
+
+.logo-3{
+    width: 7rem;
+    height: 5rem;
+}
+
+.logo-4{
+    height: 4rem;
+}
+
+.logo-5{
+    height: 3.5rem;
+}
+
+.ford{
+    width: 3.95rem;
+}
+
+.skoda{
     width: 4rem;
 }
 
@@ -68,7 +162,7 @@ div.row .col-md-12{
 }
 
 .bmw{
-    width: 3rem;
+    width: 6rem;
 }
 
 .others{
@@ -110,7 +204,7 @@ img.third-owner{
 }
 
 .city{
-    width: 4.5rem;
+    width: 4rem;
 }
 
 
