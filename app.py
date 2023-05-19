@@ -28,6 +28,7 @@ def predict_api():
     output = model.predict(test_data)
     output = float(output)
     output = round(output, 2)
+
     print(output)
 
     return jsonify(output)
